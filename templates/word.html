@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{sindarin}} — NS Dictionary</title>
+  <link rel="stylesheet" href="{{root}}css/style.css">
+  <link rel="stylesheet" href="{{root}}css/tengwar.css">
+  <link rel="stylesheet" href="{{root}}css/cirth.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="{{root}}index.html" class="site-title">NS Dictionary</a>
+    <nav class="site-nav">
+      <a href="{{root}}sindarin-english.html">Sindarin → English</a>
+      <a href="{{root}}english-sindarin.html">English → Sindarin</a>
+      <a href="{{root}}by-grammar.html">By Grammar</a>
+      <a href="{{root}}by-category.html">By Category</a>
+      <a href="{{root}}search.html">Search</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <article class="word-page">
+      <header class="word-header">
+        <h1 class="word-sindarin">{{sindarin}}{{#mutation_marker}} <span class="mutation-marker">[{{mutation_marker}}]</span>{{/mutation_marker}}</h1>
+        {{#has_inflection}}
+        <div class="word-inflection"><span class="inflection-label">{{inflection_label}}</span> {{inflection_form}}</div>
+        {{/has_inflection}}
+        <div class="word-ipa">{{ipa}}{{#tengwar}} <span class="tengwar">{{tengwar}}</span>{{/tengwar}}{{#cirth}} <span class="cirth">{{cirth}}</span>{{/cirth}}</div>
+        {{#has_alt_spellings}}
+        <div class="word-alt-spellings">
+          {{#alt_spellings}}<span class="spelling-variant"><span class="label">{{dialect_label}}</span> {{form}}</span>{{/alt_spellings}}
+        </div>
+        {{/has_alt_spellings}}
+        <div class="word-english">{{english_joined}}</div>
+        <div class="word-tags">
+          <span class="tag tag--{{type}}">{{type_label}}</span>
+          {{#source_label}}<span class="tag tag--source">{{source_label}}</span>{{/source_label}}
+          {{#status_label}}<span class="tag tag--{{status}}">{{status_label}}</span>{{/status_label}}
+          <span class="tag">{{grammar}}</span>
+          {{#category}}<span class="tag">{{category_label}}</span>{{/category}}
+        </div>
+      </header>
+
+      {{#noldorin_form}}
+      <section class="word-section">
+        <h2>Noldorin Form</h2>
+        <div class="noldorin-form">
+          Original Noldorin: <em class="noldorin-word">{{noldorin_form}}</em>
+        </div>
+      </section>
+      {{/noldorin_form}}
+
+      {{#has_etymology}}
+      <section class="word-section">
+        <h2>Etymology</h2>
+        {{#has_roots}}
+        <div class="etymology-roots">
+          {{#resolved_roots}}
+          <div class="etymology-chain">
+            Root: {{#eldamo_id}}<a href="https://eldamo.org/content/words/word-{{eldamo_id}}.html" class="etymology-root" target="_blank" rel="noopener">√{{form}}</a>{{/eldamo_id}}{{^eldamo_id}}<span class="etymology-root">√{{form}}</span>{{/eldamo_id}}
+            <span class="etymology-root-gloss">"{{gloss}}"</span>
+          </div>
+          {{/resolved_roots}}
+        </div>
+        {{/has_roots}}
+        {{#has_primitive}}
+        <div class="etymology-chain">Primitive Eldarin: {{#primitive_eldamo_id}}<a href="https://eldamo.org/content/words/word-{{primitive_eldamo_id}}.html" target="_blank" rel="noopener"><em>{{primitive_form}}</em></a>{{/primitive_eldamo_id}}{{^primitive_eldamo_id}}<em>{{primitive_form}}</em>{{/primitive_eldamo_id}}</div>
+        {{/has_primitive}}
+        {{#has_development}}
+        <div class="etymology-chain development-chain">{{{development_html}}}</div>
+        {{/has_development}}
+        {{#etymology.quettamorphosis_url}}
+        <div class="etymology-chain">
+          <a href="{{etymology.quettamorphosis_url}}" class="external-link" target="_blank" rel="noopener">View phonetic development in Quettamorphosis</a>
+        </div>
+        {{/etymology.quettamorphosis_url}}
+        {{#has_elements}}
+        <h3 style="margin: 0.75rem 0 0.5rem; font-size: 0.85rem; color: var(--ink-muted);">Elements</h3>
+        <ul class="etymology-elements">
+          {{#etymology.elements}}
+          <li>
+            <span class="element-form">{{form}}</span>
+            <span class="element-gloss">{{gloss}}</span>
+            <span class="element-type">{{type}}</span>
+          </li>
+          {{/etymology.elements}}
+        </ul>
+        {{/has_elements}}
+      </section>
+      {{/has_etymology}}
+
+      {{#has_cognates}}
+      <section class="word-section">
+        <h2>Cognates</h2>
+        <table class="cognate-table">
+          {{#cognates_list}}
+          <tr>
+            <td>{{language}}</td>
+            <td><em>{{form}}</em></td>
+          </tr>
+          {{/cognates_list}}
+        </table>
+      </section>
+      {{/has_cognates}}
+
+      {{#has_conjugation}}
+      <section class="word-section">
+        <h2>Conjugation</h2>
+        <div class="conjugation-info">
+          <span class="tag">{{conjugation.class}}</span>
+          {{#conjugation.irregular}}<span class="tag tag--experimental">irregular</span>{{/conjugation.irregular}}
+        </div>
+
+        {{#has_conjugation_tenses}}
+        <div class="conjugation-tenses">
+          {{#conjugation_tenses}}
+          <div class="conjugation-tense-block">
+            <h3 class="conjugation-tense-heading">{{tense_label}}</h3>
+            <table class="conjugation-table">
+              <thead>
+                <tr>
+                  <th>Person</th>
+                  <th>Form</th>
+                </tr>
+              </thead>
+              <tbody>
+                {{#persons}}
+                <tr>
+                  <td>{{person_label}}</td>
+                  <td><em>{{form}}</em></td>
+                </tr>
+                {{/persons}}
+              </tbody>
+            </table>
+          </div>
+          {{/conjugation_tenses}}
+        </div>
+        {{/has_conjugation_tenses}}
+
+        {{#has_conjugation_forms}}
+        <div class="conjugation-forms-block">
+          <h3 class="conjugation-tense-heading">Other Forms</h3>
+          <table class="conjugation-table">
+            <thead>
+              <tr>
+                <th>Form</th>
+                <th>Sindarin</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{#conjugation_forms}}
+              <tr>
+                <td>{{form_label}}</td>
+                <td><em>{{form}}</em></td>
+              </tr>
+              {{/conjugation_forms}}
+            </tbody>
+          </table>
+        </div>
+        {{/has_conjugation_forms}}
+      </section>
+      {{/has_conjugation}}
+
+      <section class="word-section">
+        <h2>References</h2>
+        {{#eldamo_id}}
+        <p><a href="https://eldamo.org/content/words/word-{{eldamo_id}}.html" class="external-link" target="_blank" rel="noopener">View on Eldamo</a></p>
+        {{/eldamo_id}}
+        {{#has_references}}
+        <p class="word-notes">Sources: {{references_joined}}</p>
+        {{/has_references}}
+      </section>
+
+      {{#notes}}
+      <section class="word-section">
+        <h2>Notes</h2>
+        <div class="word-notes">{{notes}}</div>
+      </section>
+      {{/notes}}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    NS Dictionary — A Neo-Sindarin Lexicon · Not affiliated with the Tolkien Estate
+  </footer>
+</body>
+</html>

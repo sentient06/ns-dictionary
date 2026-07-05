@@ -1,0 +1,34 @@
+[
+  {
+    "id": "atat",
+    "form": "AT(AT)",
+    "gloss": "father, back, again",
+    "language": "primitive_elvish",
+    "eldamo_id": "1527889195",
+    "notes": ""
+  },
+  {
+    "id": "galad",
+    "form": "GALAD",
+    "gloss": "tree",
+    "language": "primitive_elvish",
+    "eldamo_id": "",
+    "notes": "Cf. GALADH in later writings."
+  },
+  {
+    "id": "peres",
+    "form": "PERES",
+    "gloss": "affect, disturb, alter",
+    "language": "primitive_elvish",
+    "eldamo_id": "",
+    "notes": ""
+  },
+  {
+    "id": "ber",
+    "form": "BER",
+    "gloss": "valiant, brave",
+    "language": "primitive_elvish",
+    "eldamo_id": "",
+    "notes": ""
+  }
+]

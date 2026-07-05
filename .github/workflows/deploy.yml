@@ -1,0 +1,63 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'data/**'
+      - 'templates/**'
+      - 'static/**'
+      - 'build.mjs'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Restore build manifest
+        uses: actions/cache@v4
+        with:
+          path: .build-manifest.json
+          key: build-manifest-${{ hashFiles('data/words.json') }}
+          restore-keys: build-manifest-
+
+      - name: Restore previous docs output
+        uses: actions/cache@v4
+        with:
+          path: docs
+          key: docs-output-${{ github.sha }}
+          restore-keys: docs-output-
+
+      - name: Build site (incremental)
+        run: node build.mjs
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

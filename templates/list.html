@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{page_title}} — NS Dictionary</title>
+  <link rel="stylesheet" href="{{root}}css/style.css">
+  <link rel="stylesheet" href="{{root}}css/tengwar.css">
+  <link rel="stylesheet" href="{{root}}css/cirth.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="{{root}}index.html" class="site-title">NS Dictionary</a>
+    <nav class="site-nav">
+      <a href="{{root}}sindarin-english.html">Sindarin → English</a>
+      <a href="{{root}}english-sindarin.html">English → Sindarin</a>
+      <a href="{{root}}by-grammar.html">By Grammar</a>
+      <a href="{{root}}by-category.html">By Category</a>
+      <a href="{{root}}search.html">Search</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <h1 class="page-title">{{page_title}}</h1>
+    {{#page_subtitle}}<p class="page-subtitle">{{page_subtitle}}</p>{{/page_subtitle}}
+
+    {{#has_letter_nav}}
+    <nav class="letter-nav">
+      {{#letters}}
+      <a href="#letter-{{letter}}">{{letter}}</a>
+      {{/letters}}
+    </nav>
+    {{/has_letter_nav}}
+
+    {{#sections}}
+    <section class="letter-section" id="letter-{{section_id}}">
+      <h2 class="letter-heading">{{section_title}}</h2>
+      <ul class="word-list">
+        {{#words}}
+        <li>
+          <span>
+            <a href="{{root}}words/{{id}}.html" class="word-entry-sindarin">{{primary}}</a>
+            <span class="word-entry-grammar">{{grammar}}</span>
+          </span>
+          <span class="word-entry-english">{{secondary}}</span>
+        </li>
+        {{/words}}
+      </ul>
+    </section>
+    {{/sections}}
+  </main>
+
+  <footer class="site-footer">
+    NS Dictionary — A Neo-Sindarin Lexicon · Not affiliated with the Tolkien Estate
+  </footer>
+</body>
+</html>

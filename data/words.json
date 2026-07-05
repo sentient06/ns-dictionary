@@ -1,0 +1,3505 @@
+[
+  {
+    "uuid": "01D86370-492A-4D07-950E-538E3D50C7BD",
+    "id": "ni",
+    "mutation_marker": "",
+    "sindarin": "ni",
+    "spellings": {},
+    "ipa": "ni",
+    "tengwar": "",
+    "cirth": "ni",
+    "english": [
+      "I"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1556186409",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "ni",
+        "eldamo_id": "4061029919"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ni"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "60DBC4AD-47E2-44E1-A35A-C6A2770466DE",
+    "id": "n",
+    "mutation_marker": "",
+    "sindarin": "-n",
+    "spellings": {},
+    "ipa": "n",
+    "tengwar": "",
+    "cirth": "n",
+    "english": [
+      "I"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1090138655",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "ni",
+        "eldamo_id": "4061029919"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "-n(yë)"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "7537D39B-17DB-4966-A2D1-9D4156AA0D7F",
+    "id": "ci",
+    "mutation_marker": "",
+    "sindarin": "ci",
+    "spellings": {},
+    "ipa": "ki",
+    "tengwar": "",
+    "cirth": "ki",
+    "english": [
+      "thou",
+      "you (singular familiar)"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2298877587",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "ki",
+        "eldamo_id": "1398518783"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "tye"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "693FB9D9-6B1D-4172-BBC2-B4C3ECD98453",
+    "id": "g",
+    "mutation_marker": "",
+    "sindarin": "-g",
+    "spellings": {},
+    "ipa": "g",
+    "tengwar": "",
+    "cirth": "g",
+    "english": [
+      "thou",
+      "you (singular familiar)"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1090138655",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "ki",
+        "eldamo_id": "1398518783"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "-tyë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "C3624202-9326-4457-9C0C-3AEC68427956",
+    "id": "le",
+    "mutation_marker": "",
+    "sindarin": "le",
+    "spellings": {},
+    "ipa": "le",
+    "tengwar": "",
+    "cirth": "le",
+    "english": [
+      "thou",
+      "you (singular, polite)"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1581961535",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "le",
+        "eldamo_id": "2171502047"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lye"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "EE1077FB-B3A2-4905-94BC-FBB86E95DCA2",
+    "id": "l",
+    "mutation_marker": "",
+    "sindarin": "-l",
+    "spellings": {},
+    "ipa": "l",
+    "tengwar": "",
+    "cirth": "l",
+    "english": [
+      "thou",
+      "you (singular, polite)"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1581961535",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "le",
+        "eldamo_id": "2171502047"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "-l(yë)"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "3C635998-67C9-4886-9814-80275BF590E4",
+    "id": "te",
+    "mutation_marker": "",
+    "sindarin": "te",
+    "spellings": {},
+    "ipa": "te",
+    "tengwar": "",
+    "cirth": "te",
+    "english": [
+      "he",
+      "she",
+      "it"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3535403363",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from ten",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "6282F5BE-7505-465F-AEE5-2FAF7CF628BA",
+    "id": "pe",
+    "mutation_marker": "",
+    "sindarin": "pe",
+    "spellings": {},
+    "ipa": "pe",
+    "tengwar": "",
+    "cirth": "pe",
+    "english": [
+      "we (inclusive)"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1491673253",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "we",
+        "eldamo_id": "3344108077"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "E31C7DB2-BE6D-4FFC-A8FE-FB0ABA4FD3EB",
+    "id": "b",
+    "mutation_marker": "",
+    "sindarin": "-b",
+    "spellings": {},
+    "ipa": "b",
+    "tengwar": "",
+    "cirth": "b",
+    "english": [
+      "we (inclusive)"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3535403363",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "we",
+        "eldamo_id": "3344108077"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "35496230-E57E-4925-A248-6ED88C3C0A9D",
+    "id": "me",
+    "mutation_marker": "",
+    "sindarin": "me",
+    "spellings": {},
+    "ipa": "me",
+    "tengwar": "",
+    "cirth": "me",
+    "english": [
+      "we (exclusive)"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "558208521",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "me",
+        "eldamo_id": "3059005759"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "FFC672AA-AE0A-4CA9-9022-238471458BD9",
+    "id": "f",
+    "mutation_marker": "",
+    "sindarin": "-f",
+    "spellings": {},
+    "ipa": "f",
+    "tengwar": "",
+    "cirth": "f",
+    "english": [
+      "we (exclusive)"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3535403363",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "me",
+        "eldamo_id": "3059005759"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "07050DC2-E77A-487F-8209-CE44D2D90D3A",
+    "id": "gir",
+    "mutation_marker": "",
+    "sindarin": "-gir",
+    "spellings": {},
+    "ipa": "gir",
+    "tengwar": "",
+    "cirth": "gir",
+    "english": [
+      "you (plural, familiar)"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1090138655",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "9FEC4C5F-0C3A-45CC-A17E-36175B05E9F7",
+    "id": "dhir",
+    "mutation_marker": "",
+    "sindarin": "-dhir",
+    "spellings": {},
+    "ipa": "ðir",
+    "tengwar": "",
+    "cirth": "ðir",
+    "english": [
+      "you (plural, polite)"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1090138655",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "A499868B-E2AD-4DC8-9AE3-767C73F19E9C",
+    "id": "de",
+    "mutation_marker": "",
+    "sindarin": "de",
+    "spellings": {},
+    "ipa": "de",
+    "tengwar": "",
+    "cirth": "de",
+    "english": [
+      "you (plural)"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3071865501",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/26"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "81BFCA50-5345-48F8-9B9B-42F094BCFAB4",
+    "id": "ti",
+    "mutation_marker": "",
+    "sindarin": "ti",
+    "spellings": {},
+    "ipa": "ti",
+    "tengwar": "",
+    "cirth": "ti",
+    "english": [
+      "they"
+    ],
+    "grammar": [
+      "personal pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "206577057",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "63554FAC-BF44-4CD1-A4D5-2DB406707A2F",
+    "id": "r",
+    "mutation_marker": "",
+    "sindarin": "-r",
+    "spellings": {},
+    "ipa": "r",
+    "tengwar": "",
+    "cirth": "r",
+    "english": [
+      "they"
+    ],
+    "grammar": [
+      "personal pronoun",
+      "suffix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1090138655",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "D478D879-9639-4C19-9023-B6B9B35A3335",
+    "id": "se",
+    "mutation_marker": "",
+    "sindarin": "se",
+    "spellings": {},
+    "ipa": "se",
+    "tengwar": "",
+    "cirth": "se",
+    "english": [
+      "this"
+    ],
+    "grammar": [
+      "demonstrative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2425137055",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from sen",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "2668468A-7B21-487F-A0B8-497D3C951E02",
+    "id": "sen",
+    "mutation_marker": "",
+    "sindarin": "sen",
+    "spellings": {},
+    "ipa": "sen",
+    "tengwar": "",
+    "cirth": "sen",
+    "english": [
+      "this (object)"
+    ],
+    "grammar": [
+      "demonstrative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3239931345",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "sinā",
+        "eldamo_id": "2582152831"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/44"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "C14AD0E8-E930-4E23-A033-0C8F6FDB6976",
+    "id": "assen",
+    "mutation_marker": "",
+    "sindarin": "assen",
+    "spellings": {},
+    "ipa": "'an.hen",
+    "tengwar": "",
+    "cirth": "anhen",
+    "english": [
+      "to this (dative)"
+    ],
+    "grammar": [
+      "demonstrative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "telpefindele",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "01D800DF-BA79-4318-9D75-120BE3CF98C5",
+    "id": "sa",
+    "mutation_marker": "",
+    "sindarin": "sa",
+    "spellings": {},
+    "ipa": "sa",
+    "tengwar": "",
+    "cirth": "sa",
+    "english": [
+      "that"
+    ],
+    "grammar": [
+      "demonstrative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "sa",
+        "eldamo_id": "3974540197"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
+    "id": "san",
+    "mutation_marker": "",
+    "sindarin": "san",
+    "spellings": {},
+    "ipa": "san",
+    "tengwar": "",
+    "cirth": "san",
+    "english": [
+      "that (object)"
+    ],
+    "grammar": [
+      "demonstrative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "reconstructed",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3265662125",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "sa",
+        "eldamo_id": "3974540197"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "8D62AF29-5B32-42EF-ADC6-480839615531",
+    "id": "anhan",
+    "mutation_marker": "",
+    "sindarin": "anhan",
+    "spellings": {},
+    "ipa": "'an.han",
+    "tengwar": "",
+    "cirth": "anhan",
+    "english": [
+      "to that (dative)"
+    ],
+    "grammar": [
+      "demonstrative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "telpefindele",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "sa",
+        "eldamo_id": "3974540197"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "3809751E-1B6F-4BD4-B472-19A422669B4C",
+    "id": "si",
+    "mutation_marker": "",
+    "sindarin": "sí",
+    "spellings": {},
+    "ipa": "siː",
+    "tengwar": "",
+    "cirth": "si",
+    "english": [
+      "here"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3098131039",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "sī",
+        "eldamo_id": "1167708799"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sí"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "LotR/238",
+      "LotR/729",
+      "PE17/67",
+      "PE17/94",
+      "RGEO/63",
+      "RGEO/64",
+      "RGEO/64"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "745C0CF7-06A9-4674-B3D9-DCE4B84C172F",
+    "id": "ennas",
+    "mutation_marker": "",
+    "sindarin": "ennas",
+    "spellings": {},
+    "ipa": "enːas",
+    "tengwar": "",
+    "cirth": "ennas",
+    "english": [
+      "there"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "433074759",
+    "etymology": {
+      "root_refs": [
+        "en",
+        "ta"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "entas(se)"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "AotM/62",
+      "SD/129"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8A0CF779-DC91-45D3-B845-DB5D217AB0AB",
+    "id": "man",
+    "mutation_marker": "",
+    "sindarin": "man",
+    "spellings": {},
+    "ipa": "man",
+    "tengwar": "",
+    "cirth": "man",
+    "english": [
+      "who"
+    ],
+    "grammar": [
+      "interrogative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2818329207",
+    "etymology": {
+      "root_refs": [
+        "ma"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "TI/281"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2D84CE99-3846-471C-93E4-DE7A5CE37BEA",
+    "id": "man",
+    "mutation_marker": "",
+    "sindarin": "man",
+    "spellings": {},
+    "ipa": "man",
+    "tengwar": "",
+    "cirth": "man",
+    "english": [
+      "what"
+    ],
+    "grammar": [
+      "interrogative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2818329207",
+    "etymology": {
+      "root_refs": [
+        "ma"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "VT50/5"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
+    "id": "mivan",
+    "mutation_marker": "",
+    "sindarin": "mivan",
+    "spellings": {},
+    "ipa": "'mi.van",
+    "tengwar": "",
+    "cirth": "mivan",
+    "english": [
+      "where, (lit.) in/at what"
+    ],
+    "grammar": [
+      "interrogative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "FJNS",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2082970245",
+    "etymology": {
+      "root_refs": [
+        "mi/imi",
+        "ma"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "ma",
+          "gloss": "in",
+          "type": "preposition"
+        },
+        {
+          "form": "man",
+          "gloss": "what, who",
+          "type": "pronoun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "FJNS/220-221"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8041CFEE-7496-4CED-804F-B58DFF7712C8",
+    "id": "navan",
+    "mutation_marker": "",
+    "sindarin": "navan",
+    "spellings": {},
+    "ipa": "'na.van",
+    "tengwar": "",
+    "cirth": "navan",
+    "english": [
+      "where, (lit.) whither, where to"
+    ],
+    "grammar": [
+      "interrogative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "FJNS",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3696525989",
+    "etymology": {
+      "root_refs": [
+        "na/ana",
+        "ma"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "na",
+          "gloss": "to, towards",
+          "type": "preposition"
+        },
+        {
+          "form": "man",
+          "gloss": "what, who",
+          "type": "pronoun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "FJNS/220-221"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "67A2972D-B2DB-40B5-BE0A-E09C9F13757F",
+    "id": "mallu",
+    "mutation_marker": "",
+    "sindarin": "mallú",
+    "spellings": {},
+    "ipa": "ma.'lu:",
+    "tengwar": "",
+    "cirth": "mallU",
+    "english": [
+      "when, (lit.) what time"
+    ],
+    "grammar": [
+      "interrogative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "FJNS",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3190585991",
+    "etymology": {
+      "root_refs": [
+        "ma",
+        "lu"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "man",
+          "gloss": "what, who",
+          "type": "pronoun"
+        },
+        {
+          "form": "lû",
+          "gloss": "time, occasion",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "FJNS/220-221"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "FF4E16F2-8573-4AB3-8DDF-B784C356C08C",
+    "id": "movan",
+    "mutation_marker": "",
+    "sindarin": "movan",
+    "spellings": {},
+    "ipa": "'mo.van",
+    "tengwar": "",
+    "cirth": "movan",
+    "english": [
+      "how, (lit.) by agency of what"
+    ],
+    "grammar": [
+      "interrogative pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "FJNS",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "437993289",
+    "etymology": {
+      "root_refs": [
+        "maha",
+        "man"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "mo",
+          "gloss": "by agent of",
+          "type": "preposition"
+        },
+        {
+          "form": "man",
+          "gloss": "what, who",
+          "type": "pronoun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "FJNS/220-221"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "C6BF1AF7-206F-486A-89EB-D84E6F5CA21B",
+    "id": "u",
+    "mutation_marker": "",
+    "sindarin": "û",
+    "spellings": {},
+    "ipa": "u:",
+    "tengwar": "",
+    "cirth": "U",
+    "english": [
+      "not"
+    ],
+    "grammar": [
+      "adverb",
+      "interjection"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2536897167",
+    "etymology": {
+      "root_refs": [
+        "ū"
+      ],
+      "primitive": {
+        "form": "ū",
+        "eldamo_id": "1706867829"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ú"
+    },
+    "conjugation": null,
+    "notes": "Reconstructed from prefix ú-",
+    "references": [
+      "PE17/144"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "925EF065-00A6-483D-9600-DECC52753874",
+    "id": "pan",
+    "mutation_marker": "",
+    "sindarin": "pân",
+    "spellings": {},
+    "ipa": "pa:n",
+    "tengwar": "",
+    "cirth": "pAn",
+    "english": [
+      "all, (lit.) whole"
+    ],
+    "grammar": [
+      "adjective",
+      "noun"
+    ],
+    "inflection": {
+      "base": "pân",
+      "singular": "",
+      "plural": "pain"
+    },
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1690934137",
+    "etymology": {
+      "root_refs": [
+        "kwa"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from phain",
+    "references": [
+      "AotM/62",
+      "SD/129"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "41EA758E-CCF4-4B07-A716-37780412930E",
+    "id": "il",
+    "mutation_marker": "",
+    "sindarin": "il",
+    "spellings": {},
+    "ipa": "il",
+    "tengwar": "",
+    "cirth": "il",
+    "english": [
+      "all, (lit.) each, every"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3414825689",
+    "etymology": {
+      "root_refs": [
+        "il"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "il-"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "VT44/28",
+      "VT50/22"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1DC01044-F8EC-4263-8425-48338A982214",
+    "id": "laew",
+    "mutation_marker": "",
+    "sindarin": "laew",
+    "spellings": {},
+    "ipa": "la.ew",
+    "tengwar": "",
+    "cirth": "laew",
+    "english": [
+      "many, (lit.) frequent"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "lhaew",
+    "eldamo_id": "654681845",
+    "etymology": {
+      "root_refs": [
+        "li"
+      ],
+      "primitive": {
+        "form": "lai-",
+        "eldamo_id": "2752064917"
+      },
+      "development": [
+        {
+          "form": "laiwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "laiwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "laigwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "laiɣwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "laiɣw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4164672875"
+        },
+        {
+          "form": "laiw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "laew",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "lai",
+          "gloss": "many",
+          "type": "prefix"
+        },
+        {
+          "form": "-wā",
+          "gloss": "",
+          "type": "adjectival suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lai.wa%3A&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "EtyAC/LI"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
+    "id": "nodui",
+    "mutation_marker": "",
+    "sindarin": "nodui",
+    "spellings": {},
+    "ipa": "no.dui",
+    "tengwar": "",
+    "cirth": "nodui",
+    "english": [
+      "few, (lit.) countable"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "elaran",
+    "status": "accepted",
+    "noldorin_form": "",
+    "eldamo_id": "880959447",
+    "etymology": {
+      "root_refs": [
+        "not"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "nod",
+          "gloss": "to count",
+          "type": "verb"
+        },
+        {
+          "form": "-ui",
+          "gloss": "",
+          "type": "adjective suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "9E5470C8-CB1E-424D-B91F-0D3843989B98",
+    "id": "egel",
+    "mutation_marker": "",
+    "sindarin": "egel",
+    "spellings": {},
+    "ipa": "'e.gel",
+    "tengwar": "",
+    "cirth": "egel",
+    "english": [
+      "other"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "egel",
+      "singular": "",
+      "plural": "egil"
+    },
+    "gender": "",
+    "category": "comparison",
+    "ids_chapter": "comparison",
+    "type": "neologism",
+    "source": "elaran",
+    "status": "accepted",
+    "noldorin_form": "",
+    "eldamo_id": "375824727",
+    "etymology": {
+      "root_refs": [
+        "hek"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from Gnomish eleg",
+    "references": [],
+    "hidden": "Unknown suffix -ele"
+  },
+  {
+    "uuid": "5EBBC20C-90EF-4B11-9401-F519190CFF0A",
+    "id": "min",
+    "mutation_marker": "",
+    "sindarin": "min",
+    "spellings": {},
+    "ipa": "min",
+    "tengwar": "",
+    "cirth": "min",
+    "english": [
+      "one"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2871412533",
+    "etymology": {
+      "root_refs": [
+        "mini"
+      ],
+      "primitive": {
+        "form": "mine",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "mini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "mine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "min",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "mîn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mini&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "min"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/95",
+      "VT42/25",
+      "VT48/6"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "7CA9EFD0-241C-45FC-9D7E-CED0882B61E5",
+    "id": "tad",
+    "mutation_marker": "",
+    "sindarin": "tâd",
+    "spellings": {},
+    "ipa": "ta:d",
+    "tengwar": "",
+    "cirth": "tAd",
+    "english": [
+      "two"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4250276895",
+    "etymology": {
+      "root_refs": [
+        "atata"
+      ],
+      "primitive": {
+        "form": "(a)tata",
+        "eldamo_id": "693911497"
+      },
+      "development": [
+        {
+          "form": "tata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "tat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "tad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "tâd",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tata&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "atta"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/14, 95",
+      "VT42/25-27",
+      "VT48/6"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "7D43645C-2A59-49B9-8968-7FBBC244836E",
+    "id": "neledh",
+    "mutation_marker": "",
+    "sindarin": "neledh",
+    "spellings": {},
+    "ipa": "'ne.leð",
+    "tengwar": "",
+    "cirth": "neleð",
+    "english": [
+      "three"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1945123269",
+    "etymology": {
+      "root_refs": [
+        "neled"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "neledē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "nelede",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "neleðe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "neleð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "neledh",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nelede%3A&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "neldë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/95",
+      "VT42/25",
+      "VT48/6"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3A44F0A0-82B2-400D-85CA-68257CDE4D11",
+    "id": "canad",
+    "mutation_marker": "",
+    "sindarin": "canad",
+    "spellings": {},
+    "ipa": "'ka.nad",
+    "tengwar": "",
+    "cirth": "kanad",
+    "english": [
+      "four"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "679787045",
+    "etymology": {
+      "root_refs": [
+        "kanat"
+      ],
+      "primitive": {
+        "form": "kanatā",
+        "eldamo_id": "4168200339"
+      },
+      "development": [
+        {
+          "form": "kanatā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kanata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kanat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "kanad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "canad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kanata%3A&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "canta"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/95",
+      "VT42/24-25",
+      "VT47/41",
+      "VT48/6"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1D7F8DD5-8956-4969-B5C5-2086291E6FB9",
+    "id": "leben",
+    "mutation_marker": "",
+    "sindarin": "leben",
+    "spellings": {},
+    "ipa": "'le.ben",
+    "tengwar": "",
+    "cirth": "leben",
+    "english": [
+      "five"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1290699021",
+    "etymology": {
+      "root_refs": [
+        "lepen"
+      ],
+      "primitive": {
+        "form": "lepene",
+        "eldamo_id": "1435145617"
+      },
+      "development": [
+        {
+          "form": "lepene",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lepen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "leben",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lepene&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "lempë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/95",
+      "VT42/24-25",
+      "VT47/10, 24",
+      "VT48/6"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "6DC5DC9E-7CD0-40B2-A17C-6E6C4566975D",
+    "id": "daer",
+    "mutation_marker": "",
+    "sindarin": "daer",
+    "spellings": {},
+    "ipa": "'da.er",
+    "tengwar": "",
+    "cirth": "daer",
+    "english": [
+      "great, large"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1321351921",
+    "etymology": {
+      "root_refs": [
+        "day"
+      ],
+      "primitive": {
+        "form": "daira",
+        "eldamo_id": "99509937"
+      },
+      "development": [
+        {
+          "form": "daira",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "dair",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "daer",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=daira&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "UT/264",
+      "VT42/11, 14",
+      "WJ/191, 335, 338"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5F73B930-BEBF-4A52-960C-E943CA9CCC33",
+    "id": "borg",
+    "mutation_marker": "",
+    "sindarin": "borg",
+    "spellings": {},
+    "ipa": "borg",
+    "tengwar": "",
+    "cirth": "borg",
+    "english": [
+      "large, big"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "borg",
+      "singular": "",
+      "plural": "byrg"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2003470011",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE23/26"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "93E41EA9-169C-4B99-AD3B-039815AB2078",
+    "id": "and",
+    "mutation_marker": "",
+    "sindarin": "and",
+    "spellings": {},
+    "ipa": "and",
+    "tengwar": "",
+    "cirth": "and",
+    "english": [
+      "long"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "and",
+      "singular": "",
+      "plural": "end"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3929533291",
+    "etymology": {
+      "root_refs": [
+        "anad"
+      ],
+      "primitive": {
+        "form": "andā",
+        "eldamo_id": "329215553"
+      },
+      "development": [
+        {
+          "form": "andā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "anda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "and",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=anda%3A&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "anda"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/12",
+      "PE17/40",
+      "PE17/121",
+      "PE17/147",
+      "RC/765"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "EF6863CD-A31D-4868-A566-BFA92FC05B65",
+    "id": "land",
+    "mutation_marker": "",
+    "sindarin": "land",
+    "spellings": {},
+    "ipa": "land",
+    "tengwar": "",
+    "cirth": "land",
+    "english": [
+      "wide, broad"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "land",
+      "singular": "",
+      "plural": "lend"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3437593551",
+    "etymology": {
+      "root_refs": [
+        "lad"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "landa"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/144",
+      "S/123"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "320987F0-A27F-4849-AB68-A12201E6B520",
+    "id": "tyg",
+    "mutation_marker": "",
+    "sindarin": "tŷg",
+    "spellings": {},
+    "ipa": "ti:g",
+    "tengwar": "",
+    "cirth": "tyyg",
+    "english": [
+      "thick"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "questioned",
+    "noldorin_form": "tûg",
+    "eldamo_id": "2593077055",
+    "etymology": {
+      "root_refs": [
+        "tiw"
+      ],
+      "primitive": {
+        "form": "tiukā",
+        "eldamo_id": "2897115143"
+      },
+      "development": [
+        {
+          "form": "tiwkā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "113345945"
+        },
+        {
+          "form": "tiukā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "tiuka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "659168127"
+        },
+        {
+          "form": "tȳka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "tȳk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "tȳg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tiw.ka%3A&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-QCWW61"
+    },
+    "cognates": {
+      "quenya": "tiuka"
+    },
+    "conjugation": null,
+    "notes": "Revised from Noldorin \"tûg\". Homonym to \"tŷg\" (thigh).",
+    "references": [
+      "Ety/TIW"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
+    "id": "delch",
+    "mutation_marker": "nd-",
+    "sindarin": "delch",
+    "spellings": {},
+    "ipa": "delx",
+    "tengwar": "",
+    "cirth": "delC",
+    "english": [
+      "dense"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "delch",
+      "singular": "",
+      "plural": "dilch"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1430286337",
+    "etymology": {
+      "root_refs": [
+        "ndel"
+      ],
+      "primitive": {
+        "form": "ndelkā",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "ndelkā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ndelka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "ndelkʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ndelxa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "delxa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "delx",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ndel.ka%3A&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-QCWW61"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Word rejected by Tolkien, but no replacement was defined.",
+    "references": [
+      "PE17/17"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "0E0A6421-92CB-49FA-9716-941CD26D7E15",
+    "id": "lung",
+    "mutation_marker": "",
+    "sindarin": "lung",
+    "spellings": {},
+    "ipa": "luŋ",
+    "tengwar": "",
+    "cirth": "luN",
+    "english": [
+      "heavy"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "lung",
+      "singular": "",
+      "plural": "lyng"
+    },
+    "gender": "",
+    "category": "weight",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "446568693",
+    "etymology": {
+      "root_refs": [
+        "lug"
+      ],
+      "primitive": {
+        "form": "lungu",
+        "eldamo_id": "493654153"
+      },
+      "development": [
+        {
+          "form": "lungu",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "lung",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lungu&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-QCWW61"
+    },
+    "cognates": {
+      "quenya": "lungo"
+    },
+    "conjugation": null,
+    "notes": "Reconstructed from \"Mablung\"",
+    "references": [
+      "S/185"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "AA9B3FD4-BE30-4862-9DBD-3C99ED86DAE0",
+    "id": "grond",
+    "mutation_marker": "",
+    "sindarin": "grond",
+    "spellings": {},
+    "ipa": "grond",
+    "tengwar": "",
+    "cirth": "grond",
+    "english": [
+      "weighty, ponderous"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "grond",
+      "singular": "",
+      "plural": "grynd"
+    },
+    "gender": "",
+    "category": "weight",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1735688587",
+    "etymology": {
+      "root_refs": [
+        "gron"
+      ],
+      "primitive": {
+        "form": "gronda",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "gronda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "grond",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gronda&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-QCWW61"
+    },
+    "cognates": {
+      "quenya": "ronda"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/99",
+      "PE17/183"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "270561D8-D3E9-43CC-AC90-F7A2227921AC",
+    "id": "pin",
+    "mutation_marker": "",
+    "sindarin": "pîn",
+    "spellings": {},
+    "ipa": "pi:n",
+    "tengwar": "",
+    "cirth": "piin",
+    "english": [
+      "small"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2614444921",
+    "etymology": {
+      "root_refs": [
+        "pi(n)"
+      ],
+      "primitive": {
+        "form": "pin",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "pin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "pīn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pin&off=T2LWVF%2C1DM4ETE%2C1X9M9DD#rule-QCWW61"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "RC/536"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5D4B572A-3D64-4268-88A8-2CE0B64FA4AB",
+    "id": "tithen",
+    "mutation_marker": "",
+    "sindarin": "tithen",
+    "spellings": {},
+    "ipa": "'ti.θen",
+    "tengwar": "",
+    "cirth": "tiþen",
+    "english": [
+      "little, tiny"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "tithen",
+      "singular": "",
+      "plural": "tithin"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1404884581",
+    "etymology": {
+      "root_refs": [
+        "tit"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tittina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "tittʰina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "tiθθina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "tiθθena",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "tiθθen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "tiθen",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "TIT",
+          "gloss": "little, tiny",
+          "type": "root"
+        },
+        {
+          "form": "-ina",
+          "gloss": "",
+          "type": "adjective suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tittina&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-YKI8YX"
+    },
+    "cognates": {
+      "quenya": "titta"
+    },
+    "conjugation": null,
+    "notes": "Reconstructed from \"Caradras dilthen\"",
+    "references": [
+      "Ety/TIT",
+      "PE22/31",
+      "PE23/52",
+      "RS/462"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "7F0201CC-557C-4368-A9B4-564A2B6A8AD9",
+    "id": "thent",
+    "mutation_marker": "",
+    "sindarin": "thent",
+    "spellings": {},
+    "ipa": "θent",
+    "tengwar": "",
+    "cirth": "þent",
+    "english": [
+      "short"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "thent",
+      "singular": "",
+      "plural": "thint"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2890290251",
+    "etymology": {
+      "root_refs": [
+        "sten"
+      ],
+      "primitive": {
+        "form": "stentā",
+        "eldamo_id": "1743251743"
+      },
+      "development": [
+        {
+          "form": "stentā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "stenta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sθenta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "sθentʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "sθenθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "θenθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "θenθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "θent",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=stenta%3A&off=PE%2CT2LWVF%2CYKI8YX%2C1DM4ETE%2C1X9M9DD#rule-YKI8YX"
+    },
+    "cognates": {
+      "quenya": "senta"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/141, 185",
+      "WJ/311"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "52B31A19-8A3D-4DE1-BACA-E3605ECD0708",
+    "id": "agor",
+    "mutation_marker": "",
+    "sindarin": "agor",
+    "spellings": {},
+    "ipa": "agor",
+    "tengwar": "",
+    "cirth": "agor",
+    "english": [
+      "narrow"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "agor",
+      "singular": "",
+      "plural": "egyr"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4195079187",
+    "etymology": {
+      "root_refs": [
+        "ak"
+      ],
+      "primitive": {
+        "form": "akrā",
+        "eldamo_id": "153225527"
+      },
+      "development": [
+        {
+          "form": "akrā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "akra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "akr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "agr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "agor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=akra%3A&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-YKI8YX"
+    },
+    "cognates": {
+      "quenya": "arka"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/AK"
+    ],
+    "hidden": "Unknown suffix -rā"
+  },
+  {
+    "uuid": "05576E49-F09D-4B04-9EDA-3E8F259749C9",
+    "id": "fim",
+    "mutation_marker": "",
+    "sindarin": "fim",
+    "spellings": {},
+    "ipa": "fim",
+    "tengwar": "",
+    "cirth": "fim",
+    "english": [
+      "slim, slender, thin"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "fim",
+      "singular": "",
+      "plural": "fim"
+    },
+    "gender": "",
+    "category": "size",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2755830751",
+    "etymology": {
+      "root_refs": [
+        "phim"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pʰimbi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ɸimbi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "fimbi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "fimb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "fimm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "fim",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5im.bi&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-W9STRH"
+    },
+    "cognates": {
+      "quenya": "fimbë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/23, 82"
+    ],
+    "hidden": "Unknown suffix -bi"
+  },
+  {
+    "uuid": "A1065E48-A83C-4161-9CB9-9FC7373F2352",
+    "id": "di",
+    "mutation_marker": "nd-",
+    "sindarin": "dî",
+    "spellings": {},
+    "ipa": "di:",
+    "tengwar": "",
+    "cirth": "dii",
+    "english": [
+      "woman (of any kindred)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3681659819",
+    "etymology": {
+      "root_refs": [
+        "nī"
+      ],
+      "primitive": {
+        "form": "nī",
+        "eldamo_id": "2900132155"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nis"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/BES, DER, NĪ",
+      "EtyAC/NDIS, NĪ, NIS"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "D3EBC6E8-0377-414C-A39E-6B57E9A2871F",
+    "id": "adaneth",
+    "mutation_marker": "",
+    "sindarin": "adaneth",
+    "spellings": {},
+    "ipa": "'a.da.neθ",
+    "tengwar": "",
+    "cirth": "adaneþ",
+    "english": [
+      "woman (mortal)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "adaneth",
+      "singular": "",
+      "plural": "edenith"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2438171517",
+    "etymology": {
+      "root_refs": [
+        "atata"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "adan",
+          "gloss": "man (lit.) the second",
+          "type": "noun"
+        },
+        {
+          "form": "-eth",
+          "gloss": "",
+          "type": "feminine ending"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "MR/323, 349, 470"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "DE49F7C1-23A0-4E1A-BB30-AF80421D06EF",
+    "id": "gwend",
+    "mutation_marker": "",
+    "sindarin": "gwend",
+    "spellings": {},
+    "ipa": "gwind",
+    "tengwar": "",
+    "cirth": "Qend",
+    "english": [
+      "maiden, young woman"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gwend",
+      "singular": "",
+      "plural": "gwind"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3168690083",
+    "etymology": {
+      "root_refs": [
+        "wen(ed)"
+      ],
+      "primitive": {
+        "form": "wendē",
+        "eldamo_id": "2141848907"
+      },
+      "development": [
+        {
+          "form": "wende",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwende",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gwend",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wende&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-1DM4ETE"
+    },
+    "cognates": {
+      "quenya": "vendë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/191",
+      "PE23/136, 139"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "4733D9F4-D8B5-46E3-87B5-6126AF5C5028",
+    "id": "dir",
+    "mutation_marker": "nd-",
+    "sindarin": "dîr",
+    "spellings": {},
+    "ipa": "di:r",
+    "tengwar": "",
+    "cirth": "diir",
+    "english": [
+      "man (of any kindred)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2168038773",
+    "etymology": {
+      "root_refs": [
+        "n(d)er"
+      ],
+      "primitive": {
+        "form": "ndē̆r",
+        "eldamo_id": "4190025463"
+      },
+      "development": [
+        {
+          "form": "ndēr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "dēr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "dīr",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nde%3Ar&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-1DM4ETE"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/60"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "70C983BB-F7DB-4CF9-8512-5322EF476512",
+    "id": "benn",
+    "mutation_marker": "",
+    "sindarin": "benn",
+    "spellings": {},
+    "ipa": "ben:",
+    "tengwar": "",
+    "cirth": "benn",
+    "english": [
+      "man, as a husband, partner, spouse"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "benn",
+      "singular": "",
+      "plural": "binn"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1923199161",
+    "etymology": {
+      "root_refs": [
+        "bes"
+      ],
+      "primitive": {
+        "form": "besnō",
+        "eldamo_id": "3382241625"
+      },
+      "development": [
+        {
+          "form": "besnō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "besno",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1716741635"
+        },
+        {
+          "form": "benno",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "benn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "BES",
+          "gloss": "wed",
+          "type": "root"
+        },
+        {
+          "form": "-nō",
+          "gloss": "agent",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=besno%3A&off=PE%2CT2LWVF%2C1DM4ETE%2C1X9M9DD#rule-1DM4ETE"
+    },
+    "cognates": {
+      "quenya": "venno"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/BES, DER",
+      "EtyAC/DER"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "846F0C3E-1797-4827-A659-3EBB0023B119",
+    "id": "adan",
+    "mutation_marker": "",
+    "sindarin": "Adan",
+    "spellings": {},
+    "ipa": "'a.dan",
+    "tengwar": "",
+    "cirth": "adan",
+    "english": [
+      "man (human being)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "Adan",
+      "singular": "",
+      "plural": "Edain"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "753238821",
+    "etymology": {
+      "root_refs": [
+        "atata"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "Atan"
+    },
+    "conjugation": null,
+    "notes": "From √ATATA, \"two\", \"the second\"",
+    "references": [
+      "Let/282",
+      "LotR/1034, 1061, 1128",
+      "LotRI/Atani, Edain",
+      "LRI/Atani, Edain",
+      "LT1I/Edain",
+      "LT2I/Edain",
+      "MR/7, 373",
+      "MRI/Edain",
+      "PE17/18, 89, 117, 127",
+      "PM/324",
+      "PMI/Edain",
+      "RGEO/66",
+      "SA/adan",
+      "SI/Atani, Edain",
+      "SMI/Edain",
+      "UT/385",
+      "UTI/Atani, Drúedain, Edain",
+      "VT50/14, 18",
+      "WJ/219, 387",
+      "WJI/Adan, Atani, Edain",
+      "WRI/Edain"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2A16D2D0-99E9-4BC4-86F3-1DD0E1515BA1",
+    "id": "hen",
+    "mutation_marker": "",
+    "sindarin": "hên",
+    "spellings": {},
+    "ipa": "he:n",
+    "tengwar": "",
+    "cirth": "hEn",
+    "english": [
+      "child (young human or offspring)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hên",
+      "singular": "",
+      "plural": "hîn"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1512724021",
+    "etymology": {
+      "root_refs": [
+        "khin"
+      ],
+      "primitive": {
+        "form": "khīnā",
+        "eldamo_id": "2094119903"
+      },
+      "development": [
+        {
+          "form": "khinā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "khina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "khena",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "khen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "hēn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=khina%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "hína"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "LR/322",
+      "MR/373",
+      "S/198",
+      "SA/híni",
+      "UT/57, 140",
+      "VT50/12, 18",
+      "WJ/160, 403"
+    ],
+    "hidden": ""
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "ns-dictionary",
+  "version": "0.1.0",
+  "description": "A Neo-Sindarin dictionary — static site generator",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:full": "node build.mjs --full",
+    "serve": "npx serve docs -l 3000",
+    "clean": "rm -rf docs .build-manifest.json"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}

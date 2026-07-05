@@ -1,0 +1,545 @@
+/* === NS-Dictionary — Parchment Theme === */
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Fira+Sans:wght@400;500;600&display=swap');
+
+:root {
+  --parchment-bg: #f5f0e1;
+  --parchment-light: #faf7f0;
+  --parchment-dark: #e8dfc9;
+  --ink: #2c2416;
+  --ink-light: #5c4a33;
+  --ink-muted: #8a7a64;
+  --accent: #7b4a2e;
+  --accent-light: #a86e4a;
+  --link: #5b3a1e;
+  --link-hover: #8b5a2e;
+  --border: #d4c9b0;
+  --tag-bg: #ebe3d0;
+  --tag-text: #6b5b45;
+  --success: #4a7a4a;
+  --font-serif: 'Crimson Pro', 'Georgia', serif;
+  --font-sans: 'Fira Sans', 'Segoe UI', sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 18px; }
+
+body {
+  font-family: var(--font-serif);
+  background: var(--parchment-bg);
+  color: var(--ink);
+  line-height: 1.65;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* --- Layout --- */
+.site-header {
+  background: var(--parchment-dark);
+  border-bottom: 2px solid var(--border);
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.site-title:hover { color: var(--accent-light); }
+
+.site-nav { display: flex; gap: 1.5rem; }
+
+.site-nav a {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--ink-light);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.site-nav a:hover { color: var(--accent); }
+
+.main-content {
+  max-width: 52rem;
+  margin: 2rem auto;
+  padding: 0 2rem;
+  flex: 1;
+  width: 100%;
+}
+
+.site-footer {
+  background: var(--parchment-dark);
+  border-top: 2px solid var(--border);
+  padding: 1rem 2rem;
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+}
+
+/* --- Word Page --- */
+.word-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.word-sindarin {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 0.25rem;
+}
+
+.mutation-marker {
+  font-size: 0.55em;
+  font-weight: 400;
+  color: var(--ink-muted);
+}
+
+.word-ipa {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  color: var(--ink-muted);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+}
+
+.word-ipa .tengwar,
+.word-ipa .cirth {
+  font-size: 1.3rem;
+  color: var(--ink-light);
+}
+
+.word-english {
+  font-size: 1.3rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.word-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+
+.tag {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 3px;
+  background: var(--tag-bg);
+  color: var(--tag-text);
+}
+
+.tag--attested { background: #d4e8d4; color: #2a5a2a; }
+.tag--reconstructed { background: #d4dae8; color: #2a3a5a; }
+.tag--neologism { background: #e8d4d4; color: #5a2a2a; }
+.tag--source { background: #e0dce8; color: #3a2a5a; }
+.tag--accepted { background: #d4e8d4; color: #2a5a2a; }
+.tag--experimental { background: #f0e0c0; color: #6a4a1a; }
+
+/* --- Alternative Spellings --- */
+.word-alt-spellings {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.2rem;
+}
+
+.word-alt-spellings .spelling-variant {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.3rem;
+}
+
+.word-alt-spellings .label {
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+}
+
+/* --- Noldorin Form --- */
+.noldorin-form {
+  font-size: 1rem;
+  color: var(--ink-light);
+}
+
+.noldorin-word {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* --- Etymology Roots --- */
+.etymology-roots { margin-bottom: 0.5rem; }
+
+.etymology-root-gloss {
+  font-style: italic;
+  color: var(--ink-muted);
+  margin-left: 0.25rem;
+}
+
+.root-link {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  margin-left: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* --- Inflection Label --- */
+.word-inflection {
+  font-size: 1.1rem;
+  color: var(--ink-light);
+  margin-bottom: 0.25rem;
+}
+
+.inflection-label {
+  font-family: var(--font-sans);
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+  margin-right: 0.3rem;
+}
+
+/* --- Development Chain --- */
+.development-chain {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.dev-form {
+  color: var(--ink-light);
+}
+
+.dev-form-link {
+  color: var(--ink-light);
+  text-decoration: underline;
+  text-decoration-color: var(--border);
+}
+
+.dev-form-link:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+.dev-rule {
+  color: var(--ink-muted);
+  margin: 0 0.15rem;
+}
+
+.dev-rule-link {
+  color: var(--accent-light);
+  text-decoration: none;
+  font-weight: 600;
+  margin: 0 0.15rem;
+}
+
+.dev-rule-link:hover {
+  color: var(--accent);
+}
+
+/* --- Conjugation Table --- */
+.conjugation-info {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.conjugation-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.conjugation-table th {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+  text-align: left;
+  padding: 0.4rem 0.75rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.conjugation-table td {
+  padding: 0.35rem 0.75rem;
+  border-bottom: 1px dotted var(--border);
+}
+
+.conjugation-table td:first-child {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--ink-muted);
+  width: 8rem;
+}
+
+.conjugation-tenses {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.conjugation-tense-block,
+.conjugation-forms-block {
+  min-width: 0;
+}
+
+.conjugation-tense-heading {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.conjugation-forms-block {
+  margin-top: 1rem;
+}
+
+/* --- Links --- */
+a { color: var(--link); text-decoration-color: var(--border); }
+a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
+
+.external-link::after {
+  content: ' ↗';
+  font-size: 0.75em;
+  vertical-align: super;
+}
+
+/* --- Word Notes --- */
+.word-notes {
+  background: var(--parchment-light);
+  border-left: 3px solid var(--border);
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  color: var(--ink-light);
+}
+
+/* --- List Pages --- */
+.list-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--parchment-light);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.list-controls .control-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.list-controls label {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+}
+
+.list-controls select, .list-controls input {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: var(--parchment-bg);
+  color: var(--ink);
+}
+
+.letter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.letter-nav a {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 3px;
+  text-decoration: none;
+  color: var(--ink-light);
+  background: var(--parchment-light);
+  border: 1px solid var(--border);
+}
+
+.letter-nav a:hover, .letter-nav a.active {
+  background: var(--accent);
+  color: var(--parchment-light);
+  border-color: var(--accent);
+}
+
+.letter-section { margin-bottom: 2rem; }
+
+.letter-heading {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.word-list {
+  list-style: none;
+  padding: 0;
+}
+
+.word-list li {
+  padding: 0.4rem 0;
+  border-bottom: 1px dotted var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.word-list .word-entry-sindarin {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.word-list .word-entry-english {
+  font-style: italic;
+  color: var(--ink-light);
+  text-align: right;
+}
+
+.word-list .word-entry-grammar {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+}
+
+/* --- Page Title --- */
+.page-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 1.5rem;
+}
+
+.page-subtitle {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--ink-muted);
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* --- Responsive --- */
+@media (max-width: 640px) {
+  html { font-size: 16px; }
+  .site-header { flex-direction: column; gap: 0.5rem; }
+  .main-content { padding: 0 1rem; }
+  .word-sindarin { font-size: 1.8rem; }
+  .word-list li { flex-direction: column; gap: 0.2rem; }
+  .word-list .word-entry-english { text-align: left; }
+}
+
+
+/* --- Sections --- */
+.word-section {
+  margin-bottom: 2rem;
+}
+
+.word-section h2 {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.etymology-chain {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  color: var(--ink-light);
+  margin-bottom: 0.5rem;
+}
+
+.etymology-root {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.etymology-elements {
+  list-style: none;
+  padding: 0;
+}
+
+.etymology-elements li {
+  padding: 0.3rem 0;
+  border-bottom: 1px dotted var(--border);
+}
+
+.element-form { font-weight: 600; color: var(--accent); }
+.element-gloss { font-style: italic; color: var(--ink-light); }
+.element-type {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+}
+
+.cognate-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cognate-table td {
+  padding: 0.3rem 0.75rem;
+  border-bottom: 1px dotted var(--border);
+}
+
+.cognate-table td:first-child {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  color: var(--ink-muted);
+  width: 6rem;
+}
