@@ -73,6 +73,11 @@ function escapeHtml(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
+/** Normalize to NFD so stacked combining marks render correctly */
+function nfd(s) {
+  return s ? s.normalize('NFD') : '';
+}
+
 function writeOut(relPath, content) {
   const full = join(OUT, relPath);
   mkdirSync(dirname(full), { recursive: true });
@@ -263,7 +268,7 @@ function prepareWordData(word, rootsMap) {
   // Primitive: now an object { form, eldamo_id }
   const prim = word.etymology?.primitive;
   const has_primitive = !!(prim && prim.form);
-  const primitive_form = prim?.form || '';
+  const primitive_form = nfd(prim?.form || '');
   const primitive_eldamo_id = prim?.eldamo_id || '';
 
   // Development chain: array of { form, eldamo_id } and { rule, eldamo_id }
@@ -282,9 +287,9 @@ function prepareWordData(word, rootsMap) {
       } else {
         // Form — link if it has an eldamo_id
         if (step.eldamo_id) {
-          return `<a href="https://eldamo.org/content/words/word-${escapeHtml(step.eldamo_id)}.html" class="dev-form-link" target="_blank" rel="noopener">${escapeHtml(step.form)}</a>`;
+          return `<a href="https://eldamo.org/content/words/word-${escapeHtml(step.eldamo_id)}.html" class="dev-form-link" target="_blank" rel="noopener">${escapeHtml(nfd(step.form))}</a>`;
         }
-        return `<span class="dev-form">${escapeHtml(step.form)}</span>`;
+        return `<span class="dev-form">${escapeHtml(nfd(step.form))}</span>`;
       }
     }).join('');
   }
@@ -413,7 +418,7 @@ function buildByGrammarList(words) {
     has_letter_nav: false,
     sections: grammars.map(g => ({
       section_id: g,
-      section_title: g.charAt(0).toUpperCase() + g.slice(1) + 's',
+      section_title: g.charAt(0).toUpperCase() + g.slice(1) + (g.charAt(g.length - 1) === 'x' ? 'e' : '') + 's',
       words: byGrammar[g].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',

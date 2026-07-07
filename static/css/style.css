@@ -2,6 +2,36 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Fira+Sans:wght@400;500;600&display=swap');
 
+/* Self-hosted Gentium Book (SIL) — full combining-mark / mkmk support */
+@font-face {
+  font-family: 'Gentium Book';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/GentiumBook-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gentium Book';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/GentiumBook-Italic.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gentium Book';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/GentiumBook-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gentium Book';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/GentiumBook-BoldItalic.woff2') format('woff2');
+}
+
 :root {
   --parchment-bg: #f5f0e1;
   --parchment-light: #faf7f0;
@@ -234,6 +264,8 @@ body {
 
 /* --- Development Chain --- */
 .development-chain {
+  font-family: 'Gentium Book', var(--font-serif);
+  font-feature-settings: 'mark' 1, 'mkmk' 1, 'ccmp' 1;
   font-size: 1rem;
   line-height: 1.8;
 }
@@ -340,9 +372,20 @@ a { color: var(--link); text-decoration-color: var(--border); }
 a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
 
 .external-link::after {
-  content: ' ↗';
-  font-size: 0.75em;
+  content: '';
+  display: inline-block;
+  width: 0.70em;
+  height: 0.70em;
+  margin-left: 0.2em;
   vertical-align: super;
+  -webkit-mask-image: url(/img/external_link.svg);
+  mask-image: url(/img/external_link.svg);
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  background-color: currentColor;
+  margin-bottom: -0.3em;
 }
 
 /* --- Word Notes --- */
@@ -508,7 +551,8 @@ a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
 }
 
 .etymology-chain {
-  font-family: var(--font-serif);
+  font-family: 'Gentium Book', var(--font-serif);
+  font-feature-settings: 'mark' 1, 'mkmk' 1, 'ccmp' 1;
   font-size: 1rem;
   color: var(--ink-light);
   margin-bottom: 0.5rem;
