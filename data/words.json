@@ -5774,5 +5774,438 @@
       "LotR/474"
     ],
     "hidden": ""
+  },
+  {
+    "uuid": "F67AB558-3211-473B-875C-C9EA60E99979",
+    "id": "loth",
+    "mutation_marker": "",
+    "sindarin": "loth",
+    "spellings": {},
+    "ipa": "loθ",
+    "tengwar": "",
+    "cirth": "loþ",
+    "english": [
+      "flowers"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1114592353",
+    "etymology": {
+      "root_refs": [
+        "lot(h)"
+      ],
+      "primitive": {
+        "form": "lotse",
+        "eldamo_id": "2556428571"
+      },
+      "development": [
+        {
+          "form": "lotse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "lots",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "loθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "loθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lotse&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "lós"
+    },
+    "conjugation": null,
+    "notes": "Can refer to a single flower or a group of flowers.",
+    "references": [
+      "LB/354",
+      "PE17/26, 48, 161",
+      "PM/346",
+      "SA/loth",
+      "SI/Lórien²",
+      "UTI/Lothlórien",
+      "VT42/18"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "DC410E00-113D-4C78-ABE4-AC9BAFB44276",
+    "id": "elloth",
+    "mutation_marker": "",
+    "sindarin": "elloth",
+    "spellings": {},
+    "ipa": "'e.loθ",
+    "tengwar": "",
+    "cirth": "elloþ",
+    "english": [
+      "flower"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1307503003",
+    "etymology": {
+      "root_refs": [
+        "er",
+        "lot(h)"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "er",
+          "gloss": "one, alone",
+          "type": "adjective"
+        },
+        {
+          "form": "loth",
+          "gloss": "flower(s)",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "VT42/18"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8BE9EF5A-C91E-47A9-B129-69BE82633DAF",
+    "id": "lotheg",
+    "mutation_marker": "",
+    "sindarin": "lotheg",
+    "spellings": {},
+    "ipa": "'lo.θeg",
+    "tengwar": "",
+    "cirth": "loþeg",
+    "english": [
+      "flower, floret, small flower"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lotheg",
+      "singular": "",
+      "plural": "lethig"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4146576285",
+    "etymology": {
+      "root_refs": [
+        "lot(h)"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "loth",
+          "gloss": "flower(s)",
+          "type": "noun"
+        },
+        {
+          "form": "-eg",
+          "gloss": "",
+          "type": "diminutive suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "VT42/18"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "D88923D9-4C4A-48CF-8A2B-8C14885113BE",
+    "id": "glae",
+    "mutation_marker": "",
+    "sindarin": "glae",
+    "spellings": {},
+    "ipa": "glae",
+    "tengwar": "",
+    "cirth": "glae",
+    "english": [
+      "grass"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "677984731",
+    "etymology": {
+      "root_refs": [
+        "lay"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "TT17/33"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3CF60B0E-EECF-4858-BD62-431FA6DD4D65",
+    "id": "thar",
+    "mutation_marker": "",
+    "sindarin": "thâr",
+    "spellings": {},
+    "ipa": "θa:r",
+    "tengwar": "",
+    "cirth": "þAJ",
+    "english": [
+      "grass (stiff)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "thâr",
+      "singular": "",
+      "plural": "thair"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2524072487",
+    "etymology": {
+      "root_refs": [
+        "star"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "stara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "star",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sθar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "θar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "θār",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=stara&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sara"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/STAR"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "9ACC33EC-7C06-476F-A646-AD54387D7AE8",
+    "id": "lisg",
+    "mutation_marker": "",
+    "sindarin": "lisg",
+    "spellings": {},
+    "ipa": "lisg",
+    "tengwar": "",
+    "cirth": "lihg",
+    "english": [
+      "reed"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2357301733",
+    "etymology": {
+      "root_refs": [
+        "liski"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "liski",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "liske",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lisk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1759587217"
+        },
+        {
+          "form": "lisg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=liski&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "liske"
+    },
+    "conjugation": null,
+    "notes": "Reconstructed from \"Lisgardh\".",
+    "references": [
+      "UT/34"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3DB30672-12A3-4109-8D22-4AE782F864DC",
+    "id": "ness",
+    "mutation_marker": "",
+    "sindarin": "ness",
+    "spellings": {},
+    "ipa": "nes",
+    "tengwar": "",
+    "cirth": "reN",
+    "english": [
+      "meadow"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ness",
+      "singular": "",
+      "plural": "nis"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3281616511",
+    "etymology": {
+      "root_refs": [
+        "nes"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Taken from \"Taras-ness\". The meaning is unclear, but it's assumed to mean \"meadow\" due to the possible root √NES.",
+    "references": [
+      "UT/28",
+      "UTI/Taras"
+    ],
+    "hidden": ""
   }
 ]
