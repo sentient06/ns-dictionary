@@ -293,7 +293,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "notes": "Reconstructed from ten",
+    "notes": "Reconstructed from \"ten\".",
     "references": [],
     "hidden": ""
   },
@@ -682,7 +682,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "notes": "Reconstructed from sen",
+    "notes": "Reconstructed from \"sen\".",
     "references": [],
     "hidden": ""
   },
@@ -1315,7 +1315,7 @@
       "quenya": "ú"
     },
     "conjugation": null,
-    "notes": "Reconstructed from prefix ú-",
+    "notes": "Reconstructed from prefix \"ú-\".",
     "references": [
       "PE17/144"
     ],
@@ -1361,7 +1361,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "notes": "Reconstructed from phain",
+    "notes": "Reconstructed from \"phain\".",
     "references": [
       "AotM/62",
       "SD/129"
@@ -1609,7 +1609,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "notes": "Reconstructed from Gnomish eleg",
+    "notes": "Reconstructed from Gnomish \"eleg\".",
     "references": [],
     "hidden": "Unknown suffix -ele"
   },
@@ -5372,7 +5372,7 @@
     "gender": "",
     "category": "vegetation",
     "ids_chapter": "agriculture and vegetation",
-    "type": "reconstructed",
+    "type": "restored",
     "source": "noldorin",
     "status": "",
     "noldorin_form": "",
@@ -5425,6 +5425,353 @@
     "notes": "",
     "references": [
       "Ety/GÓLOB"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "F3221076-CF94-4B3B-8949-3DAA8926FE45",
+    "id": "iaf",
+    "mutation_marker": "",
+    "sindarin": "iâf",
+    "spellings": {},
+    "ipa": "ia:f",
+    "tengwar": "",
+    "cirth": "jAf",
+    "english": [
+      "fruit"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "iâf",
+      "singular": "",
+      "plural": "iaif"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1420245471",
+    "etymology": {
+      "root_refs": [
+        "yab"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "jab",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "jav",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "jāv",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=jab&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "yávë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/38, 40, 42"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "C9B96920-1314-4617-8E82-3FFC3601DDE4",
+    "id": "eredh",
+    "mutation_marker": "",
+    "sindarin": "eredh",
+    "spellings": {},
+    "ipa": "'e.reð",
+    "tengwar": "",
+    "cirth": "eJeð",
+    "english": [
+      "seed"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "eredh",
+      "singular": "",
+      "plural": "eridh"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "398005077",
+    "etymology": {
+      "root_refs": [
+        "red"
+      ],
+      "primitive": {
+        "form": "eredē",
+        "eldamo_id": "1609251011"
+      },
+      "development": [
+        {
+          "form": "eredē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "erede",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "ereðe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ereð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=erede%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "erdë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/ERÉD",
+      "EtyAC/ERÉD"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
+    "id": "las-s",
+    "mutation_marker": "",
+    "sindarin": "las(s)",
+    "spellings": {},
+    "ipa": "las",
+    "tengwar": "",
+    "cirth": "laN",
+    "english": [
+      "leaf"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "las(s)",
+      "singular": "",
+      "plural": "lais"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3362852287",
+    "etymology": {
+      "root_refs": [
+        "las"
+      ],
+      "primitive": {
+        "form": "lassē",
+        "eldamo_id": "1467274139"
+      },
+      "development": [
+        {
+          "form": "lassē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lasse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lass",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=laSSe%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "lassë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Let/282",
+      "PE17/49, 62, 97",
+      "PE22/166",
+      "PE23/136",
+      "RC/760"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "295B6264-0C06-4C69-A35B-C8AF12F2A4CC",
+    "id": "thond",
+    "mutation_marker": "",
+    "sindarin": "thond",
+    "spellings": {},
+    "ipa": "θond",
+    "tengwar": "",
+    "cirth": "þo\\",
+    "english": [
+      "root"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "thond",
+      "singular": "",
+      "plural": "thynd"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "926513155",
+    "etymology": {
+      "root_refs": [
+        "stud"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "stunda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "stund",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sθund",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "θund",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "θond",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=stunda%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sundo"
+    },
+    "conjugation": null,
+    "notes": "(There are two possible origins of this word, one is given below, and another one on Quettamorphosis.)",
+    "references": [
+      "LotR/1115",
+      "PE17/96, 121"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "AC619657-47EC-4989-84B6-8BA8A65EE468",
+    "id": "rif",
+    "mutation_marker": "",
+    "sindarin": "rîf",
+    "spellings": {},
+    "ipa": "ri:f",
+    "tengwar": "",
+    "cirth": "Jiif",
+    "english": [
+      "bark (of a tree)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "489204733",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from \"Fladrif\".",
+    "references": [
+      "LotR/474"
     ],
     "hidden": ""
   }
