@@ -336,6 +336,7 @@ function prepareWordData(word, rootsMap) {
 
     has_references: !!(word.references?.length),
     references_joined: (word.references || []).join(', '),
+    has_references_section: !!(word.eldamo_id || word.references?.length),
     has_alt_spellings: altSpellings.length > 0,
     alt_spellings: altSpellings,
   };
@@ -441,7 +442,7 @@ function buildByCategoryList(words) {
     has_letter_nav: false,
     sections: cats.map(c => ({
       section_id: c,
-      section_title: CATEGORY_LABELS[c] || c,
+      section_title: CATEGORY_LABELS[c] || c.charAt(0).toUpperCase() + c.slice(1),
       words: byCat[c].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',

@@ -37,7 +37,7 @@
     <article class="word-page">
       <header class="word-header">
         <h1 class="word-sindarin">{{sindarin}}{{#mutation_marker}} <span class="mutation-marker">[{{mutation_marker}}]</span>{{/mutation_marker}}</h1>
-        <div class="word-ipa">{{ipa}}{{#tengwar}} <span class="tengwar">{{tengwar}}</span>{{/tengwar}}{{#cirth}} <span class="cirth">{{cirth}}</span>{{/cirth}}</div>
+        <div class="word-ipa">{{ipa}}{{#tengwar}}<span class="tengwar">{{tengwar}}</span>{{/tengwar}}{{#cirth}} <span class="cirth">{{cirth}}</span>{{/cirth}}</div>
         {{#has_alt_spellings}}
         <div class="word-alt-spellings">
           {{#alt_spellings}}<span class="spelling-variant"><span class="label">{{dialect_label}}</span> {{form}}</span>{{/alt_spellings}}
@@ -49,7 +49,13 @@
       <div class="word-sense">
         {{#sense_heading}}<h2 class="sense-heading">{{sense_heading}}</h2>{{/sense_heading}}
 
+        <div class="word-grammar">{{grammar}}</div>
         <div class="word-english">{{english_joined}}</div>
+
+        {{#has_inflection}}
+        <div class="word-inflection"><span class="inflection-label">{{inflection_label}}</span> {{inflection_form}}</div>
+        {{/has_inflection}}
+
         <div class="word-tags">
           <span class="tag tag--{{type}}">{{type_label}}</span>
           {{#source_label}}<span class="tag tag--source">{{source_label}}</span>{{/source_label}}
@@ -57,10 +63,6 @@
           <span class="tag">{{grammar}}</span>
           {{#category}}<span class="tag">{{category_label}}</span>{{/category}}
         </div>
-
-        {{#has_inflection}}
-        <div class="word-inflection"><span class="inflection-label">{{inflection_label}}</span> {{inflection_form}}</div>
-        {{/has_inflection}}
 
         {{#noldorin_form}}
         <section class="word-section">
@@ -182,6 +184,7 @@
         </section>
         {{/has_conjugation}}
 
+        {{#has_references_section}}
         <section class="word-section">
           <h3>References</h3>
           {{#eldamo_id}}
@@ -191,6 +194,7 @@
           <p class="word-notes">Sources: {{references_joined}}</p>
           {{/has_references}}
         </section>
+        {{/has_references_section}}
 
         {{#notes}}
         <section class="word-section">
