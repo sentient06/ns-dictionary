@@ -6679,5 +6679,488 @@
       "VT47/12"
     ],
     "hidden": ""
+  },
+  {
+    "uuid": "BF8C3304-963C-47E2-AB23-2E4AB13558F3",
+    "id": "sereg",
+    "mutation_marker": "",
+    "sindarin": "sereg",
+    "spellings": {},
+    "ipa": "'se.reg",
+    "tengwar": "",
+    "cirth": "heJeg",
+    "english": [
+      "blood"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "403659609",
+    "etymology": {
+      "root_refs": [
+        "serek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sereke",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "serek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "sereg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sereke&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-RUL061"
+    },
+    "cognates": {
+      "quenya": "sercë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/184",
+      "SA/sereg"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "D307CB7A-506D-4BBE-837E-A5E42BEB5C7B",
+    "id": "asg",
+    "mutation_marker": "",
+    "sindarin": "asg",
+    "spellings": {},
+    "ipa": "asg",
+    "tengwar": "",
+    "cirth": "ahg",
+    "english": [
+      "bone"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "asg",
+      "singular": "",
+      "plural": "esg"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2265789335",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "askō",
+        "eldamo_id": "3463128235"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "axo"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/137, 160"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "6A2839C5-0D72-42C3-B1C8-C9EFB12D21E9",
+    "id": "thalph",
+    "mutation_marker": "",
+    "sindarin": "thalph",
+    "spellings": {},
+    "ipa": "θalf",
+    "tengwar": "",
+    "cirth": "þalf",
+    "english": [
+      "grease, fat (noun)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "thalph",
+      "singular": "",
+      "plural": "thelph"
+    },
+    "gender": "",
+    "category": "substance",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2187777449",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "stalqe",
+        "eldamo_id": "4003562039"
+      },
+      "development": [
+        {
+          "form": "stalkwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "stalkw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "stalp",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sθalp",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "sθalpʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "sθalɸ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "θalɸ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "θalf",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=stalkwe&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-RUL061"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/153"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "AA9C1C08-BC77-45BE-A3ED-D69C1C5E6B3E",
+    "id": "ble",
+    "mutation_marker": "",
+    "sindarin": "blê",
+    "spellings": {},
+    "ipa": "ble:",
+    "tengwar": "",
+    "cirth": "blE",
+    "english": [
+      "fat (of food)",
+      "fatty, oily, greasy"
+    ],
+    "grammar": [
+      "noun",
+      "adjective"
+    ],
+    "inflection": {
+      "base": "blê",
+      "singular": "",
+      "plural": "blî"
+    },
+    "gender": "",
+    "category": "substance",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2512514975",
+    "etymology": {
+      "root_refs": [
+        "milig"
+      ],
+      "primitive": {
+        "form": "mḷgo",
+        "eldamo_id": "3755023431"
+      },
+      "development": [
+        {
+          "form": "mligā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1955360003"
+        },
+        {
+          "form": "bligā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "bliga",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "blega",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "bleɣa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bleɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "blēɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4164672875"
+        },
+        {
+          "form": "blē",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mliga%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-1DM4ETD"
+    },
+    "cognates": {
+      "quenya": "millo"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/139"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "10255EDF-93F0-42D1-883E-1C948B15A288",
+    "id": "och",
+    "mutation_marker": "",
+    "sindarin": "och",
+    "spellings": {},
+    "ipa": "ox",
+    "tengwar": "",
+    "cirth": "oK",
+    "english": [
+      "egg"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "och",
+      "singular": "",
+      "plural": "ych"
+    },
+    "gender": "",
+    "category": "food",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "113787646",
+    "etymology": {
+      "root_refs": [
+        "okh"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "okʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ox",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=o%EA%9D%81&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "ohte"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/62, 74"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "28CA4D0C-5B77-4DA3-A9B9-AE23CA6333B7",
+    "id": "rass",
+    "mutation_marker": "",
+    "sindarin": "rass",
+    "spellings": {},
+    "ipa": "ras:",
+    "tengwar": "",
+    "cirth": "paN",
+    "english": [
+      "horn (anatomy)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rass",
+      "singular": "",
+      "plural": "rais"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1171257471",
+    "etymology": {
+      "root_refs": [
+        "ras"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "rassë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/36",
+      "PE23/136",
+      "SA/ras"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "44FFEEE5-4DA4-4AD6-8ACE-04A5B7C82A76",
+    "id": "pimp",
+    "mutation_marker": "",
+    "sindarin": "pimp",
+    "spellings": {},
+    "ipa": "pimp",
+    "tengwar": "",
+    "cirth": "pimp",
+    "english": [
+      "tail"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2406925129",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "pimpë"
+    },
+    "conjugation": null,
+    "notes": "Neologism coined based on Neo-Quenya word.",
+    "references": [
+      "QL/74"
+    ],
+    "hidden": ""
   }
 ]
