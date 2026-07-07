@@ -4520,5 +4520,50 @@
       "GL/49"
     ],
     "hidden": ""
+  },
+  {
+    "uuid": "AD435698-BCEB-4DF2-B71F-277E5C7C5B79",
+    "id": "huar",
+    "mutation_marker": "",
+    "sindarin": "huar",
+    "spellings": {},
+    "ipa": "'hu.ar",
+    "tengwar": "",
+    "cirth": "{uaJ",
+    "english": [
+      "hound, wild dog"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "huar",
+      "singular": "",
+      "plural": "hyair"
+    },
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4090255183",
+    "etymology": {
+      "root_refs": [
+        "khug"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/67"
+    ],
+    "hidden": ""
   }
 ]
