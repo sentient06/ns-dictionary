@@ -7,7 +7,7 @@
     "spellings": {},
     "ipa": "ni",
     "tengwar": "",
-    "cirth": "ni",
+    "cirth": "ri",
     "english": [
       "I"
     ],
@@ -48,8 +48,8 @@
     "sindarin": "-n",
     "spellings": {},
     "ipa": "n",
-    "tengwar": "",
-    "cirth": "n",
+    "tengwar": "",
+    "cirth": "r",
     "english": [
       "I"
     ],
@@ -92,7 +92,7 @@
     "spellings": {},
     "ipa": "ki",
     "tengwar": "",
-    "cirth": "ki",
+    "cirth": "ci",
     "english": [
       "thou",
       "you (singular familiar)"
@@ -134,7 +134,7 @@
     "sindarin": "-g",
     "spellings": {},
     "ipa": "g",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "g",
     "english": [
       "thou",
@@ -221,7 +221,7 @@
     "sindarin": "-l",
     "spellings": {},
     "ipa": "l",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "l",
     "english": [
       "thou",
@@ -344,7 +344,7 @@
     "sindarin": "-b",
     "spellings": {},
     "ipa": "b",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "b",
     "english": [
       "we (inclusive)"
@@ -425,7 +425,7 @@
     "sindarin": "-f",
     "spellings": {},
     "ipa": "f",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "f",
     "english": [
       "we (exclusive)"
@@ -466,8 +466,8 @@
     "sindarin": "-gir",
     "spellings": {},
     "ipa": "gir",
-    "tengwar": "",
-    "cirth": "gir",
+    "tengwar": "",
+    "cirth": "giJ",
     "english": [
       "you (plural, familiar)"
     ],
@@ -504,8 +504,8 @@
     "sindarin": "-dhir",
     "spellings": {},
     "ipa": "ðir",
-    "tengwar": "",
-    "cirth": "ðir",
+    "tengwar": "",
+    "cirth": "ðiJ",
     "english": [
       "you (plural, polite)"
     ],
@@ -618,8 +618,8 @@
     "sindarin": "-r",
     "spellings": {},
     "ipa": "r",
-    "tengwar": "",
-    "cirth": "r",
+    "tengwar": "",
+    "cirth": "J",
     "english": [
       "they"
     ],
@@ -657,7 +657,7 @@
     "spellings": {},
     "ipa": "se",
     "tengwar": "",
-    "cirth": "se",
+    "cirth": "he",
     "english": [
       "this"
     ],
@@ -694,7 +694,7 @@
     "spellings": {},
     "ipa": "sen",
     "tengwar": "",
-    "cirth": "sen",
+    "cirth": "her",
     "english": [
       "this (object)"
     ],
@@ -736,7 +736,7 @@
     "spellings": {},
     "ipa": "'an.hen",
     "tengwar": "",
-    "cirth": "anhen",
+    "cirth": "aNer",
     "english": [
       "to this (dative)"
     ],
@@ -773,7 +773,7 @@
     "spellings": {},
     "ipa": "sa",
     "tengwar": "",
-    "cirth": "sa",
+    "cirth": "ha",
     "english": [
       "that"
     ],
@@ -813,7 +813,7 @@
     "spellings": {},
     "ipa": "san",
     "tengwar": "",
-    "cirth": "san",
+    "cirth": "har",
     "english": [
       "that (object)"
     ],
@@ -853,7 +853,7 @@
     "spellings": {},
     "ipa": "'an.han",
     "tengwar": "",
-    "cirth": "anhan",
+    "cirth": "ar{ar",
     "english": [
       "to that (dative)"
     ],
@@ -893,7 +893,7 @@
     "spellings": {},
     "ipa": "siː",
     "tengwar": "",
-    "cirth": "si",
+    "cirth": "hii",
     "english": [
       "here"
     ],
@@ -943,7 +943,7 @@
     "spellings": {},
     "ipa": "enːas",
     "tengwar": "",
-    "cirth": "ennas",
+    "cirth": "errah",
     "english": [
       "there"
     ],
@@ -988,7 +988,7 @@
     "spellings": {},
     "ipa": "man",
     "tengwar": "",
-    "cirth": "man",
+    "cirth": "mar",
     "english": [
       "who"
     ],
@@ -1029,7 +1029,7 @@
     "spellings": {},
     "ipa": "man",
     "tengwar": "",
-    "cirth": "man",
+    "cirth": "mar",
     "english": [
       "what"
     ],
@@ -1070,7 +1070,7 @@
     "spellings": {},
     "ipa": "'mi.van",
     "tengwar": "",
-    "cirth": "mivan",
+    "cirth": "mivar",
     "english": [
       "where, (lit.) in/at what"
     ],
@@ -1123,7 +1123,7 @@
     "spellings": {},
     "ipa": "'na.van",
     "tengwar": "",
-    "cirth": "navan",
+    "cirth": "ravar",
     "english": [
       "where, (lit.) whither, where to"
     ],
@@ -1229,7 +1229,7 @@
     "spellings": {},
     "ipa": "'mo.van",
     "tengwar": "",
-    "cirth": "movan",
+    "cirth": "movar",
     "english": [
       "how, (lit.) by agency of what"
     ],
@@ -1329,7 +1329,7 @@
     "spellings": {},
     "ipa": "pa:n",
     "tengwar": "",
-    "cirth": "pAn",
+    "cirth": "pAr",
     "english": [
       "all, (lit.) whole"
     ],
@@ -1528,7 +1528,7 @@
     "spellings": {},
     "ipa": "no.dui",
     "tengwar": "",
-    "cirth": "nodui",
+    "cirth": "rodui",
     "english": [
       "few, (lit.) countable"
     ],
@@ -1621,7 +1621,7 @@
     "spellings": {},
     "ipa": "min",
     "tengwar": "",
-    "cirth": "min",
+    "cirth": "mir",
     "english": [
       "one"
     ],
@@ -1775,7 +1775,7 @@
     "spellings": {},
     "ipa": "'ne.leð",
     "tengwar": "",
-    "cirth": "neleð",
+    "cirth": "releð",
     "english": [
       "three"
     ],
@@ -1857,7 +1857,7 @@
     "spellings": {},
     "ipa": "'ka.nad",
     "tengwar": "",
-    "cirth": "kanad",
+    "cirth": "karad",
     "english": [
       "four"
     ],
@@ -1943,7 +1943,7 @@
     "spellings": {},
     "ipa": "'le.ben",
     "tengwar": "",
-    "cirth": "leben",
+    "cirth": "leber",
     "english": [
       "five"
     ],
@@ -2013,7 +2013,7 @@
     "spellings": {},
     "ipa": "'da.er",
     "tengwar": "",
-    "cirth": "daer",
+    "cirth": "daeJ",
     "english": [
       "great, large"
     ],
@@ -2080,7 +2080,7 @@
     "spellings": {},
     "ipa": "borg",
     "tengwar": "",
-    "cirth": "borg",
+    "cirth": "boJg",
     "english": [
       "large, big"
     ],
@@ -2123,7 +2123,7 @@
     "spellings": {},
     "ipa": "and",
     "tengwar": "",
-    "cirth": "and",
+    "cirth": "a\\",
     "english": [
       "long"
     ],
@@ -2198,7 +2198,7 @@
     "spellings": {},
     "ipa": "land",
     "tengwar": "",
-    "cirth": "land",
+    "cirth": "la\\",
     "english": [
       "wide, broad"
     ],
@@ -2244,7 +2244,7 @@
     "mutation_marker": "",
     "sindarin": "tŷg",
     "spellings": {},
-    "ipa": "ti:g",
+    "ipa": "tj:g",
     "tengwar": "",
     "cirth": "tyyg",
     "english": [
@@ -2337,7 +2337,7 @@
     "spellings": {},
     "ipa": "delx",
     "tengwar": "",
-    "cirth": "delC",
+    "cirth": "delK",
     "english": [
       "dense"
     ],
@@ -2430,7 +2430,7 @@
     "spellings": {},
     "ipa": "luŋ",
     "tengwar": "",
-    "cirth": "luN",
+    "cirth": "lun",
     "english": [
       "heavy"
     ],
@@ -2493,7 +2493,7 @@
     "spellings": {},
     "ipa": "grond",
     "tengwar": "",
-    "cirth": "grond",
+    "cirth": "gro\\",
     "english": [
       "weighty, ponderous"
     ],
@@ -2557,7 +2557,7 @@
     "spellings": {},
     "ipa": "pi:n",
     "tengwar": "",
-    "cirth": "piin",
+    "cirth": "piir",
     "english": [
       "small"
     ],
@@ -2614,7 +2614,7 @@
     "spellings": {},
     "ipa": "'ti.θen",
     "tengwar": "",
-    "cirth": "tiþen",
+    "cirth": "tiþer",
     "english": [
       "little, tiny"
     ],
@@ -2720,7 +2720,7 @@
     "spellings": {},
     "ipa": "θent",
     "tengwar": "",
-    "cirth": "þent",
+    "cirth": "þert",
     "english": [
       "short"
     ],
@@ -2830,9 +2830,9 @@
     "mutation_marker": "",
     "sindarin": "agor",
     "spellings": {},
-    "ipa": "agor",
+    "ipa": "'a.gor",
     "tengwar": "",
-    "cirth": "agor",
+    "cirth": "agoJ",
     "english": [
       "narrow"
     ],
@@ -3058,7 +3058,7 @@
     "spellings": {},
     "ipa": "'a.da.neθ",
     "tengwar": "",
-    "cirth": "adaneþ",
+    "cirth": "adareþ",
     "english": [
       "woman (mortal)"
     ],
@@ -3112,9 +3112,9 @@
     "mutation_marker": "",
     "sindarin": "gwend",
     "spellings": {},
-    "ipa": "gwind",
+    "ipa": "gʷend",
     "tengwar": "",
-    "cirth": "Qend",
+    "cirth": "Qe\\",
     "english": [
       "maiden, young woman"
     ],
@@ -3186,7 +3186,7 @@
     "spellings": {},
     "ipa": "di:r",
     "tengwar": "",
-    "cirth": "diir",
+    "cirth": "diiJ",
     "english": [
       "man (of any kindred)"
     ],
@@ -3251,7 +3251,7 @@
     "spellings": {},
     "ipa": "ben:",
     "tengwar": "",
-    "cirth": "benn",
+    "cirth": "berr",
     "english": [
       "man, as a husband, partner, spouse"
     ],
@@ -3342,7 +3342,7 @@
     "spellings": {},
     "ipa": "'a.dan",
     "tengwar": "",
-    "cirth": "adan",
+    "cirth": "adar",
     "english": [
       "man (human being)"
     ],
@@ -3409,7 +3409,7 @@
     "spellings": {},
     "ipa": "he:n",
     "tengwar": "",
-    "cirth": "hEn",
+    "cirth": "{Er",
     "english": [
       "child (young human or offspring)"
     ],
@@ -3499,6 +3499,1025 @@
       "UT/57, 140",
       "VT50/12, 18",
       "WJ/160, 403"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "949FBE7F-98E0-4497-9761-40DCB9B47636",
+    "id": "herves",
+    "mutation_marker": "",
+    "sindarin": "herves",
+    "spellings": {},
+    "ipa": "'her.ves",
+    "tengwar": "",
+    "cirth": "{eJveh",
+    "english": [
+      "wife, lady"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "herves",
+      "singular": "",
+      "plural": "hervis"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3840955953",
+    "etymology": {
+      "root_refs": [
+        "kher",
+        "bes"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰerbesse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xerbesse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "xervesse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xervess",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hervess",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1742178057"
+        },
+        {
+          "form": "herves",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHER",
+          "gloss": "rule, govern",
+          "type": "root"
+        },
+        {
+          "form": "BES",
+          "gloss": "wed",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81er.besse&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-18HPRET"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "More formal than \"bess\", associated with \"lady\" as the wife of a \"lord\".",
+    "references": [
+      "Ety/BES",
+      "Ety/KHER"
+    ],
+    "hidden": "Unkown suffix -se"
+  },
+  {
+    "uuid": "890FB401-E5DA-4CB6-A468-212A5D31D3BB",
+    "id": "bess",
+    "mutation_marker": "",
+    "sindarin": "bess",
+    "spellings": {},
+    "ipa": "bes",
+    "tengwar": "",
+    "cirth": "beN",
+    "english": [
+      "wife"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bess",
+      "singular": "",
+      "plural": "biss"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3367157657",
+    "etymology": {
+      "root_refs": [
+        "bes"
+      ],
+      "primitive": {
+        "form": "bessē",
+        "eldamo_id": "1500363231"
+      },
+      "development": [
+        {
+          "form": "bessē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "besse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bess",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "BES",
+          "gloss": "wed",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=besse%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-18HPRET"
+    },
+    "cognates": {
+      "quenya": "veri"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "AotM/62",
+      "SD/129"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "9E9C248E-524B-4309-8C30-CD839955F985",
+    "id": "bethril",
+    "mutation_marker": "",
+    "sindarin": "bethril",
+    "spellings": {},
+    "ipa": "'beθ.ril",
+    "tengwar": "",
+    "cirth": "beþJil",
+    "english": [
+      "spouse (female), married woman"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2220172883",
+    "etymology": {
+      "root_refs": [
+        "bes"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "BES",
+          "gloss": "wed",
+          "type": "root"
+        },
+        {
+          "form": "-ril",
+          "gloss": "female agent",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "0D04C1A7-DF18-48D8-A309-94B2E7381FD2",
+    "id": "herven",
+    "mutation_marker": "",
+    "sindarin": "herven",
+    "spellings": {},
+    "ipa": "'her.ven",
+    "tengwar": "",
+    "cirth": "{eJver",
+    "english": [
+      "husband"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "herven",
+      "singular": "",
+      "plural": "hervin"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "528552307",
+    "etymology": {
+      "root_refs": [
+        "kher",
+        "bes"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰerbesnō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰerbesno",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xerbesno",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1716741635"
+        },
+        {
+          "form": "xerbenno",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "xervenno",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xervenn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hervenn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "herven",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHER",
+          "gloss": "rule, govern",
+          "type": "root"
+        },
+        {
+          "form": "benn",
+          "gloss": "man, male",
+          "type": "noun"
+        },
+        {
+          "form": "-nō",
+          "gloss": "agent",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81er.bes.no%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-18HPRET"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "More formal than \"benn\" or \"bethron\", associated with \"lord\".",
+    "references": [
+      "Ety/BES",
+      "Ety/KHER"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8EECCF0B-BC16-4494-BCF4-215F6A985FDA",
+    "id": "bethron",
+    "mutation_marker": "",
+    "sindarin": "bethron",
+    "spellings": {},
+    "ipa": "'beθ.ron",
+    "tengwar": "",
+    "cirth": "beþJor",
+    "english": [
+      "spouse (male), married man"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bethron",
+      "singular": "",
+      "plural": "bethryn"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "862942867",
+    "etymology": {
+      "root_refs": [
+        "bes"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "besron",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "beθron",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3736793827"
+        },
+        {
+          "form": "beθron",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "BES",
+          "gloss": "wed",
+          "type": "root"
+        },
+        {
+          "form": "-(r)on",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=bes.ron&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1RZ3P2T"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/22"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "9CEC6D69-37AD-425E-9F11-2F7A7286D352",
+    "id": "emel",
+    "mutation_marker": "",
+    "sindarin": "emel",
+    "spellings": {},
+    "ipa": "'e.mel",
+    "tengwar": "",
+    "cirth": "emel",
+    "english": [
+      "mother"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "emel",
+      "singular": "",
+      "plural": "emil"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "921714735",
+    "etymology": {
+      "root_refs": [
+        "am"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "amil"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "VT48/17"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "FA3F3C34-F96F-4E3A-AA4B-BB86967E2381",
+    "id": "adar",
+    "mutation_marker": "",
+    "sindarin": "adar",
+    "spellings": {},
+    "ipa": "'a.dar",
+    "tengwar": "",
+    "cirth": "adaJ",
+    "english": [
+      "father"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "adar",
+      "singular": "",
+      "plural": "edair"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1791197021",
+    "etymology": {
+      "root_refs": [
+        "at(ar)"
+      ],
+      "primitive": {
+        "form": "atar",
+        "eldamo_id": "163668349"
+      },
+      "development": [
+        {
+          "form": "atar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "adar",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=atar&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+    },
+    "cognates": {
+      "quenya": "atar"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PM/324",
+      "VT44/22",
+      "VT48/17"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "12182874-61AB-4AEB-8390-3CED9480B5BE",
+    "id": "lavan",
+    "mutation_marker": "",
+    "sindarin": "lavan",
+    "spellings": {},
+    "ipa": "'la.van",
+    "tengwar": "",
+    "cirth": "lavar",
+    "english": [
+      "animal"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lavan",
+      "singular": "",
+      "plural": "levain"
+    },
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4243988031",
+    "etymology": {
+      "root_refs": [
+        "lam"
+      ],
+      "primitive": {
+        "form": "lamā̆n(a)",
+        "eldamo_id": "3392562551"
+      },
+      "development": [
+        {
+          "form": "lamana",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "laman",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "lavan",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lamana&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+    },
+    "cognates": {
+      "quenya": "laman"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "WJ/388, 416"
+    ],
+    "hidden": "Unknown suffix -āna"
+  },
+  {
+    "uuid": "F776A67B-B312-42A4-B471-458002497063",
+    "id": "lim",
+    "mutation_marker": "",
+    "sindarin": "lim",
+    "spellings": {},
+    "ipa": "lim",
+    "tengwar": "",
+    "cirth": "lim",
+    "english": [
+      "fish"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2873279651",
+    "etymology": {
+      "root_refs": [
+        "liw"
+      ],
+      "primitive": {
+        "form": "liñwi",
+        "eldamo_id": "1131431685"
+      },
+      "development": [
+        {
+          "form": "liŋwi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3707785609"
+        },
+        {
+          "form": "līwi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "liw",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=liNGwi&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+    },
+    "cognates": {
+      "quenya": "lingwë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/LIW, LOK"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "7736ACC0-8A25-4CCD-8353-6BF3F54558A5",
+    "id": "hal",
+    "mutation_marker": "",
+    "sindarin": "hâl",
+    "spellings": {},
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "fish (small)"
+    ],
+    "grammar": [],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2329687483",
+    "etymology": {
+      "root_refs": [
+        "skal"
+      ],
+      "primitive": {
+        "form": "skala",
+        "eldamo_id": "1016292147"
+      },
+      "development": [
+        {
+          "form": "kʰala",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xala",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "hāl",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81ala&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+    },
+    "cognates": {
+      "quenya": "hala"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "EtyAC/KHAL"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "F12735CD-0EF4-4C7B-A61B-2CA484429113",
+    "id": "aew",
+    "mutation_marker": "",
+    "sindarin": "aew",
+    "spellings": {},
+    "ipa": "aew",
+    "tengwar": "",
+    "cirth": "aew",
+    "english": [
+      "bird (small)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "811844039",
+    "etymology": {
+      "root_refs": [
+        "aiwē"
+      ],
+      "primitive": {
+        "form": "aiwē",
+        "eldamo_id": "293304589"
+      },
+      "development": [
+        {
+          "form": "aiwē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "aiwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "aiw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "aew",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=aiwe%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+    },
+    "cognates": {
+      "quenya": "aiwë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/97",
+      "SA/lin"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "60DE43AD-161E-4D6C-9F31-3C01208FC5DF",
+    "id": "hu",
+    "mutation_marker": "",
+    "sindarin": "hû",
+    "spellings": {},
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "dog"
+    ],
+    "grammar": [],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3308890067",
+    "etymology": {
+      "root_refs": [
+        "khug"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰugo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "kʰug",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xug",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "xuɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "huɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "hūɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4164672875"
+        },
+        {
+          "form": "hū",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81ugo&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+    },
+    "cognates": {
+      "quenya": "huo"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/KHUGAN"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "CD4FD75E-0B75-4553-9B6D-B04BD6113505",
+    "id": "huan",
+    "mutation_marker": "",
+    "sindarin": "huan",
+    "spellings": {},
+    "ipa": "'hu.an",
+    "tengwar": "",
+    "cirth": "{uar",
+    "english": [
+      "hound, great dog"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "huan",
+      "singular": "",
+      "plural": "hyain"
+    },
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "375621243",
+    "etymology": {
+      "root_refs": [
+        "khug"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "SI/Huan"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "7D117964-1D65-47DB-A67D-BD0E92A61F50",
+    "id": "huil",
+    "mutation_marker": "",
+    "sindarin": "huil",
+    "spellings": {},
+    "ipa": "huil",
+    "tengwar": "",
+    "cirth": "{uil",
+    "english": [
+      "bitch, female dog"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "679236185",
+    "etymology": {
+      "root_refs": [
+        "khug"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/49"
     ],
     "hidden": ""
   }

@@ -8,6 +8,7 @@ on:
       - 'templates/**'
       - 'static/**'
       - 'build.mjs'
+      - 'lib/**'
   workflow_dispatch:
 
 permissions:
@@ -29,22 +30,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Restore build manifest
-        uses: actions/cache@v4
-        with:
-          path: .build-manifest.json
-          key: build-manifest-${{ hashFiles('data/words.json') }}
-          restore-keys: build-manifest-
-
-      - name: Restore previous docs output
-        uses: actions/cache@v4
-        with:
-          path: docs
-          key: docs-output-${{ github.sha }}
-          restore-keys: docs-output-
-
-      - name: Build site (incremental)
-        run: node build.mjs
+      - name: Build site
+        run: node build.mjs --full
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

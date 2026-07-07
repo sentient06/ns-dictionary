@@ -9,10 +9,11 @@
  *   node build.mjs --full   # full rebuild
  */
 
-import { readFileSync, writeFileSync, mkdirSync, cpSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, cpSync, existsSync, rmSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { conjugate } from './lib/conjugator.mjs';
+import { csvTextToWords } from './lib/csv-parser.mjs';
 
 const ROOT = dirname(new URL(import.meta.url).pathname);
 const OUT = join(ROOT, 'docs');
@@ -20,6 +21,7 @@ const DATA = join(ROOT, 'data', 'words.json');
 const ROOTS_DATA = join(ROOT, 'data', 'roots.json');
 const MANIFEST_PATH = join(ROOT, '.build-manifest.json');
 const FULL = process.argv.includes('--full');
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTQcRY-S8AOXcFLucMvZ95qyaqMK5rGjYzKgUye5FryhxWhymuzgFgZ-HrdC2sFOcljjgHZSjgPwySE/pub?output=csv';
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -293,8 +295,15 @@ function prepareWordData(word, rootsMap) {
   const grammarArr = Array.isArray(word.grammar) ? word.grammar : [word.grammar].filter(Boolean);
   const grammarJoined = grammarArr.join(', ');
 
+  // Format IPA: single-char → [x], multi-char → /xxx/
+  const rawIpa = word.ipa || '';
+  const ipa_display = rawIpa
+    ? (rawIpa.length === 1 ? `[${rawIpa}]` : `/${rawIpa}/`)
+    : '';
+
   return {
     ...word,
+    ipa: ipa_display,
     grammar: grammarJoined,
     root: '../',
     english_joined: word.english.join(', '),
@@ -354,7 +363,7 @@ function buildSindarinEnglishList(words) {
       section_id: letter,
       section_title: letter,
       words: byLetter[letter].map(w => ({
-        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
+        id: w.uuid, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',
       })),
     })),
@@ -384,7 +393,7 @@ function buildEnglishSindarinList(words) {
       section_id: letter,
       section_title: letter,
       words: byLetter[letter].map(e => ({
-        id: e.id, primary: e.english_single, secondary: e.sindarin,
+        id: e.uuid, primary: e.english_single, secondary: e.sindarin,
         grammar: grammarLabel(e), root: '',
       })),
     })),
@@ -408,7 +417,7 @@ function buildByGrammarList(words) {
       section_id: g,
       section_title: g.charAt(0).toUpperCase() + g.slice(1) + 's',
       words: byGrammar[g].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
-        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
+        id: w.uuid, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',
       })),
     })),
@@ -431,7 +440,7 @@ function buildByCategoryList(words) {
       section_id: c,
       section_title: CATEGORY_LABELS[c] || c,
       words: byCat[c].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
-        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
+        id: w.uuid, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',
       })),
     })),
@@ -439,9 +448,19 @@ function buildByCategoryList(words) {
 }
 
 
-// ── Load Data ────────────────────────────────────────────────────────────────
+// ── Fetch & Convert Data ─────────────────────────────────────────────────────
 
-const words = JSON.parse(readFileSync(DATA, 'utf-8'));
+console.log('Fetching data from Google Sheets…');
+const csvResponse = await fetch(SHEET_URL);
+if (!csvResponse.ok) {
+  console.error(`Failed to fetch CSV: ${csvResponse.status} ${csvResponse.statusText}`);
+  process.exit(1);
+}
+const csvText = await csvResponse.text();
+const words = csvTextToWords(csvText);
+writeFileSync(DATA, JSON.stringify(words, null, 2) + '\n', 'utf-8');
+console.log(`✓ Fetched ${words.length} words from Google Sheets`);
+
 const roots = JSON.parse(readFileSync(ROOTS_DATA, 'utf-8'));
 const rootsMap = Object.fromEntries(roots.map(r => [r.id, r]));
 const wordTemplate = readTemplate('word');
@@ -454,6 +473,10 @@ if (!FULL && existsSync(MANIFEST_PATH)) {
 const newManifest = {};
 
 // ── Copy Static Assets ───────────────────────────────────────────────────────
+
+// Clean old word pages before rebuilding
+const wordsDir = join(OUT, 'words');
+if (existsSync(wordsDir)) rmSync(wordsDir, { recursive: true });
 
 cpSync(join(ROOT, 'static'), OUT, { recursive: true });
 console.log('✓ Copied static assets');
@@ -475,7 +498,7 @@ for (const word of words) {
 
   const data = prepareWordData(word, rootsMap);
   const html = render(wordTemplate, data);
-  writeOut(`words/${word.id}.html`, html);
+  writeOut(`words/${word.uuid}.html`, html);
   built++;
 }
 
@@ -541,7 +564,7 @@ console.log('✓ Index page built');
 // ── Build Search Page ───────────────────────────────────────────────────────
 
 const searchData = words.map(w => ({
-  id: w.id,
+  id: w.uuid,
   s: w.sindarin,
   e: w.english.join(', '),
   g: grammarLabel(w),

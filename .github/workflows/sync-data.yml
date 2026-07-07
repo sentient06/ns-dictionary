@@ -1,0 +1,38 @@
+name: Sync Data from Google Sheets
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch CSV and generate words.json
+        run: |
+          node -e "
+            import { writeFileSync } from 'node:fs';
+            import { csvTextToWords } from './lib/csv-parser.mjs';
+            const res = await fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTQcRY-S8AOXcFLucMvZ95qyaqMK5rGjYzKgUye5FryhxWhymuzgFgZ-HrdC2sFOcljjgHZSjgPwySE/pub?output=csv');
+            if (!res.ok) { console.error('Fetch failed:', res.status); process.exit(1); }
+            const words = csvTextToWords(await res.text());
+            writeFileSync('data/words.json', JSON.stringify(words, null, 2) + '\n');
+            console.log('Fetched', words.length, 'words');
+          "
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/words.json
+          git diff --cached --quiet data/words.json || git commit -m "Sync words.json from Google Sheets"
+          git push || true
