@@ -6207,5 +6207,477 @@
       "UTI/Taras"
     ],
     "hidden": ""
+  },
+  {
+    "uuid": "F470EBBB-D832-4500-AF76-18D3A9C91A7B",
+    "id": "raph",
+    "mutation_marker": "",
+    "sindarin": "raph",
+    "spellings": {},
+    "ipa": "raf",
+    "tengwar": "",
+    "cirth": "Jap{",
+    "english": [
+      "rope, cord"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "raph",
+      "singular": "",
+      "plural": "reph"
+    },
+    "gender": "",
+    "category": "object",
+    "ids_chapter": "basic actions and technology",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "307308239",
+    "etymology": {
+      "root_refs": [
+        "rap"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from \"talraph\". The meaning has been theorised by David Salo. GS/281",
+    "references": [
+      "UT/313"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "78898167-8B6D-440C-9C75-A30EAAA4F88D",
+    "id": "hithlain",
+    "mutation_marker": "",
+    "sindarin": "hithlain",
+    "spellings": {},
+    "ipa": "'hiθ.lain",
+    "tengwar": "",
+    "cirth": "{iþlair",
+    "english": [
+      "rope (elvish)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "object",
+    "ids_chapter": "basic actions and technology",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3974489697",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "hîth",
+          "gloss": "mist",
+          "type": "noun"
+        },
+        {
+          "form": "lain",
+          "gloss": "thread",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hísilanya"
+    },
+    "conjugation": null,
+    "notes": "Strong, grey and silky fibre made from the inner bark of mallorn trees.",
+    "references": [
+      "LotR/371",
+      "LotRI/Hithlain",
+      "PE17/60"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "535B518D-03D6-4EF8-B1D1-E174556EC05D",
+    "id": "flad",
+    "mutation_marker": "",
+    "sindarin": "flâd",
+    "spellings": {},
+    "ipa": "fla:d",
+    "tengwar": "",
+    "cirth": "flAd",
+    "english": [
+      "skin"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "flâd",
+      "singular": "",
+      "plural": "flaid"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4259228765",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from \"Fladrif\".",
+    "references": [
+      "LotR/474"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "E760F824-051D-4576-9A86-DBC825E702D9",
+    "id": "rhovath",
+    "mutation_marker": "",
+    "sindarin": "rhovath",
+    "spellings": {},
+    "ipa": "r̥o.vaθ",
+    "tengwar": "",
+    "cirth": "Rovaþ",
+    "english": [
+      "meat, (lit.) \"flesh-food\""
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rhovath",
+      "singular": "",
+      "plural": "rheveth"
+    },
+    "gender": "",
+    "category": "food",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "celephinnel",
+    "status": "experimental",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "sraw",
+        "mat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "srāwematt",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "r̥āwematt",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "r̥āwemattʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "r̥āwemaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "r̥ǭwemaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "r̥auwemaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "r̥auwmaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "r̥owmaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "r̥omaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "r̥omaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "r̥oɱaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "r̥omaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "r̥ovaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "r̥ovaθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "srāwe",
+          "gloss": "flesh",
+          "type": "noun"
+        },
+        {
+          "form": "mat",
+          "gloss": "food",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sra%3Awe.matt&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-RUL061"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Neologism for \"meat\", based on Old English term \"flesh-meat\" (12c), in which \"meat\" referred to food in general. (French had a similar term, \"viande\", which meant \"food\".)",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "C7DB8C96-BFDB-4A8F-990E-3CEC37609675",
+    "id": "aph",
+    "mutation_marker": "",
+    "sindarin": "aph",
+    "spellings": {},
+    "ipa": "af",
+    "tengwar": "",
+    "cirth": "af",
+    "english": [
+      "cooked food"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "food",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "aes",
+    "eldamo_id": "911382857",
+    "etymology": {
+      "root_refs": [
+        "ap"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "apsa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "aɸɸa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "affa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "aff",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=apsa&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-RUL061"
+    },
+    "cognates": {
+      "quenya": "apsa"
+    },
+    "conjugation": null,
+    "notes": "Adapted from Noldorin word \"aes\", which doesn't follow Sindarin phonetic standards. Some people use the Noldorin variant regardless.",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "F8E687B2-B8C7-4224-AC31-E22B42A68F43",
+    "id": "rhaw",
+    "mutation_marker": "",
+    "sindarin": "rhaw",
+    "spellings": {},
+    "ipa": "r̥aw",
+    "tengwar": "",
+    "cirth": "Raw",
+    "english": [
+      "flesh (of a living body)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rhaw",
+      "singular": "",
+      "plural": "rhaiw"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4093888565",
+    "etymology": {
+      "root_refs": [
+        "sraw"
+      ],
+      "primitive": {
+        "form": "srāwe",
+        "eldamo_id": "140517109"
+      },
+      "development": [
+        {
+          "form": "srāwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "r̥āwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "r̥ǭwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "r̥auwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "r̥auw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "70600889"
+        },
+        {
+          "form": "r̥au",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sra%3Awe&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-RUL061"
+    },
+    "cognates": {
+      "quenya": "hrávë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "MR/350, 470-471",
+      "VT47/12"
+    ],
+    "hidden": ""
   }
 ]
