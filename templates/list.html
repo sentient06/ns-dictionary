@@ -10,10 +10,19 @@
 </head>
 <body>
   <header class="site-header">
-    <a href="{{root}}index.html" class="site-title">NS Dictionary</a>
+    <span class="site-title-wrapper">
+      <a href="{{root}}index.html" class="site-title tengwar">
+        
+      </a>
+      <span>NS Dictionary</span>
+    </span>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </label>
     <nav class="site-nav">
-      <a href="{{root}}sindarin-english.html">Sindarin → English</a>
-      <a href="{{root}}english-sindarin.html">English → Sindarin</a>
+      <a href="{{root}}sindarin-english.html">Sindarin - English</a>
+      <a href="{{root}}english-sindarin.html">English - Sindarin</a>
       <a href="{{root}}by-grammar.html">By Grammar</a>
       <a href="{{root}}by-category.html">By Category</a>
       <a href="{{root}}search.html">Search</a>

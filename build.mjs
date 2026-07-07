@@ -358,7 +358,7 @@ function buildSindarinEnglishList(words) {
   }
   const letters = Object.keys(byLetter).sort();
   return {
-    page_title: 'Sindarin → English',
+    page_title: 'Sindarin - English',
     root: '',
     has_letter_nav: true,
     letters: letters.map(l => ({ letter: l })),
@@ -388,7 +388,7 @@ function buildEnglishSindarinList(words) {
   }
   const letters = Object.keys(byLetter).sort();
   return {
-    page_title: 'English → Sindarin',
+    page_title: 'English - Sindarin',
     root: '',
     has_letter_nav: true,
     letters: letters.map(l => ({ letter: l })),
@@ -558,10 +558,19 @@ const indexHtml = `<!DOCTYPE html>
 </head>
 <body>
   <header class="site-header">
-    <a href="index.html" class="site-title">NS Dictionary</a>
+    <span class="site-title-wrapper">
+      <a href="{{root}}index.html" class="site-title tengwar">
+        
+      </a>
+      <span>NS Dictionary</span>
+    </span>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </label>
     <nav class="site-nav">
-      <a href="sindarin-english.html">Sindarin → English</a>
-      <a href="english-sindarin.html">English → Sindarin</a>
+      <a href="sindarin-english.html">Sindarin - English</a>
+      <a href="english-sindarin.html">English - Sindarin</a>
       <a href="by-grammar.html">By Grammar</a>
       <a href="by-category.html">By Category</a>
       <a href="search.html">Search</a>
@@ -572,8 +581,8 @@ const indexHtml = `<!DOCTYPE html>
     <p>A Neo-Sindarin lexicon containing <strong>${words.length}</strong> entries.</p>
     <p style="margin-top:1rem">Words attested by Tolkien, reconstructions from Noldorin, Gnomish, and Quenya, and carefully constructed neologisms — with etymologies, cognates, and phonetic development references.</p>
     <div style="margin-top:2rem; display:flex; flex-wrap:wrap; gap:1rem;">
-      <a href="sindarin-english.html" class="tag" style="font-size:0.85rem; padding:0.5rem 1rem; text-decoration:none;">Sindarin → English</a>
-      <a href="english-sindarin.html" class="tag" style="font-size:0.85rem; padding:0.5rem 1rem; text-decoration:none;">English → Sindarin</a>
+      <a href="sindarin-english.html" class="tag" style="font-size:0.85rem; padding:0.5rem 1rem; text-decoration:none;">Sindarin - English</a>
+      <a href="english-sindarin.html" class="tag" style="font-size:0.85rem; padding:0.5rem 1rem; text-decoration:none;">English - Sindarin</a>
       <a href="by-grammar.html" class="tag" style="font-size:0.85rem; padding:0.5rem 1rem; text-decoration:none;">By Grammar</a>
       <a href="by-category.html" class="tag" style="font-size:0.85rem; padding:0.5rem 1rem; text-decoration:none;">By Category</a>
     </div>
@@ -623,9 +632,13 @@ const searchHtml = `<!DOCTYPE html>
 <body>
   <header class="site-header">
     <a href="index.html" class="site-title">NS Dictionary</a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </label>
     <nav class="site-nav">
-      <a href="sindarin-english.html">Sindarin → English</a>
-      <a href="english-sindarin.html">English → Sindarin</a>
+      <a href="sindarin-english.html">Sindarin - English</a>
+      <a href="english-sindarin.html">English - Sindarin</a>
       <a href="by-grammar.html">By Grammar</a>
       <a href="by-category.html">By Category</a>
       <a href="search.html">Search</a>
