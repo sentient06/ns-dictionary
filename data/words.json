@@ -4190,17 +4190,19 @@
     "mutation_marker": "",
     "sindarin": "hâl",
     "spellings": {},
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "ha:l",
+    "tengwar": "",
+    "cirth": "{Al",
     "english": [
       "fish (small)"
     ],
-    "grammar": [],
+    "grammar": [
+      "noun"
+    ],
     "inflection": null,
     "gender": "",
-    "category": "",
-    "ids_chapter": "",
+    "category": "animal",
+    "ids_chapter": "animals",
     "type": "restored",
     "source": "noldorin",
     "status": "",
@@ -4347,17 +4349,23 @@
     "mutation_marker": "",
     "sindarin": "hû",
     "spellings": {},
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "hu:",
+    "tengwar": "",
+    "cirth": "{U",
     "english": [
       "dog"
     ],
-    "grammar": [],
-    "inflection": null,
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hû",
+      "singular": "",
+      "plural": "hui"
+    },
     "gender": "",
-    "category": "",
-    "ids_chapter": "",
+    "category": "animal",
+    "ids_chapter": "animals",
     "type": "restored",
     "source": "noldorin",
     "status": "",
@@ -4563,6 +4571,860 @@
     "notes": "",
     "references": [
       "GL/67"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2D51EA5D-9623-4288-A000-3E8A67655524",
+    "id": "gwef",
+    "mutation_marker": "",
+    "sindarin": "gwef",
+    "spellings": {},
+    "ipa": "gʷef",
+    "tengwar": "",
+    "cirth": "Qef",
+    "english": [
+      "louse"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gwef",
+      "singular": "",
+      "plural": "gwif"
+    },
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4203257281",
+    "etymology": {
+      "root_refs": [
+        "web"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "web",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gweb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "gwev",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=web&off=PE%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/45"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "9BA2EE10-CACF-4EEB-9B92-6B3B9F0A8BFF",
+    "id": "lyg",
+    "mutation_marker": "",
+    "sindarin": "lŷg",
+    "spellings": {},
+    "ipa": "lj:g",
+    "tengwar": "",
+    "cirth": "lüg",
+    "english": [
+      "snake"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1878372081",
+    "etymology": {
+      "root_refs": [
+        "lewek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "leukā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "leuka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2662025405"
+        },
+        {
+          "form": "liuka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "659168127"
+        },
+        {
+          "form": "lȳka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lȳk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "lȳg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=leuka%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "leuca"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "LotR/1115",
+      "PE17/121, 160"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "9113830A-FAD1-490A-A739-ED71040E9731",
+    "id": "gwem",
+    "mutation_marker": "",
+    "sindarin": "gwem",
+    "spellings": {},
+    "ipa": "gʷem",
+    "tengwar": "",
+    "cirth": "Qem",
+    "english": [
+      "worm"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gwem",
+      "singular": "",
+      "plural": "gwim"
+    },
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "142112899",
+    "etymology": {
+      "root_refs": [
+        "web"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vembë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/45"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3AF2892A-D7FA-4C12-8A89-7B897C0CEB48",
+    "id": "leweg",
+    "mutation_marker": "",
+    "sindarin": "leweg",
+    "spellings": {},
+    "ipa": "'le.weg",
+    "tengwar": "",
+    "cirth": "leweg",
+    "english": [
+      "worm"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "leweg",
+      "singular": "",
+      "plural": "lewig"
+    },
+    "gender": "",
+    "category": "animal",
+    "ids_chapter": "animals",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2062652693",
+    "etymology": {
+      "root_refs": [
+        "lewek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lewek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "leweg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lewek&off=PE%2CAT%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/160"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "0AE9D1BB-A5EC-462F-B701-CD921BAD3C68",
+    "id": "galadh",
+    "mutation_marker": "",
+    "sindarin": "galadh",
+    "spellings": {},
+    "ipa": "'ga.lað",
+    "tengwar": "",
+    "cirth": "galað",
+    "english": [
+      "tree"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "galadh",
+      "singular": "",
+      "plural": "geledh"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3005081253",
+    "etymology": {
+      "root_refs": [
+        "galad"
+      ],
+      "primitive": {
+        "form": "galadā",
+        "eldamo_id": "1699539933"
+      },
+      "development": [
+        {
+          "form": "galadā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "galada",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "galaða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "galað",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=galada%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "alda"
+    },
+    "conjugation": null,
+    "notes": "Standard word to describe any tree.",
+    "references": [
+      "LB/354",
+      "Let/426",
+      "LotR/1113",
+      "MR/182, 470",
+      "NM/349, 352",
+      "PE17/25, 50, 60, 63, 97, 136, 153",
+      "PE23/136, 139",
+      "RGEO/65",
+      "SA/alda, kal",
+      "UT/267"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "E6AB0B32-B175-469B-B23B-B774B569B32F",
+    "id": "orn",
+    "mutation_marker": "",
+    "sindarin": "orn",
+    "spellings": {},
+    "ipa": "orn",
+    "tengwar": "",
+    "cirth": "oJr",
+    "english": [
+      "tree (tall)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "orn",
+      "singular": "",
+      "plural": "yrn"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3061781529",
+    "etymology": {
+      "root_refs": [
+        "rō/oro"
+      ],
+      "primitive": {
+        "form": "ornē",
+        "eldamo_id": "579121271"
+      },
+      "development": [
+        {
+          "form": "ornē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "orne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "orn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=orne%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "ornë"
+    },
+    "conjugation": null,
+    "notes": "Word used for excurrent trees, that is, a tree with a strong central leader, giving it a tall, straight, relatively narrow form, such as pines, spruces, firs, poplars, and, to a lesser extent, birches. For decurrent trees, use the standard tree word \"galadh\".",
+    "references": [
+      "Let/426",
+      "NM/349",
+      "PE17/25, 50, 84, 112, 153",
+      "RC/425",
+      "SA/neldor, orn",
+      "UT/267",
+      "UTI/Huorns",
+      "VT42/27",
+      "WJI/Taur-i-Melegyrn"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "81FE635C-3796-44B0-A8B3-72EBB7C3DE93",
+    "id": "taur",
+    "mutation_marker": "",
+    "sindarin": "taur",
+    "spellings": {},
+    "ipa": "taur",
+    "tengwar": "",
+    "cirth": "tauJ",
+    "english": [
+      "forest"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "taur",
+      "singular": "",
+      "plural": "toer"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "809570117",
+    "etymology": {
+      "root_refs": [
+        "taw"
+      ],
+      "primitive": {
+        "form": "taurē",
+        "eldamo_id": "21382855"
+      },
+      "development": [
+        {
+          "form": "taurē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "taure",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "tǭre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "taure",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "taur",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "TAW",
+          "gloss": "wood",
+          "type": "root"
+        },
+        {
+          "form": "-(a)rē",
+          "gloss": "",
+          "type": "abstract noun suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tau.re%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "taurë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "LotR/469, 1134",
+      "PE17/82, 115",
+      "PE21/79",
+      "RC/384",
+      "S/123",
+      "SA/taur",
+      "WJ/187",
+      "WJI/Taur-i-Melegyrn, Taur-na-Chardhîn"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3F14309D-6E64-4888-BD6C-D474C2968266",
+    "id": "eryn",
+    "mutation_marker": "",
+    "sindarin": "eryn",
+    "spellings": {},
+    "ipa": "erjn",
+    "tengwar": "",
+    "cirth": "eJür",
+    "english": [
+      "wood, forest of trees"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1635691065",
+    "etymology": {
+      "root_refs": [
+        "rō/oro"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "oronī",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "oroni",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2646655607"
+        },
+        {
+          "form": "oruni",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "œrjni",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "œrjn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "erjn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=oro.ni%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Ancient variant plural of \"orn\" reinterpreted a collective word.",
+    "references": [
+      "PE17/33, 119, 153",
+      "RC/lxv",
+      "UT/281",
+      "VT42/20"
+    ],
+    "hidden": "Unknown suffix -nī (presumably an ancient plural)"
+  },
+  {
+    "uuid": "94A4E002-F35B-433F-A3AE-2B3147FCB36F",
+    "id": "glad",
+    "mutation_marker": "",
+    "sindarin": "glad",
+    "spellings": {},
+    "ipa": "glad",
+    "tengwar": "",
+    "cirth": "glad",
+    "english": [
+      "wood, forest of trees"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "glad",
+      "singular": "",
+      "plural": "glaid"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3692833871",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Probably a loanword from Nandorin",
+    "references": [
+      "UT/153"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8CA047DC-8EC2-4269-B566-E8A00028EA59",
+    "id": "reidh",
+    "mutation_marker": "",
+    "sindarin": "reidh",
+    "spellings": {},
+    "ipa": "reið",
+    "tengwar": "",
+    "cirth": "Jeið",
+    "english": [
+      "stick"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "neologism",
+    "source": "celephinnel",
+    "status": "experimental",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "rud"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rudja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "rodja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "roðja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "roðia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "rœðia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "rœði",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "rœið",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "reið",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RUD",
+          "gloss": "piece of wood",
+          "type": "root"
+        },
+        {
+          "form": "-yă",
+          "gloss": "",
+          "type": "formative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rud.ja&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "A neologism to describe a stick as a simple piece of wood, inspired by Germanic languages Stock, stok, stokk, Romance languages palus, pau, palo, par, Finnish keppi, Japanese 木の棒, Chinese 木棍. Conservative speakers may prefer to use \"golf\".",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "5DD60B9C-E2BD-4EFD-A949-AE50E21D8BEF",
+    "id": "golf",
+    "mutation_marker": "",
+    "sindarin": "golf",
+    "spellings": {},
+    "ipa": "golf",
+    "tengwar": "",
+    "cirth": "golf",
+    "english": [
+      "branch, stick"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "golf",
+      "singular": "",
+      "plural": "gylf"
+    },
+    "gender": "",
+    "category": "vegetation",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2124321787",
+    "etymology": {
+      "root_refs": [
+        "golob"
+      ],
+      "primitive": {
+        "form": "golbā",
+        "eldamo_id": "3506814873"
+      },
+      "development": [
+        {
+          "form": "golbā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "golba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "golva",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "golv",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=golba%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "olba"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/GÓLOB"
     ],
     "hidden": ""
   }
