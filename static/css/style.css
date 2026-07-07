@@ -94,6 +94,19 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
+.word-sense + .word-sense {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--border);
+}
+
+.sense-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink-muted);
+  margin-bottom: 0.5rem;
+}
+
 .word-sindarin {
   font-size: 2.4rem;
   font-weight: 700;

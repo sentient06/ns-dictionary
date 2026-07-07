@@ -13,7 +13,6 @@ import { readFileSync, writeFileSync, mkdirSync, cpSync, existsSync, rmSync } fr
 import { createHash } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { conjugate } from './lib/conjugator.mjs';
-import { csvTextToWords } from './lib/csv-parser.mjs';
 
 const ROOT = dirname(new URL(import.meta.url).pathname);
 const OUT = join(ROOT, 'docs');
@@ -21,7 +20,6 @@ const DATA = join(ROOT, 'data', 'words.json');
 const ROOTS_DATA = join(ROOT, 'data', 'roots.json');
 const MANIFEST_PATH = join(ROOT, '.build-manifest.json');
 const FULL = process.argv.includes('--full');
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTQcRY-S8AOXcFLucMvZ95qyaqMK5rGjYzKgUye5FryhxWhymuzgFgZ-HrdC2sFOcljjgHZSjgPwySE/pub?output=csv';
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -363,7 +361,7 @@ function buildSindarinEnglishList(words) {
       section_id: letter,
       section_title: letter,
       words: byLetter[letter].map(w => ({
-        id: w.uuid, primary: w.sindarin, secondary: w.english.join(', '),
+        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',
       })),
     })),
@@ -393,7 +391,7 @@ function buildEnglishSindarinList(words) {
       section_id: letter,
       section_title: letter,
       words: byLetter[letter].map(e => ({
-        id: e.uuid, primary: e.english_single, secondary: e.sindarin,
+        id: e.id, primary: e.english_single, secondary: e.sindarin,
         grammar: grammarLabel(e), root: '',
       })),
     })),
@@ -417,7 +415,7 @@ function buildByGrammarList(words) {
       section_id: g,
       section_title: g.charAt(0).toUpperCase() + g.slice(1) + 's',
       words: byGrammar[g].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
-        id: w.uuid, primary: w.sindarin, secondary: w.english.join(', '),
+        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',
       })),
     })),
@@ -440,7 +438,7 @@ function buildByCategoryList(words) {
       section_id: c,
       section_title: CATEGORY_LABELS[c] || c,
       words: byCat[c].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
-        id: w.uuid, primary: w.sindarin, secondary: w.english.join(', '),
+        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
         grammar: grammarLabel(w), root: '',
       })),
     })),
@@ -448,19 +446,9 @@ function buildByCategoryList(words) {
 }
 
 
-// ── Fetch & Convert Data ─────────────────────────────────────────────────────
+// ── Load Data ────────────────────────────────────────────────────────────────
 
-console.log('Fetching data from Google Sheets…');
-const csvResponse = await fetch(SHEET_URL);
-if (!csvResponse.ok) {
-  console.error(`Failed to fetch CSV: ${csvResponse.status} ${csvResponse.statusText}`);
-  process.exit(1);
-}
-const csvText = await csvResponse.text();
-const words = csvTextToWords(csvText);
-writeFileSync(DATA, JSON.stringify(words, null, 2) + '\n', 'utf-8');
-console.log(`✓ Fetched ${words.length} words from Google Sheets`);
-
+const words = JSON.parse(readFileSync(DATA, 'utf-8'));
 const roots = JSON.parse(readFileSync(ROOTS_DATA, 'utf-8'));
 const rootsMap = Object.fromEntries(roots.map(r => [r.id, r]));
 const wordTemplate = readTemplate('word');
@@ -481,24 +469,56 @@ if (existsSync(wordsDir)) rmSync(wordsDir, { recursive: true });
 cpSync(join(ROOT, 'static'), OUT, { recursive: true });
 console.log('✓ Copied static assets');
 
+// ── Group Words by Slug (merge homonyms) ─────────────────────────────────────
+
+const wordsBySlug = {};
+for (const word of words) {
+  const slug = word.id;
+  (wordsBySlug[slug] ??= []).push(word);
+}
+
 // ── Build Word Pages ─────────────────────────────────────────────────────────
 
 let built = 0, skipped = 0;
 
-for (const word of words) {
-  const wordJson = JSON.stringify(word);
-  const h = hash(wordJson);
-  const manifestKey = word.uuid || word.id;
-  newManifest[manifestKey] = h;
+for (const [slug, group] of Object.entries(wordsBySlug)) {
+  const groupJson = JSON.stringify(group);
+  const h = hash(groupJson);
+  newManifest[`page:${slug}`] = h;
 
-  if (!FULL && oldManifest[manifestKey] === h) {
+  if (!FULL && oldManifest[`page:${slug}`] === h) {
     skipped++;
     continue;
   }
 
-  const data = prepareWordData(word, rootsMap);
-  const html = render(wordTemplate, data);
-  writeOut(`words/${word.uuid}.html`, html);
+  // Use first entry for shared header data (sindarin, ipa, tengwar, cirth)
+  const first = group[0];
+  const senses = group.map((word, i) => {
+    const senseData = prepareWordData(word, rootsMap);
+    senseData.sense_heading = group.length > 1 ? `Sense ${i + 1}` : '';
+    return senseData;
+  });
+
+  // Format IPA for shared header
+  const rawIpa = first.ipa || '';
+  const ipa_display = rawIpa
+    ? (rawIpa.length === 1 ? `[${rawIpa}]` : `/${rawIpa}/`)
+    : '';
+
+  const pageData = {
+    sindarin: first.sindarin,
+    mutation_marker: first.mutation_marker || '',
+    ipa: ipa_display,
+    tengwar: first.tengwar || '',
+    cirth: first.cirth || '',
+    root: '../',
+    has_alt_spellings: senses[0].has_alt_spellings,
+    alt_spellings: senses[0].alt_spellings,
+    senses,
+  };
+
+  const html = render(wordTemplate, pageData);
+  writeOut(`words/${slug}.html`, html);
   built++;
 }
 
@@ -564,7 +584,7 @@ console.log('✓ Index page built');
 // ── Build Search Page ───────────────────────────────────────────────────────
 
 const searchData = words.map(w => ({
-  id: w.uuid,
+  id: w.id,
   s: w.sindarin,
   e: w.english.join(', '),
   g: grammarLabel(w),
