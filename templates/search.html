@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search — NS Dictionary</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/tengwar.css">
+  <link rel="stylesheet" href="css/cirth.css">
+  <style>
+    .search-box { width: 100%; padding: 0.6rem 1rem; font-family: var(--font-sans);
+      font-size: 0.95rem; border: 2px solid var(--border); border-radius: 4px;
+      background: var(--parchment-light); color: var(--ink); }
+    .search-box:focus { outline: none; border-color: var(--accent); }
+    .search-hint { font-size: 0.78rem; color: var(--ink-muted); margin-top: 0.35rem;
+      font-family: var(--font-sans); }
+    .search-error { color: #a33; font-size: 0.8rem; margin-top: 0.3rem;
+      font-family: var(--font-sans); }
+    .search-status { font-size: 0.8rem; color: var(--ink-muted); margin: 0.8rem 0 0.4rem;
+      font-family: var(--font-sans); }
+    .search-field-toggle { margin: 0.6rem 0; font-family: var(--font-sans); font-size: 0.8rem;
+      color: var(--ink-light); display: flex; gap: 1rem; flex-wrap: wrap; }
+    .search-field-toggle label { cursor: pointer; display: flex; align-items: center; gap: 0.3rem; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <span class="site-title-wrapper">
+      <a href="index.html" class="site-title tengwar">
+        
+      </a>
+      <span>NS Dictionary</span>
+    </span>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </label>
+    <nav class="site-nav">
+      <a href="sindarin-english.html">Sindarin - English</a>
+      <a href="english-sindarin.html">English - Sindarin</a>
+      <a href="by-grammar.html">By Grammar</a>
+      <a href="by-category.html">By Category</a>
+      <a href="search.html">Search</a>
+    </nav>
+  </header>
+  <main class="main-content">
+    <h1 class="page-title">Search</h1>
+    <input type="text" class="search-box" id="q" placeholder="Type a regex pattern…" autofocus>
+    <div class="search-hint">Regular expressions supported — e.g. <code>^gal</code>, <code>th[aeiou]n</code>, <code>tree|wood</code></div>
+    <div class="search-field-toggle">
+      Search in:
+      <label><input type="checkbox" id="fSin" checked> Sindarin</label>
+      <label><input type="checkbox" id="fEng" checked> English</label>
+    </div>
+    <div id="error" class="search-error"></div>
+    <div id="status" class="search-status"></div>
+    <ul id="results" class="word-list"></ul>
+  </main>
+  <footer class="site-footer">
+    NS Dictionary — A Neo-Sindarin Lexicon · Not affiliated with the Tolkien Estate
+  </footer>
+  <script>
+  (function(){
+    var W={{{search_data}}};
+    var q=document.getElementById('q'),res=document.getElementById('results'),
+        err=document.getElementById('error'),stat=document.getElementById('status'),
+        fSin=document.getElementById('fSin'),fEng=document.getElementById('fEng');
+    function run(){
+      var v=q.value; err.textContent=''; stat.textContent=''; res.innerHTML='';
+      if(!v){stat.textContent=W.length+' words total';return;}
+      var re;
+      try{re=new RegExp(v,'i');}catch(e){err.textContent='Invalid regex: '+e.message;return;}
+      var sin=fSin.checked,eng=fEng.checked,hits=[];
+      for(var i=0;i<W.length;i++){
+        var w=W[i],m=false;
+        if(sin&&re.test(w.s))m=true;
+        if(eng&&re.test(w.e))m=true;
+        if(m)hits.push(w);
+      }
+      stat.textContent=hits.length+' of '+W.length+' words';
+      var h='';
+      for(var j=0;j<hits.length;j++){
+        var w=hits[j];
+        h+='<li><span><a href="words/'+w.id+'.html" class="word-entry-sindarin">'+esc(w.s)+'</a> '
+          +'<span class="word-entry-grammar">'+esc(w.g)+'</span></span>'
+          +'<span class="word-entry-english">'+esc(w.e)+'</span></li>';
+      }
+      res.innerHTML=h;
+    }
+    function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+    q.addEventListener('input',run);
+    fSin.addEventListener('change',run);
+    fEng.addEventListener('change',run);
+    run();
+  })();
+  </script>
+</body>
+</html>
