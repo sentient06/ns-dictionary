@@ -5952,7 +5952,7 @@
         {
           "form": "-eg",
           "gloss": "",
-          "type": "diminutive suffix"
+          "type": "singular/diminutive suffix"
         }
       ],
       "quettamorphosis_url": ""
@@ -7934,5 +7934,538 @@
       "RC/433"
     ],
     "hidden": "ndollo"
+  },
+  {
+    "uuid": "55568AEA-73EE-418F-8EB8-F380226A1868",
+    "id": "lheweg",
+    "mutation_marker": "",
+    "sindarin": "lheweg",
+    "spellings": {},
+    "ipa": "'l̥e.weg",
+    "tengwar": "",
+    "cirth": "Leweg",
+    "english": [
+      "ear"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lheweg",
+      "singular": "",
+      "plural": "lhaw"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1079566795",
+    "etymology": {
+      "root_refs": [
+        "slas"
+      ],
+      "primitive": {
+        "form": "slasū",
+        "eldamo_id": "1198561065"
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "lhaw",
+          "gloss": "ears",
+          "type": "plural noun"
+        },
+        {
+          "form": "-eg",
+          "gloss": "",
+          "type": "singular/diminutive suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hlas"
+    },
+    "conjugation": null,
+    "notes": "The singular form is based on a primitive dual inflection, and the plural is based on the ancient plural, so they don't follow standard pluralisation rules.",
+    "references": [
+      "PE17/62, 77",
+      "PE23/136, 139-140",
+      "TT17/33"
+    ],
+    "hidden": "Can't make the evolution work"
+  },
+  {
+    "uuid": "770461E3-6B9D-4361-8F92-58892FFEEF3E",
+    "id": "lhaw",
+    "mutation_marker": "",
+    "sindarin": "lhaw",
+    "spellings": {},
+    "ipa": "l̥aw",
+    "tengwar": "",
+    "cirth": "Law",
+    "english": [
+      "ears (of a person)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lhaw",
+      "singular": "",
+      "plural": "lhaiw"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2837847875",
+    "etymology": {
+      "root_refs": [
+        "slas"
+      ],
+      "primitive": {
+        "form": "slasū",
+        "eldamo_id": "1198561065"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hlaru"
+    },
+    "conjugation": null,
+    "notes": "The singular form is based on a primitive dual inflection, and the plural is based on the ancient plural, so they don't follow standard pluralisation rules.",
+    "references": [
+      "PE17/62, 77",
+      "PE23/136, 139-140",
+      "TT17/33"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "6C5CB3D9-1C08-423B-B1FB-5F5AF8BE9EEB",
+    "id": "hen-d",
+    "mutation_marker": "",
+    "sindarin": "hen(d)",
+    "spellings": {},
+    "ipa": "hend",
+    "tengwar": "",
+    "cirth": "{e\\",
+    "english": [
+      "eye"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hen(d)",
+      "singular": "",
+      "plural": "hin(d)"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1647088037",
+    "etymology": {
+      "root_refs": [
+        "khen"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hen"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/77",
+      "PM/186",
+      "WJ/337"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "955BC4F4-4E39-44CD-8D42-0F879036656B",
+    "id": "hent",
+    "mutation_marker": "",
+    "sindarin": "hent",
+    "spellings": {},
+    "ipa": "hent",
+    "tengwar": "",
+    "cirth": "{ert",
+    "english": [
+      "pair of eyes"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "celephinnel",
+    "status": "experimental",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "This word follows the same pattern of \"lhaw\" (ears) and \"sunt\" (nostrils), in which a primitive dual is fossilised into a modern Sindarin word. As a pair of eyes is as natural as a pair of ears or nostrils, it makes sense to have a dual plural for \"eye\".",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "55069C4A-DEE1-41F1-AA97-550C007572B4",
+    "id": "nem",
+    "mutation_marker": "",
+    "sindarin": "nem",
+    "spellings": {},
+    "ipa": "nim",
+    "tengwar": "",
+    "cirth": "rem",
+    "english": [
+      "nose"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nem",
+      "singular": "",
+      "plural": "nim"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2154350671",
+    "etymology": {
+      "root_refs": [
+        "neñ"
+      ],
+      "primitive": {
+        "form": "neñwi",
+        "eldamo_id": "2039832347"
+      },
+      "development": [
+        {
+          "form": "neŋwi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2233951333"
+        },
+        {
+          "form": "neŋgwi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "neŋgwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "951924569"
+        },
+        {
+          "form": "neŋgwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "nembe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "nemb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "nemm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "nem",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=neNGwi&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-13OH3T7"
+    },
+    "cognates": {
+      "quenya": "nengwe"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/NEÑ-WI"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2B819CA0-9A5F-4B27-8FC1-6743A21502C4",
+    "id": "sunt",
+    "mutation_marker": "",
+    "sindarin": "sunt",
+    "spellings": {},
+    "ipa": "sunt",
+    "tengwar": "",
+    "cirth": "hurt",
+    "english": [
+      "nostrils"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sunt",
+      "singular": "",
+      "plural": "synt"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4013417933",
+    "etymology": {
+      "root_refs": [
+        "sū"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sūmta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "542079381"
+        },
+        {
+          "form": "sumta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2143444883"
+        },
+        {
+          "form": "sunta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "sunt",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "suntʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "sunθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "sunt",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=su%3Am.ta&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-13OH3T7"
+    },
+    "cognates": {
+      "quenya": "nengwe"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GG/10",
+      "GL/50"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "89C23B87-273B-41AE-8872-D49EE88CA460",
+    "id": "bund",
+    "mutation_marker": "mb-",
+    "sindarin": "bund",
+    "spellings": {},
+    "ipa": "bund",
+    "tengwar": "",
+    "cirth": "bu\\",
+    "english": [
+      "snout, nose (of animals)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bund",
+      "singular": "",
+      "plural": "bynd"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "320573233",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "3038151B-0044-4993-A42B-5F8C166F2479",
+    "id": "bund",
+    "mutation_marker": "mb-",
+    "sindarin": "bund",
+    "spellings": {},
+    "ipa": "bund",
+    "tengwar": "",
+    "cirth": "bu\\",
+    "english": [
+      "cape (geography)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bund",
+      "singular": "",
+      "plural": "bynd"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "320573233",
+    "etymology": {
+      "root_refs": [
+        "(m)bud"
+      ],
+      "primitive": {
+        "form": "mbundu",
+        "eldamo_id": "1042677477"
+      },
+      "development": [
+        {
+          "form": "mbundu",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "mbundo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "bundo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bund",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mbundu&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-13OH3T7"
+    },
+    "cognates": {
+      "quenya": "mundo"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/MBUD"
+    ],
+    "hidden": ""
   }
 ]
