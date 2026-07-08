@@ -129,6 +129,11 @@ body {
   font-size: 0.75rem;
   color: var(--ink-muted);
 }
+.footer-updated {
+  margin-top: 0.35rem;
+  font-size: 0.65rem;
+  opacity: 0.6;
+}
 
 /* --- Word Page --- */
 .word-header {

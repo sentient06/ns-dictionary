@@ -21,6 +21,7 @@ const ROOTS_DATA = join(ROOT, 'data', 'roots.json');
 const MANIFEST_PATH = join(ROOT, '.build-manifest.json');
 const FULL = process.argv.includes('--full');
 const SITE_URL = 'https://sindarin.dictionary.elvish.nz';
+const BUILD_DATE = new Date().toISOString().slice(0, 10);
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -34,6 +35,7 @@ function readTemplate(name) {
 
 /** Minimal Mustache-like renderer (handles {{var}}, {{#block}}...{{/block}}) */
 function render(template, data) {
+  data = { build_date: BUILD_DATE, ...data };
   // Handle {{#block}}...{{/block}} (truthy/array sections)
   let result = template.replace(
     /\{\{#([^}]+)\}\}([\s\S]*?)\{\{\/\1\}\}/g,
@@ -506,9 +508,16 @@ let built = 0, skipped = 0;
 for (const [slug, group] of Object.entries(wordsBySlug)) {
   const groupJson = JSON.stringify(group);
   const h = hash(groupJson);
-  newManifest[`page:${slug}`] = h;
 
-  if (!FULL && oldManifest[`page:${slug}`] === h) {
+  // Determine last-modified date: carry forward old date if content unchanged, otherwise today
+  const oldEntry = oldManifest[`page:${slug}`];
+  const oldHash = typeof oldEntry === 'object' ? oldEntry.hash : oldEntry;
+  const oldDate = typeof oldEntry === 'object' ? oldEntry.date : null;
+  const wordDate = (oldHash === h && oldDate) ? oldDate : BUILD_DATE;
+
+  newManifest[`page:${slug}`] = { hash: h, date: wordDate };
+
+  if (!FULL && oldHash === h) {
     skipped++;
     continue;
   }
@@ -541,6 +550,7 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
     alt_spellings: senses[0].alt_spellings,
     meta_description: `${first.sindarin} — ${grammarSummary}. Meaning: ${englishSummary}. Neo-Sindarin dictionary entry with etymology and references.`,
     canonical_url: `${SITE_URL}/words/${slug}.html`,
+    build_date: wordDate,
     senses,
   };
 
