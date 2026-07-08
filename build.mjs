@@ -536,8 +536,8 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
     ? (rawIpa.length === 1 ? `[${rawIpa}]` : `/${rawIpa}/`)
     : '';
 
-  const englishSummary = first.english.join(', ');
-  const grammarSummary = senses[0].grammar || '';
+  const englishSummary = group.map(w => w.english.join(', ')).join('; ');
+  const grammarSummary = [...new Set(senses.map(s => s.grammar).filter(Boolean))].join(', ') || '';
 
   const pageData = {
     sindarin: first.sindarin,
