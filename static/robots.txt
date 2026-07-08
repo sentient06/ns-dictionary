@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sindarin.dictionary.elvish.nz/sitemap.xml
