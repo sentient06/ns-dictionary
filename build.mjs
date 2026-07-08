@@ -304,6 +304,8 @@ function prepareWordData(word, rootsMap) {
     ? (rawIpa.length === 1 ? `[${rawIpa}]` : `/${rawIpa}/`)
     : '';
 
+  const has_roots = resolved_roots.length > 0;
+
   return {
     ...word,
     ipa: ipa_display,
@@ -315,7 +317,7 @@ function prepareWordData(word, rootsMap) {
     source_label: SOURCE_LABELS[word.source] ?? (word.source || ''),
     status_label: STATUS_LABELS[word.status] || '',
     has_etymology: !!(word.etymology && (word.etymology.root_refs?.length || word.etymology.elements?.length || has_primitive || has_development)),
-    has_roots: resolved_roots.length > 0,
+    has_roots,
     resolved_roots,
     has_primitive,
     primitive_form,
@@ -336,6 +338,7 @@ function prepareWordData(word, rootsMap) {
 
     has_references: !!(word.references?.length),
     references_joined: (word.references || []).join(', '),
+    has_etymology_section: !!(has_roots || has_primitive || has_development || word.etymology?.quettamorphosis_url || word.etymology?.elements?.length),
     has_references_section: !!(word.eldamo_id || word.references?.length),
     has_alt_spellings: altSpellings.length > 0,
     alt_spellings: altSpellings,
