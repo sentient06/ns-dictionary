@@ -6910,11 +6910,120 @@
     "tengwar": "",
     "cirth": "blE",
     "english": [
-      "fat (of food)",
+      "fat (of food)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "blê",
+      "singular": "",
+      "plural": "blî"
+    },
+    "gender": "",
+    "category": "substance",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2512514975",
+    "etymology": {
+      "root_refs": [
+        "milig"
+      ],
+      "primitive": {
+        "form": "mḷgo",
+        "eldamo_id": "3755023431"
+      },
+      "development": [
+        {
+          "form": "mligā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1955360003"
+        },
+        {
+          "form": "bligā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "bliga",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "blega",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "bleɣa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bleɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "blēɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4164672875"
+        },
+        {
+          "form": "blē",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mliga%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-1DM4ETD"
+    },
+    "cognates": {
+      "quenya": "millo"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/139"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "B7EC34A1-8C93-41BF-9C92-E0D909A63D1C",
+    "id": "ble",
+    "mutation_marker": "",
+    "sindarin": "blê",
+    "spellings": {},
+    "ipa": "ble:",
+    "tengwar": "",
+    "cirth": "blE",
+    "english": [
       "fatty, oily, greasy"
     ],
     "grammar": [
-      "noun",
       "adjective"
     ],
     "inflection": {
@@ -7162,5 +7271,668 @@
       "QL/74"
     ],
     "hidden": ""
+  },
+  {
+    "uuid": "812EB3A1-BC6C-434E-81DB-2395F41954A5",
+    "id": "laud",
+    "mutation_marker": "",
+    "sindarin": "laud",
+    "spellings": {},
+    "ipa": "laud",
+    "tengwar": "",
+    "cirth": "laud",
+    "english": [
+      "feather"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "laud",
+      "singular": "",
+      "plural": "loed"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3670314355",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "lauto",
+        "eldamo_id": "2041580919"
+      },
+      "development": [
+        {
+          "form": "lauto",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "lǭto",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "lauto",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "laut",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "laud",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lauto&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Reconstructed from \"gwaelod\".",
+    "references": [
+      "PE23/142"
+    ],
+    "hidden": "Roots seem to work with law+tod"
+  },
+  {
+    "uuid": "73F191D1-C4E9-42CA-A74D-F1688E56916D",
+    "id": "pess",
+    "mutation_marker": "",
+    "sindarin": "pess",
+    "spellings": {},
+    "ipa": "pes:",
+    "tengwar": "",
+    "cirth": "peN",
+    "english": [
+      "feather"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "pess",
+      "singular": "",
+      "plural": "pis"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2879755621",
+    "etymology": {
+      "root_refs": [
+        "kwes"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kwess",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "pess",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kwess&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "quessë"
+    },
+    "conjugation": null,
+    "notes": "This word predates \"laud\" because the latter was only published in 2024.",
+    "references": [
+      "GL/63"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "83FF09BC-B0A0-44FE-AE67-51A8770BA154",
+    "id": "fin",
+    "mutation_marker": "",
+    "sindarin": "fîn",
+    "spellings": {},
+    "ipa": "fi:n",
+    "tengwar": "",
+    "cirth": "fiir",
+    "english": [
+      "hair, single hair"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3508880117",
+    "etymology": {
+      "root_refs": [
+        "spin(id)"
+      ],
+      "primitive": {
+        "form": "phini-",
+        "eldamo_id": "1692595585"
+      },
+      "development": [
+        {
+          "form": "spinid",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1789116309"
+        },
+        {
+          "form": "spinī",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "spini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sɸini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "ɸini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "fini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "fin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "fīn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=spinid&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "finë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/17",
+      "PM/362",
+      "SA/fin"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "F8EBDB5D-BAC9-4729-B54D-65C9E53D686D",
+    "id": "find",
+    "mutation_marker": "",
+    "sindarin": "find",
+    "spellings": {},
+    "ipa": "find",
+    "tengwar": "",
+    "cirth": "fi\\",
+    "english": [
+      "hair, tress, long flowing hair"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4060086335",
+    "etymology": {
+      "root_refs": [
+        "spin(id)"
+      ],
+      "primitive": {
+        "form": "spindē",
+        "eldamo_id": "1243973191"
+      },
+      "development": [
+        {
+          "form": "spindē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "spinde",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sɸinde",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "ɸinde",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "finde",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "find",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=spinde%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "findë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/17",
+      "PM/362"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "57CCB57B-3003-45D8-BF46-F835EAD3F45F",
+    "id": "finnel",
+    "mutation_marker": "",
+    "sindarin": "finnel",
+    "spellings": {},
+    "ipa": "fin:el",
+    "tengwar": "",
+    "cirth": "firrel",
+    "english": [
+      "head of hair, fax, mass of long hair"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "finnel",
+      "singular": "",
+      "plural": "finnil"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3954224561",
+    "etymology": {
+      "root_refs": [
+        "spin(id)"
+      ],
+      "primitive": {
+        "form": "spindilā",
+        "eldamo_id": "928797671"
+      },
+      "development": [
+        {
+          "form": "spindilā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "spindila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sɸindila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "ɸindila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "ɸindela",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "findela",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "findel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "finnel",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=spindila%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "findelë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/17, 119, 151"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "0F4B77DA-C731-48AE-83B6-9F563161682D",
+    "id": "finnel",
+    "mutation_marker": "",
+    "sindarin": "finnel",
+    "spellings": {},
+    "ipa": "fin:el",
+    "tengwar": "",
+    "cirth": "firrel",
+    "english": [
+      "having fine or beautiful hair"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "finnel",
+      "singular": "",
+      "plural": "finnil"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3954224561",
+    "etymology": {
+      "root_refs": [
+        "spin(id)"
+      ],
+      "primitive": {
+        "form": "spindilā",
+        "eldamo_id": "928797671"
+      },
+      "development": [
+        {
+          "form": "spindilā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "spindila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sɸindila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "ɸindila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "ɸindela",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "findela",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "findel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "finnel",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=spindila%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "findelë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/17, 119, 151"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "B3BEB96A-1811-4E18-999B-AF2377C5F18B",
+    "id": "doll",
+    "mutation_marker": "",
+    "sindarin": "doll",
+    "spellings": {},
+    "ipa": "dol:",
+    "tengwar": "",
+    "cirth": "doll",
+    "english": [
+      "head"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "doll",
+      "singular": "",
+      "plural": "dyll"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "768614671",
+    "etymology": {
+      "root_refs": [
+        "ndol"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nóla"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/32, 36, 173",
+      "RC/268, 433, 536",
+      "RGEO/66",
+      "SA/dol"
+    ],
+    "hidden": "ndollo"
+  },
+  {
+    "uuid": "F159A58E-2AD1-46B1-A17C-52A1BDC095D2",
+    "id": "doll",
+    "mutation_marker": "",
+    "sindarin": "doll",
+    "spellings": {},
+    "ipa": "dol:",
+    "tengwar": "",
+    "cirth": "doll",
+    "english": [
+      "hill"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "doll",
+      "singular": "",
+      "plural": "dyll"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "768614671",
+    "etymology": {
+      "root_refs": [
+        "ndol"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nóla"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "RC/433"
+    ],
+    "hidden": "ndollo"
   }
 ]
