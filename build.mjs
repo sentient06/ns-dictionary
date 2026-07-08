@@ -20,6 +20,7 @@ const DATA = join(ROOT, 'data', 'words.json');
 const ROOTS_DATA = join(ROOT, 'data', 'roots.json');
 const MANIFEST_PATH = join(ROOT, '.build-manifest.json');
 const FULL = process.argv.includes('--full');
+const SITE_URL = 'https://sindarin.dictionary.elvish.nz';
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -566,6 +567,36 @@ const searchData = words.map(w => ({
 
 writeOut('search.html', render(searchTemplate, { search_data: JSON.stringify(searchData) }));
 console.log('✓ Search page built');
+
+// ── Build Sitemap ────────────────────────────────────────────────────────────
+
+const today = new Date().toISOString().slice(0, 10);
+
+const sitemapEntries = [
+  { loc: '/',                      changefreq: 'weekly',  priority: '1.0' },
+  { loc: '/sindarin-english.html',  changefreq: 'weekly',  priority: '0.8' },
+  { loc: '/english-sindarin.html',  changefreq: 'weekly',  priority: '0.8' },
+  { loc: '/by-grammar.html',       changefreq: 'weekly',  priority: '0.6' },
+  { loc: '/by-category.html',      changefreq: 'weekly',  priority: '0.6' },
+  { loc: '/search.html',           changefreq: 'monthly', priority: '0.5' },
+];
+
+for (const slug of Object.keys(wordsBySlug)) {
+  sitemapEntries.push({ loc: `/words/${slug}.html`, changefreq: 'monthly', priority: '0.7' });
+}
+
+const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapEntries.map(e => `  <url>
+    <loc>${SITE_URL}${e.loc}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>${e.changefreq}</changefreq>
+    <priority>${e.priority}</priority>
+  </url>`).join('\n')}
+</urlset>`;
+
+writeOut('sitemap.xml', sitemapXml);
+console.log(`✓ Sitemap built (${sitemapEntries.length} URLs)`);
 
 // ── Save Manifest ────────────────────────────────────────────────────────────
 
