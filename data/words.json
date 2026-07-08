@@ -748,8 +748,8 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "neologism",
-    "source": "telpefindele",
-    "status": "",
+    "source": "celephinnel",
+    "status": "limited adoption",
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
@@ -865,8 +865,8 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "neologism",
-    "source": "telpefindele",
-    "status": "",
+    "source": "celephinnel",
+    "status": "limited adoption",
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
@@ -8465,6 +8465,604 @@
     "notes": "",
     "references": [
       "Ety/MBUD"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2978AF6C-D0CE-4A6A-B631-8E5A56E5DA8E",
+    "id": "gobem",
+    "mutation_marker": "",
+    "sindarin": "gobem",
+    "spellings": {},
+    "ipa": "'go.bem",
+    "tengwar": "",
+    "cirth": "gobem",
+    "english": [
+      "mouth"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gobem",
+      "singular": "",
+      "plural": "gebim"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3140308267",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Based on Gnomish \"gogail\", and using the same compound elements from Sindarin.",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "DDFA093D-7ED2-4F86-853A-69498C9D947D",
+    "id": "neleg",
+    "mutation_marker": "",
+    "sindarin": "neleg",
+    "spellings": {},
+    "ipa": "'ne.leg",
+    "tengwar": "",
+    "cirth": "releg",
+    "english": [
+      "tooth"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "neleg",
+      "singular": "",
+      "plural": "nelig"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2320145869",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "?",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "nelek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "neleg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nelet"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/NÉL-EK"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "DCBC8FFA-9649-4A8A-83D5-7733D6AC8135",
+    "id": "nel",
+    "mutation_marker": "",
+    "sindarin": "nêl",
+    "spellings": {},
+    "ipa": "ne:l",
+    "tengwar": "",
+    "cirth": "rEl",
+    "english": [
+      "tooth (used in compounds)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nêl",
+      "singular": "",
+      "plural": "nîl"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1132597183",
+    "etymology": {
+      "root_refs": [
+        "nelek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nelek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "981459769"
+        },
+        {
+          "form": "nele",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "nel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "nēl",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nelek&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-13OH3T7"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "This word has no direct attestations. Paul Strack suggests using it as part of compounds. For \"tooth\" noun, use \"neleg\" instead.",
+    "references": [
+      "Ety/NÉL-EK"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "976842F0-361F-4FF3-819E-2317297A746F",
+    "id": "lam",
+    "mutation_marker": "",
+    "sindarin": "lam",
+    "spellings": {},
+    "ipa": "lam",
+    "tengwar": "",
+    "cirth": "lam",
+    "english": [
+      "tongue (organ)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lam",
+      "singular": "",
+      "plural": "lem"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3738278997",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "lambā",
+        "eldamo_id": "869891705"
+      },
+      "development": [
+        {
+          "form": "lambā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lamba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lamb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "lamm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "lam",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lamba%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "lamba"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "452DB9FA-0296-4A7D-9C9A-DBC6197314EB",
+    "id": "lam",
+    "mutation_marker": "",
+    "sindarin": "lam",
+    "spellings": {},
+    "ipa": "lam",
+    "tengwar": "",
+    "cirth": "lam",
+    "english": [
+      "tongue (language)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lam",
+      "singular": "",
+      "plural": "lem"
+    },
+    "gender": "",
+    "category": "speech",
+    "ids_chapter": "speech and language",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3738278997",
+    "etymology": {
+      "root_refs": [
+        "lab"
+      ],
+      "primitive": {
+        "form": "lambē",
+        "eldamo_id": "2695449757"
+      },
+      "development": [
+        {
+          "form": "lambē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lambe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lamb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "lamm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "lam",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lambe%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "lambë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "LotR/307",
+      "PE17/46",
+      "SA/quen",
+      "VT39/15",
+      "WJ/394"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
+    "id": "niel",
+    "mutation_marker": "",
+    "sindarin": "niel",
+    "spellings": {},
+    "ipa": "niel",
+    "tengwar": "",
+    "cirth": "riel",
+    "english": [
+      "fingernail"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "niel",
+      "singular": "",
+      "plural": "nîl"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "celephinnel",
+    "status": "experimental",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nyelek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "njelek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "981459769"
+        },
+        {
+          "form": "njele",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "niele",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "niel",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=njelek&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "nyelet"
+    },
+    "conjugation": null,
+    "notes": "Word coined based on √NYELEK, which is used for a Neo-Quenya word meaning \"fingernail\".",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "5409A7ED-E45F-4C32-A5BB-A8F54F665EE3",
+    "id": "tal",
+    "mutation_marker": "",
+    "sindarin": "tâl",
+    "spellings": {},
+    "ipa": "ta:l",
+    "tengwar": "",
+    "cirth": "tAl",
+    "english": [
+      "foot"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "tâl",
+      "singular": "",
+      "plural": "tail"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2760610079",
+    "etymology": {
+      "root_refs": [
+        "tal"
+      ],
+      "primitive": {
+        "form": "tāl",
+        "eldamo_id": "565904607"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "tál"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE23/136",
+      "SA/celeb, tal",
+      "UT/313"
+    ],
+    "hidden": "Doesn't respect rule 2858643115"
+  },
+  {
+    "uuid": "716D6A95-9D77-4568-888A-58B79E9D34F8",
+    "id": "teleg",
+    "mutation_marker": "",
+    "sindarin": "teleg",
+    "spellings": {},
+    "ipa": "'te.leg",
+    "tengwar": "",
+    "cirth": "teleg",
+    "english": [
+      "leg"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "teleg",
+      "singular": "",
+      "plural": "telig"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "339498513",
+    "etymology": {
+      "root_refs": [
+        "telek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "telekō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "teleko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "telek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "teleg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=teleko%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-1B9YN57"
+    },
+    "cognates": {
+      "quenya": "telco"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "4027E2C5-A371-4182-987E-3267A104B83E",
+    "id": "ogod",
+    "mutation_marker": "",
+    "sindarin": "ogod",
+    "spellings": {},
+    "ipa": "'o.god",
+    "tengwar": "",
+    "cirth": "ogod",
+    "english": [
+      "knee"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ogod",
+      "singular": "",
+      "plural": "edyg"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "113787645",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "From Gnomish \"octha\". Word by Sami Paldanius from the VinQuettaParma Wiki.",
+    "references": [
+      "GL/62"
     ],
     "hidden": ""
   }
