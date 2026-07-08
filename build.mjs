@@ -343,6 +343,8 @@ function prepareWordData(word, rootsMap) {
     has_references_section: !!(word.eldamo_id || word.references?.length),
     has_alt_spellings: altSpellings.length > 0,
     alt_spellings: altSpellings,
+    meta_description: `${word.sindarin} — ${grammarJoined}. Meaning: ${word.english.join(', ')}. Neo-Sindarin dictionary entry with etymology and references.`,
+    canonical_url: `${SITE_URL}/words/${word.id}.html`,
   };
 }
 
@@ -364,6 +366,8 @@ function buildSindarinEnglishList(words) {
   const letters = Object.keys(byLetter).sort();
   return {
     page_title: 'Sindarin - English',
+    meta_description: 'Complete Sindarin to English word list. Browse all Neo-Sindarin entries alphabetically.',
+    canonical_url: `${SITE_URL}/sindarin-english.html`,
     root: '',
     has_letter_nav: true,
     letters: letters.map(l => ({ letter: l })),
@@ -394,6 +398,8 @@ function buildEnglishSindarinList(words) {
   const letters = Object.keys(byLetter).sort();
   return {
     page_title: 'English - Sindarin',
+    meta_description: 'English to Sindarin word list. Look up English words and find their Neo-Sindarin translations.',
+    canonical_url: `${SITE_URL}/english-sindarin.html`,
     root: '',
     has_letter_nav: true,
     letters: letters.map(l => ({ letter: l })),
@@ -419,6 +425,8 @@ function buildByGrammarList(words) {
   const grammars = Object.keys(byGrammar).sort();
   return {
     page_title: 'Words by Grammar',
+    meta_description: 'Neo-Sindarin words organized by grammatical type — nouns, verbs, adjectives, and more.',
+    canonical_url: `${SITE_URL}/by-grammar.html`,
     root: '',
     has_letter_nav: false,
     sections: grammars.map(g => ({
@@ -441,6 +449,8 @@ function buildByCategoryList(words) {
   const cats = Object.keys(byCat).sort();
   return {
     page_title: 'Words by Category',
+    meta_description: 'Neo-Sindarin words organized by semantic category — nature, people, actions, and more.',
+    canonical_url: `${SITE_URL}/by-category.html`,
     page_subtitle: 'Organized by IDS semantic chapters',
     root: '',
     has_letter_nav: false,
@@ -517,6 +527,9 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
     ? (rawIpa.length === 1 ? `[${rawIpa}]` : `/${rawIpa}/`)
     : '';
 
+  const englishSummary = first.english.join(', ');
+  const grammarSummary = senses[0].grammar || '';
+
   const pageData = {
     sindarin: first.sindarin,
     mutation_marker: first.mutation_marker || '',
@@ -526,6 +539,8 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
     root: '../',
     has_alt_spellings: senses[0].has_alt_spellings,
     alt_spellings: senses[0].alt_spellings,
+    meta_description: `${first.sindarin} — ${grammarSummary}. Meaning: ${englishSummary}. Neo-Sindarin dictionary entry with etymology and references.`,
+    canonical_url: `${SITE_URL}/words/${slug}.html`,
     senses,
   };
 
