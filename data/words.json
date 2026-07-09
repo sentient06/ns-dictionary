@@ -1083,7 +1083,7 @@
     "ids_chapter": "grammar",
     "type": "neologism",
     "source": "FJNS",
-    "status": "",
+    "status": "widely used",
     "noldorin_form": "",
     "eldamo_id": "2082970245",
     "etymology": {
@@ -1136,7 +1136,7 @@
     "ids_chapter": "grammar",
     "type": "neologism",
     "source": "FJNS",
-    "status": "",
+    "status": "widely used",
     "noldorin_form": "",
     "eldamo_id": "3696525989",
     "etymology": {
@@ -1189,7 +1189,7 @@
     "ids_chapter": "grammar",
     "type": "neologism",
     "source": "FJNS",
-    "status": "",
+    "status": "widely used",
     "noldorin_form": "",
     "eldamo_id": "3190585991",
     "etymology": {
@@ -1242,7 +1242,7 @@
     "ids_chapter": "grammar",
     "type": "neologism",
     "source": "FJNS",
-    "status": "",
+    "status": "widely used",
     "noldorin_form": "",
     "eldamo_id": "437993289",
     "etymology": {
@@ -7252,7 +7252,7 @@
     "ids_chapter": "the body",
     "type": "neologism",
     "source": "Paul Strack",
-    "status": "",
+    "status": "accepted",
     "noldorin_form": "",
     "eldamo_id": "2406925129",
     "etymology": {
@@ -8493,7 +8493,7 @@
     "ids_chapter": "the body",
     "type": "neologism",
     "source": "Paul Strack",
-    "status": "",
+    "status": "accepted",
     "noldorin_form": "",
     "eldamo_id": "3140308267",
     "etymology": {
@@ -9103,6 +9103,313 @@
     "notes": "From Gnomish \"octha\". Word by Sami Paldanius from the VinQuettaParma Wiki.",
     "references": [
       "GL/62"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "37690141-0A48-42E0-84AF-C541062595EB",
+    "id": "mab",
+    "mutation_marker": "",
+    "sindarin": "mâb",
+    "spellings": {},
+    "ipa": "ma:b",
+    "tengwar": "",
+    "cirth": "mAb",
+    "english": [
+      "hand"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "mâb",
+      "singular": "",
+      "plural": "maib"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2242483507",
+    "etymology": {
+      "root_refs": [
+        "map"
+      ],
+      "primitive": {
+        "form": "makwā",
+        "eldamo_id": "51952391"
+      },
+      "development": [
+        {
+          "form": "mākwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "542079381"
+        },
+        {
+          "form": "makwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "mapā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "mapa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "map",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "mab",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "māb",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "mā",
+          "gloss": "hand",
+          "type": "noun"
+        },
+        {
+          "form": "-kwā",
+          "gloss": "full, whole",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ma%3A.kwa%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "maqua"
+    },
+    "conjugation": null,
+    "notes": "Element in \"Mablung\"",
+    "references": [
+      "PE23/144",
+      "VT47/6-7, 19-20"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "53E09682-68CC-401E-9D07-96279742C28E",
+    "id": "maw",
+    "mutation_marker": "",
+    "sindarin": "maw",
+    "spellings": {},
+    "ipa": "maw",
+    "tengwar": "",
+    "cirth": "maw",
+    "english": [
+      "hand"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "maw",
+      "singular": "",
+      "plural": "maiw"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2215927903",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Archaic word for \"hand\". Use mâb instead, unless if using for poetry or compounds.",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "3D941C9A-A44A-4DC8-A077-F1C5FC2C365E",
+    "id": "maw",
+    "mutation_marker": "",
+    "sindarin": "maw",
+    "spellings": {},
+    "ipa": "maw",
+    "tengwar": "",
+    "cirth": "maw",
+    "english": [
+      "side"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "maw",
+      "singular": "",
+      "plural": "maiw"
+    },
+    "gender": "",
+    "category": "side",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "experimental",
+    "noldorin_form": "",
+    "eldamo_id": "2215927903",
+    "etymology": {
+      "root_refs": [
+        "mah"
+      ],
+      "primitive": {
+        "form": "mā",
+        "eldamo_id": "3230193945"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "má"
+    },
+    "conjugation": null,
+    "notes": "This word serves as compund element for \"forvo\" and \"harvo\", \"right\" and \"left\" sides. So it's implicit it can be used as a sense of \"side\" as well.",
+    "references": [
+      "PE17/162",
+      "VT47/6, 18"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
+    "id": "cam",
+    "mutation_marker": "",
+    "sindarin": "cam",
+    "spellings": {},
+    "ipa": "cam",
+    "tengwar": "",
+    "cirth": "cam",
+    "english": [
+      "hand (cupped)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "cam",
+      "singular": "",
+      "plural": "cem"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2825491331",
+    "etymology": {
+      "root_refs": [
+        "kam"
+      ],
+      "primitive": {
+        "form": "kambā",
+        "eldamo_id": "1163264921"
+      },
+      "development": [
+        {
+          "form": "kambā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kamba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kamb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "kamm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "kam",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KAB",
+          "gloss": "hold, contain, retain, possess, have in hand",
+          "type": "root"
+        },
+        {
+          "form": "-mā",
+          "gloss": "",
+          "type": "instrumental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kam.ba%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "camba"
+    },
+    "conjugation": null,
+    "notes": "Word indicating a hand holding something, either loosely or tightly.",
+    "references": [
+      "SA/cam",
+      "VT47/22",
+      "VT50/22"
     ],
     "hidden": ""
   }
