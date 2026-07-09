@@ -9412,5 +9412,921 @@
       "VT50/22"
     ],
     "hidden": ""
+  },
+  {
+    "uuid": "A7FD3898-018B-46B3-BADA-F5C1FC74177C",
+    "id": "raw",
+    "mutation_marker": "",
+    "sindarin": "raw",
+    "spellings": {},
+    "ipa": "raw",
+    "tengwar": "",
+    "cirth": "Jaw",
+    "english": [
+      "wing"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "raw",
+      "singular": "",
+      "plural": "raiw"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4269013567",
+    "etymology": {
+      "root_refs": [
+        "ram"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ráma"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/63"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "03020EEE-AF45-4AD0-B21B-B4CB9D834E72",
+    "id": "cum",
+    "mutation_marker": "",
+    "sindarin": "cum",
+    "spellings": {},
+    "ipa": "cum",
+    "tengwar": "",
+    "cirth": "kum",
+    "english": [
+      "belly"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "cum",
+      "singular": "",
+      "plural": "cym"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "accepted",
+    "noldorin_form": "",
+    "eldamo_id": "126806607",
+    "etymology": {
+      "root_refs": [
+        "kum"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "cumbo"
+    },
+    "conjugation": null,
+    "notes": "Neologism based on Quenya \"cumbo\".",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "69DC5487-071C-4CEC-A14B-B02494809DF3",
+    "id": "irdh",
+    "mutation_marker": "",
+    "sindarin": "irdh",
+    "spellings": {},
+    "ipa": "irð",
+    "tengwar": "",
+    "cirth": "iJð",
+    "english": [
+      "guts, entrails, bowels, innards"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1411126939",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "ʒirdǝ",
+        "eldamo_id": "1854092437"
+      },
+      "development": [
+        {
+          "form": "ɣirda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2690267141"
+        },
+        {
+          "form": "irda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "ird",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "irð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=GHirda&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/144, 161"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2703D957-8FE3-4D68-B046-A0F6DA5B8EAD",
+    "id": "ach",
+    "mutation_marker": "",
+    "sindarin": "ach",
+    "spellings": {},
+    "ipa": "ax",
+    "tengwar": "",
+    "cirth": "aK",
+    "english": [
+      "neck, upper spine"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ach",
+      "singular": "",
+      "plural": "ech"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1405976901",
+    "etymology": {
+      "root_refs": [
+        "akas"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "akse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "axxe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "axx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "ax",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=akse&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "axë"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/92"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "A9580791-C89A-4199-A15F-1F42B016CEBF",
+    "id": "lang",
+    "mutation_marker": "",
+    "sindarin": "lang",
+    "spellings": {},
+    "ipa": "lang",
+    "tengwar": "",
+    "cirth": "lan",
+    "english": [
+      "passage"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lang",
+      "singular": "",
+      "plural": "leng"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "76179337",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "664F40F5-85EA-4513-9949-764C58B68218",
+    "id": "lang",
+    "mutation_marker": "",
+    "sindarin": "lang",
+    "spellings": {},
+    "ipa": "lang",
+    "tengwar": "",
+    "cirth": "lan",
+    "english": [
+      "neck"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lang",
+      "singular": "",
+      "plural": "leng"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "76179337",
+    "etymology": {
+      "root_refs": [
+        "laʒ"
+      ],
+      "primitive": {
+        "form": "langō",
+        "eldamo_id": "2462373043"
+      },
+      "development": [
+        {
+          "form": "laŋgō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "laŋgo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "laŋg",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "311523279"
+        },
+        {
+          "form": "laŋ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=laNGgo%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "lango"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/92",
+      "RC/536"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5977FB38-E166-4517-B3D9-369D5356B5C1",
+    "id": "tarlang",
+    "mutation_marker": "",
+    "sindarin": "tarlang",
+    "spellings": {},
+    "ipa": "'tar.laŋ",
+    "tengwar": "",
+    "cirth": "taJlan",
+    "english": [
+      "proud, (lit.) stiff neck"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "tarlang",
+      "singular": "",
+      "plural": "terleng"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2776183209",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "tarch",
+          "gloss": "stiff",
+          "type": "adjective"
+        },
+        {
+          "form": "lang",
+          "gloss": "neck",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE17/92, 98",
+      "RC/536"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "D3E32838-5E83-40A1-834C-D000191DAB82",
+    "id": "galf",
+    "mutation_marker": "",
+    "sindarin": "galf",
+    "spellings": {},
+    "ipa": "galf",
+    "tengwar": "",
+    "cirth": "galf",
+    "english": [
+      "back of body"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "galf",
+      "singular": "",
+      "plural": "gelf"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3591368295",
+    "etymology": {
+      "root_refs": [
+        "gal"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/136"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
+    "id": "tith",
+    "mutation_marker": "",
+    "sindarin": "tith",
+    "spellings": {},
+    "ipa": "tiθ",
+    "tengwar": "",
+    "cirth": "tiþ",
+    "english": [
+      "breast(s) (of a woman)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3090075059",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "titté",
+        "eldamo_id": "4273924375"
+      },
+      "development": [
+        {
+          "form": "titté",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "titte",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "tittʰe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "tiθθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "tiθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "tiθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=titte%27&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "titte"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "PE13/154"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "88725EBC-4576-4FA6-B762-BA5C9190378B",
+    "id": "ammos",
+    "mutation_marker": "",
+    "sindarin": "ammos",
+    "spellings": {},
+    "ipa": "am:os",
+    "tengwar": "",
+    "cirth": "ammoh",
+    "english": [
+      "chest"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ammos",
+      "singular": "",
+      "plural": "emmys"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1263784737",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "Unclear etymology, but probably from ~ \"amboss\".",
+    "references": [
+      "PE13/137",
+      "GL/19, 27"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "0D89F5EA-74AD-40CF-8F82-7CB806B3FABB",
+    "id": "hun",
+    "mutation_marker": "",
+    "sindarin": "hûn",
+    "spellings": {},
+    "ipa": "hu:n",
+    "tengwar": "",
+    "cirth": "{Ur",
+    "english": [
+      "heart (organ)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hûn",
+      "singular": "",
+      "plural": "huin"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "430314911",
+    "etymology": {
+      "root_refs": [
+        "kho(n)"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰōn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xōn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "xūn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hūn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81o%3An&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-1P0F5YN"
+    },
+    "cognates": {
+      "quenya": "hón"
+    },
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "Ety/KHŌ-N"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "88CF3036-9C0F-4A80-A702-4E79F392EF7E",
+    "id": "ron",
+    "mutation_marker": "",
+    "sindarin": "rôn",
+    "spellings": {},
+    "ipa": "ro:n",
+    "tengwar": "",
+    "cirth": "JOr",
+    "english": [
+      "liver"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rôn",
+      "singular": "",
+      "plural": "ruin"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1313624043",
+    "etymology": {
+      "root_refs": [
+        "ron"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ron",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "rōn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ron&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-1P0F5YN"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/65"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "E8ADE915-736F-48CB-95AD-0F5CC2AE941C",
+    "id": "sog",
+    "mutation_marker": "",
+    "sindarin": "sog-",
+    "spellings": {},
+    "ipa": "sog",
+    "tengwar": "",
+    "cirth": "hog-",
+    "english": [
+      "drink"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "food and drink",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3233859463",
+    "etymology": {
+      "root_refs": [
+        "suk"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "suk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "sok",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "sog",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=suk&off=D4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "suk-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/SUK",
+      "EtyAC/SUK"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "D484FCD2-19F6-4C70-A4D6-6F82870CE988",
+    "id": "mad",
+    "mutation_marker": "",
+    "sindarin": "mad-",
+    "spellings": {},
+    "ipa": "mad",
+    "tengwar": "",
+    "cirth": "mad-",
+    "english": [
+      "eat"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "food and drink",
+    "ids_chapter": "food and drink",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2481269349",
+    "etymology": {
+      "root_refs": [
+        "mat"
+      ],
+      "primitive": {
+        "form": "mat",
+        "eldamo_id": "848486335"
+      },
+      "development": [
+        {
+          "form": "mat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "mad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mat&off=D4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "mat-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/131, 145"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "476CE22A-BA10-4968-81F2-1983FF39DEDD",
+    "id": "nag",
+    "mutation_marker": "",
+    "sindarin": "nag-",
+    "spellings": {},
+    "ipa": "nag",
+    "tengwar": "",
+    "cirth": "rag-",
+    "english": [
+      "bite"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2084717931",
+    "etymology": {
+      "root_refs": [
+        "nak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "nag",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nak&off=D4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "nak-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/NAK"
+    ],
+    "hidden": ""
   }
 ]
