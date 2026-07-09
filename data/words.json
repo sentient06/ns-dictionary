@@ -10147,7 +10147,7 @@
     "sindarin": "sog-",
     "spellings": {},
     "ipa": "sog",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "hog-",
     "english": [
       "drink"
@@ -10215,7 +10215,7 @@
     "sindarin": "mad-",
     "spellings": {},
     "ipa": "mad",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "mad-",
     "english": [
       "eat"
@@ -10277,7 +10277,7 @@
     "sindarin": "nag-",
     "spellings": {},
     "ipa": "nag",
-    "tengwar": "",
+    "tengwar": "",
     "cirth": "rag-",
     "english": [
       "bite"
@@ -10326,6 +10326,347 @@
     "notes": "",
     "references": [
       "Ety/NAK"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "78E4831C-B8AA-433E-B827-38255C3A0D6D",
+    "id": "lavra",
+    "mutation_marker": "",
+    "sindarin": "lavra-",
+    "spellings": {},
+    "ipa": "'la.vra",
+    "tengwar": "",
+    "cirth": "lavJa-",
+    "english": [
+      "to lap (animal)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2713171143",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "849598BA-9AEE-4218-8849-7E2241EA936D",
+    "id": "lavra",
+    "mutation_marker": "",
+    "sindarin": "lavra-",
+    "spellings": {},
+    "ipa": "'la.vra",
+    "tengwar": "",
+    "cirth": "lavJa-",
+    "english": [
+      "to suck"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2713171143",
+    "etymology": {
+      "root_refs": [
+        "lab"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/53"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
+    "id": "puia",
+    "mutation_marker": "",
+    "sindarin": "puia-",
+    "spellings": {},
+    "ipa": "puia",
+    "tengwar": "",
+    "cirth": "puia-",
+    "english": [
+      "to spit"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "722396735",
+    "etymology": {
+      "root_refs": [
+        "piw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "piuta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "Unclear phonetic development, the Noldorin word is preserved.",
+    "references": [
+      "Ety/PIW"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "296B4D75-4912-4BF2-A663-DDD1FABA8B88",
+    "id": "hich",
+    "mutation_marker": "",
+    "sindarin": "hich-",
+    "spellings": {},
+    "ipa": "hix",
+    "tengwar": "",
+    "cirth": "{iK-",
+    "english": [
+      "to vomit"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3945500149",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "khikh",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "kʰikʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xix",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hix",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "Unclear phonetic development, Paul Strack suggested an ancestral word \"khikh\".",
+    "references": [
+      "PE13/162-163"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "6D285BEC-BF8F-43D3-9745-A2185DF00ED3",
+    "id": "suda",
+    "mutation_marker": "",
+    "sindarin": "súda-",
+    "spellings": {},
+    "ipa": "'su:da",
+    "tengwar": "",
+    "cirth": "hUda-",
+    "english": [
+      "to blow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2847636119",
+    "etymology": {
+      "root_refs": [
+        "sū"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/68",
+      "LT1A/Súlimo"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "A6AFA88C-8E03-4E26-A7C3-5FFCDC2C56CB",
+    "id": "thuia",
+    "mutation_marker": "",
+    "sindarin": "thuia-",
+    "spellings": {},
+    "ipa": "θuia",
+    "tengwar": "",
+    "cirth": "þuia-",
+    "english": [
+      "to breathe"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2545112087",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰuia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θuia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7uia&off=PE%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-SK34Y3"
+    },
+    "cognates": {
+      "quenya": "súya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/THŪ"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "AA6CB329-0F5A-452E-B305-5BD8043BBBB1",
+    "id": "lala",
+    "mutation_marker": "",
+    "sindarin": "lala-",
+    "spellings": {},
+    "ipa": "'la.la",
+    "tengwar": "",
+    "cirth": "lala-",
+    "english": [
+      "to laugh"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4255490933",
+    "etymology": {
+      "root_refs": [
+        "lal"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lala-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/144"
     ],
     "hidden": ""
   }
