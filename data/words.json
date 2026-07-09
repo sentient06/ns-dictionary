@@ -8825,13 +8825,13 @@
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
-    "id": "niel",
+    "id": "nelenc",
     "mutation_marker": "",
-    "sindarin": "niel",
+    "sindarin": "nelenc",
     "spellings": {},
-    "ipa": "niel",
-    "tengwar": "",
-    "cirth": "riel",
+    "ipa": "'ne.lenk",
+    "tengwar": "",
+    "cirth": "relenk",
     "english": [
       "fingernail"
     ],
@@ -8839,16 +8839,16 @@
       "noun"
     ],
     "inflection": {
-      "base": "niel",
+      "base": "nelenc",
       "singular": "",
-      "plural": "nîl"
+      "plural": "nelinc"
     },
     "gender": "",
     "category": "body",
     "ids_chapter": "the body",
     "type": "neologism",
     "source": "celephinnel",
-    "status": "experimental",
+    "status": "reviewed",
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
@@ -8858,15 +8858,47 @@
       "primitive": null,
       "development": [
         {
-          "form": "njelek",
+          "form": "njelekmā",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "981459769"
+          "eldamo_id": "3160359587"
         },
         {
-          "form": "njele",
+          "form": "njelemkā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2143444883"
+        },
+        {
+          "form": "njeleŋkā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "njeleŋka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "njeleŋkʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "njeleŋxa",
           "eldamo_id": ""
         },
         {
@@ -8874,7 +8906,7 @@
           "eldamo_id": "1679623085"
         },
         {
-          "form": "niele",
+          "form": "nieleŋxa",
           "eldamo_id": ""
         },
         {
@@ -8882,12 +8914,20 @@
           "eldamo_id": "813787869"
         },
         {
-          "form": "niel",
+          "form": "nieleŋx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "nieleŋk",
           "eldamo_id": ""
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=njelek&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=njelek.ma%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
       "quenya": "nyelet"
