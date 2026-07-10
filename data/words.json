@@ -5259,7 +5259,7 @@
     "ids_chapter": "agriculture and vegetation",
     "type": "neologism",
     "source": "celephinnel",
-    "status": "experimental",
+    "status": "rejected",
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
@@ -10668,6 +10668,440 @@
     "references": [
       "PE17/144"
     ],
+    "hidden": ""
+  },
+  {
+    "uuid": "11D29988-8AB0-47E5-8027-7AAE984872AF",
+    "id": "cen",
+    "mutation_marker": "",
+    "sindarin": "cen-",
+    "spellings": {},
+    "ipa": "ken",
+    "tengwar": "",
+    "cirth": "ker-",
+    "english": [
+      "see"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1590244863",
+    "etymology": {
+      "root_refs": [
+        "ken"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "cen-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/37, 148, 181"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "36F0535E-F859-483C-938C-3E2286C016D2",
+    "id": "lhassa",
+    "mutation_marker": "",
+    "sindarin": "lhassa-",
+    "spellings": {},
+    "ipa": "'l̥a.sa",
+    "tengwar": "",
+    "cirth": "LaNa-",
+    "english": [
+      "hear"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4258922217",
+    "etymology": {
+      "root_refs": [
+        "slas"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hlar-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/38",
+      "LT2A/Gimli"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "54EC50E8-4488-4F0D-907B-3E74835E7FCA",
+    "id": "ista",
+    "mutation_marker": "",
+    "sindarin": "ista-",
+    "spellings": {},
+    "ipa": "'is.ta",
+    "tengwar": "",
+    "cirth": "ihta-",
+    "english": [
+      "know, have knowledge"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4226423969",
+    "etymology": {
+      "root_refs": [
+        "is"
+      ],
+      "primitive": {
+        "form": "ista-",
+        "eldamo_id": "3570006917"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ista-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/IS",
+      "EtyAC/IS"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
+    "id": "san",
+    "mutation_marker": "",
+    "sindarin": "san-",
+    "spellings": {},
+    "ipa": "san",
+    "tengwar": "",
+    "cirth": "har-",
+    "english": [
+      "think (in an active and analytical way)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "unknown",
+    "status": "accepted",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "san"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sana-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "2B71905D-06EC-4CC3-AFAA-F141A01F0F5D",
+    "id": "geria",
+    "mutation_marker": "",
+    "sindarin": "geria-",
+    "spellings": {},
+    "ipa": "'ge.ria",
+    "tengwar": "",
+    "cirth": "geJia-",
+    "english": [
+      "ponder, think (in a reflective and contemplative way)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1830463167",
+    "etymology": {
+      "root_refs": [
+        "gor"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "gorja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "goria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "gœria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "geria",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gorja&off=D4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-PBYIXN"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "NM/176"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
+    "id": "nautha",
+    "mutation_marker": "",
+    "sindarin": "nautha-",
+    "spellings": {},
+    "ipa": "'naw.θa",
+    "tengwar": "",
+    "cirth": "rauþa-",
+    "english": [
+      "conceive, imagine or create something new with the mind"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2014743631",
+    "etymology": {
+      "root_refs": [
+        "now"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nowtʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "113345945"
+        },
+        {
+          "form": "noutʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "nouθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2476983755"
+        },
+        {
+          "form": "nauθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=now%C5%A7a&off=D4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2CW4PZM5%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19BDAIJ"
+    },
+    "cognates": {
+      "quenya": "nov-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/NOWO"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "564AE595-3B9B-48E8-A30B-B8E65B652ACA",
+    "id": "nuicha",
+    "mutation_marker": "",
+    "sindarin": "nuicha-",
+    "spellings": {},
+    "ipa": "'nui.xa",
+    "tengwar": "",
+    "cirth": "ruiKa-",
+    "english": [
+      "to smell"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3490089389",
+    "etymology": {
+      "root_refs": [
+        "nus"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/61"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "4B75D44A-238F-4715-A15B-1F592F019449",
+    "id": "thosta",
+    "mutation_marker": "",
+    "sindarin": "thosta-",
+    "spellings": {},
+    "ipa": "'θos.ta",
+    "tengwar": "",
+    "cirth": "þohta-",
+    "english": [
+      "to fear"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotions",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "celephinnel",
+    "status": "experimental",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "thos"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰosta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θosta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7os.ta&off=D4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [],
     "hidden": ""
   }
 ]
