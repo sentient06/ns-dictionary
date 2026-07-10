@@ -10932,13 +10932,13 @@
   },
   {
     "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
-    "id": "nautha",
+    "id": "nutha",
     "mutation_marker": "",
-    "sindarin": "nautha-",
+    "sindarin": "nútha-",
     "spellings": {},
-    "ipa": "'naw.θa",
-    "tengwar": "",
-    "cirth": "rauþa-",
+    "ipa": "'nu:.θa",
+    "tengwar": "",
+    "cirth": "rUþa-",
     "english": [
       "conceive, imagine or create something new with the mind"
     ],
@@ -10952,7 +10952,7 @@
     "type": "restored",
     "source": "noldorin",
     "status": "",
-    "noldorin_form": "",
+    "noldorin_form": "nautha-",
     "eldamo_id": "2014743631",
     "etymology": {
       "root_refs": [
@@ -11015,7 +11015,7 @@
     "tengwar": "",
     "cirth": "ruiKa-",
     "english": [
-      "to smell"
+      "smell, to sense smell"
     ],
     "grammar": [
       "verb"
@@ -11059,7 +11059,7 @@
     "tengwar": "",
     "cirth": "þohta-",
     "english": [
-      "to fear"
+      "fear"
     ],
     "grammar": [
       "verb"
@@ -11069,7 +11069,7 @@
     "category": "emotions",
     "ids_chapter": "emotions and values",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "unknown",
     "status": "experimental",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -11102,6 +11102,229 @@
     },
     "notes": "",
     "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "BEA83FA3-F0B6-44F3-B859-21D2AE412875",
+    "id": "gosta",
+    "mutation_marker": "",
+    "sindarin": "gosta-",
+    "spellings": {},
+    "ipa": "'gos.ta",
+    "tengwar": "",
+    "cirth": "gohta-",
+    "english": [
+      "fear exceedingly, be terrified of"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotions",
+    "ids_chapter": "emotions and values",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2888806961",
+    "etymology": {
+      "root_refs": [
+        "gos"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/GOS"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "6C7483CF-F1AB-48D6-A809-E8E0E2A34E66",
+    "id": "thossui",
+    "mutation_marker": "",
+    "sindarin": "thossui",
+    "spellings": {},
+    "ipa": "'θo.sui",
+    "tengwar": "",
+    "cirth": "þoNui-",
+    "english": [
+      "afraid"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "thossui",
+      "singular": "",
+      "plural": "thessui"
+    },
+    "gender": "",
+    "category": "emotions",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "389856391",
+    "etymology": {
+      "root_refs": [
+        "thos"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [
+      "GL/24"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "FC65ECA3-F141-4FDF-91B6-5962101BC453",
+    "id": "lor",
+    "mutation_marker": "",
+    "sindarin": "lor-",
+    "spellings": {},
+    "ipa": "lor",
+    "tengwar": "",
+    "cirth": "loJ-",
+    "english": [
+      "sleep"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1323392803",
+    "etymology": {
+      "root_refs": [
+        "(o)lor"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/54"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3221F068-F87A-4A90-B3E1-7A9F9D09EF98",
+    "id": "lortha",
+    "mutation_marker": "",
+    "sindarin": "lortha-",
+    "spellings": {},
+    "ipa": "'lor.θa",
+    "tengwar": "",
+    "cirth": "loJþa-",
+    "english": [
+      "put to sleep"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1270754831",
+    "etymology": {
+      "root_refs": [
+        "(o)lor"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/54"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "FF7CA91D-1A54-4F21-A0F9-BDE8FB8B85F6",
+    "id": "cuia",
+    "mutation_marker": "",
+    "sindarin": "cuia-",
+    "spellings": {},
+    "ipa": "cuia",
+    "tengwar": "",
+    "cirth": "kuia-",
+    "english": [
+      "live, be alive"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1983781483",
+    "etymology": {
+      "root_refs": [
+        "koy"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Let/448",
+      "LotR/953",
+      "PE17/102"
+    ],
     "hidden": ""
   }
 ]
