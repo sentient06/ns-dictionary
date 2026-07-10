@@ -11473,7 +11473,7 @@
     "tengwar": "",
     "cirth": "dag-",
     "english": [
-      "to kill"
+      "kill"
     ],
     "grammar": [
       "verb"
@@ -11539,7 +11539,7 @@
     "tengwar": "",
     "cirth": "maeþa-",
     "english": [
-      "to fight"
+      "fight"
     ],
     "grammar": [
       "verb"
@@ -11641,7 +11641,7 @@
     "tengwar": "",
     "cirth": "faJa-",
     "english": [
-      "to hunt"
+      "hunt"
     ],
     "grammar": [
       "verb"
@@ -11727,6 +11727,465 @@
       "Ety/SPAR",
       "EtyAC/PHAR"
     ],
+    "hidden": ""
+  },
+  {
+    "uuid": "0391A76A-8F11-4AB5-9FB1-BF9CDEB4BD6C",
+    "id": "dringa",
+    "mutation_marker": "",
+    "sindarin": "dringa-",
+    "spellings": {},
+    "ipa": "'drin.ga",
+    "tengwar": "",
+    "cirth": "dJirga-",
+    "english": [
+      "beat, strike, hit"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3778219153",
+    "etymology": {
+      "root_refs": [
+        "dring"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/DRING",
+      "EtyAC/DRING"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
+    "id": "resta",
+    "mutation_marker": "",
+    "sindarin": "resta-",
+    "spellings": {},
+    "ipa": "'res.ta",
+    "tengwar": "",
+    "cirth": "Jehta-",
+    "english": [
+      "cut"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "rista-",
+    "eldamo_id": "4281316195",
+    "etymology": {
+      "root_refs": [
+        "ris"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ristā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "rista",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "resta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RIS",
+          "gloss": "slash, rip",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "transitive verb suffix, causative"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rista%3A&off=PE%2CDGIAQL%2CT2LWVF%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "rista-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/RIS"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5CD95067-0693-473D-B422-A20B97CCF8EB",
+    "id": "thaetha",
+    "mutation_marker": "",
+    "sindarin": "thaetha-",
+    "spellings": {},
+    "ipa": "'θae.θa",
+    "tengwar": "",
+    "cirth": "þaeþa-",
+    "english": [
+      "split"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "188050745",
+    "etymology": {
+      "root_refs": [
+        "stak"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "E0739FA6-7BF3-45C6-A258-CC8D40359C25",
+    "id": "eitha",
+    "mutation_marker": "",
+    "sindarin": "eitha-",
+    "spellings": {},
+    "ipa": "'ei.θa",
+    "tengwar": "",
+    "cirth": "eiþa-",
+    "english": [
+      "prick with a sharp point, stab"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2731355079",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "E1B24881-9CCC-4624-9522-4C416B36A372",
+    "id": "eitha",
+    "mutation_marker": "",
+    "sindarin": "eitha-",
+    "spellings": {},
+    "ipa": "'ei.θa",
+    "tengwar": "",
+    "cirth": "eiþa-",
+    "english": [
+      "treat with scorn, insult"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2731355079",
+    "etymology": {
+      "root_refs": [
+        "ek"
+      ],
+      "primitive": {
+        "form": "ektā-",
+        "eldamo_id": "1972671923"
+      },
+      "development": [
+        {
+          "form": "ektā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ekta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "ektʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "exθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "eiθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ekta%3A&off=DGIAQL%2CT2LWVF%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "WJ/365"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "9CA4B467-1A62-401B-98C8-BCE44D964556",
+    "id": "gratha",
+    "mutation_marker": "",
+    "sindarin": "gratha-",
+    "spellings": {},
+    "ipa": "'gra.θa",
+    "tengwar": "",
+    "cirth": "graþa-",
+    "english": [
+      "scratch"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "actions",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4043949665",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/42"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "F7CDC8D9-06D5-49FD-AFCF-D18CEDB136BB",
+    "id": "sab",
+    "mutation_marker": "",
+    "sindarin": "sab-",
+    "spellings": {},
+    "ipa": "sab",
+    "tengwar": "",
+    "cirth": "hab-",
+    "english": [
+      "dig"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "453218717",
+    "etymology": {
+      "root_refs": [
+        "sap"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sapa-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/67"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "E994BD33-80EE-46FE-BDEE-5002ED9AB901",
+    "id": "loda",
+    "mutation_marker": "",
+    "sindarin": "loda-",
+    "spellings": {},
+    "ipa": "'lo.da",
+    "tengwar": "",
+    "cirth": "loda-",
+    "english": [
+      "float (swim?)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4219826861",
+    "etymology": {
+      "root_refs": [
+        "lut"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/LUT",
+      "EtyAC/LUT"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "557C1A13-4E91-4C5C-A6FB-41F656A8F520",
+    "id": "gwil",
+    "mutation_marker": "",
+    "sindarin": "gwil-",
+    "spellings": {},
+    "ipa": "gʷil",
+    "tengwar": "",
+    "cirth": "Qil-",
+    "english": [
+      "fly"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "notes": "",
+    "references": [],
     "hidden": ""
   }
 ]
