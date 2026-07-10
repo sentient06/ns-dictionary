@@ -15,8 +15,25 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Erebor';
+  src: url(../erebor/erebor.eot);
+  src:
+    url(../erebor/erebor.eot?#iefix)
+      format("embedded-opentype"),
+    url(../erebor/erebor.woff)
+      format("woff"),
+    url(../erebor/erebor.ttf)
+      format("truetype"),
+    url(../erebor/erebor.svg#Angerth)
+      format("svg");
+
+  font-weight: normal;
+  font-style: normal;
+}
+
 .cirth {
-  font-family: 'Angerth';
+  font-family: 'Erebor';
   line-height: 1.5;
   text-decoration: none;
   font-weight: normal !important;
