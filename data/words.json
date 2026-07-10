@@ -5,7 +5,7 @@
     "mutation_marker": "",
     "sindarin": "ni",
     "spellings": {},
-    "ipa": "ni",
+    "ipa": "nɪ́",
     "tengwar": "",
     "cirth": "ri",
     "english": [
@@ -90,7 +90,7 @@
     "mutation_marker": "",
     "sindarin": "ci",
     "spellings": {},
-    "ipa": "ki",
+    "ipa": "kɪ́",
     "tengwar": "",
     "cirth": "ci",
     "english": [
@@ -177,7 +177,7 @@
     "mutation_marker": "",
     "sindarin": "le",
     "spellings": {},
-    "ipa": "le",
+    "ipa": "lɛ́",
     "tengwar": "",
     "cirth": "le",
     "english": [
@@ -264,7 +264,7 @@
     "mutation_marker": "",
     "sindarin": "te",
     "spellings": {},
-    "ipa": "te",
+    "ipa": "tɛ́",
     "tengwar": "",
     "cirth": "te",
     "english": [
@@ -303,7 +303,7 @@
     "mutation_marker": "",
     "sindarin": "pe",
     "spellings": {},
-    "ipa": "pe",
+    "ipa": "pɛ́",
     "tengwar": "",
     "cirth": "pe",
     "english": [
@@ -384,7 +384,7 @@
     "mutation_marker": "",
     "sindarin": "me",
     "spellings": {},
-    "ipa": "me",
+    "ipa": "mɛ́",
     "tengwar": "",
     "cirth": "me",
     "english": [
@@ -465,7 +465,7 @@
     "mutation_marker": "",
     "sindarin": "-gir",
     "spellings": {},
-    "ipa": "gir",
+    "ipa": "gɪ́r",
     "tengwar": "",
     "cirth": "giJ",
     "english": [
@@ -503,7 +503,7 @@
     "mutation_marker": "",
     "sindarin": "-dhir",
     "spellings": {},
-    "ipa": "ðir",
+    "ipa": "ðɪ́r",
     "tengwar": "",
     "cirth": "ðiJ",
     "english": [
@@ -580,7 +580,7 @@
     "mutation_marker": "",
     "sindarin": "ti",
     "spellings": {},
-    "ipa": "ti",
+    "ipa": "tɪ́",
     "tengwar": "",
     "cirth": "ti",
     "english": [
@@ -655,7 +655,7 @@
     "mutation_marker": "",
     "sindarin": "se",
     "spellings": {},
-    "ipa": "se",
+    "ipa": "sɛ́",
     "tengwar": "",
     "cirth": "he",
     "english": [
@@ -692,7 +692,7 @@
     "mutation_marker": "",
     "sindarin": "sen",
     "spellings": {},
-    "ipa": "sen",
+    "ipa": "sɛ́n",
     "tengwar": "",
     "cirth": "her",
     "english": [
@@ -734,7 +734,7 @@
     "mutation_marker": "",
     "sindarin": "assen",
     "spellings": {},
-    "ipa": "'an.hen",
+    "ipa": "á.sen",
     "tengwar": "",
     "cirth": "aNer",
     "english": [
@@ -771,7 +771,7 @@
     "mutation_marker": "",
     "sindarin": "sa",
     "spellings": {},
-    "ipa": "sa",
+    "ipa": "sá",
     "tengwar": "",
     "cirth": "ha",
     "english": [
@@ -811,7 +811,7 @@
     "mutation_marker": "",
     "sindarin": "san",
     "spellings": {},
-    "ipa": "san",
+    "ipa": "sán",
     "tengwar": "",
     "cirth": "har",
     "english": [
@@ -891,7 +891,7 @@
     "mutation_marker": "",
     "sindarin": "sí",
     "spellings": {},
-    "ipa": "siː",
+    "ipa": "sɪ́ː",
     "tengwar": "",
     "cirth": "hii",
     "english": [
@@ -941,7 +941,7 @@
     "mutation_marker": "",
     "sindarin": "ennas",
     "spellings": {},
-    "ipa": "enːas",
+    "ipa": "ɛ́.nas",
     "tengwar": "",
     "cirth": "errah",
     "english": [
@@ -1174,7 +1174,7 @@
     "mutation_marker": "",
     "sindarin": "mallú",
     "spellings": {},
-    "ipa": "ma.'lu:",
+    "ipa": "ma.'luː",
     "tengwar": "",
     "cirth": "mallU",
     "english": [
@@ -1280,7 +1280,7 @@
     "mutation_marker": "",
     "sindarin": "û",
     "spellings": {},
-    "ipa": "u:",
+    "ipa": "uː",
     "tengwar": "",
     "cirth": "U",
     "english": [
@@ -1327,7 +1327,7 @@
     "mutation_marker": "",
     "sindarin": "pân",
     "spellings": {},
-    "ipa": "pa:n",
+    "ipa": "paːn",
     "tengwar": "",
     "cirth": "pAr",
     "english": [
@@ -1696,7 +1696,7 @@
     "mutation_marker": "",
     "sindarin": "tâd",
     "spellings": {},
-    "ipa": "ta:d",
+    "ipa": "taːd",
     "tengwar": "",
     "cirth": "tAd",
     "english": [
@@ -2244,7 +2244,7 @@
     "mutation_marker": "",
     "sindarin": "tŷg",
     "spellings": {},
-    "ipa": "tj:g",
+    "ipa": "tiːg",
     "tengwar": "",
     "cirth": "tyyg",
     "english": [
@@ -2555,7 +2555,7 @@
     "mutation_marker": "",
     "sindarin": "pîn",
     "spellings": {},
-    "ipa": "pi:n",
+    "ipa": "piːn",
     "tengwar": "",
     "cirth": "piir",
     "english": [
@@ -3009,7 +3009,7 @@
     "mutation_marker": "nd-",
     "sindarin": "dî",
     "spellings": {},
-    "ipa": "di:",
+    "ipa": "diː",
     "tengwar": "",
     "cirth": "dii",
     "english": [
@@ -3184,7 +3184,7 @@
     "mutation_marker": "nd-",
     "sindarin": "dîr",
     "spellings": {},
-    "ipa": "di:r",
+    "ipa": "diːr",
     "tengwar": "",
     "cirth": "diiJ",
     "english": [
@@ -3249,7 +3249,7 @@
     "mutation_marker": "",
     "sindarin": "benn",
     "spellings": {},
-    "ipa": "ben:",
+    "ipa": "ben",
     "tengwar": "",
     "cirth": "berr",
     "english": [
@@ -3407,7 +3407,7 @@
     "mutation_marker": "",
     "sindarin": "hên",
     "spellings": {},
-    "ipa": "he:n",
+    "ipa": "heːn",
     "tengwar": "",
     "cirth": "{Er",
     "english": [
@@ -4190,7 +4190,7 @@
     "mutation_marker": "",
     "sindarin": "hâl",
     "spellings": {},
-    "ipa": "ha:l",
+    "ipa": "haːl",
     "tengwar": "",
     "cirth": "{Al",
     "english": [
@@ -4349,7 +4349,7 @@
     "mutation_marker": "",
     "sindarin": "hû",
     "spellings": {},
-    "ipa": "hu:",
+    "ipa": "huː",
     "tengwar": "",
     "cirth": "{U",
     "english": [
@@ -4646,7 +4646,7 @@
     "mutation_marker": "",
     "sindarin": "lŷg",
     "spellings": {},
-    "ipa": "lj:g",
+    "ipa": "liːg",
     "tengwar": "",
     "cirth": "lüg",
     "english": [
@@ -5434,7 +5434,7 @@
     "mutation_marker": "",
     "sindarin": "iâf",
     "spellings": {},
-    "ipa": "ia:f",
+    "ipa": "iaːf",
     "tengwar": "",
     "cirth": "jAf",
     "english": [
@@ -5742,7 +5742,7 @@
     "mutation_marker": "",
     "sindarin": "rîf",
     "spellings": {},
-    "ipa": "ri:f",
+    "ipa": "riːf",
     "tengwar": "",
     "cirth": "Jiif",
     "english": [
@@ -6012,7 +6012,7 @@
     "mutation_marker": "",
     "sindarin": "thâr",
     "spellings": {},
-    "ipa": "θa:r",
+    "ipa": "θaːr",
     "tengwar": "",
     "cirth": "þAJ",
     "english": [
@@ -6313,7 +6313,7 @@
     "mutation_marker": "",
     "sindarin": "flâd",
     "spellings": {},
-    "ipa": "fla:d",
+    "ipa": "flaːd",
     "tengwar": "",
     "cirth": "flAd",
     "english": [
@@ -6906,7 +6906,7 @@
     "mutation_marker": "",
     "sindarin": "blê",
     "spellings": {},
-    "ipa": "ble:",
+    "ipa": "bleː",
     "tengwar": "",
     "cirth": "blE",
     "english": [
@@ -7017,7 +7017,7 @@
     "mutation_marker": "",
     "sindarin": "blê",
     "spellings": {},
-    "ipa": "ble:",
+    "ipa": "bleː",
     "tengwar": "",
     "cirth": "blE",
     "english": [
@@ -7188,7 +7188,7 @@
     "mutation_marker": "",
     "sindarin": "rass",
     "spellings": {},
-    "ipa": "ras:",
+    "ipa": "rasː",
     "tengwar": "",
     "cirth": "paN",
     "english": [
@@ -7361,7 +7361,7 @@
     "mutation_marker": "",
     "sindarin": "pess",
     "spellings": {},
-    "ipa": "pes:",
+    "ipa": "pes",
     "tengwar": "",
     "cirth": "peN",
     "english": [
@@ -7421,7 +7421,7 @@
     "mutation_marker": "",
     "sindarin": "fîn",
     "spellings": {},
-    "ipa": "fi:n",
+    "ipa": "fiːn",
     "tengwar": "",
     "cirth": "fiir",
     "english": [
@@ -7622,7 +7622,7 @@
     "mutation_marker": "",
     "sindarin": "finnel",
     "spellings": {},
-    "ipa": "fin:el",
+    "ipa": "'fi.nel",
     "tengwar": "",
     "cirth": "firrel",
     "english": [
@@ -7733,7 +7733,7 @@
     "mutation_marker": "",
     "sindarin": "finnel",
     "spellings": {},
-    "ipa": "fin:el",
+    "ipa": "'fi.nel",
     "tengwar": "",
     "cirth": "firrel",
     "english": [
@@ -7844,7 +7844,7 @@
     "mutation_marker": "",
     "sindarin": "doll",
     "spellings": {},
-    "ipa": "dol:",
+    "ipa": "dol",
     "tengwar": "",
     "cirth": "doll",
     "english": [
@@ -7894,7 +7894,7 @@
     "mutation_marker": "",
     "sindarin": "doll",
     "spellings": {},
-    "ipa": "dol:",
+    "ipa": "dol",
     "tengwar": "",
     "cirth": "doll",
     "english": [
@@ -8581,7 +8581,7 @@
     "mutation_marker": "",
     "sindarin": "nêl",
     "spellings": {},
-    "ipa": "ne:l",
+    "ipa": "neːl",
     "tengwar": "",
     "cirth": "rEl",
     "english": [
@@ -8943,7 +8943,7 @@
     "mutation_marker": "",
     "sindarin": "tâl",
     "spellings": {},
-    "ipa": "ta:l",
+    "ipa": "taːl",
     "tengwar": "",
     "cirth": "tAl",
     "english": [
@@ -9112,7 +9112,7 @@
     "mutation_marker": "",
     "sindarin": "mâb",
     "spellings": {},
-    "ipa": "ma:b",
+    "ipa": "maːb",
     "tengwar": "",
     "cirth": "mAb",
     "english": [
@@ -9968,7 +9968,7 @@
     "mutation_marker": "",
     "sindarin": "ammos",
     "spellings": {},
-    "ipa": "am:os",
+    "ipa": "'a.mos",
     "tengwar": "",
     "cirth": "ammoh",
     "english": [
@@ -10012,7 +10012,7 @@
     "mutation_marker": "",
     "sindarin": "hûn",
     "spellings": {},
-    "ipa": "hu:n",
+    "ipa": "huːn",
     "tengwar": "",
     "cirth": "{Ur",
     "english": [
@@ -10088,7 +10088,7 @@
     "mutation_marker": "",
     "sindarin": "rôn",
     "spellings": {},
-    "ipa": "ro:n",
+    "ipa": "roːn",
     "tengwar": "",
     "cirth": "JOr",
     "english": [
@@ -10416,7 +10416,7 @@
     "mutation_marker": "",
     "sindarin": "puia-",
     "spellings": {},
-    "ipa": "puia",
+    "ipa": "puɪja",
     "tengwar": "",
     "cirth": "puia-",
     "english": [
@@ -10528,7 +10528,7 @@
     "mutation_marker": "",
     "sindarin": "súda-",
     "spellings": {},
-    "ipa": "'su:da",
+    "ipa": "'suːda",
     "tengwar": "",
     "cirth": "hUda-",
     "english": [
@@ -10573,7 +10573,7 @@
     "mutation_marker": "",
     "sindarin": "thuia-",
     "spellings": {},
-    "ipa": "θuia",
+    "ipa": "θuɪja",
     "tengwar": "",
     "cirth": "þuia-",
     "english": [
@@ -10936,7 +10936,7 @@
     "mutation_marker": "",
     "sindarin": "nútha-",
     "spellings": {},
-    "ipa": "'nu:.θa",
+    "ipa": "'nuː.θa",
     "tengwar": "",
     "cirth": "rUþa-",
     "english": [
@@ -11324,6 +11324,408 @@
       "Let/448",
       "LotR/953",
       "PE17/102"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1AFD7A0D-476A-4A1F-91F2-6A57E0F97DFA",
+    "id": "fir",
+    "mutation_marker": "",
+    "sindarin": "fir-",
+    "spellings": {},
+    "ipa": "fir",
+    "tengwar": "",
+    "cirth": "fiJ-",
+    "english": [
+      "die (mortals), fade"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1068514143",
+    "etymology": {
+      "root_refs": [
+        "phir"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "LotR/1107"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "49878C37-FF9D-412F-A2EC-59183405124B",
+    "id": "gwanna",
+    "mutation_marker": "",
+    "sindarin": "gwanna-",
+    "spellings": {},
+    "ipa": "'gʷa.na",
+    "tengwar": "",
+    "cirth": "Qarra-",
+    "english": [
+      "die (elves), depart"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3970405233",
+    "etymology": {
+      "root_refs": [
+        "wan"
+      ],
+      "primitive": {
+        "form": "wanta-",
+        "eldamo_id": "3498119651"
+      },
+      "development": [
+        {
+          "form": "wanta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "wantʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "wanθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwanθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "gwanθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "gwanna",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wanta&off=D4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C13OH3T7%2C14ZYNUV%2C16HSN5B%2C19H0Q4R%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-EM1Z87"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/WAN"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5C8CACDC-DEBD-42A2-B969-66D46F652A9E",
+    "id": "dag",
+    "mutation_marker": "nd-",
+    "sindarin": "dag-",
+    "spellings": {},
+    "ipa": "dag",
+    "tengwar": "",
+    "cirth": "dag-",
+    "english": [
+      "to kill"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "346566117",
+    "etymology": {
+      "root_refs": [
+        "ndak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ndak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "dak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "dag",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ndak&off=D4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C13OH3T7%2C14ZYNUV%2C16HSN5B%2C19H0Q4R%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/97, 131, 133",
+      "SA/dagor"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "2801ECAD-B87B-4D18-9639-54C0DF9AC760",
+    "id": "maetha",
+    "mutation_marker": "",
+    "sindarin": "maetha-",
+    "spellings": {},
+    "ipa": "'mɑ́j.θa",
+    "tengwar": "",
+    "cirth": "maeþa-",
+    "english": [
+      "to fight"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2307458309",
+    "etymology": {
+      "root_refs": [
+        "mak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "maktā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "makta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "maktʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "maxθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "maiθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "maeθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "MAK",
+          "gloss": "sword, fight, cleave",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "transitive verb suffix, causative"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=makta&off=D4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C13OH3T7%2C14ZYNUV%2C16HSN5B%2C19H0Q4R%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "mahta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/MAK"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "215D262B-FF7A-436D-81E6-867F74BDE433",
+    "id": "fara",
+    "mutation_marker": "",
+    "sindarin": "fara-",
+    "spellings": {},
+    "ipa": "'fa.ra",
+    "tengwar": "",
+    "cirth": "faJa-",
+    "english": [
+      "to hunt"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2081833297",
+    "etymology": {
+      "root_refs": [
+        "spar"
+      ],
+      "primitive": {
+        "form": "sparā-",
+        "eldamo_id": "477643811"
+      },
+      "development": [
+        {
+          "form": "sparā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "spara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sɸara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "ɸara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "fara",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "SPAR",
+          "gloss": "hunt, pursue",
+          "type": "root"
+        },
+        {
+          "form": "-ā",
+          "gloss": "",
+          "type": "active verbal suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=spara%3A&off=D4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C13OH3T7%2C14ZYNUV%2C16HSN5B%2C19H0Q4R%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "fara-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/SPAR",
+      "EtyAC/PHAR"
     ],
     "hidden": ""
   }
