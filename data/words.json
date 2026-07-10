@@ -7,7 +7,7 @@
     "spellings": {},
     "ipa": "nɪ́",
     "tengwar": "",
-    "cirth": "ri",
+    "cirth": "@l",
     "english": [
       "I"
     ],
@@ -49,7 +49,7 @@
     "spellings": {},
     "ipa": "n",
     "tengwar": "",
-    "cirth": "r",
+    "cirth": "I@",
     "english": [
       "I"
     ],
@@ -92,7 +92,7 @@
     "spellings": {},
     "ipa": "kɪ́",
     "tengwar": "",
-    "cirth": "ci",
+    "cirth": "el",
     "english": [
       "thou",
       "you (singular familiar)"
@@ -135,7 +135,7 @@
     "spellings": {},
     "ipa": "g",
     "tengwar": "",
-    "cirth": "g",
+    "cirth": "Ir",
     "english": [
       "thou",
       "you (singular familiar)"
@@ -179,7 +179,7 @@
     "spellings": {},
     "ipa": "lɛ́",
     "tengwar": "",
-    "cirth": "le",
+    "cirth": "az",
     "english": [
       "thou",
       "you (singular, polite)"
@@ -222,7 +222,7 @@
     "spellings": {},
     "ipa": "l",
     "tengwar": "",
-    "cirth": "l",
+    "cirth": "Ia",
     "english": [
       "thou",
       "you (singular, polite)"
@@ -266,7 +266,7 @@
     "spellings": {},
     "ipa": "tɛ́",
     "tengwar": "",
-    "cirth": "te",
+    "cirth": "8z",
     "english": [
       "he",
       "she",
@@ -305,7 +305,7 @@
     "spellings": {},
     "ipa": "pɛ́",
     "tengwar": "",
-    "cirth": "pe",
+    "cirth": "1z",
     "english": [
       "we (inclusive)"
     ],
@@ -345,7 +345,7 @@
     "spellings": {},
     "ipa": "b",
     "tengwar": "",
-    "cirth": "b",
+    "cirth": "I2",
     "english": [
       "we (inclusive)"
     ],
@@ -386,7 +386,7 @@
     "spellings": {},
     "ipa": "mɛ́",
     "tengwar": "",
-    "cirth": "me",
+    "cirth": "6z",
     "english": [
       "we (exclusive)"
     ],
@@ -426,7 +426,7 @@
     "spellings": {},
     "ipa": "f",
     "tengwar": "",
-    "cirth": "f",
+    "cirth": "I3",
     "english": [
       "we (exclusive)"
     ],
@@ -467,7 +467,7 @@
     "spellings": {},
     "ipa": "gɪ́r",
     "tengwar": "",
-    "cirth": "giJ",
+    "cirth": "IrlR",
     "english": [
       "you (plural, familiar)"
     ],
@@ -505,7 +505,7 @@
     "spellings": {},
     "ipa": "ðɪ́r",
     "tengwar": "",
-    "cirth": "ðiJ",
+    "cirth": "I!lR",
     "english": [
       "you (plural, polite)"
     ],
@@ -543,7 +543,7 @@
     "spellings": {},
     "ipa": "de",
     "tengwar": "",
-    "cirth": "de",
+    "cirth": "9z",
     "english": [
       "you (plural)"
     ],
@@ -582,7 +582,7 @@
     "spellings": {},
     "ipa": "tɪ́",
     "tengwar": "",
-    "cirth": "ti",
+    "cirth": "8l",
     "english": [
       "they"
     ],
@@ -619,7 +619,7 @@
     "spellings": {},
     "ipa": "r",
     "tengwar": "",
-    "cirth": "J",
+    "cirth": "IR",
     "english": [
       "they"
     ],
@@ -657,7 +657,7 @@
     "spellings": {},
     "ipa": "sɛ́",
     "tengwar": "",
-    "cirth": "he",
+    "cirth": "fz",
     "english": [
       "this"
     ],
@@ -694,7 +694,7 @@
     "spellings": {},
     "ipa": "sɛ́n",
     "tengwar": "",
-    "cirth": "her",
+    "cirth": "fz@",
     "english": [
       "this (object)"
     ],
@@ -736,7 +736,7 @@
     "spellings": {},
     "ipa": "á.sen",
     "tengwar": "",
-    "cirth": "aNer",
+    "cirth": "chz@",
     "english": [
       "to this (dative)"
     ],
@@ -773,7 +773,7 @@
     "spellings": {},
     "ipa": "sá",
     "tengwar": "",
-    "cirth": "ha",
+    "cirth": "fc",
     "english": [
       "that"
     ],
@@ -813,7 +813,7 @@
     "spellings": {},
     "ipa": "sán",
     "tengwar": "",
-    "cirth": "har",
+    "cirth": "fc@",
     "english": [
       "that (object)"
     ],
@@ -853,7 +853,7 @@
     "spellings": {},
     "ipa": "'an.han",
     "tengwar": "",
-    "cirth": "ar{ar",
+    "cirth": "c@.c@",
     "english": [
       "to that (dative)"
     ],
@@ -893,7 +893,7 @@
     "spellings": {},
     "ipa": "sɪ́ː",
     "tengwar": "",
-    "cirth": "hii",
+    "cirth": "fll",
     "english": [
       "here"
     ],
@@ -943,7 +943,7 @@
     "spellings": {},
     "ipa": "ɛ́.nas",
     "tengwar": "",
-    "cirth": "errah",
+    "cirth": "z@@cf",
     "english": [
       "there"
     ],
@@ -988,7 +988,7 @@
     "spellings": {},
     "ipa": "man",
     "tengwar": "",
-    "cirth": "mar",
+    "cirth": "6c@",
     "english": [
       "who"
     ],
@@ -1029,7 +1029,7 @@
     "spellings": {},
     "ipa": "man",
     "tengwar": "",
-    "cirth": "mar",
+    "cirth": "6c@",
     "english": [
       "what"
     ],
@@ -1070,7 +1070,7 @@
     "spellings": {},
     "ipa": "'mi.van",
     "tengwar": "",
-    "cirth": "mivar",
+    "cirth": "6l4c@",
     "english": [
       "where, (lit.) in/at what"
     ],
@@ -1123,7 +1123,7 @@
     "spellings": {},
     "ipa": "'na.van",
     "tengwar": "",
-    "cirth": "ravar",
+    "cirth": "@c4c@",
     "english": [
       "where, (lit.) whither, where to"
     ],
@@ -1176,7 +1176,7 @@
     "spellings": {},
     "ipa": "ma.'luː",
     "tengwar": "",
-    "cirth": "mallU",
+    "cirth": "6caaD",
     "english": [
       "when, (lit.) what time"
     ],
@@ -1229,7 +1229,7 @@
     "spellings": {},
     "ipa": "'mo.van",
     "tengwar": "",
-    "cirth": "movar",
+    "cirth": "6b4c@",
     "english": [
       "how, (lit.) by agency of what"
     ],
@@ -1282,7 +1282,7 @@
     "spellings": {},
     "ipa": "uː",
     "tengwar": "",
-    "cirth": "U",
+    "cirth": "D",
     "english": [
       "not"
     ],
@@ -1329,7 +1329,7 @@
     "spellings": {},
     "ipa": "paːn",
     "tengwar": "",
-    "cirth": "pAr",
+    "cirth": "1v@",
     "english": [
       "all, (lit.) whole"
     ],
@@ -1376,7 +1376,7 @@
     "spellings": {},
     "ipa": "il",
     "tengwar": "",
-    "cirth": "il",
+    "cirth": "la",
     "english": [
       "all, (lit.) each, every"
     ],
@@ -1420,7 +1420,7 @@
     "spellings": {},
     "ipa": "la.ew",
     "tengwar": "",
-    "cirth": "laew",
+    "cirth": "aczF",
     "english": [
       "many, (lit.) frequent"
     ],
@@ -1528,7 +1528,7 @@
     "spellings": {},
     "ipa": "no.dui",
     "tengwar": "",
-    "cirth": "rodui",
+    "cirth": "@b9Sl",
     "english": [
       "few, (lit.) countable"
     ],
@@ -1578,7 +1578,7 @@
     "spellings": {},
     "ipa": "'e.gel",
     "tengwar": "",
-    "cirth": "egel",
+    "cirth": "zrza",
     "english": [
       "other"
     ],
@@ -1621,7 +1621,7 @@
     "spellings": {},
     "ipa": "min",
     "tengwar": "",
-    "cirth": "mir",
+    "cirth": "6l@",
     "english": [
       "one"
     ],
@@ -1698,7 +1698,7 @@
     "spellings": {},
     "ipa": "taːd",
     "tengwar": "",
-    "cirth": "tAd",
+    "cirth": "8v9",
     "english": [
       "two"
     ],
@@ -1775,7 +1775,7 @@
     "spellings": {},
     "ipa": "'ne.leð",
     "tengwar": "",
-    "cirth": "releð",
+    "cirth": "@zaz!",
     "english": [
       "three"
     ],
@@ -1857,7 +1857,7 @@
     "spellings": {},
     "ipa": "'ka.nad",
     "tengwar": "",
-    "cirth": "karad",
+    "cirth": "ec@c9",
     "english": [
       "four"
     ],
@@ -1943,7 +1943,7 @@
     "spellings": {},
     "ipa": "'le.ben",
     "tengwar": "",
-    "cirth": "leber",
+    "cirth": "az2z@",
     "english": [
       "five"
     ],
@@ -2013,7 +2013,7 @@
     "spellings": {},
     "ipa": "'da.er",
     "tengwar": "",
-    "cirth": "daeJ",
+    "cirth": "9czR",
     "english": [
       "great, large"
     ],
@@ -2080,7 +2080,7 @@
     "spellings": {},
     "ipa": "borg",
     "tengwar": "",
-    "cirth": "boJg",
+    "cirth": "2bRr",
     "english": [
       "large, big"
     ],
@@ -2123,7 +2123,7 @@
     "spellings": {},
     "ipa": "and",
     "tengwar": "",
-    "cirth": "a\\",
+    "cirth": "ck",
     "english": [
       "long"
     ],
@@ -2198,7 +2198,7 @@
     "spellings": {},
     "ipa": "land",
     "tengwar": "",
-    "cirth": "la\\",
+    "cirth": "ack",
     "english": [
       "wide, broad"
     ],
@@ -2246,7 +2246,7 @@
     "spellings": {},
     "ipa": "tiːg",
     "tengwar": "",
-    "cirth": "tyyg",
+    "cirth": "8☠r",
     "english": [
       "thick"
     ],
@@ -2337,7 +2337,7 @@
     "spellings": {},
     "ipa": "delx",
     "tengwar": "",
-    "cirth": "delK",
+    "cirth": "9zat",
     "english": [
       "dense"
     ],
@@ -2430,7 +2430,7 @@
     "spellings": {},
     "ipa": "luŋ",
     "tengwar": "",
-    "cirth": "lun",
+    "cirth": "aSu",
     "english": [
       "heavy"
     ],
@@ -2493,7 +2493,7 @@
     "spellings": {},
     "ipa": "grond",
     "tengwar": "",
-    "cirth": "gro\\",
+    "cirth": "rRbk",
     "english": [
       "weighty, ponderous"
     ],
@@ -2557,7 +2557,7 @@
     "spellings": {},
     "ipa": "piːn",
     "tengwar": "",
-    "cirth": "piir",
+    "cirth": "1ll@",
     "english": [
       "small"
     ],
@@ -2614,7 +2614,7 @@
     "spellings": {},
     "ipa": "'ti.θen",
     "tengwar": "",
-    "cirth": "tiþer",
+    "cirth": "8l0z@",
     "english": [
       "little, tiny"
     ],
@@ -2720,7 +2720,7 @@
     "spellings": {},
     "ipa": "θent",
     "tengwar": "",
-    "cirth": "þert",
+    "cirth": "0z@8",
     "english": [
       "short"
     ],
@@ -2832,7 +2832,7 @@
     "spellings": {},
     "ipa": "'a.gor",
     "tengwar": "",
-    "cirth": "agoJ",
+    "cirth": "crbR",
     "english": [
       "narrow"
     ],
@@ -2919,7 +2919,7 @@
     "spellings": {},
     "ipa": "fim",
     "tengwar": "",
-    "cirth": "fim",
+    "cirth": "3l6",
     "english": [
       "slim, slender, thin"
     ],
@@ -3011,7 +3011,7 @@
     "spellings": {},
     "ipa": "diː",
     "tengwar": "",
-    "cirth": "dii",
+    "cirth": "9ll",
     "english": [
       "woman (of any kindred)"
     ],
@@ -3058,7 +3058,7 @@
     "spellings": {},
     "ipa": "'a.da.neθ",
     "tengwar": "",
-    "cirth": "adareþ",
+    "cirth": "c9c@z0",
     "english": [
       "woman (mortal)"
     ],
@@ -3114,7 +3114,7 @@
     "spellings": {},
     "ipa": "gʷend",
     "tengwar": "",
-    "cirth": "Qe\\",
+    "cirth": "ozk",
     "english": [
       "maiden, young woman"
     ],
@@ -3186,7 +3186,7 @@
     "spellings": {},
     "ipa": "diːr",
     "tengwar": "",
-    "cirth": "diiJ",
+    "cirth": "9llR",
     "english": [
       "man (of any kindred)"
     ],
@@ -3251,7 +3251,7 @@
     "spellings": {},
     "ipa": "ben",
     "tengwar": "",
-    "cirth": "berr",
+    "cirth": "2z@@",
     "english": [
       "man, as a husband, partner, spouse"
     ],
@@ -3342,7 +3342,7 @@
     "spellings": {},
     "ipa": "'a.dan",
     "tengwar": "",
-    "cirth": "adar",
+    "cirth": "c9c@",
     "english": [
       "man (human being)"
     ],
@@ -3409,7 +3409,7 @@
     "spellings": {},
     "ipa": "heːn",
     "tengwar": "",
-    "cirth": "{Er",
+    "cirth": ".x@",
     "english": [
       "child (young human or offspring)"
     ],
@@ -3510,7 +3510,7 @@
     "spellings": {},
     "ipa": "'her.ves",
     "tengwar": "",
-    "cirth": "{eJveh",
+    "cirth": ".zR4zf",
     "english": [
       "wife, lady"
     ],
@@ -3613,7 +3613,7 @@
     "spellings": {},
     "ipa": "bes",
     "tengwar": "",
-    "cirth": "beN",
+    "cirth": "2zh",
     "english": [
       "wife"
     ],
@@ -3691,7 +3691,7 @@
     "spellings": {},
     "ipa": "'beθ.ril",
     "tengwar": "",
-    "cirth": "beþJil",
+    "cirth": "2z0Rla",
     "english": [
       "spouse (female), married woman"
     ],
@@ -3741,7 +3741,7 @@
     "spellings": {},
     "ipa": "'her.ven",
     "tengwar": "",
-    "cirth": "{eJver",
+    "cirth": ".zR4z@",
     "english": [
       "husband"
     ],
@@ -3865,7 +3865,7 @@
     "spellings": {},
     "ipa": "'beθ.ron",
     "tengwar": "",
-    "cirth": "beþJor",
+    "cirth": "2z0Rb@",
     "english": [
       "spouse (male), married man"
     ],
@@ -3942,7 +3942,7 @@
     "spellings": {},
     "ipa": "'e.mel",
     "tengwar": "",
-    "cirth": "emel",
+    "cirth": "z6za",
     "english": [
       "mother"
     ],
@@ -3989,7 +3989,7 @@
     "spellings": {},
     "ipa": "'a.dar",
     "tengwar": "",
-    "cirth": "adaJ",
+    "cirth": "c9cR",
     "english": [
       "father"
     ],
@@ -4054,7 +4054,7 @@
     "spellings": {},
     "ipa": "'la.van",
     "tengwar": "",
-    "cirth": "lavar",
+    "cirth": "ac4c@",
     "english": [
       "animal"
     ],
@@ -4125,7 +4125,7 @@
     "spellings": {},
     "ipa": "lim",
     "tengwar": "",
-    "cirth": "lim",
+    "cirth": "al6",
     "english": [
       "fish"
     ],
@@ -4192,7 +4192,7 @@
     "spellings": {},
     "ipa": "haːl",
     "tengwar": "",
-    "cirth": "{Al",
+    "cirth": ".va",
     "english": [
       "fish (small)"
     ],
@@ -4275,7 +4275,7 @@
     "spellings": {},
     "ipa": "aew",
     "tengwar": "",
-    "cirth": "aew",
+    "cirth": "czF",
     "english": [
       "bird (small)"
     ],
@@ -4351,7 +4351,7 @@
     "spellings": {},
     "ipa": "huː",
     "tengwar": "",
-    "cirth": "{U",
+    "cirth": ".D",
     "english": [
       "dog"
     ],
@@ -4451,7 +4451,7 @@
     "spellings": {},
     "ipa": "'hu.an",
     "tengwar": "",
-    "cirth": "{uar",
+    "cirth": ".Sc@",
     "english": [
       "hound, great dog"
     ],
@@ -4496,7 +4496,7 @@
     "spellings": {},
     "ipa": "huil",
     "tengwar": "",
-    "cirth": "{uil",
+    "cirth": ".Sla",
     "english": [
       "bitch, female dog"
     ],
@@ -4537,7 +4537,7 @@
     "spellings": {},
     "ipa": "'hu.ar",
     "tengwar": "",
-    "cirth": "{uaJ",
+    "cirth": ".ScR",
     "english": [
       "hound, wild dog"
     ],
@@ -4582,7 +4582,7 @@
     "spellings": {},
     "ipa": "gʷef",
     "tengwar": "",
-    "cirth": "Qef",
+    "cirth": "oz3",
     "english": [
       "louse"
     ],
@@ -4648,7 +4648,7 @@
     "spellings": {},
     "ipa": "liːg",
     "tengwar": "",
-    "cirth": "lüg",
+    "cirth": "a☠r",
     "english": [
       "snake"
     ],
@@ -4737,7 +4737,7 @@
     "spellings": {},
     "ipa": "gʷem",
     "tengwar": "",
-    "cirth": "Qem",
+    "cirth": "oz6",
     "english": [
       "worm"
     ],
@@ -4784,7 +4784,7 @@
     "spellings": {},
     "ipa": "'le.weg",
     "tengwar": "",
-    "cirth": "leweg",
+    "cirth": "azFzr",
     "english": [
       "worm"
     ],
@@ -4842,7 +4842,7 @@
     "spellings": {},
     "ipa": "'ga.lað",
     "tengwar": "",
-    "cirth": "galað",
+    "cirth": "rcac!",
     "english": [
       "tree"
     ],
@@ -4930,7 +4930,7 @@
     "spellings": {},
     "ipa": "orn",
     "tengwar": "",
-    "cirth": "oJr",
+    "cirth": "bR@",
     "english": [
       "tree (tall)"
     ],
@@ -5009,7 +5009,7 @@
     "spellings": {},
     "ipa": "taur",
     "tengwar": "",
-    "cirth": "tauJ",
+    "cirth": "8cSR",
     "english": [
       "forest"
     ],
@@ -5114,7 +5114,7 @@
     "spellings": {},
     "ipa": "erjn",
     "tengwar": "",
-    "cirth": "eJür",
+    "cirth": "zRL@",
     "english": [
       "wood, forest of trees"
     ],
@@ -5203,7 +5203,7 @@
     "spellings": {},
     "ipa": "glad",
     "tengwar": "",
-    "cirth": "glad",
+    "cirth": "rac9",
     "english": [
       "wood, forest of trees"
     ],
@@ -5246,7 +5246,7 @@
     "spellings": {},
     "ipa": "reið",
     "tengwar": "",
-    "cirth": "Jeið",
+    "cirth": "Rzl!",
     "english": [
       "stick"
     ],
@@ -5357,7 +5357,7 @@
     "spellings": {},
     "ipa": "golf",
     "tengwar": "",
-    "cirth": "golf",
+    "cirth": "rba3",
     "english": [
       "branch, stick"
     ],
@@ -5436,7 +5436,7 @@
     "spellings": {},
     "ipa": "iaːf",
     "tengwar": "",
-    "cirth": "jAf",
+    "cirth": "$v3",
     "english": [
       "fruit"
     ],
@@ -5504,7 +5504,7 @@
     "spellings": {},
     "ipa": "'e.reð",
     "tengwar": "",
-    "cirth": "eJeð",
+    "cirth": "zRz!",
     "english": [
       "seed"
     ],
@@ -5578,13 +5578,13 @@
   },
   {
     "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
-    "id": "las-s",
+    "id": "lass",
     "mutation_marker": "",
-    "sindarin": "las(s)",
+    "sindarin": "lass",
     "spellings": {},
     "ipa": "las",
     "tengwar": "",
-    "cirth": "laN",
+    "cirth": "acf{f{",
     "english": [
       "leaf"
     ],
@@ -5592,7 +5592,7 @@
       "noun"
     ],
     "inflection": {
-      "base": "las(s)",
+      "base": "lass",
       "singular": "",
       "plural": "lais"
     },
@@ -5659,7 +5659,7 @@
     "spellings": {},
     "ipa": "θond",
     "tengwar": "",
-    "cirth": "þo\\",
+    "cirth": "0bk",
     "english": [
       "root"
     ],
@@ -5744,7 +5744,7 @@
     "spellings": {},
     "ipa": "riːf",
     "tengwar": "",
-    "cirth": "Jiif",
+    "cirth": "Rll3",
     "english": [
       "bark (of a tree)"
     ],
@@ -5783,7 +5783,7 @@
     "spellings": {},
     "ipa": "loθ",
     "tengwar": "",
-    "cirth": "loþ",
+    "cirth": "ab0",
     "english": [
       "flowers"
     ],
@@ -5864,7 +5864,7 @@
     "spellings": {},
     "ipa": "'e.loθ",
     "tengwar": "",
-    "cirth": "elloþ",
+    "cirth": "zaab0",
     "english": [
       "flower"
     ],
@@ -5917,7 +5917,7 @@
     "spellings": {},
     "ipa": "'lo.θeg",
     "tengwar": "",
-    "cirth": "loþeg",
+    "cirth": "ab0zr",
     "english": [
       "flower, floret, small flower"
     ],
@@ -5973,7 +5973,7 @@
     "spellings": {},
     "ipa": "glae",
     "tengwar": "",
-    "cirth": "glae",
+    "cirth": "racz",
     "english": [
       "grass"
     ],
@@ -6014,7 +6014,7 @@
     "spellings": {},
     "ipa": "θaːr",
     "tengwar": "",
-    "cirth": "þAJ",
+    "cirth": "0vR",
     "english": [
       "grass (stiff)"
     ],
@@ -6098,7 +6098,7 @@
     "spellings": {},
     "ipa": "lisg",
     "tengwar": "",
-    "cirth": "lihg",
+    "cirth": "alfr",
     "english": [
       "reed"
     ],
@@ -6170,7 +6170,7 @@
     "spellings": {},
     "ipa": "nes",
     "tengwar": "",
-    "cirth": "reN",
+    "cirth": "@zh",
     "english": [
       "meadow"
     ],
@@ -6216,7 +6216,7 @@
     "spellings": {},
     "ipa": "raf",
     "tengwar": "",
-    "cirth": "Jap{",
+    "cirth": "Rc1.",
     "english": [
       "rope, cord"
     ],
@@ -6261,7 +6261,7 @@
     "spellings": {},
     "ipa": "'hiθ.lain",
     "tengwar": "",
-    "cirth": "{iþlair",
+    "cirth": ".l0acl@",
     "english": [
       "rope (elvish)"
     ],
@@ -6315,7 +6315,7 @@
     "spellings": {},
     "ipa": "flaːd",
     "tengwar": "",
-    "cirth": "flAd",
+    "cirth": "3av9",
     "english": [
       "skin"
     ],
@@ -6358,7 +6358,7 @@
     "spellings": {},
     "ipa": "r̥o.vaθ",
     "tengwar": "",
-    "cirth": "Rovaþ",
+    "cirth": "Tb4c0",
     "english": [
       "meat, (lit.) \"flesh-food\""
     ],
@@ -6522,7 +6522,7 @@
     "spellings": {},
     "ipa": "af",
     "tengwar": "",
-    "cirth": "af",
+    "cirth": "c1.",
     "english": [
       "cooked food"
     ],
@@ -6592,7 +6592,7 @@
     "spellings": {},
     "ipa": "r̥aw",
     "tengwar": "",
-    "cirth": "Raw",
+    "cirth": "TcF",
     "english": [
       "flesh (of a living body)"
     ],
@@ -6688,7 +6688,7 @@
     "spellings": {},
     "ipa": "'se.reg",
     "tengwar": "",
-    "cirth": "heJeg",
+    "cirth": "fzRzr",
     "english": [
       "blood"
     ],
@@ -6753,7 +6753,7 @@
     "spellings": {},
     "ipa": "asg",
     "tengwar": "",
-    "cirth": "ahg",
+    "cirth": "cfr",
     "english": [
       "bone"
     ],
@@ -6801,7 +6801,7 @@
     "spellings": {},
     "ipa": "θalf",
     "tengwar": "",
-    "cirth": "þalf",
+    "cirth": "0ca1.",
     "english": [
       "grease, fat (noun)"
     ],
@@ -6908,7 +6908,7 @@
     "spellings": {},
     "ipa": "bleː",
     "tengwar": "",
-    "cirth": "blE",
+    "cirth": "2ax",
     "english": [
       "fat (of food)"
     ],
@@ -7019,7 +7019,7 @@
     "spellings": {},
     "ipa": "bleː",
     "tengwar": "",
-    "cirth": "blE",
+    "cirth": "2ax",
     "english": [
       "fatty, oily, greasy"
     ],
@@ -7130,7 +7130,7 @@
     "spellings": {},
     "ipa": "ox",
     "tengwar": "",
-    "cirth": "oK",
+    "cirth": "bt",
     "english": [
       "egg"
     ],
@@ -7190,7 +7190,7 @@
     "spellings": {},
     "ipa": "rasː",
     "tengwar": "",
-    "cirth": "paN",
+    "cirth": "Rch",
     "english": [
       "horn (anatomy)"
     ],
@@ -7239,7 +7239,7 @@
     "spellings": {},
     "ipa": "pimp",
     "tengwar": "",
-    "cirth": "pimp",
+    "cirth": "1l61",
     "english": [
       "tail"
     ],
@@ -7280,7 +7280,7 @@
     "spellings": {},
     "ipa": "laud",
     "tengwar": "",
-    "cirth": "laud",
+    "cirth": "acS9",
     "english": [
       "feather"
     ],
@@ -7363,7 +7363,7 @@
     "spellings": {},
     "ipa": "pes",
     "tengwar": "",
-    "cirth": "peN",
+    "cirth": "1zh",
     "english": [
       "feather"
     ],
@@ -7423,7 +7423,7 @@
     "spellings": {},
     "ipa": "fiːn",
     "tengwar": "",
-    "cirth": "fiir",
+    "cirth": "3ll@",
     "english": [
       "hair, single hair"
     ],
@@ -7532,7 +7532,7 @@
     "spellings": {},
     "ipa": "find",
     "tengwar": "",
-    "cirth": "fi\\",
+    "cirth": "3lk",
     "english": [
       "hair, tress, long flowing hair"
     ],
@@ -7624,7 +7624,7 @@
     "spellings": {},
     "ipa": "'fi.nel",
     "tengwar": "",
-    "cirth": "firrel",
+    "cirth": "3l@@za",
     "english": [
       "head of hair, fax, mass of long hair"
     ],
@@ -7735,7 +7735,7 @@
     "spellings": {},
     "ipa": "'fi.nel",
     "tengwar": "",
-    "cirth": "firrel",
+    "cirth": "3l@@za",
     "english": [
       "having fine or beautiful hair"
     ],
@@ -7846,7 +7846,7 @@
     "spellings": {},
     "ipa": "dol",
     "tengwar": "",
-    "cirth": "doll",
+    "cirth": "9baa",
     "english": [
       "head"
     ],
@@ -7896,7 +7896,7 @@
     "spellings": {},
     "ipa": "dol",
     "tengwar": "",
-    "cirth": "doll",
+    "cirth": "9baa",
     "english": [
       "hill"
     ],
@@ -7943,7 +7943,7 @@
     "spellings": {},
     "ipa": "'l̥e.weg",
     "tengwar": "",
-    "cirth": "Leweg",
+    "cirth": "szFzr",
     "english": [
       "ear"
     ],
@@ -8006,7 +8006,7 @@
     "spellings": {},
     "ipa": "l̥aw",
     "tengwar": "",
-    "cirth": "Law",
+    "cirth": "scF",
     "english": [
       "ears (of a person)"
     ],
@@ -8058,7 +8058,7 @@
     "spellings": {},
     "ipa": "hend",
     "tengwar": "",
-    "cirth": "{e\\",
+    "cirth": ".z@{9{",
     "english": [
       "eye"
     ],
@@ -8107,7 +8107,7 @@
     "spellings": {},
     "ipa": "hent",
     "tengwar": "",
-    "cirth": "{ert",
+    "cirth": ".z@8",
     "english": [
       "pair of eyes"
     ],
@@ -8144,7 +8144,7 @@
     "spellings": {},
     "ipa": "nim",
     "tengwar": "",
-    "cirth": "rem",
+    "cirth": "@z6",
     "english": [
       "nose"
     ],
@@ -8255,7 +8255,7 @@
     "spellings": {},
     "ipa": "sunt",
     "tengwar": "",
-    "cirth": "hurt",
+    "cirth": "fS@8",
     "english": [
       "nostrils"
     ],
@@ -8356,7 +8356,7 @@
     "spellings": {},
     "ipa": "bund",
     "tengwar": "",
-    "cirth": "bu\\",
+    "cirth": "2Sk",
     "english": [
       "snout, nose (of animals)"
     ],
@@ -8397,7 +8397,7 @@
     "spellings": {},
     "ipa": "bund",
     "tengwar": "",
-    "cirth": "bu\\",
+    "cirth": "2Sk",
     "english": [
       "cape (geography)"
     ],
@@ -8476,7 +8476,7 @@
     "spellings": {},
     "ipa": "'go.bem",
     "tengwar": "",
-    "cirth": "gobem",
+    "cirth": "rb2z6",
     "english": [
       "mouth"
     ],
@@ -8517,7 +8517,7 @@
     "spellings": {},
     "ipa": "'ne.leg",
     "tengwar": "",
-    "cirth": "releg",
+    "cirth": "@zazr",
     "english": [
       "tooth"
     ],
@@ -8583,7 +8583,7 @@
     "spellings": {},
     "ipa": "neːl",
     "tengwar": "",
-    "cirth": "rEl",
+    "cirth": "@xa",
     "english": [
       "tooth (used in compounds)"
     ],
@@ -8657,7 +8657,7 @@
     "spellings": {},
     "ipa": "lam",
     "tengwar": "",
-    "cirth": "lam",
+    "cirth": "ac6",
     "english": [
       "tongue (organ)"
     ],
@@ -8740,7 +8740,7 @@
     "spellings": {},
     "ipa": "lam",
     "tengwar": "",
-    "cirth": "lam",
+    "cirth": "ac6",
     "english": [
       "tongue (language)"
     ],
@@ -8831,7 +8831,7 @@
     "spellings": {},
     "ipa": "'ne.lenk",
     "tengwar": "",
-    "cirth": "relenk",
+    "cirth": "@zazue",
     "english": [
       "fingernail"
     ],
@@ -8945,7 +8945,7 @@
     "spellings": {},
     "ipa": "taːl",
     "tengwar": "",
-    "cirth": "tAl",
+    "cirth": "8va",
     "english": [
       "foot"
     ],
@@ -8997,7 +8997,7 @@
     "spellings": {},
     "ipa": "'te.leg",
     "tengwar": "",
-    "cirth": "teleg",
+    "cirth": "8zazr",
     "english": [
       "leg"
     ],
@@ -9071,7 +9071,7 @@
     "spellings": {},
     "ipa": "'o.god",
     "tengwar": "",
-    "cirth": "ogod",
+    "cirth": "brb9",
     "english": [
       "knee"
     ],
@@ -9114,7 +9114,7 @@
     "spellings": {},
     "ipa": "maːb",
     "tengwar": "",
-    "cirth": "mAb",
+    "cirth": "6v2",
     "english": [
       "hand"
     ],
@@ -9229,7 +9229,7 @@
     "spellings": {},
     "ipa": "maw",
     "tengwar": "",
-    "cirth": "maw",
+    "cirth": "6cF",
     "english": [
       "hand"
     ],
@@ -9270,7 +9270,7 @@
     "spellings": {},
     "ipa": "maw",
     "tengwar": "",
-    "cirth": "maw",
+    "cirth": "6cF",
     "english": [
       "side"
     ],
@@ -9321,7 +9321,7 @@
     "spellings": {},
     "ipa": "cam",
     "tengwar": "",
-    "cirth": "cam",
+    "cirth": "ec6",
     "english": [
       "hand (cupped)"
     ],
@@ -9421,7 +9421,7 @@
     "spellings": {},
     "ipa": "raw",
     "tengwar": "",
-    "cirth": "Jaw",
+    "cirth": "RcF",
     "english": [
       "wing"
     ],
@@ -9468,7 +9468,7 @@
     "spellings": {},
     "ipa": "cum",
     "tengwar": "",
-    "cirth": "kum",
+    "cirth": "eS6",
     "english": [
       "belly"
     ],
@@ -9513,7 +9513,7 @@
     "spellings": {},
     "ipa": "irð",
     "tengwar": "",
-    "cirth": "iJð",
+    "cirth": "lR!",
     "english": [
       "guts, entrails, bowels, innards"
     ],
@@ -9584,7 +9584,7 @@
     "spellings": {},
     "ipa": "ax",
     "tengwar": "",
-    "cirth": "aK",
+    "cirth": "ct",
     "english": [
       "neck, upper spine"
     ],
@@ -9660,7 +9660,7 @@
     "spellings": {},
     "ipa": "lang",
     "tengwar": "",
-    "cirth": "lan",
+    "cirth": "acu",
     "english": [
       "passage"
     ],
@@ -9701,7 +9701,7 @@
     "spellings": {},
     "ipa": "lang",
     "tengwar": "",
-    "cirth": "lan",
+    "cirth": "acu",
     "english": [
       "neck"
     ],
@@ -9781,7 +9781,7 @@
     "spellings": {},
     "ipa": "'tar.laŋ",
     "tengwar": "",
-    "cirth": "taJlan",
+    "cirth": "8cRacu",
     "english": [
       "proud, (lit.) stiff neck"
     ],
@@ -9836,7 +9836,7 @@
     "spellings": {},
     "ipa": "galf",
     "tengwar": "",
-    "cirth": "galf",
+    "cirth": "rca3",
     "english": [
       "back of body"
     ],
@@ -9881,7 +9881,7 @@
     "spellings": {},
     "ipa": "tiθ",
     "tengwar": "",
-    "cirth": "tiþ",
+    "cirth": "8l0",
     "english": [
       "breast(s) (of a woman)"
     ],
@@ -9970,7 +9970,7 @@
     "spellings": {},
     "ipa": "'a.mos",
     "tengwar": "",
-    "cirth": "ammoh",
+    "cirth": "c66bf",
     "english": [
       "chest"
     ],
@@ -10014,7 +10014,7 @@
     "spellings": {},
     "ipa": "huːn",
     "tengwar": "",
-    "cirth": "{Ur",
+    "cirth": ".D@",
     "english": [
       "heart (organ)"
     ],
@@ -10090,7 +10090,7 @@
     "spellings": {},
     "ipa": "roːn",
     "tengwar": "",
-    "cirth": "JOr",
+    "cirth": "Rn@",
     "english": [
       "liver"
     ],
@@ -10148,7 +10148,7 @@
     "spellings": {},
     "ipa": "sog",
     "tengwar": "",
-    "cirth": "hog-",
+    "cirth": "fbrI",
     "english": [
       "drink"
     ],
@@ -10216,7 +10216,7 @@
     "spellings": {},
     "ipa": "mad",
     "tengwar": "",
-    "cirth": "mad-",
+    "cirth": "6c9I",
     "english": [
       "eat"
     ],
@@ -10278,7 +10278,7 @@
     "spellings": {},
     "ipa": "nag",
     "tengwar": "",
-    "cirth": "rag-",
+    "cirth": "@crI",
     "english": [
       "bite"
     ],
@@ -10337,7 +10337,7 @@
     "spellings": {},
     "ipa": "'la.vra",
     "tengwar": "",
-    "cirth": "lavJa-",
+    "cirth": "ac4RcI",
     "english": [
       "lap (animal)"
     ],
@@ -10374,7 +10374,7 @@
     "spellings": {},
     "ipa": "'la.vra",
     "tengwar": "",
-    "cirth": "lavJa-",
+    "cirth": "ac4RcI",
     "english": [
       "suck"
     ],
@@ -10418,7 +10418,7 @@
     "spellings": {},
     "ipa": "puɪja",
     "tengwar": "",
-    "cirth": "puia-",
+    "cirth": "1SlcI",
     "english": [
       "spit"
     ],
@@ -10464,7 +10464,7 @@
     "spellings": {},
     "ipa": "hix",
     "tengwar": "",
-    "cirth": "{iK-",
+    "cirth": ".ltI",
     "english": [
       "vomit"
     ],
@@ -10530,7 +10530,7 @@
     "spellings": {},
     "ipa": "'suːda",
     "tengwar": "",
-    "cirth": "hUda-",
+    "cirth": "fD9cI",
     "english": [
       "blow"
     ],
@@ -10575,7 +10575,7 @@
     "spellings": {},
     "ipa": "θuɪja",
     "tengwar": "",
-    "cirth": "þuia-",
+    "cirth": "0SlcI",
     "english": [
       "breathe"
     ],
@@ -10632,7 +10632,7 @@
     "spellings": {},
     "ipa": "'la.la",
     "tengwar": "",
-    "cirth": "lala-",
+    "cirth": "acacI",
     "english": [
       "laugh"
     ],
@@ -10678,7 +10678,7 @@
     "spellings": {},
     "ipa": "ken",
     "tengwar": "",
-    "cirth": "ker-",
+    "cirth": "ez@I",
     "english": [
       "see"
     ],
@@ -10724,7 +10724,7 @@
     "spellings": {},
     "ipa": "'l̥a.sa",
     "tengwar": "",
-    "cirth": "LaNa-",
+    "cirth": "schcI",
     "english": [
       "hear"
     ],
@@ -10771,7 +10771,7 @@
     "spellings": {},
     "ipa": "'is.ta",
     "tengwar": "",
-    "cirth": "ihta-",
+    "cirth": "lf8cI",
     "english": [
       "know, have knowledge"
     ],
@@ -10821,7 +10821,7 @@
     "spellings": {},
     "ipa": "san",
     "tengwar": "",
-    "cirth": "har-",
+    "cirth": "fc@I",
     "english": [
       "think (in an active and analytical way)"
     ],
@@ -10865,7 +10865,7 @@
     "spellings": {},
     "ipa": "'ge.ria",
     "tengwar": "",
-    "cirth": "geJia-",
+    "cirth": "rzRlcI",
     "english": [
       "ponder, think (in a reflective and contemplative way)"
     ],
@@ -10938,7 +10938,7 @@
     "spellings": {},
     "ipa": "'nuː.θa",
     "tengwar": "",
-    "cirth": "rUþa-",
+    "cirth": "@D0cI",
     "english": [
       "conceive, imagine or create something new with the mind"
     ],
@@ -11013,7 +11013,7 @@
     "spellings": {},
     "ipa": "'nui.xa",
     "tengwar": "",
-    "cirth": "ruiKa-",
+    "cirth": "@SltcI",
     "english": [
       "smell, to sense smell"
     ],
@@ -11057,7 +11057,7 @@
     "spellings": {},
     "ipa": "'θos.ta",
     "tengwar": "",
-    "cirth": "þohta-",
+    "cirth": "0bf8cI",
     "english": [
       "fear"
     ],
@@ -11112,7 +11112,7 @@
     "spellings": {},
     "ipa": "'gos.ta",
     "tengwar": "",
-    "cirth": "gohta-",
+    "cirth": "rbf8cI",
     "english": [
       "fear exceedingly, be terrified of"
     ],
@@ -11156,7 +11156,7 @@
     "spellings": {},
     "ipa": "'θo.sui",
     "tengwar": "",
-    "cirth": "þoNui-",
+    "cirth": "0bhSlI",
     "english": [
       "afraid"
     ],
@@ -11201,7 +11201,7 @@
     "spellings": {},
     "ipa": "lor",
     "tengwar": "",
-    "cirth": "loJ-",
+    "cirth": "abRI",
     "english": [
       "sleep"
     ],
@@ -11245,7 +11245,7 @@
     "spellings": {},
     "ipa": "'lor.θa",
     "tengwar": "",
-    "cirth": "loJþa-",
+    "cirth": "abR0cI",
     "english": [
       "put to sleep"
     ],
@@ -11289,7 +11289,7 @@
     "spellings": {},
     "ipa": "cuia",
     "tengwar": "",
-    "cirth": "kuia-",
+    "cirth": "eSlcI",
     "english": [
       "live, be alive"
     ],
@@ -11335,7 +11335,7 @@
     "spellings": {},
     "ipa": "fir",
     "tengwar": "",
-    "cirth": "fiJ-",
+    "cirth": "3lRI",
     "english": [
       "die (mortals), fade"
     ],
@@ -11379,7 +11379,7 @@
     "spellings": {},
     "ipa": "'gʷa.na",
     "tengwar": "",
-    "cirth": "Qarra-",
+    "cirth": "oc@@cI",
     "english": [
       "die (elves), depart"
     ],
@@ -11471,7 +11471,7 @@
     "spellings": {},
     "ipa": "dag",
     "tengwar": "",
-    "cirth": "dag-",
+    "cirth": "9crI",
     "english": [
       "kill"
     ],
@@ -11537,7 +11537,7 @@
     "spellings": {},
     "ipa": "'mɑ́j.θa",
     "tengwar": "",
-    "cirth": "maeþa-",
+    "cirth": "6cz0cI",
     "english": [
       "fight"
     ],
@@ -11639,7 +11639,7 @@
     "spellings": {},
     "ipa": "'fa.ra",
     "tengwar": "",
-    "cirth": "faJa-",
+    "cirth": "3cRcI",
     "english": [
       "hunt"
     ],
@@ -11737,7 +11737,7 @@
     "spellings": {},
     "ipa": "'drin.ga",
     "tengwar": "",
-    "cirth": "dJirga-",
+    "cirth": "9RldcI",
     "english": [
       "beat, strike, hit"
     ],
@@ -11782,7 +11782,7 @@
     "spellings": {},
     "ipa": "'res.ta",
     "tengwar": "",
-    "cirth": "Jehta-",
+    "cirth": "Rzf8cI",
     "english": [
       "cut"
     ],
@@ -11860,7 +11860,7 @@
     "spellings": {},
     "ipa": "'θae.θa",
     "tengwar": "",
-    "cirth": "þaeþa-",
+    "cirth": "0cz0cI",
     "english": [
       "split"
     ],
@@ -11902,7 +11902,7 @@
     "spellings": {},
     "ipa": "'ei.θa",
     "tengwar": "",
-    "cirth": "eiþa-",
+    "cirth": "zl0cI",
     "english": [
       "prick with a sharp point, stab"
     ],
@@ -11942,7 +11942,7 @@
     "spellings": {},
     "ipa": "'ei.θa",
     "tengwar": "",
-    "cirth": "eiþa-",
+    "cirth": "zl0cI",
     "english": [
       "treat with scorn, insult"
     ],
@@ -12026,7 +12026,7 @@
     "spellings": {},
     "ipa": "'gra.θa",
     "tengwar": "",
-    "cirth": "graþa-",
+    "cirth": "rRc0cI",
     "english": [
       "scratch"
     ],
@@ -12068,7 +12068,7 @@
     "spellings": {},
     "ipa": "sab",
     "tengwar": "",
-    "cirth": "hab-",
+    "cirth": "fc2I",
     "english": [
       "dig"
     ],
@@ -12114,7 +12114,7 @@
     "spellings": {},
     "ipa": "'lo.da",
     "tengwar": "",
-    "cirth": "loda-",
+    "cirth": "ab9cI",
     "english": [
       "float (swim?)"
     ],
@@ -12159,7 +12159,7 @@
     "spellings": {},
     "ipa": "gʷil",
     "tengwar": "",
-    "cirth": "Qil-",
+    "cirth": "olaI",
     "english": [
       "fly"
     ],
