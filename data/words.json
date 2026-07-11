@@ -10863,7 +10863,7 @@
     "mutation_marker": "",
     "sindarin": "geria-",
     "spellings": {},
-    "ipa": "'ge.ria",
+    "ipa": "'ge.rɪja",
     "tengwar": "",
     "cirth": "rzRlcI",
     "english": [
@@ -12168,13 +12168,755 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "",
-    "ids_chapter": "",
-    "type": "",
-    "source": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "gnomish",
     "status": "",
     "noldorin_form": "",
-    "eldamo_id": "",
+    "eldamo_id": "2635606399",
+    "etymology": {
+      "root_refs": [
+        "wil"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/23, 45",
+      "LT1A/Vilna"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "8E7515CD-414B-4C42-8691-D11FF039BCFF",
+    "id": "padra",
+    "mutation_marker": "",
+    "sindarin": "padra-",
+    "spellings": {},
+    "ipa": "'pa.dra",
+    "tengwar": "",
+    "cirth": "1c9RcI",
+    "english": [
+      "walk"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1211437307",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/34"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "506883F0-1F60-44FA-8C3A-9B6AF5C27822",
+    "id": "tol",
+    "mutation_marker": "",
+    "sindarin": "tol-",
+    "spellings": {},
+    "ipa": "tol",
+    "tengwar": "",
+    "cirth": "8baI",
+    "english": [
+      "come"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2756894593",
+    "etymology": {
+      "root_refs": [
+        "tul"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tul",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "tol",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tul&off=PE%2CDGIAQL%2CT2LWVF%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "tul-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/166",
+      "PE22/168",
+      "VT44/25",
+      "WJ/254, 301"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "6D74DE9A-BBAD-49F2-B037-FE25BF9FE094",
+    "id": "caeda",
+    "mutation_marker": "",
+    "sindarin": "caeda-",
+    "spellings": {},
+    "ipa": "'kɑ́j.da",
+    "tengwar": "",
+    "cirth": "ecz9cI",
+    "english": [
+      "lie (as in a bed)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2821626025",
+    "etymology": {
+      "root_refs": [
+        "kay"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kajta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "kaita",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "kaida",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "kaeda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KAY",
+          "gloss": "lie",
+          "type": "root"
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "intransitive verb suffix, causative"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kaj.ta&off=PE%2CDGIAQL%2CT2LWVF%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "caita-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "119F4981-907C-49DD-B622-9DD816E068C4",
+    "id": "hedhia",
+    "mutation_marker": "",
+    "sindarin": "hedhia-",
+    "spellings": {},
+    "ipa": "'he.ðia",
+    "tengwar": "",
+    "cirth": ".z!lcI",
+    "english": [
+      "sit, to adopt a sitting position"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "haf-",
+    "eldamo_id": "2065886281",
+    "etymology": {
+      "root_refs": [
+        "khad"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰadjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰadja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xadja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "xaðja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "xaðia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "xeðia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "heðia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHAD",
+          "gloss": "sit",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "",
+          "type": "causative verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81ad.ja%3A&off=PE%2CDGIAQL%2CT2LWVF%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-TL6YZ9"
+    },
+    "cognates": {
+      "quenya": "ham-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "The term in Eldamo \"hadh-\" doesn't seem to have a logical phonetic evolution, so this word has been revised.",
+    "references": [
+      "EtyAC/KHAM"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3B4526DB-57D0-46DE-9ED4-D858AA4A1D0C",
+    "id": "hadhwa",
+    "mutation_marker": "",
+    "sindarin": "hadhwa-",
+    "spellings": {},
+    "ipa": "'hað.wa",
+    "tengwar": "",
+    "cirth": ".c!FcI",
+    "english": [
+      "seat, to bring to or place on a seat",
+      "cause to sit down"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2243901709",
+    "etymology": {
+      "root_refs": [
+        "khad"
+      ],
+      "primitive": {
+        "form": "khadmā-",
+        "eldamo_id": "312592051"
+      },
+      "development": [
+        {
+          "form": "kʰadmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰadma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xadma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "xaðma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "haðma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "haðva",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2192660503"
+        },
+        {
+          "form": "haðwa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81adma%3A&off=PE%2CDGIAQL%2CT2LWVF%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE22/148"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "635737B7-2947-4BAA-A695-E40B2A6A329B",
+    "id": "tar",
+    "mutation_marker": "",
+    "sindarin": "tar-",
+    "spellings": {},
+    "ipa": "tar",
+    "tengwar": "",
+    "cirth": "8cRI",
+    "english": [
+      "stand"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1733413989",
+    "etymology": {
+      "root_refs": [
+        "tar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "tar-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "AotH/56"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "42402FA9-442C-4CBD-8D3B-696320863E2F",
+    "id": "per",
+    "mutation_marker": "",
+    "sindarin": "per-",
+    "spellings": {},
+    "ipa": "per",
+    "tengwar": "",
+    "cirth": "1zRI",
+    "english": [
+      "turn (transitive and intransitive)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2622904399",
+    "etymology": {
+      "root_refs": [
+        "kwer"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "quer-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "This verb has been argued to collide with prefix \"per-\" meaning \"half\", but since they are  different classes of words, I think it's safe to use. The alternative is a possible \"perna-\".",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "26547753-40CC-43D3-81CD-FCF7DB7031A6",
+    "id": "drinna",
+    "mutation_marker": "",
+    "sindarin": "drinna-",
+    "spellings": {},
+    "ipa": "'dri.na",
+    "tengwar": "",
+    "cirth": "9Rl@@cI",
+    "english": [
+      "twist, turn (transitive), encircle"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2187471891",
+    "etymology": {
+      "root_refs": [
+        "rin"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "Gnomish verb for \"to turn\", but also has a meaning of \"to twist\". Since we have another verb for \"turn\", I think this fits better with the idea of \"twist\", so that's listed as chief meaning. Whatever the case, it's related to a circular motion.",
+    "references": [
+      "GL/30"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1DCEBF98-7F0E-4E9E-822B-DFC9B618A4C9",
+    "id": "danna",
+    "mutation_marker": "",
+    "sindarin": "danna-",
+    "spellings": {},
+    "ipa": "'da.na",
+    "tengwar": "",
+    "cirth": "9c@@cI",
+    "english": [
+      "fall"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "motion",
+    "ids_chapter": "passive",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1145289087",
+    "etymology": {
+      "root_refs": [
+        "dat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "danta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "dantʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "danθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "danna",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=danta&off=PE%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "lanta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE17/62"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
+    "id": "anna",
+    "mutation_marker": "",
+    "sindarin": "anna-",
+    "spellings": {},
+    "ipa": "'a.na",
+    "tengwar": "",
+    "cirth": "c@@cI",
+    "english": [
+      "give, supplement"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1272131327",
+    "etymology": {
+      "root_refs": [
+        "na/ana"
+      ],
+      "primitive": {
+        "form": "antā-",
+        "eldamo_id": "3529927397"
+      },
+      "development": [
+        {
+          "form": "antā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "anta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "antʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "anθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "anna",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=anta%3A&off=PE%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "anta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "LotR/1061",
+      "PE17/93, 117, 147",
+      "PE22/163",
+      "VT44/27"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "4057850C-9E8B-40B4-84F1-A056BC5645D8",
+    "id": "gar",
+    "mutation_marker": "",
+    "sindarin": "gar-",
+    "spellings": {},
+    "ipa": "gar",
+    "tengwar": "",
+    "cirth": "rcRI",
+    "english": [
+      "have, possess"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "possession",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3371312947",
     "etymology": {
       "root_refs": [],
       "primitive": null,
@@ -12184,6 +12926,456 @@
     },
     "cognates": {},
     "conjugation": null,
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "409B8222-0782-466E-806F-0067CB191D62",
+    "id": "gar",
+    "mutation_marker": "",
+    "sindarin": "gar-",
+    "spellings": {},
+    "ipa": "gar",
+    "tengwar": "",
+    "cirth": "rcRI",
+    "english": [
+      "hold"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "possession",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3371312947",
+    "etymology": {
+      "root_refs": [
+        "gar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "Ety/GAR, ƷAR|GAR",
+      "EtyAC/GAR",
+      "TAI/150"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "1D716151-634B-4DCD-B94E-D12C672E662D",
+    "id": "manga",
+    "mutation_marker": "",
+    "sindarin": "manga-",
+    "spellings": {},
+    "ipa": "'man.ga",
+    "tengwar": "",
+    "cirth": "6cdcI",
+    "english": [
+      "grab, grip, hold"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "879953053",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/55"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "0E4ADB77-76EB-4320-BFAB-835A7560DA3F",
+    "id": "ranga",
+    "mutation_marker": "",
+    "sindarin": "ranga-",
+    "spellings": {},
+    "ipa": "'ran.ga",
+    "tengwar": "",
+    "cirth": "RcdcI",
+    "english": [
+      "embrace"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2622279379",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/65-66"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "893AD642-3AD9-4A62-AF61-54F6299AFE2F",
+    "id": "gweltha",
+    "mutation_marker": "",
+    "sindarin": "gweltha-",
+    "spellings": {},
+    "ipa": "gʷel.θa",
+    "tengwar": "",
+    "cirth": "oza0cI",
+    "english": [
+      "squeeze, press"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2775541565",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/45"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "81921783-512D-4E23-8733-D2F2E65CD4F1",
+    "id": "run",
+    "mutation_marker": "",
+    "sindarin": "run-",
+    "spellings": {},
+    "ipa": "run",
+    "tengwar": "",
+    "cirth": "RS@I",
+    "english": [
+      "rub, grind"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "accepted",
+    "noldorin_form": "",
+    "eldamo_id": "694019533",
+    "etymology": {
+      "root_refs": [
+        "run"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "72330D7B-61FF-4A3C-9833-831C76AFA3B2",
+    "id": "gratha",
+    "mutation_marker": "",
+    "sindarin": "gratha-",
+    "spellings": {},
+    "ipa": "'gra.θa",
+    "tengwar": "",
+    "cirth": "rRc0cI",
+    "english": [
+      "rub, scratch, fray"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4043949665",
+    "etymology": {
+      "root_refs": [
+        "gwara"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "wara-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/42"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "5DB341BB-AF2E-4195-8B35-55B1492546B7",
+    "id": "whal",
+    "mutation_marker": "",
+    "sindarin": "whal-",
+    "spellings": {},
+    "ipa": "ʍal",
+    "tengwar": "",
+    "cirth": "F.caI",
+    "english": [
+      "wash"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Gilruin",
+    "status": "accepted",
+    "noldorin_form": "",
+    "eldamo_id": "924687595",
+    "etymology": {
+      "root_refs": [
+        "swal"
+      ],
+      "primitive": {
+        "form": "swal-",
+        "eldamo_id": "2703403913"
+      },
+      "development": [
+        {
+          "form": "swal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3229649933"
+        },
+        {
+          "form": "xʷal",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hwal-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "PE23/122"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "C10C13C4-A434-4F81-B797-C03E8FBAC566",
+    "id": "whegra",
+    "mutation_marker": "",
+    "sindarin": "whegra-",
+    "spellings": {},
+    "ipa": "'ʍe.gra",
+    "tengwar": "",
+    "cirth": "F.zrRcI",
+    "english": [
+      "wipe"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3847413233",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "notes": "",
+    "references": [
+      "GL/36"
+    ],
+    "hidden": ""
+  },
+  {
+    "uuid": "3045B642-5C26-465B-8244-D71DB6530EF5",
+    "id": "thag",
+    "mutation_marker": "",
+    "sindarin": "thag-",
+    "spellings": {},
+    "ipa": "θag",
+    "tengwar": "",
+    "cirth": "0crI",
+    "english": [
+      "pull, draw"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Hialmr",
+    "status": "questioned",
+    "noldorin_form": "",
+    "eldamo_id": "3947776011",
+    "etymology": {
+      "root_refs": [
+        "sak"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "notes": "A bit hypothetical because it requires some assumptions about its root for it to work.",
+    "references": [],
+    "hidden": ""
+  },
+  {
+    "uuid": "F3CD52F2-1BC0-4F72-A47B-15B7BCBFDE04",
+    "id": "nista",
+    "mutation_marker": "",
+    "sindarin": "nista-",
+    "spellings": {},
+    "ipa": "'nis.ta",
+    "tengwar": "",
+    "cirth": "@lf8cI",
+    "english": [
+      "push, press, thrust"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Röandil",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2028366443",
+    "etymology": {
+      "root_refs": [
+        "nid"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nir-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "notes": "",
     "references": [],
     "hidden": ""
