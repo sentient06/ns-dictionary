@@ -197,6 +197,32 @@ body {
   margin-bottom: 1rem;
 }
 
+.word-type-source {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+  margin-bottom: 0.25rem;
+}
+
+.word-confidence {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.confidence-stars {
+  color: #b8860b;
+  letter-spacing: 0.05em;
+}
+
+.confidence-label {
+  font-size: 0.7rem;
+}
+
 .word-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0; }
 
 .tag {
@@ -211,12 +237,10 @@ body {
   color: var(--tag-text);
 }
 
-.tag--attested { background: #d4e8d4; color: #2a5a2a; }
-.tag--reconstructed { background: #d4dae8; color: #2a3a5a; }
-.tag--neologism { background: #e8d4d4; color: #5a2a2a; }
-.tag--source { background: #e0dce8; color: #3a2a5a; }
+
 .tag--accepted { background: #d4e8d4; color: #2a5a2a; }
 .tag--experimental { background: #f0e0c0; color: #6a4a1a; }
+.tag--swadesh { background: #dce4f0; color: #2a3a5a; }
 
 /* --- Alternative Spellings --- */
 .word-alt-spellings {
@@ -522,6 +546,14 @@ a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
   font-style: italic;
   color: var(--ink-light);
   text-align: right;
+}
+
+.word-list .word-entry-rank {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+  min-width: 2em;
+  display: inline-block;
 }
 
 .word-list .word-entry-grammar {

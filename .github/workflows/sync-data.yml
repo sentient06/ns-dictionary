@@ -20,11 +20,13 @@ jobs:
       - name: Fetch CSV and generate words.json
         run: |
           node -e "
-            import { writeFileSync } from 'node:fs';
-            import { csvTextToWords } from './lib/csv-parser.mjs';
+            import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+            import { csvTextToWords, stampLastModified } from './lib/csv-parser.mjs';
             const res = await fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vTQcRY-S8AOXcFLucMvZ95qyaqMK5rGjYzKgUye5FryhxWhymuzgFgZ-HrdC2sFOcljjgHZSjgPwySE/pub?output=csv');
             if (!res.ok) { console.error('Fetch failed:', res.status); process.exit(1); }
-            const words = csvTextToWords(await res.text());
+            const newWords = csvTextToWords(await res.text());
+            const existing = existsSync('data/words.json') ? JSON.parse(readFileSync('data/words.json', 'utf-8')) : [];
+            const words = stampLastModified(newWords, existing);
             writeFileSync('data/words.json', JSON.stringify(words, null, 2) + '\n');
             console.log('Fetched', words.length, 'words');
           "

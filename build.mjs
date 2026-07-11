@@ -101,28 +101,30 @@ const CATEGORY_LABELS = {
   size: 'Size', 'spatial relations': 'Spatial Relations',
 };
 
-const SOURCE_LABELS = {
-  tolkien: '',
-  gnomish: 'from Gnomish',
-  noldorin: 'from Noldorin',
-  quenya: 'from Quenya',
-  quenya_neologism: 'from Q. neologism',
-  primitive_elvish: 'from PE root',
-  ancient_telerin: 'from A. Telerin',
-  old_sindarin: 'from Old Sindarin',
-  sindarin_compound: 'S. compound',
-  eldamo: 'from Eldamo',
-  elaran: 'by Elaran',
-  telpefindele: 'by Telpefindelë',
-  FJNS: 'from FJNS',
+const SOURCE_NAMES = {
+  tolkien: 'Tolkien',
+  gnomish: 'Gnomish',
+  noldorin: 'Noldorin',
+  quenya: 'Quenya',
+  quenya_neologism: 'Quenya neologism',
+  primitive_elvish: 'Primitive Elvish',
+  ancient_telerin: 'Ancient Telerin',
+  old_sindarin: 'Old Sindarin',
+  sindarin_compound: 'Sindarin compound',
+  eldamo: 'Eldamo',
+  FJNS: 'FJNS',
 };
 
-const TYPE_LABELS = {
-  attested: 'Attested',
-  reconstructed: 'Reconstructed',
-  neologism: 'Neologism',
-  restored: 'Restored',
-};
+function buildTypeSourceText(type, source) {
+  const sourceName = SOURCE_NAMES[source] || source || 'unknown';
+  switch (type) {
+    case 'attested':      return 'Attested in writing';
+    case 'restored':      return `Restored from ${sourceName}`;
+    case 'reconstructed': return `Reconstructed from ${sourceName}`;
+    case 'neologism':     return `Neologism. Source: ${sourceName}`;
+    default:              return '';
+  }
+}
 
 const STATUS_LABELS = {
   accepted: 'Accepted',
@@ -316,8 +318,14 @@ function prepareWordData(word, rootsMap) {
     root: '../',
     english_joined: word.english.join(', '),
     category_label: CATEGORY_LABELS[word.category] || word.category,
-    type_label: TYPE_LABELS[word.type] || word.type,
-    source_label: SOURCE_LABELS[word.source] ?? (word.source || ''),
+    type_source_text: buildTypeSourceText(word.type, word.source),
+    has_confidence: word.confidence !== null && word.confidence !== undefined,
+    confidence_stars: word.confidence !== null && word.confidence !== undefined
+      ? '★'.repeat(word.confidence) + '☆'.repeat(5 - word.confidence)
+      : '',
+    confidence_label: word.confidence !== null && word.confidence !== undefined
+      ? ['Unreviewed', 'Dubious', 'Debated', 'Accepted', 'Established', 'Recommended'][word.confidence] || ''
+      : '',
     status_label: STATUS_LABELS[word.status] || '',
     has_etymology: !!(word.etymology && (word.etymology.root_refs?.length || word.etymology.elements?.length || has_primitive || has_development)),
     has_roots,
@@ -345,6 +353,8 @@ function prepareWordData(word, rootsMap) {
     has_references_section: !!(word.eldamo_id || word.references?.length),
     has_alt_spellings: altSpellings.length > 0,
     alt_spellings: altSpellings,
+    in_swadesh100: word.swadesh100 !== null && word.swadesh100 !== undefined,
+    in_swadesh207: word.swadesh207 !== null && word.swadesh207 !== undefined,
     meta_description: `${word.sindarin} — ${grammarJoined}. Meaning: ${word.english.join(', ')}. Neo-Sindarin dictionary entry with etymology and references.`,
     canonical_url: `${SITE_URL}/words/${word.id}.html`,
   };
@@ -467,6 +477,26 @@ function buildByCategoryList(words) {
   };
 }
 
+function buildSwadeshList(words, field, title, description, filename) {
+  const filtered = words.filter(w => w[field] !== null && w[field] !== undefined);
+  filtered.sort((a, b) => a[field] - b[field]);
+  return {
+    page_title: title,
+    meta_description: description,
+    canonical_url: `${SITE_URL}/${filename}`,
+    page_subtitle: `${filtered.length} words`,
+    root: '',
+    has_letter_nav: false,
+    sections: [{
+      section_id: 'all',
+      section_title: title,
+      words: filtered.map(w => ({
+        id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
+        grammar: grammarLabel(w), root: '', rank: w[field],
+      })),
+    }],
+  };
+}
 
 // ── Load Data ────────────────────────────────────────────────────────────────
 
@@ -551,6 +581,7 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
     meta_description: `${first.sindarin} — ${grammarSummary}. Meaning: ${englishSummary}. Neo-Sindarin dictionary entry with etymology and references.`,
     canonical_url: `${SITE_URL}/words/${slug}.html`,
     build_date: wordDate,
+    last_modified: first.last_modified || wordDate,
     senses,
   };
 
@@ -571,6 +602,8 @@ if (FULL || oldManifest['__lists__'] !== listHash) {
   writeOut('english-sindarin.html', render(listTemplate, buildEnglishSindarinList(words)));
   writeOut('by-grammar.html', render(listTemplate, buildByGrammarList(words)));
   writeOut('by-category.html', render(listTemplate, buildByCategoryList(words)));
+  writeOut('swadesh-100.html', render(listTemplate, buildSwadeshList(words, 'swadesh100', 'Swadesh 100', 'The Swadesh 100 core vocabulary list in Neo-Sindarin.', 'swadesh-100.html')));
+  writeOut('swadesh-207.html', render(listTemplate, buildSwadeshList(words, 'swadesh207', 'Swadesh 207', 'The extended Swadesh 207 vocabulary list in Neo-Sindarin.', 'swadesh-207.html')));
   console.log('✓ List pages rebuilt');
 } else {
   console.log('✓ List pages unchanged');
@@ -603,6 +636,8 @@ const sitemapEntries = [
   { loc: '/english-sindarin.html',  changefreq: 'weekly',  priority: '0.8' },
   { loc: '/by-grammar.html',       changefreq: 'weekly',  priority: '0.6' },
   { loc: '/by-category.html',      changefreq: 'weekly',  priority: '0.6' },
+  { loc: '/swadesh-100.html',     changefreq: 'monthly', priority: '0.6' },
+  { loc: '/swadesh-207.html',     changefreq: 'monthly', priority: '0.6' },
   { loc: '/search.html',           changefreq: 'monthly', priority: '0.5' },
 ];
 

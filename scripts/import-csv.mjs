@@ -20,7 +20,7 @@
 
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
-import { parseCSV, HEADER_MAP, rowToWord } from '../lib/csv-parser.mjs';
+import { parseCSV, HEADER_MAP, rowToWord, stampLastModified } from '../lib/csv-parser.mjs';
 
 const ROOT = dirname(dirname(new URL(import.meta.url).pathname));
 const WORDS_PATH = join(ROOT, 'data', 'words.json');
@@ -113,6 +113,7 @@ if (DRY_RUN) {
     console.log(`  [${tag}] ${r.sindarin}`);
   }
 } else {
-  writeFileSync(WORDS_PATH, JSON.stringify(result, null, 2) + '\n', 'utf-8');
-  console.log(`✓ Wrote ${result.length} words to ${WORDS_PATH}`);
+  const stamped = stampLastModified(result, existing);
+  writeFileSync(WORDS_PATH, JSON.stringify(stamped, null, 2) + '\n', 'utf-8');
+  console.log(`✓ Wrote ${stamped.length} words to ${WORDS_PATH}`);
 }

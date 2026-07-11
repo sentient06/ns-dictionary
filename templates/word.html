@@ -66,12 +66,20 @@
         <div class="word-inflection"><span class="inflection-label">{{inflection_label}}</span> {{inflection_form}}</div>
         {{/has_inflection}}
 
+        <div class="word-type-source">{{type_source_text}}</div>
+        {{#has_confidence}}
+        <div class="word-confidence" title="{{confidence_label}}">
+          <span class="confidence-stars">{{confidence_stars}}</span>
+          <span class="confidence-label">{{confidence_label}}</span>
+        </div>
+        {{/has_confidence}}
+
         <div class="word-tags">
-          <span class="tag tag--{{type}}">{{type_label}}</span>
-          {{#source_label}}<span class="tag tag--source">{{source_label}}</span>{{/source_label}}
           {{#status_label}}<span class="tag tag--{{status}}">{{status_label}}</span>{{/status_label}}
           <span class="tag">{{grammar}}</span>
           {{#category}}<span class="tag">{{category_label}}</span>{{/category}}
+          {{#in_swadesh100}}<span class="tag tag--swadesh">Swadesh 100</span>{{/in_swadesh100}}
+          {{#in_swadesh207}}<span class="tag tag--swadesh">Swadesh 207</span>{{/in_swadesh207}}
         </div>
 
         {{#noldorin_form}}
@@ -219,7 +227,7 @@
 
   <footer class="site-footer">
     NS Dictionary — A Neo-Sindarin Lexicon · Not affiliated with the Tolkien Estate
-    <div class="footer-updated">Last updated {{build_date}}</div>
+    <div class="footer-updated">Entry last modified {{last_modified}}</div>
   </footer>
 </body>
 </html>
