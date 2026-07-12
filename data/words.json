@@ -15371,5 +15371,319 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "A1A4A98F-00E0-499E-BC47-43A85117C112",
+    "id": "nen",
+    "mutation_marker": "",
+    "sindarin": "nen",
+    "spellings": {},
+    "ipa": "nen",
+    "tengwar": "",
+    "cirth": "@z@",
+    "english": [
+      "water"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nen",
+      "singular": "",
+      "plural": "nin"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3687268913",
+    "etymology": {
+      "root_refs": [
+        "nen"
+      ],
+      "primitive": {
+        "form": "nē̆n",
+        "eldamo_id": "3442328101"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nén"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 75,
+    "swadesh207": 150,
+    "notes": "",
+    "references": [
+      "NM/378",
+      "PE17/52, 77",
+      "RC/328",
+      "SA/nen",
+      "VT42/14"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "4E401BD3-0190-4501-98B1-F4C865149B89",
+    "id": "ross",
+    "mutation_marker": "",
+    "sindarin": "ross",
+    "spellings": {},
+    "ipa": "ros",
+    "tengwar": "",
+    "cirth": "Rbh",
+    "english": [
+      "rain, spray of water"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ross",
+      "singular": "",
+      "plural": "rys"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4145961873",
+    "etymology": {
+      "root_refs": [
+        "ros"
+      ],
+      "primitive": {
+        "form": "rossē",
+        "eldamo_id": "1918575943"
+      },
+      "development": [
+        {
+          "form": "rossē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "rosse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ross",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "rosse"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 76,
+    "swadesh207": 151,
+    "notes": "",
+    "references": [
+      "MR/155",
+      "PE17/121",
+      "PM/368, 371",
+      "SA/ros"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "F1D59E3A-6724-42A9-A7C5-5E6ED1CD68C5",
+    "id": "sir",
+    "mutation_marker": "",
+    "sindarin": "sîr",
+    "spellings": {},
+    "ipa": "siːr",
+    "tengwar": "",
+    "cirth": "fllR",
+    "english": [
+      "river"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "742218303",
+    "etymology": {
+      "root_refs": [
+        "sir"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sír(ë)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "",
+    "references": [
+      "PE17/37",
+      "RC/269, 384, 587",
+      "SA/sîr",
+      "UT/263"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "9D01BFD9-B7E5-4507-BB5E-B024C3270C62",
+    "id": "duin",
+    "mutation_marker": "",
+    "sindarin": "duin",
+    "spellings": {},
+    "ipa": "duin",
+    "tengwar": "",
+    "cirth": "9Sl@",
+    "english": [
+      "river, large"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1696525921",
+    "etymology": {
+      "root_refs": [
+        "duy"
+      ],
+      "primitive": {
+        "form": "duinē",
+        "eldamo_id": "3956451697"
+      },
+      "development": [
+        {
+          "form": "duinē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "duine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "duin",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "-(n)duinë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 152,
+    "notes": "",
+    "references": [
+      "LotR/1138",
+      "PE23/136",
+      "PM/54",
+      "RC/765",
+      "S/123",
+      "SA/duin",
+      "VT48/24, 30",
+      "WJ/191"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "4482E5D3-5FEC-48B9-99E3-88A917CCDE74",
+    "id": "ael",
+    "mutation_marker": "",
+    "sindarin": "ael",
+    "spellings": {},
+    "ipa": "ael",
+    "tengwar": "",
+    "cirth": "cza",
+    "english": [
+      "lake, pool"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ael",
+      "singular": "",
+      "plural": "aelin"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3934205215",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ailin"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 153,
+    "notes": "Reconstructed from \"Aeluin\", \"Blue Lake\" and \"Aelin-uial\", \"Meres of Twilight\".",
+    "references": [
+      "S/162",
+      "SA/aelin, lin"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
   }
 ]
