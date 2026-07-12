@@ -19,7 +19,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1556186409",
@@ -43,7 +43,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "60DBC4AD-47E2-44E1-A35A-C6A2770466DE",
@@ -66,7 +66,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1090138655",
@@ -90,7 +90,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7537D39B-17DB-4966-A2D1-9D4156AA0D7F",
@@ -113,7 +113,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2298877587",
@@ -137,7 +137,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "693FB9D9-6B1D-4172-BBC2-B4C3ECD98453",
@@ -161,7 +161,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1090138655",
@@ -185,7 +185,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "C3624202-9326-4457-9C0C-3AEC68427956",
@@ -208,7 +208,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1581961535",
@@ -232,7 +232,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "EE1077FB-B3A2-4905-94BC-FBB86E95DCA2",
@@ -256,7 +256,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1581961535",
@@ -280,7 +280,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3C635998-67C9-4886-9814-80275BF590E4",
@@ -304,7 +304,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3535403363",
@@ -323,7 +323,7 @@
     "notes": "Reconstructed from \"ten\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6282F5BE-7505-465F-AEE5-2FAF7CF628BA",
@@ -345,7 +345,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1491673253",
@@ -367,7 +367,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E31C7DB2-BE6D-4FFC-A8FE-FB0ABA4FD3EB",
@@ -390,7 +390,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3535403363",
@@ -412,7 +412,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "35496230-E57E-4925-A248-6ED88C3C0A9D",
@@ -434,7 +434,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "558208521",
@@ -456,7 +456,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "FFC672AA-AE0A-4CA9-9022-238471458BD9",
@@ -479,7 +479,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3535403363",
@@ -501,7 +501,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "07050DC2-E77A-487F-8209-CE44D2D90D3A",
@@ -524,7 +524,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1090138655",
@@ -543,7 +543,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9FEC4C5F-0C3A-45CC-A17E-36175B05E9F7",
@@ -566,7 +566,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1090138655",
@@ -585,7 +585,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A499868B-E2AD-4DC8-9AE3-767C73F19E9C",
@@ -607,7 +607,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3071865501",
@@ -628,7 +628,7 @@
       "PE17/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "81BFCA50-5345-48F8-9B9B-42F094BCFAB4",
@@ -650,7 +650,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "206577057",
@@ -669,7 +669,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "63554FAC-BF44-4CD1-A4D5-2DB406707A2F",
@@ -692,7 +692,7 @@
     "category": "",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1090138655",
@@ -711,7 +711,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D478D879-9639-4C19-9023-B6B9B35A3335",
@@ -733,7 +733,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2425137055",
@@ -752,7 +752,7 @@
     "notes": "Reconstructed from \"sen\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2668468A-7B21-487F-A0B8-497D3C951E02",
@@ -774,7 +774,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3239931345",
@@ -798,7 +798,7 @@
       "PE17/44"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "C14AD0E8-E930-4E23-A033-0C8F6FDB6976",
@@ -861,7 +861,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -883,7 +883,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
@@ -905,7 +905,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "reconstructed",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3265662125",
@@ -927,7 +927,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8D62AF29-5B32-42EF-ADC6-480839615531",
@@ -993,7 +993,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3098131039",
@@ -1025,7 +1025,7 @@
       "RGEO/64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "745C0CF7-06A9-4674-B3D9-DCE4B84C172F",
@@ -1047,7 +1047,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "433074759",
@@ -1074,7 +1074,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8A0CF779-DC91-45D3-B845-DB5D217AB0AB",
@@ -1096,7 +1096,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2818329207",
@@ -1119,7 +1119,7 @@
       "TI/281"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2D84CE99-3846-471C-93E4-DE7A5CE37BEA",
@@ -1141,7 +1141,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2818329207",
@@ -1164,7 +1164,7 @@
       "VT50/5"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
@@ -1415,7 +1415,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2536897167",
@@ -1443,7 +1443,7 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "925EF065-00A6-483D-9600-DECC52753874",
@@ -1470,7 +1470,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1690934137",
@@ -1494,7 +1494,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "41EA758E-CCF4-4B07-A716-37780412930E",
@@ -1516,7 +1516,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3414825689",
@@ -1542,7 +1542,7 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1DC01044-F8EC-4263-8425-48338A982214",
@@ -1564,7 +1564,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "lhaew",
     "eldamo_id": "654681845",
@@ -1654,7 +1654,7 @@
       "EtyAC/LI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
@@ -1676,7 +1676,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "neologism",
-    "source": "elaran",
+    "source": "Elaran",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "880959447",
@@ -1708,7 +1708,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9E5470C8-CB1E-424D-B91F-0D3843989B98",
@@ -1734,7 +1734,7 @@
     "category": "comparison",
     "ids_chapter": "comparison",
     "type": "neologism",
-    "source": "elaran",
+    "source": "Elaran",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "375824727",
@@ -1755,7 +1755,7 @@
     "notes": "Reconstructed from Gnomish \"eleg\".",
     "references": [],
     "hidden": "Unknown suffix -ele",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5EBBC20C-90EF-4B11-9401-F519190CFF0A",
@@ -1777,7 +1777,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2871412533",
@@ -1836,7 +1836,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7CA9EFD0-241C-45FC-9D7E-CED0882B61E5",
@@ -1858,7 +1858,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4250276895",
@@ -1917,7 +1917,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7D43645C-2A59-49B9-8968-7FBBC244836E",
@@ -1939,7 +1939,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1945123269",
@@ -2003,7 +2003,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3A44F0A0-82B2-400D-85CA-68257CDE4D11",
@@ -2025,7 +2025,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "679787045",
@@ -2093,7 +2093,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1D7F8DD5-8956-4969-B5C5-2086291E6FB9",
@@ -2115,7 +2115,7 @@
     "category": "quantity",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1290699021",
@@ -2167,7 +2167,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6DC5DC9E-7CD0-40B2-A17C-6E6C4566975D",
@@ -2189,7 +2189,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1321351921",
@@ -2238,7 +2238,7 @@
       "WJ/191, 335, 338"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5F73B930-BEBF-4A52-960C-E943CA9CCC33",
@@ -2264,7 +2264,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2003470011",
@@ -2285,7 +2285,7 @@
       "PE23/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "93E41EA9-169C-4B99-AD3B-039815AB2078",
@@ -2311,7 +2311,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3929533291",
@@ -2364,7 +2364,7 @@
       "RC/765"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "EF6863CD-A31D-4868-A566-BFA92FC05B65",
@@ -2390,7 +2390,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3437593551",
@@ -2416,7 +2416,7 @@
       "S/123"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "320987F0-A27F-4849-AB68-A12201E6B520",
@@ -2438,7 +2438,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "tûg",
     "eldamo_id": "2593077055",
@@ -2511,7 +2511,7 @@
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -2537,7 +2537,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "restored",
-    "source": "eldamo",
+    "source": "Eldamo",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1430286337",
@@ -2608,7 +2608,7 @@
       "PE17/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0E0A6421-92CB-49FA-9716-941CD26D7E15",
@@ -2634,7 +2634,7 @@
     "category": "weight",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "446568693",
@@ -2675,7 +2675,7 @@
       "S/185"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "AA9B3FD4-BE30-4862-9DBD-3C99ED86DAE0",
@@ -2701,7 +2701,7 @@
     "category": "weight",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1735688587",
@@ -2743,7 +2743,7 @@
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "270561D8-D3E9-43CC-AC90-F7A2227921AC",
@@ -2765,7 +2765,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2614444921",
@@ -2804,7 +2804,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5D4B572A-3D64-4268-88A8-2CE0B64FA4AB",
@@ -2830,7 +2830,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1404884581",
@@ -2914,7 +2914,7 @@
       "RS/462"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7F0201CC-557C-4368-A9B4-564A2B6A8AD9",
@@ -2940,7 +2940,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2890290251",
@@ -3030,7 +3030,7 @@
       "WJ/311"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "52B31A19-8A3D-4DE1-BACA-E3605ECD0708",
@@ -3056,7 +3056,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4195079187",
@@ -3121,7 +3121,7 @@
       "Ety/AK"
     ],
     "hidden": "Unknown suffix -rā",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "05576E49-F09D-4B04-9EDA-3E8F259749C9",
@@ -3147,7 +3147,7 @@
     "category": "size",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2755830751",
@@ -3217,7 +3217,7 @@
       "PE17/23, 82"
     ],
     "hidden": "Unknown suffix -bi; s207 is \"thin\"",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A1065E48-A83C-4161-9CB9-9FC7373F2352",
@@ -3239,7 +3239,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3681659819",
@@ -3268,7 +3268,7 @@
       "EtyAC/NDIS, NĪ, NIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D3EBC6E8-0377-414C-A39E-6B57E9A2871F",
@@ -3294,7 +3294,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2438171517",
@@ -3328,7 +3328,7 @@
       "MR/323, 349, 470"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "DE49F7C1-23A0-4E1A-BB30-AF80421D06EF",
@@ -3354,7 +3354,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3168690083",
@@ -3404,7 +3404,7 @@
       "PE23/136, 139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "4733D9F4-D8B5-46E3-87B5-6126AF5C5028",
@@ -3426,7 +3426,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2168038773",
@@ -3473,7 +3473,7 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "70C983BB-F7DB-4CF9-8512-5322EF476512",
@@ -3499,7 +3499,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1923199161",
@@ -3568,7 +3568,7 @@
       "EtyAC/DER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "846F0C3E-1797-4827-A659-3EBB0023B119",
@@ -3594,7 +3594,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "753238821",
@@ -3639,7 +3639,7 @@
       "WRI/Edain"
     ],
     "hidden": "swadesh is \"person\"",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2A16D2D0-99E9-4BC4-86F3-1DD0E1515BA1",
@@ -3665,7 +3665,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1512724021",
@@ -3744,7 +3744,7 @@
       "WJ/160, 403"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "949FBE7F-98E0-4497-9761-40DCB9B47636",
@@ -3770,7 +3770,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3840955953",
@@ -3851,7 +3851,7 @@
       "Ety/KHER"
     ],
     "hidden": "Unkown suffix -se",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "890FB401-E5DA-4CB6-A468-212A5D31D3BB",
@@ -3877,7 +3877,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3367157657",
@@ -3933,7 +3933,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9E9C248E-524B-4309-8C30-CD839955F985",
@@ -3955,7 +3955,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2220172883",
@@ -3987,7 +3987,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0D04C1A7-DF18-48D8-A309-94B2E7381FD2",
@@ -4013,7 +4013,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "528552307",
@@ -4115,7 +4115,7 @@
       "Ety/KHER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8EECCF0B-BC16-4494-BCF4-215F6A985FDA",
@@ -4141,7 +4141,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "862942867",
@@ -4196,7 +4196,7 @@
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9CEC6D69-37AD-425E-9F11-2F7A7286D352",
@@ -4222,7 +4222,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "921714735",
@@ -4247,7 +4247,7 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "FA3F3C34-F96F-4E3A-AA4B-BB86967E2381",
@@ -4273,7 +4273,7 @@
     "category": "person",
     "ids_chapter": "kinship",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1791197021",
@@ -4316,7 +4316,7 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "12182874-61AB-4AEB-8390-3CED9480B5BE",
@@ -4342,7 +4342,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4243988031",
@@ -4391,7 +4391,7 @@
       "WJ/388, 416"
     ],
     "hidden": "Unknown suffix -āna",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F776A67B-B312-42A4-B471-458002497063",
@@ -4413,7 +4413,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2873279651",
@@ -4462,7 +4462,7 @@
       "Ety/LIW, LOK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7736ACC0-8A25-4CCD-8353-6BF3F54558A5",
@@ -4484,7 +4484,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2329687483",
@@ -4549,7 +4549,7 @@
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F12735CD-0EF4-4C7B-A61B-2CA484429113",
@@ -4571,7 +4571,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "811844039",
@@ -4629,7 +4629,7 @@
       "SA/lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "60DE43AD-161E-4D6C-9F31-3C01208FC5DF",
@@ -4655,7 +4655,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3308890067",
@@ -4733,7 +4733,7 @@
       "Ety/KHUGAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "CD4FD75E-0B75-4553-9B6D-B04BD6113505",
@@ -4759,7 +4759,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "375621243",
@@ -4782,7 +4782,7 @@
       "SI/Huan"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7D117964-1D65-47DB-A67D-BD0E92A61F50",
@@ -4804,7 +4804,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "679236185",
@@ -4827,7 +4827,7 @@
       "GL/49"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "AD435698-BCEB-4DF2-B71F-277E5C7C5B79",
@@ -4853,7 +4853,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4090255183",
@@ -4876,7 +4876,7 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2D51EA5D-9623-4288-A000-3E8A67655524",
@@ -4902,7 +4902,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4203257281",
@@ -4946,7 +4946,7 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9BA2EE10-CACF-4EEB-9B92-6B3B9F0A8BFF",
@@ -4968,7 +4968,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1878372081",
@@ -5039,7 +5039,7 @@
       "PE17/121, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9113830A-FAD1-490A-A739-ED71040E9731",
@@ -5065,7 +5065,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "142112899",
@@ -5090,7 +5090,7 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3AF2892A-D7FA-4C12-8A89-7B897C0CEB48",
@@ -5116,7 +5116,7 @@
     "category": "animal",
     "ids_chapter": "animals",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2062652693",
@@ -5152,7 +5152,7 @@
       "PE17/160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0AE9D1BB-A5EC-462F-B701-CD921BAD3C68",
@@ -5178,7 +5178,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3005081253",
@@ -5244,7 +5244,7 @@
       "UT/267"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E6AB0B32-B175-469B-B23B-B774B569B32F",
@@ -5270,7 +5270,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3061781529",
@@ -5327,7 +5327,7 @@
       "WJI/Taur-i-Melegyrn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "81FE635C-3796-44B0-A8B3-72EBB7C3DE93",
@@ -5353,7 +5353,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "809570117",
@@ -5436,7 +5436,7 @@
       "WJI/Taur-i-Melegyrn, Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3F14309D-6E64-4888-BD6C-D474C2968266",
@@ -5458,7 +5458,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1635691065",
@@ -5529,7 +5529,7 @@
       "VT42/20"
     ],
     "hidden": "Unknown suffix -nī (presumably an ancient plural)",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "94A4E002-F35B-433F-A3AE-2B3147FCB36F",
@@ -5555,7 +5555,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3692833871",
@@ -5576,7 +5576,7 @@
       "UT/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8CA047DC-8EC2-4269-B566-E8A00028EA59",
@@ -5717,7 +5717,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2124321787",
@@ -5774,7 +5774,7 @@
       "Ety/GÓLOB"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F3221076-CF94-4B3B-8949-3DAA8926FE45",
@@ -5800,7 +5800,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1420245471",
@@ -5846,7 +5846,7 @@
       "GL/38, 40, 42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "C9B96920-1314-4617-8E82-3FFC3601DDE4",
@@ -5872,7 +5872,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "398005077",
@@ -5930,7 +5930,7 @@
       "EtyAC/ERÉD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
@@ -5956,7 +5956,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3362852287",
@@ -6009,7 +6009,7 @@
       "RC/760"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "295B6264-0C06-4C69-A35B-C8AF12F2A4CC",
@@ -6035,7 +6035,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "926513155",
@@ -6098,7 +6098,7 @@
       "PE17/96, 121"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "AC619657-47EC-4989-84B6-8BA8A65EE468",
@@ -6120,7 +6120,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "489204733",
@@ -6141,7 +6141,7 @@
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F67AB558-3211-473B-875C-C9EA60E99979",
@@ -6163,7 +6163,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1114592353",
@@ -6226,7 +6226,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "DC410E00-113D-4C78-ABE4-AC9BAFB44276",
@@ -6248,7 +6248,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1307503003",
@@ -6283,7 +6283,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8BE9EF5A-C91E-47A9-B129-69BE82633DAF",
@@ -6309,7 +6309,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4146576285",
@@ -6343,7 +6343,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D88923D9-4C4A-48CF-8A2B-8C14885113BE",
@@ -6365,7 +6365,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "677984731",
@@ -6388,7 +6388,7 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3CF60B0E-EECF-4858-BD62-431FA6DD4D65",
@@ -6414,7 +6414,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2524072487",
@@ -6476,7 +6476,7 @@
       "Ety/STAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9ACC33EC-7C06-476F-A646-AD54387D7AE8",
@@ -6498,7 +6498,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2357301733",
@@ -6552,7 +6552,7 @@
       "UT/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3DB30672-12A3-4109-8D22-4AE782F864DC",
@@ -6578,7 +6578,7 @@
     "category": "geography",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3281616511",
@@ -6602,7 +6602,7 @@
       "UTI/Taras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F470EBBB-D832-4500-AF76-18D3A9C91A7B",
@@ -6628,7 +6628,7 @@
     "category": "object",
     "ids_chapter": "basic actions and technology",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "307308239",
@@ -6651,7 +6651,7 @@
       "UT/313"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "78898167-8B6D-440C-9C75-A30EAAA4F88D",
@@ -6673,7 +6673,7 @@
     "category": "object",
     "ids_chapter": "basic actions and technology",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3974489697",
@@ -6709,7 +6709,7 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "535B518D-03D6-4EF8-B1D1-E174556EC05D",
@@ -6735,7 +6735,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4259228765",
@@ -6756,7 +6756,7 @@
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E760F824-051D-4576-9A86-DBC825E702D9",
@@ -6946,7 +6946,7 @@
     "category": "food",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "aes",
     "eldamo_id": "911382857",
@@ -6998,7 +6998,7 @@
     "notes": "Adapted from Noldorin word \"aes\", which doesn't follow Sindarin phonetic standards. Some people use the Noldorin variant regardless.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F8E687B2-B8C7-4224-AC31-E22B42A68F43",
@@ -7024,7 +7024,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4093888565",
@@ -7098,7 +7098,7 @@
       "VT47/12"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "BF8C3304-963C-47E2-AB23-2E4AB13558F3",
@@ -7120,7 +7120,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "403659609",
@@ -7167,7 +7167,7 @@
       "SA/sereg"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D307CB7A-506D-4BBE-837E-A5E42BEB5C7B",
@@ -7193,7 +7193,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2265789335",
@@ -7219,7 +7219,7 @@
       "PE13/137, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6A2839C5-0D72-42C3-B1C8-C9EFB12D21E9",
@@ -7245,7 +7245,7 @@
     "category": "substance",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2187777449",
@@ -7330,7 +7330,7 @@
       "PE13/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "AA9C1C08-BC77-45BE-A3ED-D69C1C5E6B3E",
@@ -7356,7 +7356,7 @@
     "category": "substance",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2512514975",
@@ -7445,7 +7445,7 @@
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "B7EC34A1-8C93-41BF-9C92-E0D909A63D1C",
@@ -7471,7 +7471,7 @@
     "category": "substance",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2512514975",
@@ -7560,7 +7560,7 @@
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "10255EDF-93F0-42D1-883E-1C948B15A288",
@@ -7586,7 +7586,7 @@
     "category": "food",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "113787646",
@@ -7624,7 +7624,7 @@
       "GL/62, 74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "28CA4D0C-5B77-4DA3-A9B9-AE23CA6333B7",
@@ -7650,7 +7650,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1171257471",
@@ -7677,7 +7677,7 @@
       "SA/ras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "44FFEEE5-4DA4-4AD6-8ACE-04A5B7C82A76",
@@ -7748,7 +7748,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3670314355",
@@ -7809,7 +7809,7 @@
       "PE23/142"
     ],
     "hidden": "Roots seem to work with law+tod",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "73F191D1-C4E9-42CA-A74D-F1688E56916D",
@@ -7835,7 +7835,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2879755621",
@@ -7873,7 +7873,7 @@
       "GL/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "83FF09BC-B0A0-44FE-AE67-51A8770BA154",
@@ -7895,7 +7895,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3508880117",
@@ -7986,7 +7986,7 @@
       "SA/fin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F8EBDB5D-BAC9-4729-B54D-65C9E53D686D",
@@ -8008,7 +8008,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4060086335",
@@ -8082,7 +8082,7 @@
       "PM/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "57CCB57B-3003-45D8-BF46-F835EAD3F45F",
@@ -8108,7 +8108,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3954224561",
@@ -8197,7 +8197,7 @@
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0F4B77DA-C731-48AE-83B6-9F563161682D",
@@ -8223,7 +8223,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3954224561",
@@ -8312,7 +8312,7 @@
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "B3BEB96A-1811-4E18-999B-AF2377C5F18B",
@@ -8338,7 +8338,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "768614671",
@@ -8366,7 +8366,7 @@
       "SA/dol"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F159A58E-2AD1-46B1-A17C-52A1BDC095D2",
@@ -8392,7 +8392,7 @@
     "category": "geography",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "768614671",
@@ -8417,7 +8417,7 @@
       "RC/433"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "55568AEA-73EE-418F-8EB8-F380226A1868",
@@ -8443,7 +8443,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1079566795",
@@ -8484,7 +8484,7 @@
       "TT17/33"
     ],
     "hidden": "Can't make the evolution work",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "770461E3-6B9D-4361-8F92-58892FFEEF3E",
@@ -8510,7 +8510,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2837847875",
@@ -8540,7 +8540,7 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6C5CB3D9-1C08-423B-B1FB-5F5AF8BE9EEB",
@@ -8566,7 +8566,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1647088037",
@@ -8593,7 +8593,7 @@
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "955BC4F4-4E39-44CD-8D42-0F879036656B",
@@ -8660,7 +8660,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2154350671",
@@ -8749,7 +8749,7 @@
       "Ety/NEÑ-WI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2B819CA0-9A5F-4B27-8FC1-6743A21502C4",
@@ -8775,7 +8775,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4013417933",
@@ -8854,7 +8854,7 @@
       "GL/50"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "89C23B87-273B-41AE-8872-D49EE88CA460",
@@ -8880,7 +8880,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "320573233",
@@ -8899,7 +8899,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3038151B-0044-4993-A42B-5F8C166F2479",
@@ -8925,7 +8925,7 @@
     "category": "geography",
     "ids_chapter": "the physical world",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "320573233",
@@ -8982,7 +8982,7 @@
       "Ety/MBUD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2978AF6C-D0CE-4A6A-B631-8E5A56E5DA8E",
@@ -9053,7 +9053,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2320145869",
@@ -9097,7 +9097,7 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "DCBC8FFA-9649-4A8A-83D5-7733D6AC8135",
@@ -9123,7 +9123,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1132597183",
@@ -9175,7 +9175,7 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "976842F0-361F-4FF3-819E-2317297A746F",
@@ -9201,7 +9201,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3738278997",
@@ -9262,7 +9262,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "452DB9FA-0296-4A7D-9C9A-DBC6197314EB",
@@ -9288,7 +9288,7 @@
     "category": "speech",
     "ids_chapter": "speech and language",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3738278997",
@@ -9357,7 +9357,7 @@
       "WJ/394"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
@@ -9478,6 +9478,111 @@
     "last_modified": "2026-07-12"
   },
   {
+    "uuid": "11EF59CB-32B6-4FE8-B30E-8FE2BE6CE622",
+    "id": "nam",
+    "mutation_marker": "",
+    "sindarin": "nam",
+    "spellings": {},
+    "ipa": "nam",
+    "tengwar": "",
+    "cirth": "@c6",
+    "english": [
+      "claw, talon"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nam",
+      "singular": "",
+      "plural": "nem"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nap"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "napmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3463937975"
+        },
+        {
+          "form": "nabmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "nabma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2615312913"
+        },
+        {
+          "form": "namma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "namm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "nam",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "NAP",
+          "gloss": "take (hold), grasp",
+          "type": "root"
+        },
+        {
+          "form": "-mā",
+          "gloss": "",
+          "type": "instrumental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=napma%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RGHSTJ"
+    },
+    "cognates": {
+      "quenya": "nappa"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": 45,
+    "swadesh207": null,
+    "notes": "Neologism based on Quenya \"nappa\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
     "uuid": "5409A7ED-E45F-4C32-A5BB-A8F54F665EE3",
     "id": "tal",
     "mutation_marker": "",
@@ -9501,7 +9606,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2760610079",
@@ -9531,7 +9636,7 @@
       "UT/313"
     ],
     "hidden": "Doesn't respect rule 2858643115",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "716D6A95-9D77-4568-888A-58B79E9D34F8",
@@ -9635,7 +9740,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "113787645",
@@ -9656,7 +9761,7 @@
       "GL/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "37690141-0A48-42E0-84AF-C541062595EB",
@@ -9682,7 +9787,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2242483507",
@@ -9775,7 +9880,7 @@
       "VT47/6-7, 19-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "53E09682-68CC-401E-9D07-96279742C28E",
@@ -9801,7 +9906,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2215927903",
@@ -9820,7 +9925,7 @@
     "notes": "Archaic word for \"hand\". Use mâb instead, unless if using for poetry or compounds.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3D941C9A-A44A-4DC8-A077-F1C5FC2C365E",
@@ -9846,7 +9951,7 @@
     "category": "side",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2215927903",
@@ -9875,7 +9980,7 @@
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
@@ -9901,7 +10006,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2825491331",
@@ -9979,7 +10084,7 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A7FD3898-018B-46B3-BADA-F5C1FC74177C",
@@ -10005,7 +10110,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4269013567",
@@ -10030,7 +10135,7 @@
       "PE17/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "03020EEE-AF45-4AD0-B21B-B4CB9D834E72",
@@ -10101,7 +10206,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1411126939",
@@ -10154,7 +10259,7 @@
       "PE13/144, 161"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2703D957-8FE3-4D68-B046-A0F6DA5B8EAD",
@@ -10180,7 +10285,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1405976901",
@@ -10234,7 +10339,7 @@
       "PE17/92"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A9580791-C89A-4199-A15F-1F42B016CEBF",
@@ -10260,7 +10365,7 @@
     "category": "place",
     "ids_chapter": "spatial relations",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "76179337",
@@ -10279,7 +10384,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "664F40F5-85EA-4513-9949-764C58B68218",
@@ -10305,7 +10410,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "76179337",
@@ -10363,7 +10468,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5977FB38-E166-4517-B3D9-369D5356B5C1",
@@ -10389,7 +10494,7 @@
     "category": "traits",
     "ids_chapter": "emotions and values",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2776183209",
@@ -10422,7 +10527,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D3E32838-5E83-40A1-834C-D000191DAB82",
@@ -10448,7 +10553,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3591368295",
@@ -10471,7 +10576,7 @@
       "PE13/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
@@ -10493,7 +10598,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3090075059",
@@ -10564,7 +10669,7 @@
       "PE13/154"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "88725EBC-4576-4FA6-B762-BA5C9190378B",
@@ -10590,7 +10695,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1263784737",
@@ -10612,7 +10717,7 @@
       "GL/19, 27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0D89F5EA-74AD-40CF-8F82-7CB806B3FABB",
@@ -10638,7 +10743,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "430314911",
@@ -10692,7 +10797,7 @@
       "Ety/KHŌ-N"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "88CF3036-9C0F-4A80-A702-4E79F392EF7E",
@@ -10718,7 +10823,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1313624043",
@@ -10754,7 +10859,7 @@
       "GL/65"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E8ADE915-736F-48CB-95AD-0F5CC2AE941C",
@@ -10776,7 +10881,7 @@
     "category": "food and drink",
     "ids_chapter": "food and drink",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3233859463",
@@ -10826,7 +10931,7 @@
       "EtyAC/SUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D484FCD2-19F6-4C70-A4D6-6F82870CE988",
@@ -10848,7 +10953,7 @@
     "category": "food and drink",
     "ids_chapter": "food and drink",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2481269349",
@@ -10892,7 +10997,7 @@
       "PE17/131, 145"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "476CE22A-BA10-4968-81F2-1983FF39DEDD",
@@ -10914,7 +11019,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2084717931",
@@ -10955,7 +11060,7 @@
       "Ety/NAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "78E4831C-B8AA-433E-B827-38255C3A0D6D",
@@ -10977,7 +11082,7 @@
     "category": "actions",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2713171143",
@@ -10996,7 +11101,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "849598BA-9AEE-4218-8849-7E2241EA936D",
@@ -11018,7 +11123,7 @@
     "category": "actions",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2713171143",
@@ -11044,7 +11149,7 @@
       "GL/53"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
@@ -11066,7 +11171,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "722396735",
@@ -11094,7 +11199,7 @@
       "Ety/PIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "296B4D75-4912-4BF2-A663-DDD1FABA8B88",
@@ -11116,7 +11221,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3945500149",
@@ -11164,7 +11269,7 @@
       "PE13/162-163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6D285BEC-BF8F-43D3-9745-A2185DF00ED3",
@@ -11186,7 +11291,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2847636119",
@@ -11213,7 +11318,7 @@
       "LT1A/Súlimo"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A6AFA88C-8E03-4E26-A7C3-5FFCDC2C56CB",
@@ -11235,7 +11340,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2545112087",
@@ -11274,7 +11379,7 @@
       "Ety/THŪ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "AA6CB329-0F5A-452E-B305-5BD8043BBBB1",
@@ -11296,7 +11401,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4255490933",
@@ -11324,7 +11429,7 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "11D29988-8AB0-47E5-8027-7AAE984872AF",
@@ -11346,7 +11451,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1590244863",
@@ -11374,7 +11479,7 @@
       "PE17/37, 148, 181"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "36F0535E-F859-483C-938C-3E2286C016D2",
@@ -11396,7 +11501,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4258922217",
@@ -11425,7 +11530,7 @@
       "LT2A/Gimli"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "54EC50E8-4488-4F0D-907B-3E74835E7FCA",
@@ -11447,7 +11552,7 @@
     "category": "mind",
     "ids_chapter": "cognition",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4226423969",
@@ -11479,7 +11584,7 @@
       "EtyAC/IS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
@@ -11501,7 +11606,7 @@
     "category": "mind",
     "ids_chapter": "cognition",
     "type": "neologism",
-    "source": "unknown",
+    "source": "Unknown",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -11527,7 +11632,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2B71905D-06EC-4CC3-AFAA-F141A01F0F5D",
@@ -11549,7 +11654,7 @@
     "category": "mind",
     "ids_chapter": "cognition",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1830463167",
@@ -11604,7 +11709,7 @@
       "NM/176"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
@@ -11626,7 +11731,7 @@
     "category": "mind",
     "ids_chapter": "cognition",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "nautha-",
     "eldamo_id": "2014743631",
@@ -11683,7 +11788,7 @@
       "Ety/NOWO"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "564AE595-3B9B-48E8-A30B-B8E65B652ACA",
@@ -11705,7 +11810,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3490089389",
@@ -11731,7 +11836,7 @@
       "GL/61"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "4B75D44A-238F-4715-A15B-1F592F019449",
@@ -11753,7 +11858,7 @@
     "category": "emotions",
     "ids_chapter": "emotions and values",
     "type": "neologism",
-    "source": "unknown",
+    "source": "Unknown",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -11790,7 +11895,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "BEA83FA3-F0B6-44F3-B859-21D2AE412875",
@@ -11812,7 +11917,7 @@
     "category": "emotions",
     "ids_chapter": "emotions and values",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2888806961",
@@ -11838,7 +11943,7 @@
       "Ety/GOS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6C7483CF-F1AB-48D6-A809-E8E0E2A34E66",
@@ -11864,7 +11969,7 @@
     "category": "emotions",
     "ids_chapter": "emotions and values",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "389856391",
@@ -11887,7 +11992,7 @@
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "FC65ECA3-F141-4FDF-91B6-5962101BC453",
@@ -11909,7 +12014,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1323392803",
@@ -11935,7 +12040,7 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3221F068-F87A-4A90-B3E1-7A9F9D09EF98",
@@ -11957,7 +12062,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1270754831",
@@ -11983,7 +12088,7 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "FF7CA91D-1A54-4F21-A0F9-BDE8FB8B85F6",
@@ -12005,7 +12110,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1983781483",
@@ -12033,7 +12138,7 @@
       "PE17/102"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1AFD7A0D-476A-4A1F-91F2-6A57E0F97DFA",
@@ -12055,7 +12160,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1068514143",
@@ -12081,7 +12186,7 @@
       "LotR/1107"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "49878C37-FF9D-412F-A2EC-59183405124B",
@@ -12103,7 +12208,7 @@
     "category": "actions",
     "ids_chapter": "the body",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3970405233",
@@ -12177,7 +12282,7 @@
       "Ety/WAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5C8CACDC-DEBD-42A2-B969-66D46F652A9E",
@@ -12199,7 +12304,7 @@
     "category": "conflict",
     "ids_chapter": "warfare and hunting",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "346566117",
@@ -12247,7 +12352,7 @@
       "SA/dagor"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "2801ECAD-B87B-4D18-9639-54C0DF9AC760",
@@ -12269,7 +12374,7 @@
     "category": "conflict",
     "ids_chapter": "warfare and hunting",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2307458309",
@@ -12353,7 +12458,7 @@
       "Ety/MAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "215D262B-FF7A-436D-81E6-867F74BDE433",
@@ -12375,7 +12480,7 @@
     "category": "conflict",
     "ids_chapter": "warfare and hunting",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2081833297",
@@ -12455,7 +12560,7 @@
       "EtyAC/PHAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0391A76A-8F11-4AB5-9FB1-BF9CDEB4BD6C",
@@ -12477,7 +12582,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3778219153",
@@ -12504,7 +12609,7 @@
       "EtyAC/DRING"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
@@ -12526,7 +12631,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "rista-",
     "eldamo_id": "4281316195",
@@ -12586,7 +12691,7 @@
       "Ety/RIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5CD95067-0693-473D-B422-A20B97CCF8EB",
@@ -12608,7 +12713,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "neologism",
-    "source": "unknown",
+    "source": "Unknown",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "188050745",
@@ -12632,7 +12737,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E0739FA6-7BF3-45C6-A258-CC8D40359C25",
@@ -12654,7 +12759,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2731355079",
@@ -12676,7 +12781,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E1B24881-9CCC-4624-9522-4C416B36A372",
@@ -12698,7 +12803,7 @@
     "category": "social",
     "ids_chapter": "social",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2731355079",
@@ -12764,7 +12869,7 @@
       "WJ/365"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "9CA4B467-1A62-401B-98C8-BCE44D964556",
@@ -12786,7 +12891,7 @@
     "category": "actions",
     "ids_chapter": "actions",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4043949665",
@@ -12810,7 +12915,7 @@
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F7CDC8D9-06D5-49FD-AFCF-D18CEDB136BB",
@@ -12832,7 +12937,7 @@
     "category": "actions",
     "ids_chapter": "agriculture and vegetation",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "453218717",
@@ -12860,7 +12965,7 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "BA5D5597-E863-4C6B-A3AC-92DD6EA7A66F",
@@ -12959,7 +13064,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2635606399",
@@ -12986,7 +13091,7 @@
       "LT1A/Vilna"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "8E7515CD-414B-4C42-8691-D11FF039BCFF",
@@ -13008,7 +13113,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1211437307",
@@ -13032,7 +13137,7 @@
       "PE17/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "506883F0-1F60-44FA-8C3A-9B6AF5C27822",
@@ -13054,7 +13159,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2756894593",
@@ -13098,7 +13203,7 @@
       "WJ/254, 301"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "6D74DE9A-BBAD-49F2-B037-FE25BF9FE094",
@@ -13120,7 +13225,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "neologism",
-    "source": "unknown",
+    "source": "Unknown",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2821626025",
@@ -13186,7 +13291,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "119F4981-907C-49DD-B622-9DD816E068C4",
@@ -13208,7 +13313,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "haf-",
     "eldamo_id": "2065886281",
@@ -13300,7 +13405,7 @@
       "EtyAC/KHAM"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3B4526DB-57D0-46DE-9ED4-D858AA4A1D0C",
@@ -13323,7 +13428,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2243901709",
@@ -13405,7 +13510,7 @@
       "PE22/148"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "635737B7-2947-4BAA-A695-E40B2A6A329B",
@@ -13427,7 +13532,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "reconstructed",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1733413989",
@@ -13455,7 +13560,7 @@
       "AotH/56"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "42402FA9-442C-4CBD-8D3B-696320863E2F",
@@ -13525,7 +13630,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2187471891",
@@ -13551,7 +13656,7 @@
       "GL/30"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1DCEBF98-7F0E-4E9E-822B-DFC9B618A4C9",
@@ -13573,7 +13678,7 @@
     "category": "motion",
     "ids_chapter": "passive",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1145289087",
@@ -13630,7 +13735,7 @@
       "PE17/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
@@ -13652,7 +13757,7 @@
     "category": "actions",
     "ids_chapter": "possession",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1272131327",
@@ -13723,7 +13828,7 @@
       "VT44/27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "4057850C-9E8B-40B4-84F1-A056BC5645D8",
@@ -13745,7 +13850,7 @@
     "category": "condition",
     "ids_chapter": "possession",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3371312947",
@@ -13764,7 +13869,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "409B8222-0782-466E-806F-0067CB191D62",
@@ -13786,7 +13891,7 @@
     "category": "condition",
     "ids_chapter": "possession",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3371312947",
@@ -13814,7 +13919,7 @@
       "TAI/150"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "1D716151-634B-4DCD-B94E-D12C672E662D",
@@ -13836,7 +13941,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "879953053",
@@ -13860,7 +13965,7 @@
       "GL/55"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "0E4ADB77-76EB-4320-BFAB-835A7560DA3F",
@@ -13882,7 +13987,7 @@
     "category": "actions",
     "ids_chapter": "emotions and values",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2622279379",
@@ -13906,7 +14011,7 @@
       "GL/65-66"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "893AD642-3AD9-4A62-AF61-54F6299AFE2F",
@@ -13928,7 +14033,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2775541565",
@@ -13952,7 +14057,7 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "81921783-512D-4E23-8733-D2F2E65CD4F1",
@@ -14020,7 +14125,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4043949665",
@@ -14048,7 +14153,7 @@
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5DB341BB-AF2E-4195-8B35-55B1492546B7",
@@ -14136,7 +14241,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3847413233",
@@ -14160,7 +14265,7 @@
       "GL/36"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3045B642-5C26-465B-8244-D71DB6530EF5",
@@ -14276,7 +14381,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1108917221",
@@ -14331,7 +14436,7 @@
       "Ety/KHAT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "4DFAF0B2-8474-4A50-8F80-5E5A69B08019",
@@ -14353,7 +14458,7 @@
     "category": "actions",
     "ids_chapter": "basic actions and technology",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2687940851",
@@ -14403,7 +14508,7 @@
       "Ety/NUT, WŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "81795E78-0F1C-46D1-BE26-E2EDA0945B3B",
@@ -14475,7 +14580,7 @@
     "category": "actions",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2219424381",
@@ -14510,7 +14615,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "4FFE6E79-5840-493E-AFA0-88D8F3EF29BC",
@@ -14532,7 +14637,7 @@
     "category": "actions",
     "ids_chapter": "quantity",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3605082813",
@@ -14559,7 +14664,7 @@
       "WJ/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "7C486276-AA99-41B5-8CDF-230DCB8C963D",
@@ -14581,7 +14686,7 @@
     "category": "social",
     "ids_chapter": "speech and language",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "599418975",
@@ -14637,7 +14742,7 @@
       "VT50/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "A6423CA6-12E2-49D8-976D-75A01B145F99",
@@ -14659,7 +14764,7 @@
     "category": "arts",
     "ids_chapter": "speech and language",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "578926463",
@@ -14692,7 +14797,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "F2AB643B-7701-4408-AB99-9CD5418E7A41",
@@ -14714,7 +14819,7 @@
     "category": "actions",
     "ids_chapter": "emotions and values",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2404675057",
@@ -14782,7 +14887,7 @@
       "Ety/TYAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "E994BD33-80EE-46FE-BDEE-5002ED9AB901",
@@ -14804,7 +14909,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4219826861",
@@ -14831,7 +14936,7 @@
       "EtyAC/LUT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "FFB873C6-1503-4216-84F4-B1919DFBB9E4",
@@ -14853,7 +14958,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1413134131",
@@ -14881,7 +14986,7 @@
       "Ety/SIR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "D7FD44AB-FAC8-4791-A8CC-3C9138558A2F",
@@ -14961,7 +15066,7 @@
     "category": "physics",
     "ids_chapter": "the physical world",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2769140963",
@@ -15010,7 +15115,7 @@
     "category": "physics",
     "ids_chapter": "the physical world",
     "type": "restored",
-    "source": "noldorin",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3843752127",
@@ -15126,7 +15231,7 @@
     "category": "physics",
     "ids_chapter": "the physical world",
     "type": "reconstructed",
-    "source": "gnomish",
+    "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3830460559",
@@ -15172,7 +15277,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1930217087",
@@ -15256,7 +15361,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "535385615",
@@ -15314,7 +15419,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "60902367",
@@ -15396,7 +15501,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3687268913",
@@ -15454,7 +15559,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4145961873",
@@ -15528,7 +15633,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "742218303",
@@ -15578,7 +15683,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "1696525921",
@@ -15660,7 +15765,7 @@
     "category": "nature",
     "ids_chapter": "the physical world",
     "type": "attested",
-    "source": "tolkien",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3934205215",
