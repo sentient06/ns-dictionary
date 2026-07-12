@@ -820,7 +820,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -839,7 +839,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "01D800DF-BA79-4318-9D75-120BE3CF98C5",
@@ -949,7 +949,7 @@
     "category": "grammar",
     "ids_chapter": "grammar",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -971,7 +971,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "3809751E-1B6F-4BD4-B472-19A422669B4C",
@@ -5598,7 +5598,7 @@
     "category": "botanics",
     "ids_chapter": "agriculture and vegetation",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -5691,7 +5691,7 @@
     "notes": "A neologism to describe a stick as a simple piece of wood, inspired by Germanic languages Stock, stok, stokk, Romance languages palus, pau, palo, par, Finnish keppi, Japanese 木の棒, Chinese 木棍. Conservative speakers may prefer to use \"golf\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5DD60B9C-E2BD-4EFD-A949-AE50E21D8BEF",
@@ -6782,7 +6782,7 @@
     "category": "food",
     "ids_chapter": "food and drink",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -6924,7 +6924,7 @@
     "notes": "Neologism for \"meat\", based on Old English term \"flesh-meat\" (12c), in which \"meat\" referred to food in general. (French had a similar term, \"viande\", which meant \"food\".)",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "C7DB8C96-BFDB-4A8F-990E-3CEC37609675",
@@ -8615,7 +8615,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -8634,7 +8634,7 @@
     "notes": "This word follows the same pattern of \"lhaw\" (ears) and \"sunt\" (nostrils), in which a primitive dual is fossilised into a modern Sindarin word. As a pair of eyes is as natural as a pair of ears or nostrils, it makes sense to have a dual plural for \"eye\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "55069C4A-DEE1-41F1-AA97-550C007572B4",
@@ -9383,7 +9383,7 @@
     "category": "body",
     "ids_chapter": "the body",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -9475,7 +9475,7 @@
     "notes": "Word coined based on √NYELEK, which is used for a Neo-Quenya word meaning \"fingernail\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "5409A7ED-E45F-4C32-A5BB-A8F54F665EE3",
@@ -12882,7 +12882,7 @@
     "category": "actions",
     "ids_chapter": "motion",
     "type": "neologism",
-    "source": "celephinnel",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -12937,7 +12937,7 @@
     "notes": "More conservative users prefer \"loda-\", meaning \"to float\". I disagree because \"to swim\" is one of the 100 words in the Swadesh list and should have its own meaning.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-11"
+    "last_modified": "2026-07-12"
   },
   {
     "uuid": "557C1A13-4E91-4C5C-A6FB-41F656A8F520",
@@ -14882,5 +14882,494 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-11"
+  },
+  {
+    "uuid": "D7FD44AB-FAC8-4791-A8CC-3C9138558A2F",
+    "id": "ethiria",
+    "mutation_marker": "",
+    "sindarin": "ethiria-",
+    "spellings": {},
+    "ipa": "e.'θi.rɪja",
+    "tengwar": "",
+    "cirth": "z0lRlcI",
+    "english": [
+      "outpour, outflow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2517440915",
+    "etymology": {
+      "root_refs": [
+        "et",
+        "sir"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "ET",
+          "gloss": "out, forth",
+          "type": "root"
+        },
+        {
+          "form": "SIR",
+          "gloss": "flow",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "Based on \"ethir\" meaning \"outflow\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "1338E96E-E7A9-47F6-BAF6-86B1A005C32B",
+    "id": "hel",
+    "mutation_marker": "",
+    "sindarin": "hel-",
+    "spellings": {},
+    "ipa": "hel",
+    "tengwar": "",
+    "cirth": ".zaI",
+    "english": [
+      "freeze"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "the physical world",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2769140963",
+    "etymology": {
+      "root_refs": [
+        "khel"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 145,
+    "notes": "",
+    "references": [
+      "GL/48",
+      "LT1A/Helkar"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "6ED9D60F-C915-4D21-B915-CF5DD93062C6",
+    "id": "tuia",
+    "mutation_marker": "",
+    "sindarin": "tuia-",
+    "spellings": {},
+    "ipa": "tuɪja",
+    "tengwar": "",
+    "cirth": "8SlcI",
+    "english": [
+      "sprout, spring forth"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "the physical world",
+    "type": "restored",
+    "source": "noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3843752127",
+    "etymology": {
+      "root_refs": [
+        "tuy"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tuja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "tuia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "",
+    "references": [
+      "Ety/TUY"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "0BB8DD60-A19B-4137-8ADC-425CC5A1DDE0",
+    "id": "tyda",
+    "mutation_marker": "",
+    "sindarin": "tŷda-",
+    "spellings": {},
+    "ipa": "'tjː.da",
+    "tengwar": "",
+    "cirth": "8LL9cI",
+    "english": [
+      "swell"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "the physical world",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "TIW",
+          "gloss": "fat, thick",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "verb suffix (transitive), causative"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 146,
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "0ED9B529-695E-4DBD-AC26-E4325267554E",
+    "id": "beltha",
+    "mutation_marker": "",
+    "sindarin": "beltha-",
+    "spellings": {},
+    "ipa": "'bel.θa",
+    "tengwar": "",
+    "cirth": "2za0cI",
+    "english": [
+      "open out, expand, billow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "the physical world",
+    "type": "reconstructed",
+    "source": "gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3830460559",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "",
+    "references": [
+      "GL/22"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "50FA4C0F-CCB4-4E94-B033-7EB4F7928FF9",
+    "id": "anor",
+    "mutation_marker": "",
+    "sindarin": "Anor",
+    "spellings": {},
+    "ipa": "'a.nor",
+    "tengwar": "",
+    "cirth": "c@bR",
+    "english": [
+      "sun"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1930217087",
+    "etymology": {
+      "root_refs": [
+        "nar"
+      ],
+      "primitive": {
+        "form": "Anār",
+        "eldamo_id": "1551547523"
+      },
+      "development": [
+        {
+          "form": "anār",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "anǭr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "anaur",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "anor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "Anar"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 72,
+    "swadesh207": 147,
+    "notes": "",
+    "references": [
+      "LotRI",
+      "PE17/30, 38, 55",
+      "RC/297",
+      "SA/nár",
+      "SDI2/Anar",
+      "SI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "E7DBB81F-D795-44C5-A744-6CF2C8E74FCE",
+    "id": "ithil",
+    "mutation_marker": "",
+    "sindarin": "Ithil",
+    "spellings": {},
+    "ipa": "'i.θil",
+    "tengwar": "",
+    "cirth": "l0la",
+    "english": [
+      "moon"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "535385615",
+    "etymology": {
+      "root_refs": [
+        "thil"
+      ],
+      "primitive": {
+        "form": "Ithil",
+        "eldamo_id": "2640380561"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "Isil"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 73,
+    "swadesh207": 148,
+    "notes": "",
+    "references": [
+      "LB/354",
+      "LBI",
+      "Let/425",
+      "LotR/1114",
+      "LotRI/Moon",
+      "MRI",
+      "PE17/30, 39, 121",
+      "SA/sil",
+      "WJI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "EF1076EC-70EB-40E1-B42C-2B8D3ADE7E78",
+    "id": "gil",
+    "mutation_marker": "ng-",
+    "sindarin": "gil",
+    "spellings": {},
+    "ipa": "gil",
+    "tengwar": "",
+    "cirth": "rla",
+    "english": [
+      "star"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "60902367",
+    "etymology": {
+      "root_refs": [
+        "gil"
+      ],
+      "primitive": {
+        "form": "gili-",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "gilji",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2851583127"
+        },
+        {
+          "form": "gili",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "gil",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gilji&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RGHSTJ"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 74,
+    "swadesh207": 149,
+    "notes": "The primitive word is hypothetical because Tolkien insisted in a form that wouldn't develop following the phonetic rules.",
+    "references": [
+      "Let/427",
+      "LotR/1113",
+      "MR/388, 470-471",
+      "PE17/22-23, 30, 50, 152",
+      "PE22/159",
+      "RC/232",
+      "RGEO/61, 65",
+      "S/106",
+      "SA/gil",
+      "VT42/11"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-12"
   }
 ]
