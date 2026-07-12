@@ -1657,6 +1657,132 @@
     "last_modified": "2026-07-12"
   },
   {
+    "uuid": "8D9C9D89-3CD6-44AD-BEF5-E448D0EE67BE",
+    "id": "sath",
+    "mutation_marker": "",
+    "sindarin": "sath",
+    "spellings": {},
+    "ipa": "saθ",
+    "tengwar": "",
+    "cirth": "fc0",
+    "english": [
+      "part"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sath",
+      "singular": "",
+      "plural": "seth"
+    },
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4250373715",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "13A9867F-6C6A-42E7-BEDD-DC338D064257",
+    "id": "sath",
+    "mutation_marker": "",
+    "sindarin": "sath",
+    "spellings": {},
+    "ipa": "saθ",
+    "tengwar": "",
+    "cirth": "fc0",
+    "english": [
+      "some"
+    ],
+    "grammar": [
+      "determiner",
+      "pronoun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "grammar",
+    "ids_chapter": "grammar",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4250373715",
+    "etymology": {
+      "root_refs": [
+        "sat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "satta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "sattʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "saθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "saθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "saθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=satta&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RGHSTJ"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "Based on Greek μέρος (méros), which originally means \"part\". The idea that \"some\" represents a part of a larger thing seems logical enough to treat this word as a determiner.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-12"
+  },
+  {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
     "id": "nodui",
     "mutation_marker": "",
@@ -15203,7 +15329,7 @@
       "class": "derived",
       "irregular": false
     },
-    "confidence": null,
+    "confidence": 0,
     "swadesh100": null,
     "swadesh207": 146,
     "notes": "",

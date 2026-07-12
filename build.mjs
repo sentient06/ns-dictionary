@@ -321,8 +321,9 @@ function prepareWordData(word, rootsMap) {
     type_source_text: buildTypeSourceText(word.type, word.source),
     has_confidence: word.confidence !== null && word.confidence !== undefined,
     confidence_stars: word.confidence !== null && word.confidence !== undefined
-      ? '★'.repeat(word.confidence) + '☆'.repeat(5 - word.confidence)
+      ? '✦'.repeat(word.confidence) + '✧'.repeat(5 - word.confidence)
       : '',
+      // ? '★'.repeat(word.confidence) + '☆'.repeat(5 - word.confidence)
     confidence_label: word.confidence !== null && word.confidence !== undefined
       ? ['Unreviewed', 'Dubious', 'Debated', 'Accepted', 'Established', 'Recommended'][word.confidence] || ''
       : '',
