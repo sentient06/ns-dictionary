@@ -16044,5 +16044,334 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-13"
+  },
+  {
+    "uuid": "58A49E3F-E487-44BD-A53E-917222D4E87D",
+    "id": "gond",
+    "mutation_marker": "",
+    "sindarin": "gond",
+    "spellings": {},
+    "ipa": "gond",
+    "tengwar": "",
+    "cirth": "rbk",
+    "english": [
+      "stone, rock"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gond",
+      "singular": "",
+      "plural": "gynd"
+    },
+    "gender": "",
+    "category": "mineral",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1084088573",
+    "etymology": {
+      "root_refs": [
+        "gonod"
+      ],
+      "primitive": {
+        "form": "gondō",
+        "eldamo_id": "2117067359"
+      },
+      "development": [
+        {
+          "form": "gondō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "gondo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gond",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gondo%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "ondo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 77,
+    "swadesh207": 156,
+    "notes": "",
+    "references": [
+      "NM/363",
+      "PE17/28-29",
+      "PE23/139",
+      "SA/gond",
+      "WJ/201"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-13"
+  },
+  {
+    "uuid": "0BEF59B7-8522-4B1B-9F66-32ECAFA3F94F",
+    "id": "sarn",
+    "mutation_marker": "",
+    "sindarin": "sarn",
+    "spellings": {},
+    "ipa": "sarn",
+    "tengwar": "",
+    "cirth": "fcR@",
+    "english": [
+      "pebble, stone, gem"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sarn",
+      "singular": "",
+      "plural": "sern"
+    },
+    "gender": "",
+    "category": "mineral",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1057523367",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "sarnē",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "sarnē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "sarne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "sarn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sarne%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sar"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "",
+    "references": [
+      "PE23/136, 139",
+      "RC/327, 775",
+      "SA/sarn",
+      "UTI/Serni",
+      "VT42/11"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-13"
+  },
+  {
+    "uuid": "A78BD10F-6D37-454D-A137-10AD06CF1FD0",
+    "id": "sarn",
+    "mutation_marker": "",
+    "sindarin": "sarn",
+    "spellings": {},
+    "ipa": "sarn",
+    "tengwar": "",
+    "cirth": "fcR@",
+    "english": [
+      "stony"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "sarn",
+      "singular": "",
+      "plural": "sern"
+    },
+    "gender": "",
+    "category": "mineral",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1057523367",
+    "etymology": {
+      "root_refs": [
+        "sar"
+      ],
+      "primitive": {
+        "form": "sarnā",
+        "eldamo_id": "1519880573"
+      },
+      "development": [
+        {
+          "form": "sarnā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "sarna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "sarn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sarna%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sarna"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "notes": "",
+    "references": [
+      "RC/163"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-13"
+  },
+  {
+    "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
+    "id": "mardhu",
+    "mutation_marker": "",
+    "sindarin": "mardhu",
+    "spellings": {},
+    "ipa": "'mar.ðu",
+    "tengwar": "",
+    "cirth": "6cR!S",
+    "english": [
+      "sand"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mineral",
+    "ids_chapter": "the physical world",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "mṛřṛ"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "mṛðmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "marðmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "marðma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "marðm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "marðv",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2192660503"
+        },
+        {
+          "form": "marðw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798091205"
+        },
+        {
+          "form": "marðu",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=m%E1%B9%9BDHma%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "litse"
+    },
+    "conjugation": null,
+    "confidence": 1,
+    "swadesh100": 78,
+    "swadesh207": 157,
+    "notes": "Word coined from the root √MṚŘṚ, meaning \"to grind\", source of the Early Quenya \"marma\", sand. The root is old and probably unused by Tolkien's later works, so this word is not likely to be adopted by the community. But I don't think \"ash\" and \"sand\" should be homonyms, so I stick by it.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-13"
   }
 ]
