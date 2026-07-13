@@ -1776,11 +1776,11 @@
     "conjugation": null,
     "confidence": 0,
     "swadesh100": null,
-    "swadesh207": null,
+    "swadesh207": 19,
     "notes": "Based on Greek μέρος (méros), which originally means \"part\". The idea that \"some\" represents a part of a larger thing seems logical enough to treat this word as a determiner.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-12"
+    "last_modified": "2026-07-13"
   },
   {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
@@ -15916,5 +15916,133 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-12"
+  },
+  {
+    "uuid": "C39E9FDC-98C1-4B1A-A811-1682CE70E0E3",
+    "id": "gaear",
+    "mutation_marker": "",
+    "sindarin": "gaear",
+    "spellings": {},
+    "ipa": "gaear",
+    "tengwar": "",
+    "cirth": "rczcR",
+    "english": [
+      "sea"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gaear",
+      "singular": "",
+      "plural": "geiair"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3259339243",
+    "etymology": {
+      "root_refs": [
+        "gay(ar)"
+      ],
+      "primitive": {
+        "form": "gayār",
+        "eldamo_id": "1840142991"
+      },
+      "development": [
+        {
+          "form": "gaiara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "gaiar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "gaear",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gaiara&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "ëar"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 154,
+    "notes": "",
+    "references": [
+      "Let/386",
+      "LotR/238",
+      "PE17/27, 149",
+      "PM/363",
+      "RGEO/63-65",
+      "SA/ëar, gaer",
+      "WJ/400"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-13"
+  },
+  {
+    "uuid": "26827AC3-50B0-4629-941D-B87F3C4FD225",
+    "id": "sing",
+    "mutation_marker": "",
+    "sindarin": "sing",
+    "spellings": {},
+    "ipa": "siŋ",
+    "tengwar": "",
+    "cirth": "flu",
+    "english": [
+      "salt"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mineral",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1623926549",
+    "etymology": {
+      "root_refs": [
+        "siñgi"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "singë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 155,
+    "notes": "",
+    "references": [
+      "GL/67"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-13"
   }
 ]
