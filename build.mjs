@@ -316,7 +316,7 @@ function prepareWordData(word, rootsMap) {
     ipa: ipa_display,
     grammar: grammarJoined,
     root: '../',
-    english_joined: word.english.join(', '),
+    english_joined: word.definition || word.english.join(', '),
     category_label: CATEGORY_LABELS[word.category] || word.category,
     type_source_text: buildTypeSourceText(word.type, word.source),
     has_confidence: word.confidence !== null && word.confidence !== undefined,
