@@ -16278,13 +16278,13 @@
   },
   {
     "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
-    "id": "mardhu",
+    "id": "ledhu",
     "mutation_marker": "",
-    "sindarin": "mardhu",
+    "sindarin": "ledhu",
     "spellings": {},
-    "ipa": "'mar.ðu",
-    "tengwar": "",
-    "cirth": "6cR!S",
+    "ipa": "'le.ðu",
+    "tengwar": "",
+    "cirth": "az!S",
     "english": [
       "sand"
     ],
@@ -16302,20 +16302,20 @@
     "eldamo_id": "",
     "etymology": {
       "root_refs": [
-        "mṛřṛ"
+        "lit"
       ],
       "primitive": null,
       "development": [
         {
-          "form": "mṛðmā",
+          "form": "litmā",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": ""
+          "eldamo_id": "3463937975"
         },
         {
-          "form": "marðmā",
+          "form": "lidmā",
           "eldamo_id": ""
         },
         {
@@ -16323,7 +16323,23 @@
           "eldamo_id": "2753394075"
         },
         {
-          "form": "marðma",
+          "form": "lidma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "ledma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "leðma",
           "eldamo_id": ""
         },
         {
@@ -16331,7 +16347,7 @@
           "eldamo_id": "813787869"
         },
         {
-          "form": "marðm",
+          "form": "leðm",
           "eldamo_id": ""
         },
         {
@@ -16339,7 +16355,7 @@
           "eldamo_id": "1951379117"
         },
         {
-          "form": "marðv",
+          "form": "leðv",
           "eldamo_id": ""
         },
         {
@@ -16347,7 +16363,7 @@
           "eldamo_id": "2192660503"
         },
         {
-          "form": "marðw",
+          "form": "leðw",
           "eldamo_id": ""
         },
         {
@@ -16355,12 +16371,12 @@
           "eldamo_id": "798091205"
         },
         {
-          "form": "marðu",
+          "form": "leðu",
           "eldamo_id": ""
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=m%E1%B9%9BDHma%3A&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=litma%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
       "quenya": "litse"
@@ -16369,7 +16385,7 @@
     "confidence": 1,
     "swadesh100": 78,
     "swadesh207": 157,
-    "notes": "Word coined from the root √MṚŘṚ, meaning \"to grind\", source of the Early Quenya \"marma\", sand. The root is old and probably unused by Tolkien's later works, so this word is not likely to be adopted by the community. But I don't think \"ash\" and \"sand\" should be homonyms, so I stick by it.",
+    "notes": "I really believe that a separate word for \"sand\" is important. I wouldn't claim that lith cannot mean both \"ash\" and \"sand\", natural languages permit stranger polysemies than that. But I do think there's a reasonable linguistic case that this merger is unusually unsupported cross-linguistically and that distinguishing the two concepts would improve the lexicon with very little cost. I have used √LIT \"grit\" + ✶-mā \"instrumental suffix\", in analogy to √SAG \"bitter, poison\" + -mā = ✶sagmā \"poison\".",
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-13"
