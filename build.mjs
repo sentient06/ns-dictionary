@@ -245,30 +245,25 @@ function prepareWordData(word, rootsMap) {
     }
   }
 
-  // Alternative spellings (dialect-keyed object → list of { dialect, form })
+  // Alternative spellings — split into header (no slot) and inflection (with slot)
   const dialectLabels = { north: 'North Sindarin', gondorian: 'Gondorian Sindarin', classic: 'Classic Sindarin' };
-  const altSpellings = Object.entries(word.spellings || {}).map(
-    ([dialect, form]) => ({ dialect, dialect_label: dialectLabels[dialect] || dialect, form })
-  );
+  const allSpellings = Array.isArray(word.spellings) ? word.spellings : [];
+  const altSpellings = allSpellings
+    .filter(s => !s.slot)
+    .map(s => ({ dialect: s.dialect, dialect_label: dialectLabels[s.dialect] || s.dialect, form: s.form }));
+  const dialectInflections = allSpellings
+    .filter(s => s.slot)
+    .map(s => ({ inflection_label: `${dialectLabels[s.dialect] || s.dialect} ${s.slot}`, inflection_form: s.form }));
 
-  // Inflection: show the "other" form with a label
-  // Both empty → nothing. plural filled → show "pl. X". singular filled → show "sg. X".
-  // Both filled (edge case) → show "pl. {plural}" only, singular ignored.
+  // Inflection: build list of inflection entries
+  const inflection_entries = [];
   const inf = word.inflection;
-  let inflection_label = '';
-  let inflection_form = '';
-  let has_inflection = false;
   if (inf) {
-    if (inf.plural) {
-      inflection_label = 'plural';
-      inflection_form = inf.plural;
-      has_inflection = true;
-    } else if (inf.singular) {
-      inflection_label = 'singular';
-      inflection_form = inf.singular;
-      has_inflection = true;
-    }
+    if (inf.plural) inflection_entries.push({ inflection_label: 'plural', inflection_form: inf.plural });
+    if (inf.singular) inflection_entries.push({ inflection_label: 'singular', inflection_form: inf.singular });
   }
+  inflection_entries.push(...dialectInflections);
+  const has_inflection = inflection_entries.length > 0;
 
   // Primitive: now an object { form, eldamo_id }
   const prim = word.etymology?.primitive;
@@ -345,8 +340,7 @@ function prepareWordData(word, rootsMap) {
     conjugation_forms,
     has_conjugation_forms: conjugation_forms.length > 0,
     has_inflection,
-    inflection_label,
-    inflection_form,
+    inflection_entries,
 
     has_references: !!(word.references?.length),
     references_joined: (word.references || []).join(', '),
@@ -369,6 +363,11 @@ function grammarLabel(w) {
   return g.join(', ');
 }
 
+function confidenceClass(w) {
+  if (w.type !== 'neologism' || w.confidence === null || w.confidence === undefined) return '';
+  return `confidence-${w.confidence}`;
+}
+
 function buildSindarinEnglishList(words) {
   const sorted = [...words].sort((a, b) => a.sindarin.localeCompare(b.sindarin));
   const byLetter = {};
@@ -389,7 +388,7 @@ function buildSindarinEnglishList(words) {
       section_title: letter,
       words: byLetter[letter].map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
-        grammar: grammarLabel(w), root: '',
+        grammar: grammarLabel(w), confidence_class: confidenceClass(w), root: '',
       })),
     })),
   };
@@ -421,7 +420,7 @@ function buildEnglishSindarinList(words) {
       section_title: letter,
       words: byLetter[letter].map(e => ({
         id: e.id, primary: e.english_single, secondary: e.sindarin,
-        grammar: grammarLabel(e), root: '',
+        grammar: grammarLabel(e), confidence_class: confidenceClass(e), root: '',
       })),
     })),
   };
@@ -447,7 +446,7 @@ function buildByGrammarList(words) {
       section_title: g.charAt(0).toUpperCase() + g.slice(1) + (g.charAt(g.length - 1) === 'x' ? 'e' : '') + 's',
       words: byGrammar[g].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
-        grammar: grammarLabel(w), root: '',
+        grammar: grammarLabel(w), confidence_class: confidenceClass(w), root: '',
       })),
     })),
   };
@@ -472,7 +471,7 @@ function buildByCategoryList(words) {
       section_title: CATEGORY_LABELS[c] || c.charAt(0).toUpperCase() + c.slice(1),
       words: byCat[c].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
-        grammar: grammarLabel(w), root: '',
+        grammar: grammarLabel(w), confidence_class: confidenceClass(w), root: '',
       })),
     })),
   };
@@ -493,7 +492,7 @@ function buildSwadeshList(words, field, title, description, filename) {
       section_title: title,
       words: filtered.map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
-        grammar: grammarLabel(w), root: '', rank: w[field],
+        grammar: grammarLabel(w), confidence_class: confidenceClass(w), root: '', rank: w[field],
       })),
     }],
   };
@@ -570,6 +569,9 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
   const englishSummary = group.map(w => w.english.join(', ')).join('; ');
   const grammarSummary = [...new Set(senses.map(s => s.grammar).filter(Boolean))].join(', ') || '';
 
+  // Hoist conjugation from the first sense that has it (shared across senses)
+  const conjSense = senses.find(s => s.has_conjugation);
+
   const pageData = {
     sindarin: first.sindarin,
     mutation_marker: first.mutation_marker || '',
@@ -583,6 +585,12 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
     canonical_url: `${SITE_URL}/words/${slug}.html`,
     build_date: wordDate,
     last_modified: first.last_modified || wordDate,
+    has_conjugation: !!conjSense,
+    conjugation: conjSense?.conjugation,
+    conjugation_tenses: conjSense?.conjugation_tenses || [],
+    has_conjugation_tenses: conjSense?.has_conjugation_tenses || false,
+    conjugation_forms: conjSense?.conjugation_forms || [],
+    has_conjugation_forms: conjSense?.has_conjugation_forms || false,
     senses,
   };
 

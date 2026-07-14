@@ -194,7 +194,7 @@ body {
 .word-english {
   font-size: 1.3rem;
   font-style: italic;
-  margin-bottom: 1rem;
+  margin-bottom: 0.2rem;
 }
 
 .word-type-source {
@@ -300,6 +300,8 @@ body {
   color: var(--ink-light);
   margin-bottom: 0.25rem;
 }
+
+.inflection-entry + .inflection-entry { margin-left: 0.75rem; }
 
 .inflection-label {
   font-family: var(--font-sans);
@@ -563,6 +565,47 @@ a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
   text-transform: uppercase;
 }
 
+.word-list li[class^=confidence-] {
+  position: relative;
+}
+.word-list li[class^=confidence-]::before {
+  width: 40px;
+  position: absolute;
+  height: 20px;
+  color: #b8860b;
+  font-size: 0.6rem;
+  bottom: -4px;
+  opacity: 0.5;
+}
+.word-list li[class^=confidence-]:hover::before {
+  opacity: 1;
+}
+.word-list li.confidence-0::before { content: '✧✧✧✧✧'; }
+.word-list li.confidence-1::before { content: '✦✧✧✧✧'; }
+.word-list li.confidence-2::before { content: '✦✦✧✧✧'; }
+.word-list li.confidence-3::before { content: '✦✦✦✧✧'; }
+.word-list li.confidence-4::before { content: '✦✦✦✦✧'; }
+.word-list li.confidence-5::before { content: '✦✦✦✦✦'; }
+
+
+/* .word-list li[class^=confidence-]::before {
+  content: ' ';
+  width: 5px;
+  background: black;
+  position: absolute;
+  left: -20px;
+  height: 23px;
+  border-radius: 3px;
+  margin: 5px;
+} */
+
+/* .word-list li.confidence-0::before { background: silver; }
+.word-list li.confidence-1::before { background: orangered; }
+.word-list li.confidence-2::before { background: orange; }
+.word-list li.confidence-3::before { background: gold; }
+.word-list li.confidence-4::before { background: darkseagreen; }
+.word-list li.confidence-5::before { background: forestgreen; } */
+
 /* --- Page Title --- */
 .page-title {
   font-size: 2rem;
@@ -663,6 +706,24 @@ a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
   font-size: 1rem;
   color: var(--ink-light);
   margin-bottom: 0.5rem;
+}
+
+.quettamorphosis {
+  position: relative;
+}
+.quettamorphosis a {
+  position: absolute;
+  left: 6px;
+  top: -1px;
+  text-decoration: none;
+}
+.quettamorphosis a::after {
+  position: absolute;
+  top: 3px;
+}
+.quettamorphosis img {
+  width: 1rem;
+  height: auto;
 }
 
 .etymology-root {

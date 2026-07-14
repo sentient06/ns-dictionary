@@ -4,7 +4,7 @@
     "id": "ni",
     "mutation_marker": "",
     "sindarin": "ni",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nɪ́",
     "tengwar": "",
     "cirth": "@l",
@@ -44,14 +44,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "60DBC4AD-47E2-44E1-A35A-C6A2770466DE",
     "id": "n",
     "mutation_marker": "",
     "sindarin": "-n",
-    "spellings": {},
+    "spellings": [],
     "ipa": "n",
     "tengwar": "",
     "cirth": "I@",
@@ -92,14 +92,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7537D39B-17DB-4966-A2D1-9D4156AA0D7F",
     "id": "ci",
     "mutation_marker": "",
     "sindarin": "ci",
-    "spellings": {},
+    "spellings": [],
     "ipa": "kɪ́",
     "tengwar": "",
     "cirth": "el",
@@ -140,14 +140,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "693FB9D9-6B1D-4172-BBC2-B4C3ECD98453",
     "id": "g",
     "mutation_marker": "",
     "sindarin": "-g",
-    "spellings": {},
+    "spellings": [],
     "ipa": "g",
     "tengwar": "",
     "cirth": "Ir",
@@ -189,14 +189,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C3624202-9326-4457-9C0C-3AEC68427956",
     "id": "le",
     "mutation_marker": "",
     "sindarin": "le",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lɛ́",
     "tengwar": "",
     "cirth": "az",
@@ -237,14 +237,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "EE1077FB-B3A2-4905-94BC-FBB86E95DCA2",
     "id": "l",
     "mutation_marker": "",
     "sindarin": "-l",
-    "spellings": {},
+    "spellings": [],
     "ipa": "l",
     "tengwar": "",
     "cirth": "Ia",
@@ -286,14 +286,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3C635998-67C9-4886-9814-80275BF590E4",
     "id": "te",
     "mutation_marker": "",
     "sindarin": "te",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tɛ́",
     "tengwar": "",
     "cirth": "8z",
@@ -330,14 +330,14 @@
     "notes": "Reconstructed from \"ten\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6282F5BE-7505-465F-AEE5-2FAF7CF628BA",
     "id": "pe",
     "mutation_marker": "",
     "sindarin": "pe",
-    "spellings": {},
+    "spellings": [],
     "ipa": "pɛ́",
     "tengwar": "",
     "cirth": "1z",
@@ -375,14 +375,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E31C7DB2-BE6D-4FFC-A8FE-FB0ABA4FD3EB",
     "id": "b",
     "mutation_marker": "",
     "sindarin": "-b",
-    "spellings": {},
+    "spellings": [],
     "ipa": "b",
     "tengwar": "",
     "cirth": "I2",
@@ -421,14 +421,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "35496230-E57E-4925-A248-6ED88C3C0A9D",
     "id": "me",
     "mutation_marker": "",
     "sindarin": "me",
-    "spellings": {},
+    "spellings": [],
     "ipa": "mɛ́",
     "tengwar": "",
     "cirth": "6z",
@@ -466,14 +466,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "FFC672AA-AE0A-4CA9-9022-238471458BD9",
     "id": "f",
     "mutation_marker": "",
     "sindarin": "-f",
-    "spellings": {},
+    "spellings": [],
     "ipa": "f",
     "tengwar": "",
     "cirth": "I3",
@@ -512,14 +512,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "07050DC2-E77A-487F-8209-CE44D2D90D3A",
     "id": "gir",
     "mutation_marker": "",
     "sindarin": "-gir",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gɪ́r",
     "tengwar": "",
     "cirth": "IrlR",
@@ -555,14 +555,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9FEC4C5F-0C3A-45CC-A17E-36175B05E9F7",
     "id": "dhir",
     "mutation_marker": "",
     "sindarin": "-dhir",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ðɪ́r",
     "tengwar": "",
     "cirth": "I!lR",
@@ -598,14 +598,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A499868B-E2AD-4DC8-9AE3-767C73F19E9C",
     "id": "de",
     "mutation_marker": "",
     "sindarin": "de",
-    "spellings": {},
+    "spellings": [],
     "ipa": "de",
     "tengwar": "",
     "cirth": "9z",
@@ -642,14 +642,14 @@
       "PE17/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "81BFCA50-5345-48F8-9B9B-42F094BCFAB4",
     "id": "ti",
     "mutation_marker": "",
     "sindarin": "ti",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tɪ́",
     "tengwar": "",
     "cirth": "8l",
@@ -684,14 +684,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "63554FAC-BF44-4CD1-A4D5-2DB406707A2F",
     "id": "r",
     "mutation_marker": "",
     "sindarin": "-r",
-    "spellings": {},
+    "spellings": [],
     "ipa": "r",
     "tengwar": "",
     "cirth": "IR",
@@ -727,14 +727,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D478D879-9639-4C19-9023-B6B9B35A3335",
     "id": "se",
     "mutation_marker": "",
     "sindarin": "se",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sɛ́",
     "tengwar": "",
     "cirth": "fz",
@@ -769,14 +769,14 @@
     "notes": "Reconstructed from \"sen\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2668468A-7B21-487F-A0B8-497D3C951E02",
     "id": "sen",
     "mutation_marker": "",
     "sindarin": "sen",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sɛ́n",
     "tengwar": "",
     "cirth": "fz@",
@@ -816,14 +816,14 @@
       "PE17/44"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C14AD0E8-E930-4E23-A033-0C8F6FDB6976",
     "id": "assen",
     "mutation_marker": "",
     "sindarin": "assen",
-    "spellings": {},
+    "spellings": [],
     "ipa": "á.sen",
     "tengwar": "",
     "cirth": "chz@",
@@ -858,14 +858,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "01D800DF-BA79-4318-9D75-120BE3CF98C5",
     "id": "sa",
     "mutation_marker": "",
     "sindarin": "sa",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sá",
     "tengwar": "",
     "cirth": "fc",
@@ -903,14 +903,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
     "id": "san",
     "mutation_marker": "",
     "sindarin": "san",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sán",
     "tengwar": "",
     "cirth": "fc@",
@@ -948,14 +948,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8D62AF29-5B32-42EF-ADC6-480839615531",
     "id": "anhan",
     "mutation_marker": "",
     "sindarin": "anhan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'an.han",
     "tengwar": "",
     "cirth": "c@.c@",
@@ -993,14 +993,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3809751E-1B6F-4BD4-B472-19A422669B4C",
     "id": "si",
     "mutation_marker": "",
     "sindarin": "sí",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sɪ́ː",
     "tengwar": "",
     "cirth": "fll",
@@ -1048,14 +1048,14 @@
       "RGEO/64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "745C0CF7-06A9-4674-B3D9-DCE4B84C172F",
     "id": "ennas",
     "mutation_marker": "",
     "sindarin": "ennas",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ɛ́.nas",
     "tengwar": "",
     "cirth": "z@@cf",
@@ -1098,14 +1098,14 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8A0CF779-DC91-45D3-B845-DB5D217AB0AB",
     "id": "man",
     "mutation_marker": "",
     "sindarin": "man",
-    "spellings": {},
+    "spellings": [],
     "ipa": "man",
     "tengwar": "",
     "cirth": "6c@",
@@ -1144,14 +1144,14 @@
       "TI/281"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2D84CE99-3846-471C-93E4-DE7A5CE37BEA",
     "id": "man",
     "mutation_marker": "",
     "sindarin": "man",
-    "spellings": {},
+    "spellings": [],
     "ipa": "man",
     "tengwar": "",
     "cirth": "6c@",
@@ -1190,14 +1190,14 @@
       "VT50/5"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
     "id": "mivan",
     "mutation_marker": "",
     "sindarin": "mivan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'mi.van",
     "tengwar": "",
     "cirth": "6l4c@",
@@ -1248,14 +1248,14 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8041CFEE-7496-4CED-804F-B58DFF7712C8",
     "id": "navan",
     "mutation_marker": "",
     "sindarin": "navan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'na.van",
     "tengwar": "",
     "cirth": "@c4c@",
@@ -1306,14 +1306,14 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "67A2972D-B2DB-40B5-BE0A-E09C9F13757F",
     "id": "mallu",
     "mutation_marker": "",
     "sindarin": "mallú",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ma.'luː",
     "tengwar": "",
     "cirth": "6caaD",
@@ -1364,14 +1364,14 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "FF4E16F2-8573-4AB3-8DDF-B784C356C08C",
     "id": "movan",
     "mutation_marker": "",
     "sindarin": "movan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'mo.van",
     "tengwar": "",
     "cirth": "6b4c@",
@@ -1422,14 +1422,14 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C6BF1AF7-206F-486A-89EB-D84E6F5CA21B",
     "id": "u",
     "mutation_marker": "",
     "sindarin": "û",
-    "spellings": {},
+    "spellings": [],
     "ipa": "uː",
     "tengwar": "",
     "cirth": "D",
@@ -1474,14 +1474,14 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "925EF065-00A6-483D-9600-DECC52753874",
     "id": "pan",
     "mutation_marker": "",
     "sindarin": "pân",
-    "spellings": {},
+    "spellings": [],
     "ipa": "paːn",
     "tengwar": "",
     "cirth": "1v@",
@@ -1527,14 +1527,14 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "41EA758E-CCF4-4B07-A716-37780412930E",
     "id": "il",
     "mutation_marker": "",
     "sindarin": "il",
-    "spellings": {},
+    "spellings": [],
     "ipa": "il",
     "tengwar": "",
     "cirth": "la",
@@ -1578,14 +1578,14 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1DC01044-F8EC-4263-8425-48338A982214",
     "id": "laew",
     "mutation_marker": "",
     "sindarin": "laew",
-    "spellings": {},
+    "spellings": [],
     "ipa": "la.ew",
     "tengwar": "",
     "cirth": "aczF",
@@ -1692,14 +1692,14 @@
       "EtyAC/LI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8D9C9D89-3CD6-44AD-BEF5-E448D0EE67BE",
     "id": "sath",
     "mutation_marker": "",
     "sindarin": "sath",
-    "spellings": {},
+    "spellings": [],
     "ipa": "saθ",
     "tengwar": "",
     "cirth": "fc0",
@@ -1738,14 +1738,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "13A9867F-6C6A-42E7-BEDD-DC338D064257",
     "id": "sath",
     "mutation_marker": "",
     "sindarin": "sath",
-    "spellings": {},
+    "spellings": [],
     "ipa": "saθ",
     "tengwar": "",
     "cirth": "fc0",
@@ -1820,14 +1820,14 @@
     "notes": "Based on Greek μέρος (méros), which originally means \"part\". The idea that \"some\" represents a part of a larger thing seems logical enough to treat this word as a determiner.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
     "id": "nodui",
     "mutation_marker": "",
     "sindarin": "nodui",
-    "spellings": {},
+    "spellings": [],
     "ipa": "no.dui",
     "tengwar": "",
     "cirth": "@b9Sl",
@@ -1876,14 +1876,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9E5470C8-CB1E-424D-B91F-0D3843989B98",
     "id": "egel",
     "mutation_marker": "",
     "sindarin": "egel",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'e.gel",
     "tengwar": "",
     "cirth": "zrza",
@@ -1924,14 +1924,14 @@
     "notes": "Reconstructed from Gnomish \"eleg\".",
     "references": [],
     "hidden": "Unknown suffix -ele",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5EBBC20C-90EF-4B11-9401-F519190CFF0A",
     "id": "min",
     "mutation_marker": "",
     "sindarin": "min",
-    "spellings": {},
+    "spellings": [],
     "ipa": "min",
     "tengwar": "",
     "cirth": "6l@",
@@ -2006,14 +2006,14 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7CA9EFD0-241C-45FC-9D7E-CED0882B61E5",
     "id": "tad",
     "mutation_marker": "",
     "sindarin": "tâd",
-    "spellings": {},
+    "spellings": [],
     "ipa": "taːd",
     "tengwar": "",
     "cirth": "8v9",
@@ -2088,14 +2088,14 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7D43645C-2A59-49B9-8968-7FBBC244836E",
     "id": "neledh",
     "mutation_marker": "",
     "sindarin": "neledh",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ne.leð",
     "tengwar": "",
     "cirth": "@zaz!",
@@ -2175,14 +2175,14 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3A44F0A0-82B2-400D-85CA-68257CDE4D11",
     "id": "canad",
     "mutation_marker": "",
     "sindarin": "canad",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ka.nad",
     "tengwar": "",
     "cirth": "ec@c9",
@@ -2266,14 +2266,14 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1D7F8DD5-8956-4969-B5C5-2086291E6FB9",
     "id": "leben",
     "mutation_marker": "",
     "sindarin": "leben",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'le.ben",
     "tengwar": "",
     "cirth": "az2z@",
@@ -2341,14 +2341,14 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6DC5DC9E-7CD0-40B2-A17C-6E6C4566975D",
     "id": "daer",
     "mutation_marker": "",
     "sindarin": "daer",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'da.er",
     "tengwar": "",
     "cirth": "9czR",
@@ -2414,14 +2414,14 @@
       "WJ/191, 335, 338"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5F73B930-BEBF-4A52-960C-E943CA9CCC33",
     "id": "borg",
     "mutation_marker": "",
     "sindarin": "borg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "borg",
     "tengwar": "",
     "cirth": "2bRr",
@@ -2463,14 +2463,14 @@
       "PE23/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "93E41EA9-169C-4B99-AD3B-039815AB2078",
     "id": "and",
     "mutation_marker": "",
     "sindarin": "and",
-    "spellings": {},
+    "spellings": [],
     "ipa": "and",
     "tengwar": "",
     "cirth": "ck",
@@ -2543,14 +2543,14 @@
       "RC/765"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "EF6863CD-A31D-4868-A566-BFA92FC05B65",
     "id": "land",
     "mutation_marker": "",
     "sindarin": "land",
-    "spellings": {},
+    "spellings": [],
     "ipa": "land",
     "tengwar": "",
     "cirth": "ack",
@@ -2597,14 +2597,14 @@
       "S/123"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "320987F0-A27F-4849-AB68-A12201E6B520",
     "id": "tyg",
     "mutation_marker": "",
     "sindarin": "tŷg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tiːg",
     "tengwar": "",
     "cirth": "8☠r",
@@ -2693,14 +2693,14 @@
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
     "id": "delch",
     "mutation_marker": "nd-",
     "sindarin": "delch",
-    "spellings": {},
+    "spellings": [],
     "ipa": "delx",
     "tengwar": "",
     "cirth": "9zat",
@@ -2791,14 +2791,14 @@
       "PE17/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0E0A6421-92CB-49FA-9716-941CD26D7E15",
     "id": "lung",
     "mutation_marker": "",
     "sindarin": "lung",
-    "spellings": {},
+    "spellings": [],
     "ipa": "luŋ",
     "tengwar": "",
     "cirth": "aSu",
@@ -2859,14 +2859,14 @@
       "S/185"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "AA9B3FD4-BE30-4862-9DBD-3C99ED86DAE0",
     "id": "grond",
     "mutation_marker": "",
     "sindarin": "grond",
-    "spellings": {},
+    "spellings": [],
     "ipa": "grond",
     "tengwar": "",
     "cirth": "rRbk",
@@ -2929,14 +2929,14 @@
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "270561D8-D3E9-43CC-AC90-F7A2227921AC",
     "id": "pin",
     "mutation_marker": "",
     "sindarin": "pîn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "piːn",
     "tengwar": "",
     "cirth": "1ll@",
@@ -2991,14 +2991,14 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5D4B572A-3D64-4268-88A8-2CE0B64FA4AB",
     "id": "tithen",
     "mutation_marker": "",
     "sindarin": "tithen",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ti.θen",
     "tengwar": "",
     "cirth": "8l0z@",
@@ -3103,14 +3103,14 @@
       "RS/462"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7F0201CC-557C-4368-A9B4-564A2B6A8AD9",
     "id": "thent",
     "mutation_marker": "",
     "sindarin": "thent",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θent",
     "tengwar": "",
     "cirth": "0z@8",
@@ -3220,14 +3220,14 @@
       "WJ/311"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "52B31A19-8A3D-4DE1-BACA-E3605ECD0708",
     "id": "agor",
     "mutation_marker": "",
     "sindarin": "agor",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.gor",
     "tengwar": "",
     "cirth": "crbR",
@@ -3312,14 +3312,14 @@
       "Ety/AK"
     ],
     "hidden": "Unknown suffix -rā",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "05576E49-F09D-4B04-9EDA-3E8F259749C9",
     "id": "fim",
     "mutation_marker": "",
     "sindarin": "fim",
-    "spellings": {},
+    "spellings": [],
     "ipa": "fim",
     "tengwar": "",
     "cirth": "3l6",
@@ -3409,14 +3409,14 @@
       "PE17/23, 82"
     ],
     "hidden": "Unknown suffix -bi; s207 is \"thin\"",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A1065E48-A83C-4161-9CB9-9FC7373F2352",
     "id": "di",
     "mutation_marker": "nd-",
     "sindarin": "dî",
-    "spellings": {},
+    "spellings": [],
     "ipa": "diː",
     "tengwar": "",
     "cirth": "9ll",
@@ -3461,14 +3461,14 @@
       "EtyAC/NDIS, NĪ, NIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D3EBC6E8-0377-414C-A39E-6B57E9A2871F",
     "id": "adaneth",
     "mutation_marker": "",
     "sindarin": "adaneth",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.da.neθ",
     "tengwar": "",
     "cirth": "c9c@z0",
@@ -3522,19 +3522,20 @@
       "MR/323, 349, 470"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "DE49F7C1-23A0-4E1A-BB30-AF80421D06EF",
     "id": "gwend",
     "mutation_marker": "",
     "sindarin": "gwend",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gʷend",
     "tengwar": "",
     "cirth": "ozk",
     "english": [
-      "maiden, young woman"
+      "maiden",
+      "young woman"
     ],
     "grammar": [
       "noun"
@@ -3592,21 +3593,21 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "maiden, young woman",
     "notes": "",
     "references": [
       "PE17/191",
       "PE23/136, 139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4733D9F4-D8B5-46E3-87B5-6126AF5C5028",
     "id": "dir",
     "mutation_marker": "nd-",
     "sindarin": "dîr",
-    "spellings": {},
+    "spellings": [],
     "ipa": "diːr",
     "tengwar": "",
     "cirth": "9llR",
@@ -3669,19 +3670,22 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "70C983BB-F7DB-4CF9-8512-5322EF476512",
     "id": "benn",
     "mutation_marker": "",
     "sindarin": "benn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ben",
     "tengwar": "",
     "cirth": "2z@@",
     "english": [
-      "man, as a husband, partner, spouse"
+      "man",
+      "husband",
+      "partner (man)",
+      "spouse (male)"
     ],
     "grammar": [
       "noun"
@@ -3758,21 +3762,21 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "man, as a husband, partner, spouse",
     "notes": "",
     "references": [
       "Ety/BES, DER",
       "EtyAC/DER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "846F0C3E-1797-4827-A659-3EBB0023B119",
     "id": "adan",
     "mutation_marker": "",
     "sindarin": "Adan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.dan",
     "tengwar": "",
     "cirth": "c9c@",
@@ -3837,19 +3841,19 @@
       "WRI/Edain"
     ],
     "hidden": "swadesh is \"person\"",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2A16D2D0-99E9-4BC4-86F3-1DD0E1515BA1",
     "id": "hen",
     "mutation_marker": "",
     "sindarin": "hên",
-    "spellings": {},
+    "spellings": [],
     "ipa": "heːn",
     "tengwar": "",
     "cirth": ".x@",
     "english": [
-      "child (young human or offspring)"
+      "child"
     ],
     "grammar": [
       "noun"
@@ -3931,7 +3935,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 39,
-    "definition": "",
+    "definition": "child (young human or offspring)",
     "notes": "",
     "references": [
       "LR/322",
@@ -3943,19 +3947,20 @@
       "WJ/160, 403"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "949FBE7F-98E0-4497-9761-40DCB9B47636",
     "id": "herves",
     "mutation_marker": "",
     "sindarin": "herves",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'her.ves",
     "tengwar": "",
     "cirth": ".zR4zf",
     "english": [
-      "wife, lady"
+      "wife",
+      "lady"
     ],
     "grammar": [
       "noun"
@@ -4044,21 +4049,21 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "wife, lady",
     "notes": "More formal than \"bess\", associated with \"lady\" as the wife of a \"lord\".",
     "references": [
       "Ety/BES",
       "Ety/KHER"
     ],
     "hidden": "Unkown suffix -se",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "890FB401-E5DA-4CB6-A468-212A5D31D3BB",
     "id": "bess",
     "mutation_marker": "",
     "sindarin": "bess",
-    "spellings": {},
+    "spellings": [],
     "ipa": "bes",
     "tengwar": "",
     "cirth": "2zh",
@@ -4134,19 +4139,20 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9E9C248E-524B-4309-8C30-CD839955F985",
     "id": "bethril",
     "mutation_marker": "",
     "sindarin": "bethril",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'beθ.ril",
     "tengwar": "",
     "cirth": "2z0Rla",
     "english": [
-      "spouse (female), married woman"
+      "spouse (female)",
+      "married woman"
     ],
     "grammar": [
       "noun"
@@ -4185,18 +4191,18 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "spouse (female), married woman",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0D04C1A7-DF18-48D8-A309-94B2E7381FD2",
     "id": "herven",
     "mutation_marker": "",
     "sindarin": "herven",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'her.ven",
     "tengwar": "",
     "cirth": ".zR4z@",
@@ -4318,19 +4324,20 @@
       "Ety/KHER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8EECCF0B-BC16-4494-BCF4-215F6A985FDA",
     "id": "bethron",
     "mutation_marker": "",
     "sindarin": "bethron",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'beθ.ron",
     "tengwar": "",
     "cirth": "2z0Rb@",
     "english": [
-      "spouse (male), married man"
+      "spouse (male)",
+      "married man"
     ],
     "grammar": [
       "noun"
@@ -4394,20 +4401,20 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "spouse (male), married man",
     "notes": "",
     "references": [
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9CEC6D69-37AD-425E-9F11-2F7A7286D352",
     "id": "emel",
     "mutation_marker": "",
     "sindarin": "emel",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'e.mel",
     "tengwar": "",
     "cirth": "z6za",
@@ -4452,14 +4459,14 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "FA3F3C34-F96F-4E3A-AA4B-BB86967E2381",
     "id": "adar",
     "mutation_marker": "",
     "sindarin": "adar",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.dar",
     "tengwar": "",
     "cirth": "c9cR",
@@ -4522,14 +4529,14 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "12182874-61AB-4AEB-8390-3CED9480B5BE",
     "id": "lavan",
     "mutation_marker": "",
     "sindarin": "lavan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'la.van",
     "tengwar": "",
     "cirth": "ac4c@",
@@ -4598,14 +4605,14 @@
       "WJ/388, 416"
     ],
     "hidden": "Unknown suffix -āna",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F776A67B-B312-42A4-B471-458002497063",
     "id": "lim",
     "mutation_marker": "",
     "sindarin": "lim",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lim",
     "tengwar": "",
     "cirth": "al6",
@@ -4670,14 +4677,14 @@
       "Ety/LIW, LOK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7736ACC0-8A25-4CCD-8353-6BF3F54558A5",
     "id": "hal",
     "mutation_marker": "",
     "sindarin": "hâl",
-    "spellings": {},
+    "spellings": [],
     "ipa": "haːl",
     "tengwar": "",
     "cirth": ".va",
@@ -4758,14 +4765,14 @@
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F12735CD-0EF4-4C7B-A61B-2CA484429113",
     "id": "aew",
     "mutation_marker": "",
     "sindarin": "aew",
-    "spellings": {},
+    "spellings": [],
     "ipa": "aew",
     "tengwar": "",
     "cirth": "czF",
@@ -4839,14 +4846,14 @@
       "SA/lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "60DE43AD-161E-4D6C-9F31-3C01208FC5DF",
     "id": "hu",
     "mutation_marker": "",
     "sindarin": "hû",
-    "spellings": {},
+    "spellings": [],
     "ipa": "huː",
     "tengwar": "",
     "cirth": ".D",
@@ -4944,14 +4951,14 @@
       "Ety/KHUGAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "CD4FD75E-0B75-4553-9B6D-B04BD6113505",
     "id": "huan",
     "mutation_marker": "",
     "sindarin": "huan",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'hu.an",
     "tengwar": "",
     "cirth": ".Sc@",
@@ -4994,14 +5001,14 @@
       "SI/Huan"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7D117964-1D65-47DB-A67D-BD0E92A61F50",
     "id": "huil",
     "mutation_marker": "",
     "sindarin": "huil",
-    "spellings": {},
+    "spellings": [],
     "ipa": "huil",
     "tengwar": "",
     "cirth": ".Sla",
@@ -5040,14 +5047,14 @@
       "GL/49"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "AD435698-BCEB-4DF2-B71F-277E5C7C5B79",
     "id": "huar",
     "mutation_marker": "",
     "sindarin": "huar",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'hu.ar",
     "tengwar": "",
     "cirth": ".ScR",
@@ -5090,14 +5097,14 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2D51EA5D-9623-4288-A000-3E8A67655524",
     "id": "gwef",
     "mutation_marker": "",
     "sindarin": "gwef",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gʷef",
     "tengwar": "",
     "cirth": "oz3",
@@ -5161,14 +5168,14 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9BA2EE10-CACF-4EEB-9B92-6B3B9F0A8BFF",
     "id": "lyg",
     "mutation_marker": "",
     "sindarin": "lŷg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "liːg",
     "tengwar": "",
     "cirth": "a☠r",
@@ -5255,14 +5262,14 @@
       "PE17/121, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9113830A-FAD1-490A-A739-ED71040E9731",
     "id": "gwem",
     "mutation_marker": "",
     "sindarin": "gwem",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gʷem",
     "tengwar": "",
     "cirth": "oz6",
@@ -5307,14 +5314,14 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3AF2892A-D7FA-4C12-8A89-7B897C0CEB48",
     "id": "leweg",
     "mutation_marker": "",
     "sindarin": "leweg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'le.weg",
     "tengwar": "",
     "cirth": "azFzr",
@@ -5370,14 +5377,14 @@
       "PE17/160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0AE9D1BB-A5EC-462F-B701-CD921BAD3C68",
     "id": "galadh",
     "mutation_marker": "",
     "sindarin": "galadh",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ga.lað",
     "tengwar": "",
     "cirth": "rcac!",
@@ -5463,14 +5470,14 @@
       "UT/267"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E6AB0B32-B175-469B-B23B-B774B569B32F",
     "id": "orn",
     "mutation_marker": "",
     "sindarin": "orn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "orn",
     "tengwar": "",
     "cirth": "bR@",
@@ -5547,14 +5554,14 @@
       "WJI/Taur-i-Melegyrn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "81FE635C-3796-44B0-A8B3-72EBB7C3DE93",
     "id": "taur",
     "mutation_marker": "",
     "sindarin": "taur",
-    "spellings": {},
+    "spellings": [],
     "ipa": "taur",
     "tengwar": "",
     "cirth": "8cSR",
@@ -5657,14 +5664,14 @@
       "WJI/Taur-i-Melegyrn, Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3F14309D-6E64-4888-BD6C-D474C2968266",
     "id": "eryn",
     "mutation_marker": "",
     "sindarin": "eryn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "erjn",
     "tengwar": "",
     "cirth": "zRL@",
@@ -5751,14 +5758,14 @@
       "VT42/20"
     ],
     "hidden": "Unknown suffix -nī (presumably an ancient plural)",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "94A4E002-F35B-433F-A3AE-2B3147FCB36F",
     "id": "glad",
     "mutation_marker": "",
     "sindarin": "glad",
-    "spellings": {},
+    "spellings": [],
     "ipa": "glad",
     "tengwar": "",
     "cirth": "rac9",
@@ -5799,14 +5806,14 @@
       "UT/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8CA047DC-8EC2-4269-B566-E8A00028EA59",
     "id": "reidh",
     "mutation_marker": "",
     "sindarin": "reidh",
-    "spellings": {},
+    "spellings": [],
     "ipa": "reið",
     "tengwar": "",
     "cirth": "Rzl!",
@@ -5915,14 +5922,14 @@
     "notes": "A neologism to describe a stick as a simple piece of wood, inspired by Germanic languages Stock, stok, stokk, Romance languages palus, pau, palo, par, Finnish keppi, Japanese 木の棒, Chinese 木棍. Conservative speakers may prefer to use \"golf\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5DD60B9C-E2BD-4EFD-A949-AE50E21D8BEF",
     "id": "golf",
     "mutation_marker": "",
     "sindarin": "golf",
-    "spellings": {},
+    "spellings": [],
     "ipa": "golf",
     "tengwar": "",
     "cirth": "rba3",
@@ -5999,14 +6006,14 @@
       "Ety/GÓLOB"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F3221076-CF94-4B3B-8949-3DAA8926FE45",
     "id": "iaf",
     "mutation_marker": "",
     "sindarin": "iâf",
-    "spellings": {},
+    "spellings": [],
     "ipa": "iaːf",
     "tengwar": "",
     "cirth": "$v3",
@@ -6072,14 +6079,14 @@
       "GL/38, 40, 42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C9B96920-1314-4617-8E82-3FFC3601DDE4",
     "id": "eredh",
     "mutation_marker": "",
     "sindarin": "eredh",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'e.reð",
     "tengwar": "",
     "cirth": "zRz!",
@@ -6157,14 +6164,14 @@
       "EtyAC/ERÉD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
     "id": "lass",
     "mutation_marker": "",
     "sindarin": "lass",
-    "spellings": {},
+    "spellings": [],
     "ipa": "las",
     "tengwar": "",
     "cirth": "acf{f{",
@@ -6237,14 +6244,14 @@
       "RC/760"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "295B6264-0C06-4C69-A35B-C8AF12F2A4CC",
     "id": "thond",
     "mutation_marker": "",
     "sindarin": "thond",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θond",
     "tengwar": "",
     "cirth": "0bk",
@@ -6327,14 +6334,14 @@
       "PE17/96, 121"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "AC619657-47EC-4989-84B6-8BA8A65EE468",
     "id": "rif",
     "mutation_marker": "",
     "sindarin": "rîf",
-    "spellings": {},
+    "spellings": [],
     "ipa": "riːf",
     "tengwar": "",
     "cirth": "Rll3",
@@ -6371,14 +6378,14 @@
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F67AB558-3211-473B-875C-C9EA60E99979",
     "id": "loth",
     "mutation_marker": "",
     "sindarin": "loth",
-    "spellings": {},
+    "spellings": [],
     "ipa": "loθ",
     "tengwar": "",
     "cirth": "ab0",
@@ -6457,14 +6464,14 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "DC410E00-113D-4C78-ABE4-AC9BAFB44276",
     "id": "elloth",
     "mutation_marker": "",
     "sindarin": "elloth",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'e.loθ",
     "tengwar": "",
     "cirth": "zaab0",
@@ -6515,14 +6522,14 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8BE9EF5A-C91E-47A9-B129-69BE82633DAF",
     "id": "lotheg",
     "mutation_marker": "",
     "sindarin": "lotheg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'lo.θeg",
     "tengwar": "",
     "cirth": "ab0zr",
@@ -6576,14 +6583,14 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D88923D9-4C4A-48CF-8A2B-8C14885113BE",
     "id": "glae",
     "mutation_marker": "",
     "sindarin": "glae",
-    "spellings": {},
+    "spellings": [],
     "ipa": "glae",
     "tengwar": "",
     "cirth": "racz",
@@ -6622,14 +6629,14 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3CF60B0E-EECF-4858-BD62-431FA6DD4D65",
     "id": "thar",
     "mutation_marker": "",
     "sindarin": "thâr",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θaːr",
     "tengwar": "",
     "cirth": "0vR",
@@ -6711,14 +6718,14 @@
       "Ety/STAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9ACC33EC-7C06-476F-A646-AD54387D7AE8",
     "id": "lisg",
     "mutation_marker": "",
     "sindarin": "lisg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lisg",
     "tengwar": "",
     "cirth": "alfr",
@@ -6788,14 +6795,14 @@
       "UT/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3DB30672-12A3-4109-8D22-4AE782F864DC",
     "id": "ness",
     "mutation_marker": "",
     "sindarin": "ness",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nes",
     "tengwar": "",
     "cirth": "@zh",
@@ -6839,14 +6846,14 @@
       "UTI/Taras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F470EBBB-D832-4500-AF76-18D3A9C91A7B",
     "id": "raph",
     "mutation_marker": "",
     "sindarin": "raph",
-    "spellings": {},
+    "spellings": [],
     "ipa": "raf",
     "tengwar": "",
     "cirth": "Rc1.",
@@ -6889,14 +6896,14 @@
       "UT/313"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "78898167-8B6D-440C-9C75-A30EAAA4F88D",
     "id": "hithlain",
     "mutation_marker": "",
     "sindarin": "hithlain",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'hiθ.lain",
     "tengwar": "",
     "cirth": ".l0acl@",
@@ -6948,14 +6955,14 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "535B518D-03D6-4EF8-B1D1-E174556EC05D",
     "id": "flad",
     "mutation_marker": "",
     "sindarin": "flâd",
-    "spellings": {},
+    "spellings": [],
     "ipa": "flaːd",
     "tengwar": "",
     "cirth": "3av9",
@@ -6996,14 +7003,14 @@
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E760F824-051D-4576-9A86-DBC825E702D9",
     "id": "rhovath",
     "mutation_marker": "",
     "sindarin": "rhovath",
-    "spellings": {},
+    "spellings": [],
     "ipa": "r̥o.vaθ",
     "tengwar": "",
     "cirth": "Tb4c0",
@@ -7165,14 +7172,14 @@
     "notes": "Neologism for \"meat\", based on Old English term \"flesh-meat\" (12c), in which \"meat\" referred to food in general. (French had a similar term, \"viande\", which meant \"food\".)",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C7DB8C96-BFDB-4A8F-990E-3CEC37609675",
     "id": "aph",
     "mutation_marker": "",
     "sindarin": "aph",
-    "spellings": {},
+    "spellings": [],
     "ipa": "af",
     "tengwar": "",
     "cirth": "c1.",
@@ -7240,14 +7247,14 @@
     "notes": "Adapted from Noldorin word \"aes\", which doesn't follow Sindarin phonetic standards. Some people use the Noldorin variant regardless.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F8E687B2-B8C7-4224-AC31-E22B42A68F43",
     "id": "rhaw",
     "mutation_marker": "",
     "sindarin": "rhaw",
-    "spellings": {},
+    "spellings": [],
     "ipa": "r̥aw",
     "tengwar": "",
     "cirth": "TcF",
@@ -7341,14 +7348,14 @@
       "VT47/12"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "BF8C3304-963C-47E2-AB23-2E4AB13558F3",
     "id": "sereg",
     "mutation_marker": "",
     "sindarin": "sereg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'se.reg",
     "tengwar": "",
     "cirth": "fzRzr",
@@ -7411,14 +7418,14 @@
       "SA/sereg"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D307CB7A-506D-4BBE-837E-A5E42BEB5C7B",
     "id": "asg",
     "mutation_marker": "",
     "sindarin": "asg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "asg",
     "tengwar": "",
     "cirth": "cfr",
@@ -7464,14 +7471,14 @@
       "PE13/137, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6A2839C5-0D72-42C3-B1C8-C9EFB12D21E9",
     "id": "thalph",
     "mutation_marker": "",
     "sindarin": "thalph",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θalf",
     "tengwar": "",
     "cirth": "0ca1.",
@@ -7576,14 +7583,14 @@
       "PE13/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "AA9C1C08-BC77-45BE-A3ED-D69C1C5E6B3E",
     "id": "ble",
     "mutation_marker": "",
     "sindarin": "blê",
-    "spellings": {},
+    "spellings": [],
     "ipa": "bleː",
     "tengwar": "",
     "cirth": "2ax",
@@ -7692,14 +7699,14 @@
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "B7EC34A1-8C93-41BF-9C92-E0D909A63D1C",
     "id": "ble",
     "mutation_marker": "",
     "sindarin": "blê",
-    "spellings": {},
+    "spellings": [],
     "ipa": "bleː",
     "tengwar": "",
     "cirth": "2ax",
@@ -7808,14 +7815,14 @@
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "10255EDF-93F0-42D1-883E-1C948B15A288",
     "id": "och",
     "mutation_marker": "",
     "sindarin": "och",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ox",
     "tengwar": "",
     "cirth": "bt",
@@ -7873,14 +7880,14 @@
       "GL/62, 74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "28CA4D0C-5B77-4DA3-A9B9-AE23CA6333B7",
     "id": "rass",
     "mutation_marker": "",
     "sindarin": "rass",
-    "spellings": {},
+    "spellings": [],
     "ipa": "rasː",
     "tengwar": "",
     "cirth": "Rch",
@@ -7927,14 +7934,14 @@
       "SA/ras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "44FFEEE5-4DA4-4AD6-8ACE-04A5B7C82A76",
     "id": "pimp",
     "mutation_marker": "",
     "sindarin": "pimp",
-    "spellings": {},
+    "spellings": [],
     "ipa": "pimp",
     "tengwar": "",
     "cirth": "1l61",
@@ -7973,14 +7980,14 @@
       "QL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "812EB3A1-BC6C-434E-81DB-2395F41954A5",
     "id": "laud",
     "mutation_marker": "",
     "sindarin": "laud",
-    "spellings": {},
+    "spellings": [],
     "ipa": "laud",
     "tengwar": "",
     "cirth": "acS9",
@@ -8061,14 +8068,14 @@
       "PE23/142"
     ],
     "hidden": "Roots seem to work with law+tod",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "73F191D1-C4E9-42CA-A74D-F1688E56916D",
     "id": "pess",
     "mutation_marker": "",
     "sindarin": "pess",
-    "spellings": {},
+    "spellings": [],
     "ipa": "pes",
     "tengwar": "",
     "cirth": "1zh",
@@ -8126,14 +8133,14 @@
       "GL/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "83FF09BC-B0A0-44FE-AE67-51A8770BA154",
     "id": "fin",
     "mutation_marker": "",
     "sindarin": "fîn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "fiːn",
     "tengwar": "",
     "cirth": "3ll@",
@@ -8240,14 +8247,14 @@
       "SA/fin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F8EBDB5D-BAC9-4729-B54D-65C9E53D686D",
     "id": "find",
     "mutation_marker": "",
     "sindarin": "find",
-    "spellings": {},
+    "spellings": [],
     "ipa": "find",
     "tengwar": "",
     "cirth": "3lk",
@@ -8337,14 +8344,14 @@
       "PM/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "57CCB57B-3003-45D8-BF46-F835EAD3F45F",
     "id": "finnel",
     "mutation_marker": "",
     "sindarin": "finnel",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'fi.nel",
     "tengwar": "",
     "cirth": "3l@@za",
@@ -8453,14 +8460,14 @@
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0F4B77DA-C731-48AE-83B6-9F563161682D",
     "id": "finnel",
     "mutation_marker": "",
     "sindarin": "finnel",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'fi.nel",
     "tengwar": "",
     "cirth": "3l@@za",
@@ -8569,14 +8576,14 @@
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "B3BEB96A-1811-4E18-999B-AF2377C5F18B",
     "id": "doll",
     "mutation_marker": "",
     "sindarin": "doll",
-    "spellings": {},
+    "spellings": [],
     "ipa": "dol",
     "tengwar": "",
     "cirth": "9baa",
@@ -8624,14 +8631,14 @@
       "SA/dol"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F159A58E-2AD1-46B1-A17C-52A1BDC095D2",
     "id": "doll",
     "mutation_marker": "",
     "sindarin": "doll",
-    "spellings": {},
+    "spellings": [],
     "ipa": "dol",
     "tengwar": "",
     "cirth": "9baa",
@@ -8676,14 +8683,14 @@
       "RC/433"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "55568AEA-73EE-418F-8EB8-F380226A1868",
     "id": "lheweg",
     "mutation_marker": "",
     "sindarin": "lheweg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'l̥e.weg",
     "tengwar": "",
     "cirth": "szFzr",
@@ -8744,14 +8751,14 @@
       "TT17/33"
     ],
     "hidden": "Can't make the evolution work",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "770461E3-6B9D-4361-8F92-58892FFEEF3E",
     "id": "lhaw",
     "mutation_marker": "",
     "sindarin": "lhaw",
-    "spellings": {},
+    "spellings": [],
     "ipa": "l̥aw",
     "tengwar": "",
     "cirth": "scF",
@@ -8801,14 +8808,14 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6C5CB3D9-1C08-423B-B1FB-5F5AF8BE9EEB",
     "id": "hen-d",
     "mutation_marker": "",
     "sindarin": "hen(d)",
-    "spellings": {},
+    "spellings": [],
     "ipa": "hend",
     "tengwar": "",
     "cirth": ".z@{9{",
@@ -8855,14 +8862,14 @@
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "955BC4F4-4E39-44CD-8D42-0F879036656B",
     "id": "hent",
     "mutation_marker": "",
     "sindarin": "hent",
-    "spellings": {},
+    "spellings": [],
     "ipa": "hent",
     "tengwar": "",
     "cirth": ".z@8",
@@ -8897,14 +8904,14 @@
     "notes": "This word follows the same pattern of \"lhaw\" (ears) and \"sunt\" (nostrils), in which a primitive dual is fossilised into a modern Sindarin word. As a pair of eyes is as natural as a pair of ears or nostrils, it makes sense to have a dual plural for \"eye\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "55069C4A-DEE1-41F1-AA97-550C007572B4",
     "id": "nem",
     "mutation_marker": "",
     "sindarin": "nem",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nim",
     "tengwar": "",
     "cirth": "@z6",
@@ -9013,14 +9020,14 @@
       "Ety/NEÑ-WI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2B819CA0-9A5F-4B27-8FC1-6743A21502C4",
     "id": "sunt",
     "mutation_marker": "",
     "sindarin": "sunt",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sunt",
     "tengwar": "",
     "cirth": "fS@8",
@@ -9119,14 +9126,14 @@
       "GL/50"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "89C23B87-273B-41AE-8872-D49EE88CA460",
     "id": "bund",
     "mutation_marker": "mb-",
     "sindarin": "bund",
-    "spellings": {},
+    "spellings": [],
     "ipa": "bund",
     "tengwar": "",
     "cirth": "2Sk",
@@ -9165,14 +9172,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3038151B-0044-4993-A42B-5F8C166F2479",
     "id": "bund",
     "mutation_marker": "mb-",
     "sindarin": "bund",
-    "spellings": {},
+    "spellings": [],
     "ipa": "bund",
     "tengwar": "",
     "cirth": "2Sk",
@@ -9249,14 +9256,14 @@
       "Ety/MBUD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2978AF6C-D0CE-4A6A-B631-8E5A56E5DA8E",
     "id": "gobem",
     "mutation_marker": "",
     "sindarin": "gobem",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'go.bem",
     "tengwar": "",
     "cirth": "rb2z6",
@@ -9295,14 +9302,14 @@
     "notes": "Based on Gnomish \"gogail\", and using the same compound elements from Sindarin.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "DDFA093D-7ED2-4F86-853A-69498C9D947D",
     "id": "neleg",
     "mutation_marker": "",
     "sindarin": "neleg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ne.leg",
     "tengwar": "",
     "cirth": "@zazr",
@@ -9366,14 +9373,14 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "DCBC8FFA-9649-4A8A-83D5-7733D6AC8135",
     "id": "nel",
     "mutation_marker": "",
     "sindarin": "nêl",
-    "spellings": {},
+    "spellings": [],
     "ipa": "neːl",
     "tengwar": "",
     "cirth": "@xa",
@@ -9445,14 +9452,14 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "976842F0-361F-4FF3-819E-2317297A746F",
     "id": "lam",
     "mutation_marker": "",
     "sindarin": "lam",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lam",
     "tengwar": "",
     "cirth": "ac6",
@@ -9533,14 +9540,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "452DB9FA-0296-4A7D-9C9A-DBC6197314EB",
     "id": "lam",
     "mutation_marker": "",
     "sindarin": "lam",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lam",
     "tengwar": "",
     "cirth": "ac6",
@@ -9629,14 +9636,14 @@
       "WJ/394"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
     "id": "nelenc",
     "mutation_marker": "",
     "sindarin": "nelenc",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ne.lenk",
     "tengwar": "",
     "cirth": "@zazue",
@@ -9748,14 +9755,14 @@
     "notes": "Word coined based on √NYELEK, which is used for a Neo-Quenya word meaning \"fingernail\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "11EF59CB-32B6-4FE8-B30E-8FE2BE6CE622",
     "id": "nam",
     "mutation_marker": "",
     "sindarin": "nam",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nam",
     "tengwar": "",
     "cirth": "@c6",
@@ -9854,14 +9861,14 @@
     "notes": "Neologism based on Quenya \"nappa\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5409A7ED-E45F-4C32-A5BB-A8F54F665EE3",
     "id": "tal",
     "mutation_marker": "",
     "sindarin": "tâl",
-    "spellings": {},
+    "spellings": [],
     "ipa": "taːl",
     "tengwar": "",
     "cirth": "8va",
@@ -9911,14 +9918,14 @@
       "UT/313"
     ],
     "hidden": "Doesn't respect rule 2858643115",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "716D6A95-9D77-4568-888A-58B79E9D34F8",
     "id": "teleg",
     "mutation_marker": "",
     "sindarin": "teleg",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'te.leg",
     "tengwar": "",
     "cirth": "8zazr",
@@ -9990,14 +9997,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4027E2C5-A371-4182-987E-3267A104B83E",
     "id": "ogod",
     "mutation_marker": "",
     "sindarin": "ogod",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'o.god",
     "tengwar": "",
     "cirth": "brb9",
@@ -10038,14 +10045,14 @@
       "GL/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "37690141-0A48-42E0-84AF-C541062595EB",
     "id": "mab",
     "mutation_marker": "",
     "sindarin": "mâb",
-    "spellings": {},
+    "spellings": [],
     "ipa": "maːb",
     "tengwar": "",
     "cirth": "6v2",
@@ -10158,14 +10165,14 @@
       "VT47/6-7, 19-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "53E09682-68CC-401E-9D07-96279742C28E",
     "id": "maw",
     "mutation_marker": "",
     "sindarin": "maw",
-    "spellings": {},
+    "spellings": [],
     "ipa": "maw",
     "tengwar": "",
     "cirth": "6cF",
@@ -10204,14 +10211,14 @@
     "notes": "Archaic word for \"hand\". Use mâb instead, unless if using for poetry or compounds.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3D941C9A-A44A-4DC8-A077-F1C5FC2C365E",
     "id": "maw",
     "mutation_marker": "",
     "sindarin": "maw",
-    "spellings": {},
+    "spellings": [],
     "ipa": "maw",
     "tengwar": "",
     "cirth": "6cF",
@@ -10260,14 +10267,14 @@
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
     "id": "cam",
     "mutation_marker": "",
     "sindarin": "cam",
-    "spellings": {},
+    "spellings": [],
     "ipa": "cam",
     "tengwar": "",
     "cirth": "ec6",
@@ -10365,14 +10372,14 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A7FD3898-018B-46B3-BADA-F5C1FC74177C",
     "id": "raw",
     "mutation_marker": "",
     "sindarin": "raw",
-    "spellings": {},
+    "spellings": [],
     "ipa": "raw",
     "tengwar": "",
     "cirth": "RcF",
@@ -10417,14 +10424,14 @@
       "PE17/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "03020EEE-AF45-4AD0-B21B-B4CB9D834E72",
     "id": "cum",
     "mutation_marker": "",
     "sindarin": "cum",
-    "spellings": {},
+    "spellings": [],
     "ipa": "cum",
     "tengwar": "",
     "cirth": "eS6",
@@ -10467,14 +10474,14 @@
     "notes": "Neologism based on Quenya \"cumbo\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "69DC5487-071C-4CEC-A14B-B02494809DF3",
     "id": "irdh",
     "mutation_marker": "",
     "sindarin": "irdh",
-    "spellings": {},
+    "spellings": [],
     "ipa": "irð",
     "tengwar": "",
     "cirth": "lR!",
@@ -10543,14 +10550,14 @@
       "PE13/144, 161"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2703D957-8FE3-4D68-B046-A0F6DA5B8EAD",
     "id": "ach",
     "mutation_marker": "",
     "sindarin": "ach",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ax",
     "tengwar": "",
     "cirth": "ct",
@@ -10624,14 +10631,14 @@
       "PE17/92"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A9580791-C89A-4199-A15F-1F42B016CEBF",
     "id": "lang",
     "mutation_marker": "",
     "sindarin": "lang",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lang",
     "tengwar": "",
     "cirth": "acu",
@@ -10670,14 +10677,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "664F40F5-85EA-4513-9949-764C58B68218",
     "id": "lang",
     "mutation_marker": "",
     "sindarin": "lang",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lang",
     "tengwar": "",
     "cirth": "acu",
@@ -10755,14 +10762,14 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5977FB38-E166-4517-B3D9-369D5356B5C1",
     "id": "tarlang",
     "mutation_marker": "",
     "sindarin": "tarlang",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'tar.laŋ",
     "tengwar": "",
     "cirth": "8cRacu",
@@ -10815,14 +10822,14 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D3E32838-5E83-40A1-834C-D000191DAB82",
     "id": "galf",
     "mutation_marker": "",
     "sindarin": "galf",
-    "spellings": {},
+    "spellings": [],
     "ipa": "galf",
     "tengwar": "",
     "cirth": "rca3",
@@ -10865,14 +10872,14 @@
       "PE13/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
     "id": "tith",
     "mutation_marker": "",
     "sindarin": "tith",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tiθ",
     "tengwar": "",
     "cirth": "8l0",
@@ -10959,14 +10966,14 @@
       "PE13/154"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "88725EBC-4576-4FA6-B762-BA5C9190378B",
     "id": "ammos",
     "mutation_marker": "",
     "sindarin": "ammos",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.mos",
     "tengwar": "",
     "cirth": "c66bf",
@@ -11008,14 +11015,14 @@
       "GL/19, 27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0D89F5EA-74AD-40CF-8F82-7CB806B3FABB",
     "id": "hun",
     "mutation_marker": "",
     "sindarin": "hûn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "huːn",
     "tengwar": "",
     "cirth": ".D@",
@@ -11089,14 +11096,14 @@
       "Ety/KHŌ-N"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "88CF3036-9C0F-4A80-A702-4E79F392EF7E",
     "id": "ron",
     "mutation_marker": "",
     "sindarin": "rôn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "roːn",
     "tengwar": "",
     "cirth": "Rn@",
@@ -11152,14 +11159,14 @@
       "GL/65"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E8ADE915-736F-48CB-95AD-0F5CC2AE941C",
     "id": "sog",
     "mutation_marker": "",
     "sindarin": "sog-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sog",
     "tengwar": "",
     "cirth": "fbrI",
@@ -11225,14 +11232,14 @@
       "EtyAC/SUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D484FCD2-19F6-4C70-A4D6-6F82870CE988",
     "id": "mad",
     "mutation_marker": "",
     "sindarin": "mad-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "mad",
     "tengwar": "",
     "cirth": "6c9I",
@@ -11292,14 +11299,14 @@
       "PE17/131, 145"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "476CE22A-BA10-4968-81F2-1983FF39DEDD",
     "id": "nag",
     "mutation_marker": "",
     "sindarin": "nag-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nag",
     "tengwar": "",
     "cirth": "@crI",
@@ -11356,14 +11363,14 @@
       "Ety/NAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "78E4831C-B8AA-433E-B827-38255C3A0D6D",
     "id": "lavra",
     "mutation_marker": "",
     "sindarin": "lavra-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'la.vra",
     "tengwar": "",
     "cirth": "ac4RcI",
@@ -11398,14 +11405,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "849598BA-9AEE-4218-8849-7E2241EA936D",
     "id": "lavra",
     "mutation_marker": "",
     "sindarin": "lavra-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'la.vra",
     "tengwar": "",
     "cirth": "ac4RcI",
@@ -11447,14 +11454,14 @@
       "GL/53"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
     "id": "puia",
     "mutation_marker": "",
     "sindarin": "puia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "puɪja",
     "tengwar": "",
     "cirth": "1SlcI",
@@ -11498,14 +11505,14 @@
       "Ety/PIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "296B4D75-4912-4BF2-A663-DDD1FABA8B88",
     "id": "hich",
     "mutation_marker": "",
     "sindarin": "hich-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "hix",
     "tengwar": "",
     "cirth": ".ltI",
@@ -11569,14 +11576,14 @@
       "PE13/162-163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6D285BEC-BF8F-43D3-9745-A2185DF00ED3",
     "id": "suda",
     "mutation_marker": "",
     "sindarin": "súda-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'suːda",
     "tengwar": "",
     "cirth": "fD9cI",
@@ -11619,14 +11626,14 @@
       "LT1A/Súlimo"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A6AFA88C-8E03-4E26-A7C3-5FFCDC2C56CB",
     "id": "thuia",
     "mutation_marker": "",
     "sindarin": "thuia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θuɪja",
     "tengwar": "",
     "cirth": "0SlcI",
@@ -11681,14 +11688,14 @@
       "Ety/THŪ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "AA6CB329-0F5A-452E-B305-5BD8043BBBB1",
     "id": "lala",
     "mutation_marker": "",
     "sindarin": "lala-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'la.la",
     "tengwar": "",
     "cirth": "acacI",
@@ -11732,14 +11739,14 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "11D29988-8AB0-47E5-8027-7AAE984872AF",
     "id": "cen",
     "mutation_marker": "",
     "sindarin": "cen-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ken",
     "tengwar": "",
     "cirth": "ez@I",
@@ -11783,14 +11790,14 @@
       "PE17/37, 148, 181"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "36F0535E-F859-483C-938C-3E2286C016D2",
     "id": "lhassa",
     "mutation_marker": "",
     "sindarin": "lhassa-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'l̥a.sa",
     "tengwar": "",
     "cirth": "schcI",
@@ -11835,14 +11842,14 @@
       "LT2A/Gimli"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "54EC50E8-4488-4F0D-907B-3E74835E7FCA",
     "id": "ista",
     "mutation_marker": "",
     "sindarin": "ista-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'is.ta",
     "tengwar": "",
     "cirth": "lf8cI",
@@ -11890,14 +11897,14 @@
       "EtyAC/IS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
     "id": "san",
     "mutation_marker": "",
     "sindarin": "san-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "san",
     "tengwar": "",
     "cirth": "fc@I",
@@ -11939,14 +11946,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2B71905D-06EC-4CC3-AFAA-F141A01F0F5D",
     "id": "geria",
     "mutation_marker": "",
     "sindarin": "geria-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ge.rɪja",
     "tengwar": "",
     "cirth": "rzRlcI",
@@ -12017,14 +12024,14 @@
       "NM/176"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
     "id": "nutha",
     "mutation_marker": "",
     "sindarin": "nútha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'nuː.θa",
     "tengwar": "",
     "cirth": "@D0cI",
@@ -12097,14 +12104,14 @@
       "Ety/NOWO"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "564AE595-3B9B-48E8-A30B-B8E65B652ACA",
     "id": "nuicha",
     "mutation_marker": "",
     "sindarin": "nuicha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'nui.xa",
     "tengwar": "",
     "cirth": "@SltcI",
@@ -12146,14 +12153,14 @@
       "GL/61"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4B75D44A-238F-4715-A15B-1F592F019449",
     "id": "thosta",
     "mutation_marker": "",
     "sindarin": "thosta-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'θos.ta",
     "tengwar": "",
     "cirth": "0bf8cI",
@@ -12206,14 +12213,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "BEA83FA3-F0B6-44F3-B859-21D2AE412875",
     "id": "gosta",
     "mutation_marker": "",
     "sindarin": "gosta-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'gos.ta",
     "tengwar": "",
     "cirth": "rbf8cI",
@@ -12255,14 +12262,14 @@
       "Ety/GOS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6C7483CF-F1AB-48D6-A809-E8E0E2A34E66",
     "id": "thossui",
     "mutation_marker": "",
     "sindarin": "thossui",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'θo.sui",
     "tengwar": "",
     "cirth": "0bhSlI",
@@ -12305,14 +12312,14 @@
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "FC65ECA3-F141-4FDF-91B6-5962101BC453",
     "id": "lor",
     "mutation_marker": "",
     "sindarin": "lor-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "lor",
     "tengwar": "",
     "cirth": "abRI",
@@ -12354,14 +12361,14 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3221F068-F87A-4A90-B3E1-7A9F9D09EF98",
     "id": "lortha",
     "mutation_marker": "",
     "sindarin": "lortha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'lor.θa",
     "tengwar": "",
     "cirth": "abR0cI",
@@ -12403,14 +12410,14 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "FF7CA91D-1A54-4F21-A0F9-BDE8FB8B85F6",
     "id": "cuia",
     "mutation_marker": "",
     "sindarin": "cuia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "cuia",
     "tengwar": "",
     "cirth": "eSlcI",
@@ -12454,14 +12461,14 @@
       "PE17/102"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1AFD7A0D-476A-4A1F-91F2-6A57E0F97DFA",
     "id": "fir",
     "mutation_marker": "",
     "sindarin": "fir-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "fir",
     "tengwar": "",
     "cirth": "3lRI",
@@ -12503,14 +12510,14 @@
       "LotR/1107"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "49878C37-FF9D-412F-A2EC-59183405124B",
     "id": "gwanna",
     "mutation_marker": "",
     "sindarin": "gwanna-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'gʷa.na",
     "tengwar": "",
     "cirth": "oc@@cI",
@@ -12600,14 +12607,14 @@
       "Ety/WAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5C8CACDC-DEBD-42A2-B969-66D46F652A9E",
     "id": "dag",
     "mutation_marker": "nd-",
     "sindarin": "dag-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "dag",
     "tengwar": "",
     "cirth": "9crI",
@@ -12671,14 +12678,14 @@
       "SA/dagor"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2801ECAD-B87B-4D18-9639-54C0DF9AC760",
     "id": "maetha",
     "mutation_marker": "",
     "sindarin": "maetha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'mɑ́j.θa",
     "tengwar": "",
     "cirth": "6cz0cI",
@@ -12778,14 +12785,14 @@
       "Ety/MAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "215D262B-FF7A-436D-81E6-867F74BDE433",
     "id": "fara",
     "mutation_marker": "",
     "sindarin": "fara-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'fa.ra",
     "tengwar": "",
     "cirth": "3cRcI",
@@ -12881,14 +12888,14 @@
       "EtyAC/PHAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0391A76A-8F11-4AB5-9FB1-BF9CDEB4BD6C",
     "id": "dringa",
     "mutation_marker": "",
     "sindarin": "dringa-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'drin.ga",
     "tengwar": "",
     "cirth": "9RldcI",
@@ -12931,14 +12938,14 @@
       "EtyAC/DRING"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
     "id": "resta",
     "mutation_marker": "",
     "sindarin": "resta-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'res.ta",
     "tengwar": "",
     "cirth": "Rzf8cI",
@@ -13014,14 +13021,14 @@
       "Ety/RIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5CD95067-0693-473D-B422-A20B97CCF8EB",
     "id": "thaetha",
     "mutation_marker": "",
     "sindarin": "thaetha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'θae.θa",
     "tengwar": "",
     "cirth": "0cz0cI",
@@ -13061,14 +13068,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E0739FA6-7BF3-45C6-A258-CC8D40359C25",
     "id": "eitha",
     "mutation_marker": "",
     "sindarin": "eitha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ei.θa",
     "tengwar": "",
     "cirth": "zl0cI",
@@ -13106,14 +13113,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E1B24881-9CCC-4624-9522-4C416B36A372",
     "id": "eitha",
     "mutation_marker": "",
     "sindarin": "eitha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ei.θa",
     "tengwar": "",
     "cirth": "zl0cI",
@@ -13195,14 +13202,14 @@
       "WJ/365"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9CA4B467-1A62-401B-98C8-BCE44D964556",
     "id": "gratha",
     "mutation_marker": "",
     "sindarin": "gratha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'gra.θa",
     "tengwar": "",
     "cirth": "rRc0cI",
@@ -13242,14 +13249,14 @@
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F7CDC8D9-06D5-49FD-AFCF-D18CEDB136BB",
     "id": "sab",
     "mutation_marker": "",
     "sindarin": "sab-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sab",
     "tengwar": "",
     "cirth": "fc2I",
@@ -13293,14 +13300,14 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "BA5D5597-E863-4C6B-A3AC-92DD6EA7A66F",
     "id": "minenwen",
     "mutation_marker": "",
     "sindarin": "minenwen-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "mi.'ne.nwen",
     "tengwar": "",
     "cirth": "6l@zEz@I",
@@ -13371,14 +13378,14 @@
     "notes": "More conservative users prefer \"loda-\", meaning \"to float\". I disagree because \"to swim\" is one of the 100 words in the Swadesh list and should have its own meaning.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "557C1A13-4E91-4C5C-A6FB-41F656A8F520",
     "id": "gwil",
     "mutation_marker": "",
     "sindarin": "gwil-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gʷil",
     "tengwar": "",
     "cirth": "olaI",
@@ -13421,14 +13428,14 @@
       "LT1A/Vilna"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8E7515CD-414B-4C42-8691-D11FF039BCFF",
     "id": "padra",
     "mutation_marker": "",
     "sindarin": "padra-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'pa.dra",
     "tengwar": "",
     "cirth": "1c9RcI",
@@ -13468,14 +13475,14 @@
       "PE17/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "506883F0-1F60-44FA-8C3A-9B6AF5C27822",
     "id": "tol",
     "mutation_marker": "",
     "sindarin": "tol-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tol",
     "tengwar": "",
     "cirth": "8baI",
@@ -13535,14 +13542,14 @@
       "WJ/254, 301"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6D74DE9A-BBAD-49F2-B037-FE25BF9FE094",
     "id": "caeda",
     "mutation_marker": "",
     "sindarin": "caeda-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'kɑ́j.da",
     "tengwar": "",
     "cirth": "ecz9cI",
@@ -13624,14 +13631,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "119F4981-907C-49DD-B622-9DD816E068C4",
     "id": "hedhia",
     "mutation_marker": "",
     "sindarin": "hedhia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'he.ðia",
     "tengwar": "",
     "cirth": ".z!lcI",
@@ -13739,14 +13746,14 @@
       "EtyAC/KHAM"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3B4526DB-57D0-46DE-9ED4-D858AA4A1D0C",
     "id": "hadhwa",
     "mutation_marker": "",
     "sindarin": "hadhwa-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'hað.wa",
     "tengwar": "",
     "cirth": ".c!FcI",
@@ -13845,14 +13852,14 @@
       "PE22/148"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "635737B7-2947-4BAA-A695-E40B2A6A329B",
     "id": "tar",
     "mutation_marker": "",
     "sindarin": "tar-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tar",
     "tengwar": "",
     "cirth": "8cRI",
@@ -13896,14 +13903,14 @@
       "AotH/56"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "42402FA9-442C-4CBD-8D3B-696320863E2F",
     "id": "per",
     "mutation_marker": "",
     "sindarin": "per-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "per",
     "tengwar": "",
     "cirth": "1zRI",
@@ -13945,14 +13952,14 @@
     "notes": "This verb has been argued to collide with prefix \"per-\" meaning \"half\", but since they are  different classes of words, I think it's safe to use. The alternative is a possible \"perna-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "26547753-40CC-43D3-81CD-FCF7DB7031A6",
     "id": "drinna",
     "mutation_marker": "",
     "sindarin": "drinna-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'dri.na",
     "tengwar": "",
     "cirth": "9Rl@@cI",
@@ -13994,14 +14001,14 @@
       "GL/30"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1DCEBF98-7F0E-4E9E-822B-DFC9B618A4C9",
     "id": "danna",
     "mutation_marker": "",
     "sindarin": "danna-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'da.na",
     "tengwar": "",
     "cirth": "9c@@cI",
@@ -14074,14 +14081,14 @@
       "PE17/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
     "id": "anna",
     "mutation_marker": "",
     "sindarin": "anna-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.na",
     "tengwar": "",
     "cirth": "c@@cI",
@@ -14168,14 +14175,14 @@
       "VT44/27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4057850C-9E8B-40B4-84F1-A056BC5645D8",
     "id": "gar",
     "mutation_marker": "",
     "sindarin": "gar-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gar",
     "tengwar": "",
     "cirth": "rcRI",
@@ -14210,14 +14217,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "409B8222-0782-466E-806F-0067CB191D62",
     "id": "gar",
     "mutation_marker": "",
     "sindarin": "gar-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gar",
     "tengwar": "",
     "cirth": "rcRI",
@@ -14261,14 +14268,14 @@
       "TAI/150"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1D716151-634B-4DCD-B94E-D12C672E662D",
     "id": "manga",
     "mutation_marker": "",
     "sindarin": "manga-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'man.ga",
     "tengwar": "",
     "cirth": "6cdcI",
@@ -14308,14 +14315,14 @@
       "GL/55"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0E4ADB77-76EB-4320-BFAB-835A7560DA3F",
     "id": "ranga",
     "mutation_marker": "",
     "sindarin": "ranga-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ran.ga",
     "tengwar": "",
     "cirth": "RcdcI",
@@ -14355,14 +14362,14 @@
       "GL/65-66"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "893AD642-3AD9-4A62-AF61-54F6299AFE2F",
     "id": "gweltha",
     "mutation_marker": "",
     "sindarin": "gweltha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gʷel.θa",
     "tengwar": "",
     "cirth": "oza0cI",
@@ -14402,14 +14409,14 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "81921783-512D-4E23-8733-D2F2E65CD4F1",
     "id": "run",
     "mutation_marker": "",
     "sindarin": "run-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "run",
     "tengwar": "",
     "cirth": "RS@I",
@@ -14449,14 +14456,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "72330D7B-61FF-4A3C-9833-831C76AFA3B2",
     "id": "gratha",
     "mutation_marker": "",
     "sindarin": "gratha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'gra.θa",
     "tengwar": "",
     "cirth": "rRc0cI",
@@ -14500,14 +14507,14 @@
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "5DB341BB-AF2E-4195-8B35-55B1492546B7",
     "id": "whal",
     "mutation_marker": "",
     "sindarin": "whal-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ʍal",
     "tengwar": "",
     "cirth": "F.caI",
@@ -14567,14 +14574,14 @@
       "PE23/122"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C10C13C4-A434-4F81-B797-C03E8FBAC566",
     "id": "whegra",
     "mutation_marker": "",
     "sindarin": "whegra-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ʍe.gra",
     "tengwar": "",
     "cirth": "F.zrRcI",
@@ -14614,14 +14621,14 @@
       "GL/36"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "3045B642-5C26-465B-8244-D71DB6530EF5",
     "id": "thag",
     "mutation_marker": "",
     "sindarin": "thag-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θag",
     "tengwar": "",
     "cirth": "0crI",
@@ -14661,14 +14668,14 @@
     "notes": "A bit hypothetical because it requires some assumptions about its root for it to work.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F3CD52F2-1BC0-4F72-A47B-15B7BCBFDE04",
     "id": "nista",
     "mutation_marker": "",
     "sindarin": "nista-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'nis.ta",
     "tengwar": "",
     "cirth": "@lf8cI",
@@ -14710,14 +14717,14 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "2C361C9C-2F22-4DFC-BB1F-F85034438438",
     "id": "had",
     "mutation_marker": "",
     "sindarin": "had-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "had",
     "tengwar": "",
     "cirth": ".c9I",
@@ -14788,14 +14795,14 @@
       "Ety/KHAT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4DFAF0B2-8474-4A50-8F80-5E5A69B08019",
     "id": "nod",
     "mutation_marker": "",
     "sindarin": "nod-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nod",
     "tengwar": "",
     "cirth": "@b9I",
@@ -14861,14 +14868,14 @@
       "Ety/NUT, WŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "81795E78-0F1C-46D1-BE26-E2EDA0945B3B",
     "id": "ther",
     "mutation_marker": "",
     "sindarin": "ther-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "θer",
     "tengwar": "",
     "cirth": "0zRI",
@@ -14912,14 +14919,14 @@
       "GL/72"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "56014915-3D21-4DB4-AC73-6C58EEFC1B13",
     "id": "genedia",
     "mutation_marker": "",
     "sindarin": "genedia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ge.ne.dɪja",
     "tengwar": "",
     "cirth": "rz@z9lcI",
@@ -14970,14 +14977,14 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4FFE6E79-5840-493E-AFA0-88D8F3EF29BC",
     "id": "nedia",
     "mutation_marker": "",
     "sindarin": "nedia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ne.dɪja",
     "tengwar": "",
     "cirth": "@z9lcI",
@@ -15020,19 +15027,20 @@
       "WJ/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "7C486276-AA99-41B5-8CDF-230DCB8C963D",
     "id": "ped",
     "mutation_marker": "",
     "sindarin": "ped-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ped",
     "tengwar": "",
     "cirth": "1z9I",
     "english": [
-      "say, speak"
+      "say",
+      "speak"
     ],
     "grammar": [
       "verb"
@@ -15086,7 +15094,7 @@
     "confidence": null,
     "swadesh100": 71,
     "swadesh207": 140,
-    "definition": "",
+    "definition": "say, speak",
     "notes": "",
     "references": [
       "Let/424",
@@ -15099,19 +15107,20 @@
       "VT50/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A6423CA6-12E2-49D8-976D-75A01B145F99",
     "id": "linna",
     "mutation_marker": "",
     "sindarin": "linna-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'li.na",
     "tengwar": "",
     "cirth": "al@@cI",
     "english": [
-      "sing, chant"
+      "sing",
+      "chant"
     ],
     "grammar": [
       "verb"
@@ -15144,7 +15153,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 141,
-    "definition": "",
+    "definition": "sing, chant",
     "notes": "",
     "references": [
       "LB/354",
@@ -15155,14 +15164,14 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F2AB643B-7701-4408-AB99-9CD5418E7A41",
     "id": "telia",
     "mutation_marker": "",
     "sindarin": "telia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'te.lɪja",
     "tengwar": "",
     "cirth": "8zalcI",
@@ -15246,14 +15255,14 @@
       "Ety/TYAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E994BD33-80EE-46FE-BDEE-5002ED9AB901",
     "id": "loda",
     "mutation_marker": "",
     "sindarin": "loda-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'lo.da",
     "tengwar": "",
     "cirth": "ab9cI",
@@ -15296,14 +15305,14 @@
       "EtyAC/LUT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "FFB873C6-1503-4216-84F4-B1919DFBB9E4",
     "id": "siria",
     "mutation_marker": "",
     "sindarin": "siria-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'si.rɪja",
     "tengwar": "",
     "cirth": "flRlcI",
@@ -15347,19 +15356,20 @@
       "Ety/SIR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "D7FD44AB-FAC8-4791-A8CC-3C9138558A2F",
     "id": "ethiria",
     "mutation_marker": "",
     "sindarin": "ethiria-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "e.'θi.rɪja",
     "tengwar": "",
     "cirth": "z0lRlcI",
     "english": [
-      "outpour, outflow"
+      "outpour",
+      "outflow"
     ],
     "grammar": [
       "verb"
@@ -15402,18 +15412,18 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "outpour, outflow",
     "notes": "Based on \"ethir\" meaning \"outflow\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "1338E96E-E7A9-47F6-BAF6-86B1A005C32B",
     "id": "hel",
     "mutation_marker": "",
     "sindarin": "hel-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "hel",
     "tengwar": "",
     "cirth": ".zaI",
@@ -15456,19 +15466,20 @@
       "LT1A/Helkar"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "6ED9D60F-C915-4D21-B915-CF5DD93062C6",
     "id": "tuia",
     "mutation_marker": "",
     "sindarin": "tuia-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "tuɪja",
     "tengwar": "",
     "cirth": "8SlcI",
     "english": [
-      "sprout, spring forth"
+      "sprout",
+      "spring forth"
     ],
     "grammar": [
       "verb"
@@ -15512,20 +15523,20 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "sprout, spring forth",
     "notes": "",
     "references": [
       "Ety/TUY"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0BB8DD60-A19B-4137-8ADC-425CC5A1DDE0",
     "id": "tyda",
     "mutation_marker": "",
     "sindarin": "tŷda-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'tjː.da",
     "tengwar": "",
     "cirth": "8LL9cI",
@@ -15574,19 +15585,21 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0ED9B529-695E-4DBD-AC26-E4325267554E",
     "id": "beltha",
     "mutation_marker": "",
     "sindarin": "beltha-",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'bel.θa",
     "tengwar": "",
     "cirth": "2za0cI",
     "english": [
-      "open out, expand, billow"
+      "open out",
+      "expand",
+      "billow"
     ],
     "grammar": [
       "verb"
@@ -15615,20 +15628,20 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "open out, expand, billow",
     "notes": "",
     "references": [
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "50FA4C0F-CCB4-4E94-B033-7EB4F7928FF9",
     "id": "anor",
     "mutation_marker": "",
     "sindarin": "Anor",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'a.nor",
     "tengwar": "",
     "cirth": "c@bR",
@@ -15706,14 +15719,14 @@
       "SI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "E7DBB81F-D795-44C5-A744-6CF2C8E74FCE",
     "id": "ithil",
     "mutation_marker": "",
     "sindarin": "Ithil",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'i.θil",
     "tengwar": "",
     "cirth": "l0la",
@@ -15765,14 +15778,14 @@
       "WJI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "EF1076EC-70EB-40E1-B42C-2B8D3ADE7E78",
     "id": "gil",
     "mutation_marker": "ng-",
     "sindarin": "gil",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gil",
     "tengwar": "",
     "cirth": "rla",
@@ -15844,14 +15857,14 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A1A4A98F-00E0-499E-BC47-43A85117C112",
     "id": "nen",
     "mutation_marker": "",
     "sindarin": "nen",
-    "spellings": {},
+    "spellings": [],
     "ipa": "nen",
     "tengwar": "",
     "cirth": "@z@",
@@ -15903,19 +15916,20 @@
       "VT42/14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4E401BD3-0190-4501-98B1-F4C865149B89",
     "id": "ross",
     "mutation_marker": "",
     "sindarin": "ross",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ros",
     "tengwar": "",
     "cirth": "Rbh",
     "english": [
-      "rain, spray of water"
+      "rain",
+      "spray of water"
     ],
     "grammar": [
       "noun"
@@ -15973,7 +15987,7 @@
     "confidence": null,
     "swadesh100": 76,
     "swadesh207": 151,
-    "definition": "",
+    "definition": "rain, spray of water",
     "notes": "",
     "references": [
       "MR/155",
@@ -15982,14 +15996,14 @@
       "SA/ros"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "F1D59E3A-6724-42A9-A7C5-5E6ED1CD68C5",
     "id": "sir",
     "mutation_marker": "",
     "sindarin": "sîr",
-    "spellings": {},
+    "spellings": [],
     "ipa": "siːr",
     "tengwar": "",
     "cirth": "fllR",
@@ -16033,19 +16047,19 @@
       "UT/263"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9D01BFD9-B7E5-4507-BB5E-B024C3270C62",
     "id": "duin",
     "mutation_marker": "",
     "sindarin": "duin",
-    "spellings": {},
+    "spellings": [],
     "ipa": "duin",
     "tengwar": "",
     "cirth": "9Sl@",
     "english": [
-      "river, large"
+      "river (large)"
     ],
     "grammar": [
       "noun"
@@ -16112,19 +16126,20 @@
       "WJ/191"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "4482E5D3-5FEC-48B9-99E3-88A917CCDE74",
     "id": "ael",
     "mutation_marker": "",
     "sindarin": "ael",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ael",
     "tengwar": "",
     "cirth": "cza",
     "english": [
-      "lake, pool"
+      "lake",
+      "pool"
     ],
     "grammar": [
       "noun"
@@ -16156,21 +16171,21 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 153,
-    "definition": "",
+    "definition": "lake, pool",
     "notes": "Reconstructed from \"Aeluin\", \"Blue Lake\" and \"Aelin-uial\", \"Meres of Twilight\".",
     "references": [
       "S/162",
       "SA/aelin, lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C39E9FDC-98C1-4B1A-A811-1682CE70E0E3",
     "id": "gaear",
     "mutation_marker": "",
     "sindarin": "gaear",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gaear",
     "tengwar": "",
     "cirth": "rczcR",
@@ -16245,14 +16260,14 @@
       "WJ/400"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "26827AC3-50B0-4629-941D-B87F3C4FD225",
     "id": "sing",
     "mutation_marker": "",
     "sindarin": "sing",
-    "spellings": {},
+    "spellings": [],
     "ipa": "siŋ",
     "tengwar": "",
     "cirth": "flu",
@@ -16293,19 +16308,20 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "58A49E3F-E487-44BD-A53E-917222D4E87D",
     "id": "gond",
     "mutation_marker": "",
     "sindarin": "gond",
-    "spellings": {},
+    "spellings": [],
     "ipa": "gond",
     "tengwar": "",
     "cirth": "rbk",
     "english": [
-      "stone, rock"
+      "stone",
+      "rock"
     ],
     "grammar": [
       "noun"
@@ -16363,7 +16379,7 @@
     "confidence": null,
     "swadesh100": 77,
     "swadesh207": 156,
-    "definition": "",
+    "definition": "stone, rock",
     "notes": "",
     "references": [
       "NM/363",
@@ -16373,19 +16389,21 @@
       "WJ/201"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0BEF59B7-8522-4B1B-9F66-32ECAFA3F94F",
     "id": "sarn",
     "mutation_marker": "",
     "sindarin": "sarn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sarn",
     "tengwar": "",
     "cirth": "fcR@",
     "english": [
-      "pebble, stone, gem"
+      "pebble",
+      "stone",
+      "gem"
     ],
     "grammar": [
       "noun"
@@ -16441,7 +16459,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "pebble, stone, gem",
     "notes": "",
     "references": [
       "PE23/136, 139",
@@ -16451,14 +16469,14 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A78BD10F-6D37-454D-A137-10AD06CF1FD0",
     "id": "sarn",
     "mutation_marker": "",
     "sindarin": "sarn",
-    "spellings": {},
+    "spellings": [],
     "ipa": "sarn",
     "tengwar": "",
     "cirth": "fcR@",
@@ -16527,14 +16545,14 @@
       "RC/163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
     "id": "ledhu",
     "mutation_marker": "",
     "sindarin": "ledhu",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'le.ðu",
     "tengwar": "",
     "cirth": "az!S",
@@ -16628,7 +16646,18 @@
           "eldamo_id": ""
         }
       ],
-      "elements": [],
+      "elements": [
+        {
+          "form": "LIT",
+          "gloss": "grit",
+          "type": "root"
+        },
+        {
+          "form": "-mā",
+          "gloss": "",
+          "type": "instrumental suffix"
+        }
+      ],
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=litma%3A&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
@@ -16642,14 +16671,14 @@
     "notes": "I really believe that a separate word for \"sand\" is important. I wouldn't claim that lith cannot mean both \"ash\" and \"sand\", natural languages permit stranger polysemies than that. But I do think there's a reasonable linguistic case that this merger is unusually unsupported cross-linguistically and that distinguishing the two concepts would improve the lexicon with very little cost. I have used √LIT \"grit\" + ✶-mā \"instrumental suffix\", in analogy to √SAG \"bitter, poison\" + -mā = ✶sagmā \"poison\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "0BD66B3F-3A98-4EA3-BC66-70B850BA0DC2",
     "id": "ast",
     "mutation_marker": "",
     "sindarin": "ast",
-    "spellings": {},
+    "spellings": [],
     "ipa": "ast",
     "tengwar": "",
     "cirth": "cf8",
@@ -16694,14 +16723,14 @@
       "Ety/ÁS-AT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "A4CF4976-6A20-42FE-B4FD-2B5025EF749D",
     "id": "ceven",
     "mutation_marker": "",
     "sindarin": "ceven",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'ke.ven",
     "tengwar": "",
     "cirth": "ez4z@",
@@ -16762,14 +16791,14 @@
       "VT44/27"
     ],
     "hidden": "s100 is \"earth or soil\"",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "C26629A8-62E7-4748-8D97-6AA9698C75AE",
     "id": "fan",
     "mutation_marker": "",
     "sindarin": "fân",
-    "spellings": {},
+    "spellings": [],
     "ipa": "fa:n",
     "tengwar": "",
     "cirth": "3v@",
@@ -16854,14 +16883,14 @@
       "RGEO/66"
     ],
     "hidden": "s100 \"cloud, not fog\"",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "B9330274-8553-42AF-B153-8534609B4867",
     "id": "hith",
     "mutation_marker": "",
     "sindarin": "hîth",
-    "spellings": {},
+    "spellings": [],
     "ipa": "hi:θ",
     "tengwar": "",
     "cirth": ".ll0",
@@ -16932,14 +16961,14 @@
       "SA/hîth"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "9E6958CF-4AD6-45AA-A1AA-5EF79EB1BF0F",
     "id": "hithu",
     "mutation_marker": "",
     "sindarin": "hithu",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'hi.θu",
     "tengwar": "",
     "cirth": ".l0S",
@@ -16985,14 +17014,14 @@
       "EtyAC/KHIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
   },
   {
     "uuid": "8396837B-8CE0-4CF3-BDCC-E1A5568D31D0",
     "id": "menel",
     "mutation_marker": "",
     "sindarin": "menel",
-    "spellings": {},
+    "spellings": [],
     "ipa": "'me.nel",
     "tengwar": "",
     "cirth": "6z@za",
@@ -17045,6 +17074,1051 @@
       "VT44/23"
     ],
     "hidden": "",
-    "last_modified": "2026-07-13"
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "67DCC523-4E28-48E5-AA5D-B3FE2BA3E91A",
+    "id": "gwae",
+    "mutation_marker": "",
+    "sindarin": "gwae",
+    "spellings": [],
+    "ipa": "gʷae",
+    "tengwar": "",
+    "cirth": "ocz",
+    "english": [
+      "wind"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4071975747",
+    "etymology": {
+      "root_refs": [
+        "way"
+      ],
+      "primitive": {
+        "form": "wāya",
+        "eldamo_id": "1650026157"
+      },
+      "development": [
+        {
+          "form": "wajā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "waja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "waia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwaia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gwai",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "gwae",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=waja%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "vailë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 163,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "NM/237",
+      "PE17/33-34, 189",
+      "PE23/142"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "1FEDC319-1E46-422B-BF7F-3A8D6DA43F34",
+    "id": "loss",
+    "mutation_marker": "",
+    "sindarin": "loss",
+    "spellings": [],
+    "ipa": "los",
+    "tengwar": "",
+    "cirth": "abh",
+    "english": [
+      "snow"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "loss",
+      "singular": "",
+      "plural": "lyss"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "621911321",
+    "etymology": {
+      "root_refs": [
+        "(g)los"
+      ],
+      "primitive": {
+        "form": "lossē",
+        "eldamo_id": "3592123429"
+      },
+      "development": [
+        {
+          "form": "lossē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "losse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "loss",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=losse%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "lossë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 164,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Let/278",
+      "PE17/26, 161",
+      "RGEO/62",
+      "SA/los",
+      "VT42/18"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "C1C610F2-68B4-421A-8B88-358071522CAF",
+    "id": "heleg",
+    "mutation_marker": "",
+    "sindarin": "heleg",
+    "spellings": [],
+    "ipa": "'he.leg",
+    "tengwar": "",
+    "cirth": ".zazr",
+    "english": [
+      "ice"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "heleg",
+      "singular": "",
+      "plural": "helig"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1527889125",
+    "etymology": {
+      "root_refs": [
+        "khelek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰelekā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰeleka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xeleka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xelek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "helek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "heleg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 165,
+    "definition": "",
+    "notes": "(The phonetic development here is a guess.)",
+    "references": [
+      "PE23/139"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "D293677A-9716-4D61-947F-1BFC03A9C12C",
+    "id": "osp",
+    "mutation_marker": "",
+    "sindarin": "osp",
+    "spellings": [],
+    "ipa": "osp",
+    "tengwar": "",
+    "cirth": "bf1",
+    "english": [
+      "smoke"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "osp",
+      "singular": "",
+      "plural": "ysp"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1639218273",
+    "etymology": {
+      "root_refs": [
+        "usuk"
+      ],
+      "primitive": {
+        "form": "uskwē",
+        "eldamo_id": "58762221"
+      },
+      "development": [
+        {
+          "form": "uskwē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "uspē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "uspe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "ospe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "osp",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=uskwe%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT3M26P%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-T3M26P"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 81,
+    "swadesh207": 166,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/USUK"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "5136744A-8797-4E97-9EB6-851ECC898027",
+    "id": "fanu",
+    "mutation_marker": "",
+    "sindarin": "fanu",
+    "spellings": [],
+    "ipa": "'fa.nu",
+    "tengwar": "",
+    "cirth": "3c@S",
+    "english": [
+      "vapour",
+      "steam"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "fanu",
+      "singular": "",
+      "plural": "feny"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "453162003",
+    "etymology": {
+      "root_refs": [
+        "phan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "fanwë"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "vapour, steam",
+    "notes": "Neologism based on Quenya cognate.",
+    "references": [
+      "GL/71"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "49E6CD12-7D77-4EE5-A401-277B72D88253",
+    "id": "naur",
+    "mutation_marker": "",
+    "sindarin": "naur",
+    "spellings": [],
+    "ipa": "naur",
+    "tengwar": "",
+    "cirth": "@cSR",
+    "english": [
+      "fire"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "naur",
+      "singular": "",
+      "plural": "noer"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3001223523",
+    "etymology": {
+      "root_refs": [
+        "nar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nār",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "nǭr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "naur",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=na%3Ar&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT3M26P%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-T3M26P"
+    },
+    "cognates": {
+      "quenya": "nár"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 82,
+    "swadesh207": 167,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "LotR/290, 299, 942",
+      "PE17/38, 101",
+      "PE23/136",
+      "PM/363",
+      "SA/nár"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "7E45AC20-2470-49CE-8A03-81CAC2B5513F",
+    "id": "lith",
+    "mutation_marker": "",
+    "sindarin": "lith",
+    "spellings": [],
+    "ipa": "liθ",
+    "tengwar": "",
+    "cirth": "al0",
+    "english": [
+      "ash",
+      "sand"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2293581127",
+    "etymology": {
+      "root_refs": [
+        "lit"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "littë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 83,
+    "swadesh207": 168,
+    "definition": "ash, sand",
+    "notes": "",
+    "references": [
+      "RC/765",
+      "SA/lith"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "A5F4E714-87E6-4509-8405-7275723534D6",
+    "id": "orna",
+    "mutation_marker": "",
+    "sindarin": "orna-",
+    "spellings": [],
+    "ipa": "'or.na",
+    "tengwar": "",
+    "cirth": "bR@c",
+    "english": [
+      "burn"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "89716167",
+    "etymology": {
+      "root_refs": [
+        "ur"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": 84,
+    "swadesh207": 169,
+    "definition": "burn (transitive and intransitive)",
+    "notes": "",
+    "references": [
+      "GL/75"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "93E2E900-6D0A-4E9C-95D9-F9C1EC91A785",
+    "id": "bad",
+    "mutation_marker": "",
+    "sindarin": "bâd",
+    "spellings": [],
+    "ipa": "ba:d",
+    "tengwar": "",
+    "cirth": "2v9",
+    "english": [
+      "road"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bâd",
+      "singular": "",
+      "plural": "baid"
+    },
+    "gender": "",
+    "category": "structure",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2424644833",
+    "etymology": {
+      "root_refs": [
+        "bat"
+      ],
+      "primitive": {
+        "form": "batā",
+        "eldamo_id": "789659005"
+      },
+      "development": [
+        {
+          "form": "batā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "bata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "bad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "bād",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=bata%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 170,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "PE23/136"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "D397B400-EFB1-4812-B48E-46592AB7FD69",
+    "id": "men",
+    "mutation_marker": "",
+    "sindarin": "men",
+    "spellings": [],
+    "ipa": "men",
+    "tengwar": "",
+    "cirth": "6z@",
+    "english": [
+      "road",
+      "way"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "men",
+      "singular": "",
+      "plural": "min"
+    },
+    "gender": "",
+    "category": "structure",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3653772469",
+    "etymology": {
+      "root_refs": [
+        "men"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "men"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "road, way",
+    "notes": "",
+    "references": [
+      "NM/372",
+      "UT/280",
+      "UTI/Men-i-Naugrim"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "522A220B-A061-4D68-B1C0-82CBEFE98DC5",
+    "id": "orod",
+    "mutation_marker": "",
+    "sindarin": "orod",
+    "spellings": [
+      {
+        "dialect": "gondorian",
+        "form": "ered",
+        "slot": "plural"
+      }
+    ],
+    "ipa": "'o.rod",
+    "tengwar": "",
+    "cirth": "bRb9",
+    "english": [
+      "mountain"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "orod",
+      "singular": "",
+      "plural": "eryd"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1491591289",
+    "etymology": {
+      "root_refs": [
+        "rō/oro"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "oroto",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "orot",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "orod",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=oroto&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "orto"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 86,
+    "swadesh207": 171,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "LotR/469",
+      "PE17/33, 64, 89",
+      "PE23/133",
+      "RC/621, 765",
+      "S/118",
+      "SA/orod",
+      "UT/40, 54",
+      "WJ/192"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "E180B8AA-098B-4C38-9CBC-4B40F25F9A5F",
+    "id": "amon",
+    "mutation_marker": "",
+    "sindarin": "amon",
+    "spellings": [],
+    "ipa": "'a.mon",
+    "tengwar": "",
+    "cirth": "c6b@",
+    "english": [
+      "lump",
+      "clump",
+      "mass"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "amon",
+      "singular": "",
+      "plural": "emyn"
+    },
+    "gender": "",
+    "category": "object",
+    "ids_chapter": "object",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2107077031",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "lump, clump, mass",
+    "notes": "",
+    "references": [
+      "PE17/15, 93"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "F3864741-E1C1-4DD9-842A-6F4003159E7A",
+    "id": "amon",
+    "mutation_marker": "",
+    "sindarin": "amon",
+    "spellings": [],
+    "ipa": "'a.mon",
+    "tengwar": "",
+    "cirth": "c6b@",
+    "english": [
+      "hill",
+      "mountain"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "amon",
+      "singular": "",
+      "plural": "emyn"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2107077031",
+    "etymology": {
+      "root_refs": [
+        "mbon"
+      ],
+      "primitive": {
+        "form": "ṃbono",
+        "eldamo_id": "1944391711"
+      },
+      "development": [
+        {
+          "form": "m̩bono",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1024355367"
+        },
+        {
+          "form": "ambono",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ambon",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "ammon",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "amon",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%E1%B9%83bono&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "ambo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "hill, mountain with steep sides",
+    "notes": "",
+    "references": [
+      "LotR/1097, 1115",
+      "LotRI/Emyn Uial",
+      "PE17/33, 61, 121",
+      "PM/186",
+      "RC/334, 772",
+      "S/204, 217",
+      "SA/er",
+      "UT/255, 280, 301",
+      "UTI/Emyn-nu-Fuin",
+      "VT42/17",
+      "WJ/187"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "7839E187-5311-4DDA-94A8-D3B8BF865D13",
+    "id": "tund",
+    "mutation_marker": "",
+    "sindarin": "tund",
+    "spellings": [],
+    "ipa": "tund",
+    "tengwar": "",
+    "cirth": "8Sk",
+    "english": [
+      "mound",
+      "hill"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "tund",
+      "singular": "",
+      "plural": "tynd"
+    },
+    "gender": "",
+    "category": "nature",
+    "ids_chapter": "the physical world",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "tunn",
+    "eldamo_id": "2710560523",
+    "etymology": {
+      "root_refs": [
+        "tun"
+      ],
+      "primitive": {
+        "form": "tundu",
+        "eldamo_id": "4119142445"
+      },
+      "development": [
+        {
+          "form": "tundu",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "tund",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tundu&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "tundo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "mound, hill",
+    "notes": "",
+    "references": [
+      "Ety/MINI, TUN"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
   }
 ]

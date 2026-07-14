@@ -67,7 +67,9 @@
         <div class="word-english">{{english_joined}}</div>
 
         {{#has_inflection}}
-        <div class="word-inflection"><span class="inflection-label">{{inflection_label}}</span> {{inflection_form}}</div>
+        <div class="word-inflection">
+          {{#inflection_entries}}<span class="inflection-entry"><span class="inflection-label">{{inflection_label}}</span> {{inflection_form}}</span>{{/inflection_entries}}
+        </div>
         {{/has_inflection}}
 
         <div class="word-type-source">{{type_source_text}}</div>
@@ -112,13 +114,15 @@
           <div class="etymology-chain">Primitive Eldarin: {{#primitive_eldamo_id}}<a href="https://eldamo.org/content/words/word-{{primitive_eldamo_id}}.html" target="_blank" rel="noopener"><em>{{primitive_form}}</em></a>{{/primitive_eldamo_id}}{{^primitive_eldamo_id}}<em>{{primitive_form}}</em>{{/primitive_eldamo_id}}</div>
           {{/has_primitive}}
           {{#has_development}}
-          <div class="etymology-chain development-chain">{{{development_html}}}</div>
-          {{/has_development}}
-          {{#etymology.quettamorphosis_url}}
-          <div class="etymology-chain">
-            <a href="{{etymology.quettamorphosis_url}}" class="external-link" target="_blank" rel="noopener">View phonetic development in Quettamorphosis</a>
+          <div class="etymology-chain development-chain">
+            {{{development_html}}}{{#etymology.quettamorphosis_url}}
+            <span class="quettamorphosis">
+              <a href="{{etymology.quettamorphosis_url}}" class="external-link" target="_blank" rel="noopener">
+                <img src="/img/quettamorphosis.png" alt="View phonetic development in Quettamorphosis" />
+              </a>
+            </span>{{/etymology.quettamorphosis_url}}
           </div>
-          {{/etymology.quettamorphosis_url}}
+          {{/has_development}}
           {{#has_elements}}
           <h4 style="margin: 0.75rem 0 0.5rem; font-size: 0.85rem; color: var(--ink-muted);">Elements</h4>
           <ul class="etymology-elements">
@@ -148,64 +152,6 @@
         </section>
         {{/has_cognates}}
 
-        {{#has_conjugation}}
-        <section class="word-section">
-          <h3>Conjugation</h3>
-          <div class="conjugation-info">
-            <span class="tag">{{conjugation.class}}</span>
-            {{#conjugation.irregular}}<span class="tag tag--experimental">irregular</span>{{/conjugation.irregular}}
-          </div>
-
-          {{#has_conjugation_tenses}}
-          <div class="conjugation-tenses">
-            {{#conjugation_tenses}}
-            <div class="conjugation-tense-block">
-              <h4 class="conjugation-tense-heading">{{tense_label}}</h4>
-              <table class="conjugation-table">
-                <thead>
-                  <tr>
-                    <th>Person</th>
-                    <th>Form</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {{#persons}}
-                  <tr>
-                    <td>{{person_label}}</td>
-                    <td><em>{{form}}</em></td>
-                  </tr>
-                  {{/persons}}
-                </tbody>
-              </table>
-            </div>
-            {{/conjugation_tenses}}
-          </div>
-          {{/has_conjugation_tenses}}
-
-          {{#has_conjugation_forms}}
-          <div class="conjugation-forms-block">
-            <h4 class="conjugation-tense-heading">Other Forms</h4>
-            <table class="conjugation-table">
-              <thead>
-                <tr>
-                  <th>Form</th>
-                  <th>Sindarin</th>
-                </tr>
-              </thead>
-              <tbody>
-                {{#conjugation_forms}}
-                <tr>
-                  <td>{{form_label}}</td>
-                  <td><em>{{form}}</em></td>
-                </tr>
-                {{/conjugation_forms}}
-              </tbody>
-            </table>
-          </div>
-          {{/has_conjugation_forms}}
-        </section>
-        {{/has_conjugation}}
-
         {{#has_references_section}}
         <section class="word-section">
           <h3>References</h3>
@@ -226,6 +172,64 @@
         {{/notes}}
       </div>
       {{/senses}}
+
+      {{#has_conjugation}}
+      <section class="word-section">
+        <h3>Conjugation</h3>
+        <div class="conjugation-info">
+          <span class="tag">{{conjugation.class}}</span>
+          {{#conjugation.irregular}}<span class="tag tag--experimental">irregular</span>{{/conjugation.irregular}}
+        </div>
+
+        {{#has_conjugation_tenses}}
+        <div class="conjugation-tenses">
+          {{#conjugation_tenses}}
+          <div class="conjugation-tense-block">
+            <h4 class="conjugation-tense-heading">{{tense_label}}</h4>
+            <table class="conjugation-table">
+              <thead>
+                <tr>
+                  <th>Person</th>
+                  <th>Form</th>
+                </tr>
+              </thead>
+              <tbody>
+                {{#persons}}
+                <tr>
+                  <td>{{person_label}}</td>
+                  <td><em>{{form}}</em></td>
+                </tr>
+                {{/persons}}
+              </tbody>
+            </table>
+          </div>
+          {{/conjugation_tenses}}
+        </div>
+        {{/has_conjugation_tenses}}
+
+        {{#has_conjugation_forms}}
+        <div class="conjugation-forms-block">
+          <h4 class="conjugation-tense-heading">Other Forms</h4>
+          <table class="conjugation-table">
+            <thead>
+              <tr>
+                <th>Form</th>
+                <th>Sindarin</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{#conjugation_forms}}
+              <tr>
+                <td>{{form_label}}</td>
+                <td><em>{{form}}</em></td>
+              </tr>
+              {{/conjugation_forms}}
+            </tbody>
+          </table>
+        </div>
+        {{/has_conjugation_forms}}
+      </section>
+      {{/has_conjugation}}
     </article>
   </main>
 
