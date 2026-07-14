@@ -18120,5 +18120,1598 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "F4EEFAB2-2CF4-4339-B279-10993CFE8A0D",
+    "id": "caran",
+    "mutation_marker": "",
+    "sindarin": "caran",
+    "spellings": [],
+    "ipa": "'ka.ran",
+    "tengwar": "",
+    "cirth": "ecRc@",
+    "english": [
+      "red"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "caran",
+      "singular": "",
+      "plural": "cerain"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1187250489",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "karani",
+        "eldamo_id": "694737661"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "carnë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 87,
+    "swadesh207": 172,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "PE17/36",
+      "SA/caran",
+      "VT41/10"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "BF6E010A-DD0E-4284-9196-69ADDDAB3CC7",
+    "id": "culuin",
+    "mutation_marker": "",
+    "sindarin": "culuin",
+    "spellings": [],
+    "ipa": "'ku.luin",
+    "tengwar": "",
+    "cirth": "eSaSl@",
+    "english": [
+      "orange"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "culuin",
+      "singular": "",
+      "plural": "cyluin"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2182561905",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "Word coined from Middle Quenya \"kuluina\".",
+    "references": [],
+    "hidden": "karanismalinā",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "5A6E6034-D139-40CF-9B5D-1B982C1E0E81",
+    "id": "calen",
+    "mutation_marker": "",
+    "sindarin": "calen",
+    "spellings": [],
+    "ipa": "'ka.len",
+    "tengwar": "",
+    "cirth": "ecaz@",
+    "english": [
+      "green"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "calen",
+      "singular": "",
+      "plural": "celin"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2594874609",
+    "etymology": {
+      "root_refs": [
+        "kal"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kalinā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kalina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "kalena",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kalen",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kalina%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-G8C37D"
+    },
+    "cognates": {
+      "quenya": "calima"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 88,
+    "swadesh207": 173,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Let/282",
+      "PE17/77, 120, 153",
+      "RC/349",
+      "SA/calen, kal",
+      "UT/281",
+      "VT42/19"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "5B0899DE-86C2-436E-8ED9-80A77AF79A74",
+    "id": "malen",
+    "mutation_marker": "",
+    "sindarin": "malen",
+    "spellings": [],
+    "ipa": "'ma.len",
+    "tengwar": "",
+    "cirth": "6caz@",
+    "english": [
+      "yellow"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "malen",
+      "singular": "",
+      "plural": "melin"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2215571959",
+    "etymology": {
+      "root_refs": [
+        "smal"
+      ],
+      "primitive": {
+        "form": "smalinā",
+        "eldamo_id": "746626943"
+      },
+      "development": [
+        {
+          "form": "smalinā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "smalina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "malina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "malena",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "malen",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=smalina%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "malina"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 89,
+    "swadesh207": 174,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/SMAL"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "2AF2EDFE-B9E1-41CB-8A59-92E81B5BEFAA",
+    "id": "luin",
+    "mutation_marker": "",
+    "sindarin": "luin",
+    "spellings": [],
+    "ipa": "luin",
+    "tengwar": "",
+    "cirth": "aSl@",
+    "english": [
+      "blue"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "210523915",
+    "etymology": {
+      "root_refs": [
+        "luy"
+      ],
+      "primitive": {
+        "form": "luini",
+        "eldamo_id": "4076892273"
+      },
+      "development": [
+        {
+          "form": "luini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "luin",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "luinë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Let/448",
+      "S/162",
+      "SA/luin",
+      "UT/390",
+      "VT48/23-24, 28"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "A613851E-8EEB-4A46-A310-D0A55CEEB014",
+    "id": "elu",
+    "mutation_marker": "",
+    "sindarin": "elu",
+    "spellings": [],
+    "ipa": "e.lu",
+    "tengwar": "",
+    "cirth": "zaS",
+    "english": [
+      "pale blue"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "elu",
+      "singular": "",
+      "plural": "ely"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "elw",
+    "eldamo_id": "4175365919",
+    "etymology": {
+      "root_refs": [
+        "ʒel"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ɣelwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2690267141"
+        },
+        {
+          "form": "elwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "elwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "elw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798091205"
+        },
+        {
+          "form": "elu",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ƷEL",
+          "gloss": "sky",
+          "type": "root"
+        },
+        {
+          "form": "-wā",
+          "gloss": "",
+          "type": "adjectival suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=GHelwa%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "helwa"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/ƷEL"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "BD9249AC-6387-462F-B3BB-28AD4741C00C",
+    "id": "groluin",
+    "mutation_marker": "",
+    "sindarin": "groluin",
+    "spellings": [],
+    "ipa": "'gro.luin",
+    "tengwar": "",
+    "cirth": "rRbaSl@",
+    "english": [
+      "indigo"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "groluin",
+      "singular": "",
+      "plural": "greluin"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "graw",
+        "luy"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "grawaluini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "grawaluine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "grawaluin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "671129175"
+        },
+        {
+          "form": "grauluin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "groluin",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=grawaluini&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19JASGR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "indigo, (lit.) \"dark-blue\"",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "C9389F84-32C5-45F8-8C15-3F069CF733AC",
+    "id": "nim",
+    "mutation_marker": "",
+    "sindarin": "nim",
+    "spellings": [],
+    "ipa": "nim",
+    "tengwar": "",
+    "cirth": "@l6",
+    "english": [
+      "white"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1181190183",
+    "etymology": {
+      "root_refs": [
+        "nik(w)"
+      ],
+      "primitive": {
+        "form": "ninkwi",
+        "eldamo_id": "3385734743"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ninquë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 90,
+    "swadesh207": 175,
+    "definition": "",
+    "notes": "This word has a dubious phonetic evolution.",
+    "references": [
+      "PE17/19, 168",
+      "SA/nim"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "9DBECE67-7982-488C-83CB-E283E9B2C5AD",
+    "id": "morn",
+    "mutation_marker": "",
+    "sindarin": "morn",
+    "spellings": [],
+    "ipa": "morn",
+    "tengwar": "",
+    "cirth": "6bR@",
+    "english": [
+      "black"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "morn",
+      "singular": "",
+      "plural": "myrn"
+    },
+    "gender": "",
+    "category": "colour",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "509187197",
+    "etymology": {
+      "root_refs": [
+        "mor"
+      ],
+      "primitive": {
+        "form": "mornā",
+        "eldamo_id": "4280354179"
+      },
+      "development": [
+        {
+          "form": "mornā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "morna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "morn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=morna%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "morna"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 91,
+    "swadesh207": 176,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Let/382, 427",
+      "PE17/31, 35, 37, 101, 125",
+      "PE23/136",
+      "RC/lxv",
+      "UT/65",
+      "VT42/9",
+      "WJ/362"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "2D3ACB09-8EA7-4A38-9D89-9A99E5A6233E",
+    "id": "fuin",
+    "mutation_marker": "",
+    "sindarin": "fuin",
+    "spellings": [],
+    "ipa": "fuin",
+    "tengwar": "",
+    "cirth": "3Sl@",
+    "english": [
+      "night"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2399437541",
+    "etymology": {
+      "root_refs": [
+        "phuy"
+      ],
+      "primitive": {
+        "form": "phuinē",
+        "eldamo_id": "3654874761"
+      },
+      "development": [
+        {
+          "form": "phuinē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "phuine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "phuin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "fuin",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=phuine%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "huinë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 92,
+    "swadesh207": 177,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "NM/279, 283",
+      "PE17/120",
+      "RC/727",
+      "SA/fuin",
+      "UTI/Emyn-nu-Fuin",
+      "VT41/8"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "B6E1B8F2-D22A-4A21-8F35-F474E8266174",
+    "id": "aur",
+    "mutation_marker": "",
+    "sindarin": "aur",
+    "spellings": [],
+    "ipa": "aur",
+    "tengwar": "",
+    "cirth": "cSR",
+    "english": [
+      "day"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2784467005",
+    "etymology": {
+      "root_refs": [
+        "ur"
+      ],
+      "primitive": {
+        "form": "auri",
+        "eldamo_id": "800014543"
+      },
+      "development": [
+        {
+          "form": "auri",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "aure",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "ǭre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "aure",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "aur",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=auri&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "aurë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 178,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "PE17/120, 148",
+      "RC/727",
+      "SA/ur",
+      "VT44/28"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "0210D66C-9D4B-459C-9BB1-3C920873ACA6",
+    "id": "coranor",
+    "mutation_marker": "",
+    "sindarin": "coranor",
+    "spellings": [],
+    "ipa": "'co.ra.nor",
+    "tengwar": "",
+    "cirth": "ebRc@bR",
+    "english": [
+      "year"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "coranor",
+      "singular": "",
+      "plural": "cerenyr"
+    },
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1463583327",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "cor",
+          "gloss": "ring, circle",
+          "type": "noun"
+        },
+        {
+          "form": "Anor",
+          "gloss": "Sun",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "coranar"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": 179,
+    "definition": "solar year, (lit.) sun-round",
+    "notes": "Reconstructed from Quenya \"coranar\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "DAFAAA3F-4D0F-4AFF-BE69-19606C440EDD",
+    "id": "loran",
+    "mutation_marker": "",
+    "sindarin": "lóran",
+    "spellings": [],
+    "ipa": "'lo:.ran",
+    "tengwar": "",
+    "cirth": "anRc@",
+    "english": [
+      "year"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lóran",
+      "singular": "",
+      "plural": "lórain"
+    },
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "324103635",
+    "etymology": {
+      "root_refs": [
+        "law"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "LAW",
+          "gloss": "grow",
+          "type": "root"
+        },
+        {
+          "form": "rand",
+          "gloss": "cycle",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "löa"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "seasonal year, (lit.) growth-cycle",
+    "notes": "Reconstructed from Quenya \"löa\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "3AFAC197-D5B6-4D94-B695-CEDD6ECC3C1B",
+    "id": "born",
+    "mutation_marker": "mb-",
+    "sindarin": "born",
+    "spellings": [],
+    "ipa": "born",
+    "tengwar": "",
+    "cirth": "2bR@",
+    "english": [
+      "hot"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "born",
+      "singular": "",
+      "plural": "byrn"
+    },
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3085624231",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 93,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "Word extracted from \"Borgil\".",
+    "references": [
+      "Let/426",
+      "PE23/136"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "E5CB2F0D-09C5-4AA1-AE6E-8E731BFAB9D3",
+    "id": "laug",
+    "mutation_marker": "",
+    "sindarin": "laug",
+    "spellings": [],
+    "ipa": "lawg",
+    "tengwar": "",
+    "cirth": "acSr",
+    "english": [
+      "warm"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "laug",
+      "singular": "",
+      "plural": "loeg"
+    },
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "lhaug",
+    "eldamo_id": "661780437",
+    "etymology": {
+      "root_refs": [
+        "law"
+      ],
+      "primitive": {
+        "form": "lauka",
+        "eldamo_id": "3277903741"
+      },
+      "development": [
+        {
+          "form": "lauka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "lǭka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "lauka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lauk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "laug",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lauka&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "lauka"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 180,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/LAW"
+    ],
+    "hidden": "s100 hot; s207 warm",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "E5A38108-6922-48F2-940F-ECCB6F6F4A8E",
+    "id": "ring",
+    "mutation_marker": "",
+    "sindarin": "ring",
+    "spellings": [],
+    "ipa": "riŋ",
+    "tengwar": "",
+    "cirth": "Rlu",
+    "english": [
+      "cold",
+      "chill"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "612867785",
+    "etymology": {
+      "root_refs": [
+        "ringi"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "riŋge",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "riŋg",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "311523279"
+        },
+        {
+          "form": "riŋ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=riNGge&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "ringa"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 94,
+    "swadesh207": 181,
+    "definition": "cold, chill",
+    "notes": "",
+    "references": [
+      "SA/ring",
+      "VT42/13-14"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "BD8F463B-97DF-48CD-9B94-CF399CC3DBC8",
+    "id": "oel",
+    "mutation_marker": "",
+    "sindarin": "oel",
+    "spellings": [],
+    "ipa": "oel",
+    "tengwar": "",
+    "cirth": "bza",
+    "english": [
+      "cool"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "oel",
+      "singular": "",
+      "plural": "uil"
+    },
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "104805197",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "Extracted from \"Nen Hithoel\".",
+    "references": [
+      "RC/328"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "66DDCF0E-94EC-4358-ADA7-8C1E89CE6B54",
+    "id": "pant",
+    "mutation_marker": "",
+    "sindarin": "pant",
+    "spellings": [],
+    "ipa": "pant",
+    "tengwar": "",
+    "cirth": "1c@8",
+    "english": [
+      "full"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "pant",
+      "singular": "",
+      "plural": "pent"
+    },
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2660218905",
+    "etymology": {
+      "root_refs": [
+        "kwat"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 95,
+    "swadesh207": 182,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "SD/126"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "F1E0FA04-BCB0-433D-98A0-C803FB3097A3",
+    "id": "sain",
+    "mutation_marker": "",
+    "sindarin": "sain",
+    "spellings": [],
+    "ipa": "sain",
+    "tengwar": "",
+    "cirth": "fcl@",
+    "english": [
+      "new"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "time",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "sein",
+    "eldamo_id": "4158148799",
+    "etymology": {
+      "root_refs": [
+        "si"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sinja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "senja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "senia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "seni",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "sein",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "sain",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sinja&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sinya"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 96,
+    "swadesh207": 183,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/SI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "EC1069C1-5136-45AD-B4AC-7171353D19F4",
+    "id": "laew",
+    "mutation_marker": "",
+    "sindarin": "laew",
+    "spellings": [],
+    "ipa": "la.ew",
+    "tengwar": "",
+    "cirth": "aczF",
+    "english": [
+      "fresh"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1278502481",
+    "etymology": {
+      "root_refs": [
+        "lay"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "laiwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "laiw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "laew",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=laiwa&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "This word is a homonym of \"laew\" meaning \"frequent\", but their primitive versions are different.",
+    "references": [
+      "PE17/159"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "4B8B3214-065B-41A4-94CF-A34803C3BC43",
+    "id": "iaur",
+    "mutation_marker": "",
+    "sindarin": "iaur",
+    "spellings": [],
+    "ipa": "jaur",
+    "tengwar": "",
+    "cirth": "$cSR",
+    "english": [
+      "old"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "iaur",
+      "singular": "",
+      "plural": "ioer"
+    },
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3395896771",
+    "etymology": {
+      "root_refs": [
+        "ya"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "yára"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 184,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "RC/523",
+      "SA/iaur",
+      "UT/384",
+      "WJ/192"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "62B916F4-9DB5-4733-8FCB-8EBF1E394BED",
+    "id": "ior",
+    "mutation_marker": "",
+    "sindarin": "ior-",
+    "spellings": [],
+    "ipa": "jor",
+    "tengwar": "",
+    "cirth": "$bRI",
+    "english": [
+      "old"
+    ],
+    "grammar": [
+      "prefix"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3395896771",
+    "etymology": {
+      "root_refs": [
+        "ya"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 184,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "RC/579"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "2A67E309-48C1-4E70-8C42-5A390D6C421F",
+    "id": "ifant",
+    "mutation_marker": "",
+    "sindarin": "ifant",
+    "spellings": [],
+    "ipa": "'i.fant",
+    "tengwar": "",
+    "cirth": "l3c@8",
+    "english": [
+      "aged"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "ifant",
+      "singular": "",
+      "plural": "ifent"
+    },
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "962816459",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "în",
+          "gloss": "year",
+          "type": "noun"
+        },
+        {
+          "form": "pant",
+          "gloss": "full",
+          "type": "adjective"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "Extracted from \"Torhir Ifant\"",
+    "references": [
+      "WJ/192"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-14"
   }
 ]
