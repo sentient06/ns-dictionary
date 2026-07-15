@@ -66,7 +66,9 @@
         {{#words}}
         <li class="{{confidence_class}}">
           <span>
-            {{#rank}}<span class="word-entry-rank">{{rank}}.</span> {{/rank}}<a href="{{root}}words/{{id}}.html" class="word-entry-sindarin">{{primary}}</a>
+            {{#rank}}<span class="word-entry-rank">{{rank}}.</span> {{/rank}}<span class="confidence-stars">
+              <a href="{{root}}words/{{id}}.html" class="word-entry-sindarin">{{primary}}</a>
+            </span>
             <span class="word-entry-grammar">{{grammar}}</span>
           </span>
           <span class="word-entry-english">{{secondary}}</span>

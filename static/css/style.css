@@ -565,46 +565,27 @@ a:hover { color: var(--link-hover); text-decoration-color: var(--link-hover); }
   text-transform: uppercase;
 }
 
-.word-list li[class^=confidence-] {
+.word-list li[class^=confidence-] .confidence-stars {
   position: relative;
 }
-.word-list li[class^=confidence-]::before {
+.word-list li[class^=confidence-] .confidence-stars::before {
   width: 40px;
   position: absolute;
   height: 20px;
   color: #b8860b;
   font-size: 0.6rem;
-  bottom: -4px;
+  bottom: -16px;
   opacity: 0.5;
 }
-.word-list li[class^=confidence-]:hover::before {
+.word-list li[class^=confidence-]:hover .confidence-stars::before {
   opacity: 1;
 }
-.word-list li.confidence-0::before { content: '✧✧✧✧✧'; }
-.word-list li.confidence-1::before { content: '✦✧✧✧✧'; }
-.word-list li.confidence-2::before { content: '✦✦✧✧✧'; }
-.word-list li.confidence-3::before { content: '✦✦✦✧✧'; }
-.word-list li.confidence-4::before { content: '✦✦✦✦✧'; }
-.word-list li.confidence-5::before { content: '✦✦✦✦✦'; }
-
-
-/* .word-list li[class^=confidence-]::before {
-  content: ' ';
-  width: 5px;
-  background: black;
-  position: absolute;
-  left: -20px;
-  height: 23px;
-  border-radius: 3px;
-  margin: 5px;
-} */
-
-/* .word-list li.confidence-0::before { background: silver; }
-.word-list li.confidence-1::before { background: orangered; }
-.word-list li.confidence-2::before { background: orange; }
-.word-list li.confidence-3::before { background: gold; }
-.word-list li.confidence-4::before { background: darkseagreen; }
-.word-list li.confidence-5::before { background: forestgreen; } */
+.word-list li.confidence-0 .confidence-stars::before { content: '✧✧✧✧✧'; }
+.word-list li.confidence-1 .confidence-stars::before { content: '✦✧✧✧✧'; }
+.word-list li.confidence-2 .confidence-stars::before { content: '✦✦✧✧✧'; }
+.word-list li.confidence-3 .confidence-stars::before { content: '✦✦✦✧✧'; }
+.word-list li.confidence-4 .confidence-stars::before { content: '✦✦✦✦✧'; }
+.word-list li.confidence-5 .confidence-stars::before { content: '✦✦✦✦✦'; }
 
 /* --- Page Title --- */
 .page-title {
