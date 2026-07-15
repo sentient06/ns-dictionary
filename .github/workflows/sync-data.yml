@@ -2,7 +2,7 @@ name: Sync Data from Google Sheets
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    - cron: '0 6-18/3 * * 1-5'   # every 3 hours Monday to Friday between 6 and 18
   workflow_dispatch:
 
 jobs:
