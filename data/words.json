@@ -17814,6 +17814,57 @@
     "last_modified": "2026-07-14"
   },
   {
+    "uuid": "46F49D00-38A1-4106-9A5E-995D802DFB43",
+    "id": "rad",
+    "mutation_marker": "",
+    "sindarin": "râd",
+    "spellings": [],
+    "ipa": "ra:d",
+    "tengwar": "",
+    "cirth": "Rv9",
+    "english": [
+      "path",
+      "pass"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "râd",
+      "singular": "",
+      "plural": "raid"
+    },
+    "gender": "",
+    "category": "structure",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3570217533",
+    "etymology": {
+      "root_refs": [
+        "rat"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 85,
+    "swadesh207": null,
+    "definition": "path, pass",
+    "notes": "",
+    "references": [
+      "VT47/14"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-15"
+  },
+  {
     "uuid": "522A220B-A061-4D68-B1C0-82CBEFE98DC5",
     "id": "orod",
     "mutation_marker": "",
