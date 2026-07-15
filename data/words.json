@@ -19713,5 +19713,331 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-14"
+  },
+  {
+    "uuid": "973CCD97-B758-4962-83AC-137C4D161878",
+    "id": "maer",
+    "mutation_marker": "",
+    "sindarin": "maer",
+    "spellings": [],
+    "ipa": "maer",
+    "tengwar": "",
+    "cirth": "6czR",
+    "english": [
+      "good",
+      "excellent",
+      "fair"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3652402261",
+    "etymology": {
+      "root_refs": [
+        "may"
+      ],
+      "primitive": {
+        "form": "magrā",
+        "eldamo_id": "67694521"
+      },
+      "development": [
+        {
+          "form": "magrā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "magra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "maɣra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "539122737"
+        },
+        {
+          "form": "maira",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "mair",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "maer",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=magra%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "mára"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 97,
+    "swadesh207": 185,
+    "definition": "good, excellent, fair",
+    "notes": "",
+    "references": [
+      "PE17/162-163, 172"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-15"
+  },
+  {
+    "uuid": "366141C6-4DA5-48C4-9EEE-B7360DD86D92",
+    "id": "rend",
+    "mutation_marker": "",
+    "sindarin": "rend",
+    "spellings": [],
+    "ipa": "rind",
+    "tengwar": "",
+    "cirth": "Rzk",
+    "english": [
+      "circular"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "rend",
+      "singular": "",
+      "plural": "rind"
+    },
+    "gender": "",
+    "category": "shape",
+    "ids_chapter": "spacial relations",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "rhenn",
+    "eldamo_id": "1130529199",
+    "etymology": {
+      "root_refs": [
+        "rin"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rinda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "renda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "rend",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rinda&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "rinda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 98,
+    "swadesh207": 190,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/RIN",
+      "EtyAC/RIN"
+    ],
+    "hidden": "swadesh should be \"round\"",
+    "last_modified": "2026-07-15"
+  },
+  {
+    "uuid": "61136050-57E1-4591-A4A1-7C3BB550A075",
+    "id": "parch",
+    "mutation_marker": "",
+    "sindarin": "parch",
+    "spellings": [],
+    "ipa": "parx",
+    "tengwar": "",
+    "cirth": "1cRt",
+    "english": [
+      "dry"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "parch",
+      "singular": "",
+      "plural": "perch"
+    },
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1789443393",
+    "etymology": {
+      "root_refs": [
+        "parak"
+      ],
+      "primitive": {
+        "form": "parkā",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "parkā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "parka",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "parkʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "parxa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "parx",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=parka%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "parka"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 99,
+    "swadesh207": 195,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/PÁRAK",
+      "EtyAC/A"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-15"
+  },
+  {
+    "uuid": "49379349-C98A-4A7E-A7E4-04AA6437F9D8",
+    "id": "eneth",
+    "mutation_marker": "",
+    "sindarin": "eneth",
+    "spellings": [],
+    "ipa": "'e.neθ",
+    "tengwar": "",
+    "cirth": "z@z0",
+    "english": [
+      "name"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "eneth",
+      "singular": "",
+      "plural": "enith"
+    },
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "speech and language",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2803446275",
+    "etymology": {
+      "root_refs": [
+        "ene"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "en-",
+          "gloss": "to name",
+          "type": "verb"
+        },
+        {
+          "form": "-th",
+          "gloss": "",
+          "type": "abstract noun suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": 100,
+    "swadesh207": 207,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "VT44/24"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-15"
   }
 ]
