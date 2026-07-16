@@ -19697,14 +19697,14 @@
     "conjugation": null,
     "confidence": null,
     "swadesh100": null,
-    "swadesh207": 184,
+    "swadesh207": null,
     "definition": "",
     "notes": "",
     "references": [
       "RC/579"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-16"
   },
   {
     "uuid": "2A67E309-48C1-4E70-8C42-5A390D6C421F",
@@ -20210,9 +20210,9 @@
     "mutation_marker": "",
     "sindarin": "taer",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "taer",
+    "tengwar": "",
+    "cirth": "8czR",
     "english": [
       "straight"
     ],
@@ -20254,7 +20254,7 @@
       "EtyAC/TEÑ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-16"
   },
   {
     "uuid": "366141C6-4DA5-48C4-9EEE-B7360DD86D92",
@@ -20329,6 +20329,416 @@
     ],
     "hidden": "swadesh should be \"round\"",
     "last_modified": "2026-07-15"
+  },
+  {
+    "uuid": "F481793F-5BFA-46D7-8266-8307D6F70395",
+    "id": "crisg",
+    "mutation_marker": "",
+    "sindarin": "crisg",
+    "spellings": [],
+    "ipa": "krisg",
+    "tengwar": "",
+    "cirth": "eRlfr",
+    "english": [
+      "sharp"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3629154047",
+    "etymology": {
+      "root_refs": [
+        "kiris"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 191,
+    "definition": "sharp (as a knife)",
+    "notes": "",
+    "references": [
+      "GL/27",
+      "LT2A/Cris Ilbranteloth"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "0FB5FFF7-A948-43FF-8045-288657692FCF",
+    "id": "maeg",
+    "mutation_marker": "",
+    "sindarin": "maeg",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "piercing",
+      "sharp"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1661351839",
+    "etymology": {
+      "root_refs": [
+        "mik"
+      ],
+      "primitive": {
+        "form": "maikā",
+        "eldamo_id": "2877216463"
+      },
+      "development": [
+        {
+          "form": "maikā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "maika",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "maik",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "maig",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "maeg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=maika%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "maica"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "sharp, piercing",
+    "notes": "",
+    "references": [
+      "SA/maeg",
+      "WJ/337"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "24341DB2-C621-4BF6-B6CC-D2778B525943",
+    "id": "uvaeg",
+    "mutation_marker": "",
+    "sindarin": "úvaeg",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "dull (not sharp)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "ú-",
+          "gloss": "",
+          "type": "negation prefix"
+        },
+        {
+          "form": "maeg",
+          "gloss": "sharp, piercing",
+          "type": "adjective"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": 192,
+    "definition": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "C808FEFC-5A9B-42CE-8947-DA458EDA5CF8",
+    "id": "path",
+    "mutation_marker": "",
+    "sindarin": "path",
+    "spellings": [],
+    "ipa": "paθ",
+    "tengwar": "",
+    "cirth": "1c0",
+    "english": [
+      "smooth"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "path",
+      "singular": "",
+      "plural": "peth"
+    },
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3494151543",
+    "etymology": {
+      "root_refs": [
+        "path"
+      ],
+      "primitive": {
+        "form": "pathnā",
+        "eldamo_id": "903427503"
+      },
+      "development": [
+        {
+          "form": "patʰnā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1757900715"
+        },
+        {
+          "form": "pattʰā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "pattʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "paθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "paθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "paθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "PATH",
+          "gloss": "smooth",
+          "type": "root"
+        },
+        {
+          "form": "-nā",
+          "gloss": "",
+          "type": "adjective suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pa%C5%A7na%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "pasta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 193,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/PATH"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "8FDA8ED0-4FB7-4DCC-A7A7-567385F99580",
+    "id": "limp",
+    "mutation_marker": "",
+    "sindarin": "limp",
+    "spellings": [],
+    "ipa": "limp",
+    "tengwar": "",
+    "cirth": "al61",
+    "english": [
+      "wet"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "lhimp",
+    "eldamo_id": "1889639019",
+    "etymology": {
+      "root_refs": [
+        "linkwi"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "liŋkwi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "liŋkwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "limpe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "limpʰe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "limɸe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "limfe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "limf",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "limp",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=liNGkwi&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "linquë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 194,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/LINKWI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
   },
   {
     "uuid": "61136050-57E1-4591-A4A1-7C3BB550A075",
