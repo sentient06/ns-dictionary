@@ -19080,7 +19080,7 @@
     "mutation_marker": "",
     "sindarin": "lóran",
     "spellings": [],
-    "ipa": "'lo:.ran",
+    "ipa": "'loː.ran",
     "tengwar": "",
     "cirth": "anRc@",
     "english": [
@@ -19133,7 +19133,7 @@
     "notes": "Reconstructed from Quenya \"löa\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-16"
   },
   {
     "uuid": "3AFAC197-D5B6-4D94-B695-CEDD6ECC3C1B",
@@ -20214,6 +20214,8 @@
     "tengwar": "",
     "cirth": "8czR",
     "english": [
+      "right",
+      "not curved",
       "straight"
     ],
     "grammar": [
@@ -20247,7 +20249,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 189,
-    "definition": "",
+    "definition": "right; not curved; straight",
     "notes": "This word has a peculiar phonetic development even in Noldorin form, which we retain in Sindarin. Regular development would yield \"tair\".",
     "references": [
       "Ety/TEÑ",
@@ -20832,6 +20834,895 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-15"
+  },
+  {
+    "uuid": "935E47F2-7210-439D-BBB2-5AA4F04C1052",
+    "id": "tir",
+    "mutation_marker": "",
+    "sindarin": "tîr",
+    "spellings": [],
+    "ipa": "tjːr",
+    "tengwar": "",
+    "cirth": "8llR",
+    "english": [
+      "correct",
+      "appropriate",
+      "acceptable"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "values",
+    "ids_chapter": "emotions and values",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 196,
+    "definition": "correct, appropriate, or acceptable",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "267917C4-142A-45E5-8B07-3AA9699D6F80",
+    "id": "tir",
+    "mutation_marker": "",
+    "sindarin": "tîr",
+    "spellings": [],
+    "ipa": "tjːr",
+    "tengwar": "",
+    "cirth": "8llR",
+    "english": [
+      "upright",
+      "honest"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "values",
+    "ids_chapter": "emotions and values",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "upright, honest",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "D2D30E4C-0A7E-47C8-AA06-163B7A598A49",
+    "id": "tir",
+    "mutation_marker": "",
+    "sindarin": "tîr",
+    "spellings": [],
+    "ipa": "tjːr",
+    "tengwar": "",
+    "cirth": "8llR",
+    "english": [
+      "esteem",
+      "regard",
+      "honour"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "values",
+    "ids_chapter": "emotions and values",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2584197447",
+    "etymology": {
+      "root_refs": [
+        "teñ"
+      ],
+      "primitive": {
+        "form": "teñrā",
+        "eldamo_id": "4008402381"
+      },
+      "development": [
+        {
+          "form": "tēra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "tīra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "tīr",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=te%3Ara&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "téra"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "esteem, regard, honour",
+    "notes": "",
+    "references": [
+      "Ety/TEƷ"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "A1A0AFC5-BA35-44DA-9DCD-B4F5DEA5B7CB",
+    "id": "nef",
+    "mutation_marker": "",
+    "sindarin": "nef",
+    "spellings": [],
+    "ipa": "nef",
+    "tengwar": "",
+    "cirth": "@z3",
+    "english": [
+      "near",
+      "hither",
+      "on this side"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spacial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "882199073",
+    "etymology": {
+      "root_refs": [
+        "neb"
+      ],
+      "primitive": {
+        "form": "nebā",
+        "eldamo_id": "3828168149"
+      },
+      "development": [
+        {
+          "form": "nebā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "neba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "neva",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "nev",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=neba%3A&off=PE%2C4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 197,
+    "definition": "near; hither, on this side of (side of the speaker)",
+    "notes": "",
+    "references": [
+      "LotR/238",
+      "PE17/27",
+      "RGEO/63-64"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "E0748887-413A-4384-B2DB-89E3E85BFA7E",
+    "id": "alchae",
+    "mutation_marker": "",
+    "sindarin": "alchae",
+    "spellings": [],
+    "ipa": "'al.xae",
+    "tengwar": "",
+    "cirth": "catcz",
+    "english": [
+      "near, (lit.) not far"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spacial relations",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "al-",
+          "gloss": "not",
+          "type": "negative prefix"
+        },
+        {
+          "form": "hae",
+          "gloss": "far",
+          "type": "adverb"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "B1100C02-A8E9-455B-8C2D-5DBFCC8BC3A1",
+    "id": "uchae",
+    "mutation_marker": "",
+    "sindarin": "úchae",
+    "spellings": [],
+    "ipa": "'uː.xae",
+    "tengwar": "",
+    "cirth": "Dtcz",
+    "english": [
+      "near, (lit.) not far"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spacial relations",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "ú-",
+          "gloss": "not",
+          "type": "negative prefix"
+        },
+        {
+          "form": "hae",
+          "gloss": "far",
+          "type": "adverb"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "3A2A0183-C5F0-4C38-9256-35474EF57AB8",
+    "id": "hae",
+    "mutation_marker": "",
+    "sindarin": "hae",
+    "spellings": [],
+    "ipa": "hae",
+    "tengwar": "",
+    "cirth": ".cz",
+    "english": [
+      "far",
+      "distant",
+      "remote"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spacial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3868060519",
+    "etymology": {
+      "root_refs": [
+        "khay"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰaj",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xaj",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "xai",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hai",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "hae",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81aj&off=PE%2C4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "háya"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 198,
+    "definition": "far, distant, remote",
+    "notes": "",
+    "references": [
+      "PE17/25, 27"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "B3FDE174-205D-4785-8FA6-1D6582A52F11",
+    "id": "fuir",
+    "mutation_marker": "",
+    "sindarin": "fuir",
+    "spellings": [],
+    "ipa": "fuir",
+    "tengwar": "",
+    "cirth": "3SlR",
+    "english": [
+      "right"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "direction",
+    "ids_chapter": "spacial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2404050981",
+    "etymology": {
+      "root_refs": [
+        "phor"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 199,
+    "definition": "",
+    "notes": "Word taken from \"Eryn Fuir\" meaning \"North Wood\". The meaning for north was striken through. David Salo suggested that the word was derived from a root meaning \"right hand\". The evidence is sound, but the phonetic development is murky.",
+    "references": [
+      "VT42/20"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "4B8D37BC-2167-4A8D-95C3-D3B0B3C147CC",
+    "id": "forvo",
+    "mutation_marker": "",
+    "sindarin": "forvo",
+    "spellings": [],
+    "ipa": "'for.vo",
+    "tengwar": "",
+    "cirth": "3bR4b",
+    "english": [
+      "right hand",
+      "right side"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "direction",
+    "ids_chapter": "spacial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "631365181",
+    "etymology": {
+      "root_refs": [
+        "phor",
+        "mah"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "for-",
+          "gloss": "north, right",
+          "type": "prefix"
+        },
+        {
+          "form": "maw",
+          "gloss": "hand",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "forma"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "right hand, a position or direction indicated by its location to the side of an object or the observer",
+    "notes": "",
+    "references": [
+      "VT47/6"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "36746B60-1CF3-4537-B229-EE40070AEA01",
+    "id": "hair",
+    "mutation_marker": "",
+    "sindarin": "hair",
+    "spellings": [],
+    "ipa": "hair",
+    "tengwar": "",
+    "cirth": ".clR",
+    "english": [
+      "left"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "direction",
+    "ids_chapter": "spacial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4097283123",
+    "etymology": {
+      "root_refs": [
+        "khyar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰarja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xarja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "xaria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "xeria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xeri",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "xeir",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "heir",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "hair",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81arja&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-EQ7UWT"
+    },
+    "cognates": {
+      "quenya": "hyarya"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 200,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "Ety/KHYAR",
+      "EtyAC/KHYAR"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "DAB2A068-8441-4A75-BFF9-E47681EE86FA",
+    "id": "harvo",
+    "mutation_marker": "",
+    "sindarin": "harvo",
+    "spellings": [],
+    "ipa": "'har.vo",
+    "tengwar": "",
+    "cirth": ".cR4b",
+    "english": [
+      "left hand"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "direction",
+    "ids_chapter": "spacial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2382757995",
+    "etymology": {
+      "root_refs": [
+        "khyar",
+        "mah"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "harn",
+          "gloss": "south, left",
+          "type": "adjective"
+        },
+        {
+          "form": "maw",
+          "gloss": "hand",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hyarma"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "left hand, a position or direction indicated by its location to the side of an object or the observer",
+    "notes": "",
+    "references": [
+      "PE23/136",
+      "VT47/6"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "2A95ABDD-3A81-43D8-B929-D6E8D6D13FBE",
+    "id": "n-a",
+    "mutation_marker": "",
+    "sindarin": "n(a)",
+    "spellings": [],
+    "ipa": "na",
+    "tengwar": "",
+    "cirth": "@c",
+    "english": [
+      "to",
+      "towards",
+      "at",
+      "with",
+      "by"
+    ],
+    "grammar": [
+      "preposition"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "space",
+    "ids_chapter": "spacial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3149142565",
+    "etymology": {
+      "root_refs": [
+        "na/ana"
+      ],
+      "primitive": {
+        "form": "nā",
+        "eldamo_id": ""
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "an(a)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 201,
+    "definition": "to, towards; at; with, by",
+    "notes": "\"n(a)\" is an allative preposition, indicating movement towards something. It is regularly elided to \"n'\" before vowels and it triggers soft mutation. Avoid using \"n(a)\" for meanings of time, unless it's to indicate the end of a waiting period, as in \"na vedui\", \"at last\". This preposition should not be reduced before a \"lost g.\"",
+    "references": [
+      "LotR/209, 238",
+      "PE17/16, 25, 147",
+      "RGEO/63-64",
+      "VT50/21"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "2920A26B-6AF7-499D-B433-4D276D472276",
+    "id": "mi",
+    "mutation_marker": "",
+    "sindarin": "mi",
+    "spellings": [],
+    "ipa": "mi",
+    "tengwar": "",
+    "cirth": "6l",
+    "english": [
+      "in"
+    ],
+    "grammar": [
+      "preposition"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "space",
+    "ids_chapter": "spacial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2583985695",
+    "etymology": {
+      "root_refs": [
+        "mi/imi"
+      ],
+      "primitive": {
+        "form": "mī",
+        "eldamo_id": "137651033"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "mi"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 202,
+    "definition": "",
+    "notes": "\"mi\" triggers soft mutation when the modified noun is indefinite. When the noun is definite, the article appears as a suffix as \"min\". In the singular, \"min\" causes mixed mutation, and in the plural, nasal mutation.",
+    "references": [
+      "PE22/165",
+      "PE23/133",
+      "VT44/22, 27",
+      "VT50/18-19"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "C5F1D055-7EBC-4A7C-8CEE-D04F085909D5",
+    "id": "na-n",
+    "mutation_marker": "",
+    "sindarin": "na(n)",
+    "spellings": [],
+    "ipa": "nan",
+    "tengwar": "",
+    "cirth": "@c@",
+    "english": [
+      "of",
+      "with",
+      "accompanied by",
+      "provided by",
+      "associated with",
+      "marked with"
+    ],
+    "grammar": [
+      "preposition"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3619674927",
+    "etymology": {
+      "root_refs": [
+        "na/ana"
+      ],
+      "primitive": {
+        "form": "ān(a)",
+        "eldamo_id": "613524913"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "-va"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": 203,
+    "definition": "of; with, accompanied/provided by, associated/marked with",
+    "notes": "\"na(n)\" is a prepositional genitive, used for partitive relationships. It becomes \"nan\" before vowels and triggers nasal mutation. It indicates a sense of possession or having a certain feature.",
+    "references": [
+      "LotR/469",
+      "PE17/28, 82, 97, 147",
+      "PE21/79",
+      "PM/348",
+      "UT/140",
+      "VT50/23",
+      "WJ/160, 187",
+      "WJI/Taur-na-Chardhîn"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
   },
   {
     "uuid": "49379349-C98A-4A7E-A7E4-04AA6437F9D8",
