@@ -23497,5 +23497,308 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
+    "id": "cad",
+    "mutation_marker": "",
+    "sindarin": "cad",
+    "spellings": [],
+    "ipa": "kad",
+    "tengwar": "",
+    "cirth": "ec9",
+    "english": [
+      "after"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3427892515",
+    "etymology": {
+      "root_refs": [
+        "kā"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ca(ta)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "PM/136"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
+    "id": "lad",
+    "mutation_marker": "",
+    "sindarin": "lad",
+    "spellings": [],
+    "ipa": "lad",
+    "tengwar": "",
+    "cirth": "ac9",
+    "english": [
+      "nothing"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1639994883",
+    "etymology": {
+      "root_refs": [
+        "la"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "E8E51EB2-5236-4405-95DF-94B299A4AE34",
+    "id": "lad",
+    "mutation_marker": "",
+    "sindarin": "lad",
+    "spellings": [],
+    "ipa": "lad",
+    "tengwar": "",
+    "cirth": "ac9",
+    "english": [
+      "zero"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "677A07CA-9F00-4D0A-9625-A9627C0F8FD3",
+    "id": "unt",
+    "mutation_marker": "",
+    "sindarin": "unt",
+    "spellings": [],
+    "ipa": "unt",
+    "tengwar": "",
+    "cirth": "S@8",
+    "english": [
+      "nothing"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4271741277",
+    "etymology": {
+      "root_refs": [
+        "umu"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "munta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "",
+    "references": [
+      "GL/74"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "FDA0B361-B902-4777-9E03-FF50E69B1837",
+    "id": "lu",
+    "mutation_marker": "",
+    "sindarin": "lû",
+    "spellings": [],
+    "ipa": "luː",
+    "tengwar": "",
+    "cirth": "aD",
+    "english": [
+      "time",
+      "occasion"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "lhû",
+    "eldamo_id": "3092141245",
+    "etymology": {
+      "root_refs": [
+        "lu"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lú"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "time, occasion",
+    "notes": "",
+    "references": [
+      "Ety/LU",
+      "EtyAC/LOƷ"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
+    "id": "thosta",
+    "mutation_marker": "",
+    "sindarin": "thosta-",
+    "spellings": [],
+    "ipa": "'θos.ta",
+    "tengwar": "",
+    "cirth": "0bf8cI",
+    "english": [
+      "smell (stink)",
+      "stink"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "sense perception",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3296188631",
+    "etymology": {
+      "root_refs": [
+        "thus"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰusta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θusta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "θosta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7usta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to smell bad, to stink (intransitive)",
+    "notes": "",
+    "references": [
+      "EtyAC/THUS"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
   }
 ]
