@@ -20063,7 +20063,12 @@
     "ipa": "oer",
     "tengwar": "",
     "cirth": "bzR",
-    "english": [],
+    "english": [
+      "nasty",
+      "unpleasant",
+      "offensive",
+      "repugnant"
+    ],
     "grammar": [
       "adjective"
     ],
@@ -20167,8 +20172,8 @@
     "sindarin": "thaw",
     "spellings": [],
     "ipa": "θaw",
-    "tengwar": "",
-    "cirth": "",
+    "tengwar": "",
+    "cirth": "0cF",
     "english": [
       "corrupt",
       "rotten"
@@ -20267,7 +20272,7 @@
       "Ety/THUS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-16"
   },
   {
     "uuid": "06D4E12C-0E1F-42D6-98F4-0D214778909A",
@@ -22848,6 +22853,647 @@
     "references": [
       "NM/237",
       "PE17/183"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "4C2BB992-88DF-430F-AC1C-9B175EB021E6",
+    "id": "hama",
+    "mutation_marker": "",
+    "sindarin": "hama-",
+    "spellings": [],
+    "ipa": "ha.ma",
+    "tengwar": "",
+    "cirth": ".c6cI",
+    "english": [
+      "wear",
+      "put on (clothes)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "clothing and grooming",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "hamma-",
+    "eldamo_id": "3735361951",
+    "etymology": {
+      "root_refs": [
+        "khap"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰampa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "kʰampʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xamɸa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "xamfa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hamfa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "hamma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "hama",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81ampa&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1P0F5YN"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to wear; put on clothes",
+    "notes": "In Sindarin, [mm] is shortened, so this verb doesn't match its Noldorin counterpart exactly.",
+    "references": [
+      "Ety/KHAP",
+      "EtyAC/KHAP"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
+    "id": "bar",
+    "mutation_marker": "mb-",
+    "sindarin": "bar-",
+    "spellings": [],
+    "ipa": "bar",
+    "tengwar": "",
+    "cirth": "2cRI",
+    "english": [
+      "live",
+      "dwell",
+      "reside",
+      "stay"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "the house",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "meria-",
+    "eldamo_id": "3704530975",
+    "etymology": {
+      "root_refs": [
+        "mbar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "mar-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to live, dwell, reside, stay",
+    "notes": "",
+    "references": [
+      "PE13/150"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
+    "id": "redhor",
+    "mutation_marker": "",
+    "sindarin": "redhor",
+    "spellings": [],
+    "ipa": "'re.ðor",
+    "tengwar": "",
+    "cirth": "Rz!bR",
+    "english": [
+      "farmer"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "redhor",
+      "singular": "",
+      "plural": "redhyr"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4287165385",
+    "etymology": {
+      "root_refs": [
+        "red"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "redh-",
+          "gloss": "to sow",
+          "type": "verb"
+        },
+        {
+          "form": "-or",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "notes": "Reconstructed from Gnomish \"nandor\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
+    "id": "car",
+    "mutation_marker": "",
+    "sindarin": "car-",
+    "spellings": [],
+    "ipa": "car",
+    "tengwar": "",
+    "cirth": "ecRI",
+    "english": [
+      "do",
+      "make"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3736354243",
+    "etymology": {
+      "root_refs": [
+        "kar"
+      ],
+      "primitive": {
+        "form": "kar-",
+        "eldamo_id": "3762328759"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "car-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to do, make",
+    "notes": "",
+    "references": [
+      "PE17/68, 132, 144-145, 148, 170",
+      "PE22/168",
+      "VT44/21-22, 25, 30",
+      "VT50/14, 18, 21-22",
+      "WJ/371, 415"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
+    "id": "menna",
+    "mutation_marker": "",
+    "sindarin": "menna-",
+    "spellings": [],
+    "ipa": "'me.na",
+    "tengwar": "",
+    "cirth": "6z@@cI",
+    "english": [
+      "move"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "men"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "menta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "mentʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "menθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "menna",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "MEN",
+          "gloss": "go, move, proceed",
+          "type": "root"
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "intransitive verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=menta&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to move, to cause to move",
+    "notes": "Neologism meaning roughly \"to cause to move\". It's intransitive, thus suggesting moving oneself.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "F7F1269B-54A9-4CB5-89B8-9FABBDF7843C",
+    "id": "eleda",
+    "mutation_marker": "",
+    "sindarin": "eleda-",
+    "spellings": [],
+    "ipa": "'e.le.da",
+    "tengwar": "",
+    "cirth": "zaz9cI",
+    "english": [
+      "move"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ele"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "eleta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "eleda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ELE",
+          "gloss": "drive, push, thrust, send forth",
+          "type": "root"
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "intransitive verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=eleta&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "lev-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to move, cause something to move",
+    "notes": "Neologism attempting to translate Quenya \"lev-\", based on root √ELE.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "C886444C-FC03-48EE-840E-2D9917A1B7A9",
+    "id": "netha",
+    "mutation_marker": "",
+    "sindarin": "netha-",
+    "spellings": [],
+    "ipa": "'ne.θa",
+    "tengwar": "",
+    "cirth": "@z0cI",
+    "english": [
+      "move",
+      "push"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nid"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nidta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1944249607"
+        },
+        {
+          "form": "nitta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "nittʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "niθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "neθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "neθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "NID",
+          "gloss": "force, press, thrust",
+          "type": "root"
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "intransitive verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nidta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to move; to push; cause to go",
+    "notes": "Neologism based on root √NID to express inprinting movement onto something.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "0A82999B-FA3E-4C42-A84F-F4E3D4D413E4",
+    "id": "men",
+    "mutation_marker": "",
+    "sindarin": "men-",
+    "spellings": [],
+    "ipa": "men",
+    "tengwar": "",
+    "cirth": "6z@I",
+    "english": [
+      "go"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "800667727",
+    "etymology": {
+      "root_refs": [
+        "men"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to go",
+    "notes": "",
+    "references": [
+      "PE17/93",
+      "PE22/165"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-16"
+  },
+  {
+    "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
+    "id": "sav",
+    "mutation_marker": "",
+    "sindarin": "sav-",
+    "spellings": [],
+    "ipa": "sav",
+    "tengwar": "",
+    "cirth": "fc4I",
+    "english": [
+      "have",
+      "own",
+      "possess (quality or trait)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2115068425",
+    "etymology": {
+      "root_refs": [
+        "sam"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to be in material possession of; to own; to possess as a characteristic quality or attribute",
+    "notes": "",
+    "references": [
+      "PE17/173"
     ],
     "hidden": "",
     "last_modified": "2026-07-16"
