@@ -3782,9 +3782,9 @@
     "confidence": null,
     "swadesh100": 17,
     "swadesh207": 37,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "definition": "man (of any kindred), adult male",
+    "ids_code": "2.21",
+    "conception": "Key-2016-1310-892",
     "notes": "",
     "references": [
       "PE17/60"
@@ -3883,8 +3883,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "man, as a husband, partner, spouse",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "2.21",
+    "conception": "Key-2016-1310-892",
     "notes": "",
     "references": [
       "Ety/BES, DER",
@@ -18817,7 +18817,9 @@
     "tengwar": "",
     "cirth": "ecaz@",
     "english": [
-      "green"
+      "green",
+      "fresh",
+      "vigorous"
     ],
     "grammar": [
       "adjective"
@@ -18880,7 +18882,7 @@
     "confidence": null,
     "swadesh100": 88,
     "swadesh207": 173,
-    "definition": "",
+    "definition": "green; fresh, vigorous",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -23404,6 +23406,110 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "DBF7A8A2-BD84-47B4-8B2A-03A2C06AB3A2",
+    "id": "dor",
+    "mutation_marker": "nd-",
+    "sindarin": "dôr",
+    "spellings": [],
+    "ipa": "doːr",
+    "tengwar": "",
+    "cirth": "9nR",
+    "english": [
+      "land"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "dôr",
+      "singular": "",
+      "plural": "duir"
+    },
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3950740861",
+    "etymology": {
+      "root_refs": [
+        "ndor"
+      ],
+      "primitive": {
+        "form": "ndorē",
+        "eldamo_id": "149802421"
+      },
+      "development": [
+        {
+          "form": "ndorē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ndore",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "dore",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "dor",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "dōr",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ndore%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "-ndor"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "1.21",
+    "conception": "Key-2016-1310-964",
+    "notes": "",
+    "references": [
+      "Let/417, 427",
+      "MR/200",
+      "PE17/133, 164",
+      "PE23/139",
+      "RC/384",
+      "S/121, 188",
+      "SA/dôr",
+      "SI/Doriath",
+      "UT/245",
+      "UTI/Doriath",
+      "WJ/192, 370, 413"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
     "uuid": "3C01FA4F-6699-461B-B7FF-9CCA9394D86B",
     "id": "pen",
     "mutation_marker": "",
@@ -24698,7 +24804,9 @@
     "english": [
       "voice"
     ],
-    "grammar": [],
+    "grammar": [
+      "noun"
+    ],
     "inflection": null,
     "gender": "",
     "category": "traits",
@@ -24726,6 +24834,188 @@
     "notes": "",
     "references": [
       "PE17/97"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
+    "id": "theinas",
+    "mutation_marker": "",
+    "sindarin": "theinas",
+    "spellings": [],
+    "ipa": "'θej.nas",
+    "tengwar": "",
+    "cirth": "0zl@cf",
+    "english": [
+      "law",
+      "rule"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "theinas",
+      "singular": "",
+      "plural": "theinais"
+    },
+    "gender": "",
+    "category": "law",
+    "ids_chapter": "law",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "285736843",
+    "etymology": {
+      "root_refs": [
+        "stan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sanye"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "law, rule",
+    "ids_code": "21.11",
+    "conception": "Key-2016-1310-1263",
+    "notes": "Word extracted from Middle Quenya \"sanya\" (adj).",
+    "references": [],
+    "hidden": "Needs reviewing",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
+    "id": "aedaith",
+    "mutation_marker": "",
+    "sindarin": "aedaith",
+    "spellings": [],
+    "ipa": "'ae.daiθ",
+    "tengwar": "",
+    "cirth": "cz9cl0",
+    "english": [
+      "religion",
+      "reverence",
+      "worship"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "beliefs",
+    "ids_chapter": "religion and belief",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1396962581",
+    "etymology": {
+      "root_refs": [
+        "ayan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "aeda-",
+          "gloss": "to revere, worship",
+          "type": "verb"
+        },
+        {
+          "form": "-th",
+          "gloss": "",
+          "type": "abstract noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "reverence, worship, religion",
+    "ids_code": "22.11",
+    "conception": "Key-2016-1310-1289",
+    "notes": "Word linked to \"aeda-\" meaning \"to revere\", \"to worship\".",
+    "references": [
+      "GL/18"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "3C1C519D-BCE2-400E-8DCE-C1C46ECAAE82",
+    "id": "aeda",
+    "mutation_marker": "",
+    "sindarin": "aeda-",
+    "spellings": [],
+    "ipa": "'ae.da",
+    "tengwar": "",
+    "cirth": "cz9cI",
+    "english": [
+      "revere",
+      "worship"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "beliefs",
+    "ids_chapter": "religion and belief",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4122049643",
+    "etymology": {
+      "root_refs": [
+        "ayan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "AYA(N)",
+          "gloss": "blessed",
+          "type": ""
+        },
+        {
+          "form": "treat with awe/reverence",
+          "gloss": "root",
+          "type": ""
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "verb suffix (intransitive)"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "revere, worship",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "GL/18"
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
