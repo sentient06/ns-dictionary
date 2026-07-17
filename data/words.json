@@ -24092,7 +24092,7 @@
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
-    "id": "bar",
+    "id": "bar-verb",
     "mutation_marker": "mb-",
     "sindarin": "bar-",
     "spellings": [],
@@ -24142,6 +24142,74 @@
     "notes": "",
     "references": [
       "PE13/150"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "3D4F6A59-40C4-4F6B-A2F3-136AAD72C575",
+    "id": "bar-noun",
+    "mutation_marker": "mb-",
+    "sindarin": "bâr",
+    "spellings": [],
+    "ipa": "baːr",
+    "tengwar": "",
+    "cirth": "2vR",
+    "english": [
+      "house",
+      "dwelling",
+      "home",
+      "house (dynastic)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bâr",
+      "singular": "",
+      "plural": "bair"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1964807933",
+    "etymology": {
+      "root_refs": [
+        "mbar"
+      ],
+      "primitive": {
+        "form": "mbar(ă)",
+        "eldamo_id": "1276509773"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "már"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "house, dwelling, home; dynastic house",
+    "ids_code": "7.12",
+    "conception": "Key-2016-1310-435",
+    "notes": "",
+    "references": [
+      "AotM/62",
+      "MR/373",
+      "PE17/97, 109, 163-164",
+      "PE23/128, 139",
+      "S/203",
+      "SA/bar",
+      "SD/129",
+      "UT/40, 54, 100",
+      "WJ/379, 414, 418"
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
@@ -24204,6 +24272,317 @@
     "conception": "Key-2016-1310-393",
     "notes": "Reconstructed from Gnomish \"nandor\".",
     "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "C86488B0-B9DA-4FBC-99FE-DF9915D7DCB1",
+    "id": "pel",
+    "mutation_marker": "",
+    "sindarin": "pêl",
+    "spellings": [],
+    "ipa": "peːl",
+    "tengwar": "",
+    "cirth": "1xa",
+    "english": [
+      "plot (of land)",
+      "field (fenced)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "pêl",
+      "singular": "",
+      "plural": "peli"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2458071225",
+    "etymology": {
+      "root_refs": [
+        "pel"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pele",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "pel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "pēl",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pele&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1EKK7Z1"
+    },
+    "cognates": {
+      "quenya": "peler"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "plot of land, fenced field",
+    "ids_code": "8.12",
+    "conception": "Key-2016-1310-392",
+    "notes": "",
+    "references": [
+      "PE17/95"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "3EE2F341-3FF5-442D-A076-7EE43E3FA2C4",
+    "id": "ridh",
+    "mutation_marker": "",
+    "sindarin": "rîdh",
+    "spellings": [],
+    "ipa": "riːð",
+    "tengwar": "",
+    "cirth": "Rll!",
+    "english": [
+      "field (sown)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2881064821",
+    "etymology": {
+      "root_refs": [
+        "red"
+      ],
+      "primitive": {
+        "form": "reddā",
+        "eldamo_id": "2607966775"
+      },
+      "development": [
+        {
+          "form": "reddā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "rezdā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "rezda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1249932447"
+        },
+        {
+          "form": "rēda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "rēða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "rīða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "rīð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RED",
+          "gloss": "scatter, sow",
+          "type": "root"
+        },
+        {
+          "form": "-dā",
+          "gloss": "product of an action",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=redda%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "resta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "sown field",
+    "ids_code": "8.12",
+    "conception": "Key-2016-1310-392",
+    "notes": "",
+    "references": [
+      "PE19/91-92"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "FD48030C-2DDB-42CC-972F-1FA9EF3472B5",
+    "id": "haedh",
+    "mutation_marker": "",
+    "sindarin": "haedh",
+    "spellings": [],
+    "ipa": "haeð",
+    "tengwar": "",
+    "cirth": ".cz!",
+    "english": [
+      "enclosure",
+      "bailey",
+      "compound",
+      "ward"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "place",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3273842381",
+    "etymology": {
+      "root_refs": [
+        "khag"
+      ],
+      "primitive": {
+        "form": "khagdā",
+        "eldamo_id": "1760966201"
+      },
+      "development": [
+        {
+          "form": "khagdā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4282797219"
+        },
+        {
+          "form": "khaidā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "khaida",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "khaiða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "khaið",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "haið",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "haeð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHAG",
+          "gloss": "stake",
+          "type": "root"
+        },
+        {
+          "form": "-dā",
+          "gloss": "product of an action",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=khagda%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1EKK7Z1"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "fenced enclosure; bailey, compound; ward",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE19/91"
+    ],
     "hidden": "",
     "last_modified": "2026-07-17"
   },
