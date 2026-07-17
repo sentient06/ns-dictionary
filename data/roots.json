@@ -70,6 +70,13 @@
     "notes": ""
   },
   {
+    "id": "ayan",
+    "form": "AYA(N)",
+    "gloss": "blessed; treat with awe/reverence",
+    "eldamo_id": "2839240697",
+    "notes": ""
+  },
+  {
     "id": "bat",
     "form": "BAT",
     "gloss": "tread",
@@ -242,6 +249,90 @@
     "form": "GWAṘA",
     "gloss": "rub",
     "eldamo_id": "799162817",
+    "notes": ""
+  },
+  {
+    "id": "hek",
+    "form": "HEK",
+    "gloss": "aside, apart, separate",
+    "eldamo_id": "2329609061",
+    "notes": ""
+  },
+  {
+    "id": "il",
+    "form": "IL",
+    "gloss": "all",
+    "eldamo_id": "457887609",
+    "notes": ""
+  },
+  {
+    "id": "is",
+    "form": "IS",
+    "gloss": "know",
+    "eldamo_id": "658291883",
+    "notes": ""
+  },
+  {
+    "id": "kal",
+    "form": "KAL",
+    "gloss": "light; shine, be bright",
+    "eldamo_id": "3708293651",
+    "notes": ""
+  },
+  {
+    "id": "kam",
+    "form": "KAM",
+    "gloss": "fit, suit, be agreeable, agree",
+    "eldamo_id": "300830067",
+    "notes": ""
+  },
+  {
+    "id": "kanat",
+    "form": "KANAT",
+    "gloss": "four",
+    "eldamo_id": "2396858841",
+    "notes": ""
+  },
+  {
+    "id": "kar",
+    "form": "KAR",
+    "gloss": "do, make, build",
+    "eldamo_id": "443381331",
+    "notes": ""
+  },
+  {
+    "id": "kay",
+    "form": "KAY",
+    "gloss": "lie (down)",
+    "eldamo_id": "2360940019",
+    "notes": ""
+  },
+  {
+    "id": "kem",
+    "form": "KEM",
+    "gloss": "soil, earth",
+    "eldamo_id": "2828293081",
+    "notes": ""
+  },
+  {
+    "id": "ken",
+    "form": "KEN",
+    "gloss": "see, perceive, note",
+    "eldamo_id": "3864726987",
+    "notes": ""
+  },
+  {
+    "id": "khad",
+    "form": "KHAD",
+    "gloss": "sit",
+    "eldamo_id": "212199833",
+    "notes": ""
+  },
+  {
+    "id": "khap",
+    "form": "KHAP",
+    "gloss": "enfold",
+    "eldamo_id": "2258748317",
     "notes": ""
   }
 ]
