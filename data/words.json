@@ -10297,7 +10297,7 @@
     "inflection": {
       "base": "ogod",
       "singular": "",
-      "plural": "edyg"
+      "plural": "egyd"
     },
     "gender": "",
     "category": "body",
@@ -24489,6 +24489,243 @@
     "notes": "",
     "references": [
       "EtyAC/THUS"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "308240B8-F2A5-4C8B-9CA7-6DBFCDC47D62",
+    "id": "fae",
+    "mutation_marker": "",
+    "sindarin": "fae",
+    "spellings": [],
+    "ipa": "fae",
+    "tengwar": "",
+    "cirth": "3cz",
+    "english": [
+      "soul",
+      "spirit"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3188002087",
+    "etymology": {
+      "root_refs": [
+        "phay"
+      ],
+      "primitive": {
+        "form": "phayā",
+        "eldamo_id": "469258671"
+      },
+      "development": [
+        {
+          "form": "pʰajā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "pʰaja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ɸaja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "ɸaia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "faia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "fai",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "fae",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5aja%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "fëa"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "soul, spirit",
+    "ids_code": "16.11",
+    "conception": "Key-2016-1310-1049",
+    "notes": "",
+    "references": [
+      "MR/165"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
+    "id": "sadhor",
+    "mutation_marker": "",
+    "sindarin": "sadhor",
+    "spellings": [],
+    "ipa": "'sa.ðor",
+    "tengwar": "",
+    "cirth": "fc!bR",
+    "english": [
+      "mind"
+    ],
+    "grammar": [],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "san"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sanro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "sanr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1105959911"
+        },
+        {
+          "form": "saðr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "saðor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "SAN",
+          "gloss": "think, use mind",
+          "type": "root"
+        },
+        {
+          "form": "-ro",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sanro&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sanar"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "mind, (lit.) \"thinker\", \"reflector\"",
+    "ids_code": "17.11",
+    "conception": "Key-2016-1310-1097",
+    "notes": "Neologism based on reverse-engineered Quenya \"sanar\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
+    "id": "glim",
+    "mutation_marker": "",
+    "sindarin": "glim",
+    "spellings": [],
+    "ipa": "glim",
+    "tengwar": "",
+    "cirth": "ral6",
+    "english": [
+      "voice"
+    ],
+    "grammar": [],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "speech and language",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "629218803",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "18.11",
+    "conception": "Key-2016-1310-1148",
+    "notes": "",
+    "references": [
+      "PE17/97"
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
