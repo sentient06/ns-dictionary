@@ -1,34 +1,156 @@
 [
   {
+    "id": "ada",
+    "form": "AD(A)",
+    "gloss": "by (the side of), beside, alongside; against, opposed to, opposite",
+    "eldamo_id": "1978287305",
+    "notes": "abandoned but necessary"
+  },
+  {
+    "id": "aiwe",
+    "form": "AIWĒ",
+    "gloss": "(small) bird",
+    "eldamo_id": "293304589",
+    "notes": ""
+  },
+  {
+    "id": "ak",
+    "form": "AK",
+    "gloss": "narrow, confined",
+    "eldamo_id": "549404761",
+    "notes": ""
+  },
+  {
+    "id": "akas",
+    "form": "AKAS",
+    "gloss": "neck, ridge",
+    "eldamo_id": "784568731",
+    "notes": ""
+  },
+  {
+    "id": "am",
+    "form": "AM",
+    "gloss": "go up, up",
+    "eldamo_id": "77954691",
+    "notes": ""
+  },
+  {
+    "id": "anad",
+    "form": "ANAD",
+    "gloss": "long; far",
+    "eldamo_id": "4117637381",
+    "notes": ""
+  },
+  {
+    "id": "ap",
+    "form": "AP",
+    "gloss": "cook",
+    "eldamo_id": "691960675",
+    "notes": ""
+  },
+  {
+    "id": "asat",
+    "form": "ASAT",
+    "gloss": "dust",
+    "eldamo_id": "4030186923",
+    "notes": ""
+  },
+  {
+    "id": "atar",
+    "form": "AT(AR)",
+    "gloss": "father",
+    "eldamo_id": "151440633",
+    "notes": ""
+  },
+  {
     "id": "atata",
-    "form": "AT(AT)",
-    "gloss": "father, back, again",
-    "language": "primitive_elvish",
-    "eldamo_id": "1527889195",
+    "form": "ATATA",
+    "gloss": "two",
+    "eldamo_id": "1621872153",
     "notes": ""
   },
   {
-    "id": "galad",
-    "form": "GALAD",
-    "gloss": "tree",
-    "language": "primitive_elvish",
-    "eldamo_id": "",
-    "notes": "Cf. GALADH in later writings."
-  },
-  {
-    "id": "peres",
-    "form": "PERES",
-    "gloss": "affect, disturb, alter",
-    "language": "primitive_elvish",
-    "eldamo_id": "",
+    "id": "bat",
+    "form": "BAT",
+    "gloss": "tread",
+    "eldamo_id": "2547612867",
     "notes": ""
   },
   {
-    "id": "ber",
-    "form": "BER",
-    "gloss": "valiant, brave",
-    "language": "primitive_elvish",
-    "eldamo_id": "",
+    "id": "bes",
+    "form": "BES",
+    "gloss": "to wed",
+    "eldamo_id": "1660372611",
+    "notes": ""
+  },
+  {
+    "id": "dat",
+    "form": "DAT",
+    "gloss": "fall down, fall to ground",
+    "eldamo_id": "1985661381",
+    "notes": ""
+  },
+  {
+    "id": "day",
+    "form": "DAY",
+    "gloss": "great",
+    "eldamo_id": "2128212645",
+    "notes": ""
+  },
+  {
+    "id": "dring",
+    "form": "DRING",
+    "gloss": "beat, strike",
+    "eldamo_id": "1388703035",
+    "notes": ""
+  },
+  {
+    "id": "duy",
+    "form": "DUY",
+    "gloss": "flow (strongly), flood, drench, inundate",
+    "eldamo_id": "2624786687",
+    "notes": ""
+  },
+  {
+    "id": "ek",
+    "form": "EK",
+    "gloss": "(sharp) point",
+    "eldamo_id": "1174207155",
+    "notes": ""
+  },
+  {
+    "id": "ele",
+    "form": "ELE",
+    "gloss": "drive, push, thrust, send forth",
+    "eldamo_id": "1197271847",
+    "notes": "abandoned, apparently used by Quenya"
+  },
+  {
+    "id": "en",
+    "form": "EN",
+    "gloss": "again, once more, go on doing; further, beyond",
+    "eldamo_id": "1260094701",
+    "notes": ""
+  },
+  {
+    "id": "ene",
+    "form": "ENE",
+    "gloss": "name",
+    "eldamo_id": "4153188187",
+    "notes": ""
+  },
+  {
+    "id": "er",
+    "form": "ER",
+    "gloss": "one, single, only, alone",
+    "eldamo_id": "1374611429",
+    "notes": ""
+  },
+  {
+    "id": "et",
+    "form": "ET",
+    "gloss": "out, forth",
+    "eldamo_id": "1431869793",
     "notes": ""
   }
 ]
