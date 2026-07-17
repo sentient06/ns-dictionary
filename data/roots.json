@@ -152,5 +152,96 @@
     "gloss": "out, forth",
     "eldamo_id": "1431869793",
     "notes": ""
+  },
+  {
+    "id": "gal",
+    "form": "GAL",
+    "gloss": "grow (like plants), flourish, be healthy, be vigorous, bloom",
+    "eldamo_id": "214205559",
+    "notes": ""
+  },
+  {
+    "id": "galad",
+    "form": "GALAD",
+    "gloss": "tree",
+    "eldamo_id": "588112985",
+    "notes": ""
+  },
+  {
+    "id": "gar",
+    "form": "GAR",
+    "gloss": "keep, hold, possess; maintain, defend",
+    "eldamo_id": "2374539001",
+    "notes": ""
+  },
+  {
+    "id": "gayar",
+    "form": "GAY(AR)",
+    "gloss": "awe, dread; astound, make aghast; sea",
+    "eldamo_id": "3868478593",
+    "notes": ""
+  },
+  {
+    "id": "gil",
+    "form": "(Ñ)GIL",
+    "gloss": "shine (white); silver glint; white or silver light",
+    "eldamo_id": "3538555311",
+    "notes": ""
+  },
+  {
+    "id": "glos",
+    "form": "(G)LOS",
+    "gloss": "snow, whiteness",
+    "eldamo_id": "1664305583",
+    "notes": ""
+  },
+  {
+    "id": "golob",
+    "form": "GOLOB",
+    "gloss": "branch",
+    "eldamo_id": "2847857909",
+    "notes": ""
+  },
+  {
+    "id": "gonod",
+    "form": "GONOD",
+    "gloss": "stone",
+    "eldamo_id": "194883445",
+    "notes": ""
+  },
+  {
+    "id": "gor",
+    "form": "GOR",
+    "gloss": "deep, profound; warn, counsel; urge, impel, move",
+    "eldamo_id": "2007955391",
+    "notes": ""
+  },
+  {
+    "id": "gos",
+    "form": "GOS",
+    "gloss": "dread",
+    "eldamo_id": "293603749",
+    "notes": ""
+  },
+  {
+    "id": "graw",
+    "form": "GRAW",
+    "gloss": "dark, swart",
+    "eldamo_id": "4188627571",
+    "notes": ""
+  },
+  {
+    "id": "gron",
+    "form": "GRON",
+    "gloss": "",
+    "eldamo_id": "",
+    "notes": ""
+  },
+  {
+    "id": "gwara",
+    "form": "GWAṘA",
+    "gloss": "rub",
+    "eldamo_id": "799162817",
+    "notes": ""
   }
 ]
