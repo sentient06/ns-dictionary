@@ -7204,8 +7204,8 @@
     "swadesh100": 28,
     "swadesh207": 62,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.12",
+    "conception": "Key-2016-1310-722",
     "notes": "Reconstructed from \"Fladrif\".",
     "references": [
       "LotR/474"
@@ -23571,6 +23571,61 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
+    "id": "anu",
+    "mutation_marker": "",
+    "sindarin": "anu",
+    "spellings": [],
+    "ipa": "'a.nu",
+    "tengwar": "",
+    "cirth": "c@S",
+    "english": [
+      "male (of animal)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "anu",
+      "singular": "",
+      "plural": "eny"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "anw",
+    "eldamo_id": "1342876511",
+    "etymology": {
+      "root_refs": [
+        "ʒan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hanu"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "3.12",
+    "conception": "Key-2016-1310-818",
+    "notes": "",
+    "references": [
+      "Ety/ƷAN, INI",
+      "EtyAC/ƷAN"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
     "id": "rhond",
     "mutation_marker": "",
@@ -23621,6 +23676,192 @@
     "references": [
       "NM/237",
       "PE17/183"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "02535406-5728-4987-A161-598B9E5B26CD",
+    "id": "math",
+    "mutation_marker": "",
+    "sindarin": "math",
+    "spellings": [],
+    "ipa": "maθ",
+    "tengwar": "",
+    "cirth": "6c0",
+    "english": [
+      "food"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "math",
+      "singular": "",
+      "plural": "meth"
+    },
+    "gender": "",
+    "category": "food and drink",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "mann",
+    "eldamo_id": "3475842805",
+    "etymology": {
+      "root_refs": [
+        "mat"
+      ],
+      "primitive": {
+        "form": "mattā",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "mattā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "matta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "mattʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "maθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "maθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "maθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=matta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "matta"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "5.12",
+    "conception": "Key-2016-1310-573",
+    "notes": "Word reconstructed from Quenya \"matta\". Both with a fictitious ancient word \"mattā\" to explain the phonetic changes.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "666CA23C-9456-4140-A2A5-B303DE1248F0",
+    "id": "mann",
+    "mutation_marker": "",
+    "sindarin": "mann",
+    "spellings": [],
+    "ipa": "man",
+    "tengwar": "",
+    "cirth": "6c@",
+    "english": [
+      "food"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "mann",
+      "singular": "",
+      "plural": "menn"
+    },
+    "gender": "",
+    "category": "food and drink",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2404778889",
+    "etymology": {
+      "root_refs": [
+        "mat"
+      ],
+      "primitive": {
+        "form": "matna",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "matna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3463937975"
+        },
+        {
+          "form": "madna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2615312913"
+        },
+        {
+          "form": "manna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "mann",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=matna&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "matta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "5.12",
+    "conception": "Key-2016-1310-573",
+    "notes": "This word's ancestral version was apparently rejected, leaving the state of this word unknown.",
+    "references": [
+      "EtyAC/MAT"
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
@@ -23727,6 +23968,124 @@
     "references": [
       "Ety/KHAP",
       "EtyAC/KHAP"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "F6FF36F2-589E-4941-9D36-3507430A0CB2",
+    "id": "hamad",
+    "mutation_marker": "",
+    "sindarin": "hamad",
+    "spellings": [],
+    "ipa": "'ha.mad",
+    "tengwar": "",
+    "cirth": ".c6c9",
+    "english": [
+      "clothing",
+      "clothes"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "hammad",
+    "eldamo_id": "4045625279",
+    "etymology": {
+      "root_refs": [
+        "khap"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰampata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "kʰampʰata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xamɸata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "xamfata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xamfat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hamfat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "hamfad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "hammad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "hamad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81ampata&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "clothing, clothes",
+    "ids_code": "6.12",
+    "conception": "Key-2016-1310-493",
+    "notes": "",
+    "references": [
+      "Ety/KHAP"
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
