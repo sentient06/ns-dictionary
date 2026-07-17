@@ -25438,6 +25438,110 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "0782BBBD-486C-43A8-B044-E54A7953026E",
+    "id": "ienodar",
+    "mutation_marker": "",
+    "sindarin": "ienodar",
+    "spellings": [],
+    "ipa": "'ie.no.dar",
+    "tengwar": "",
+    "cirth": "$z@b9cR",
+    "english": [
+      "age (smb's age)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ienodar",
+      "singular": "",
+      "plural": "ienedair"
+    },
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "yen",
+        "not"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "jennotarē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "jennotare",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "jennotar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "jennodar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "jenodar",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "YEN",
+          "gloss": "year",
+          "type": "root"
+        },
+        {
+          "form": "NOT",
+          "gloss": "count, reckon",
+          "type": "root"
+        },
+        {
+          "form": "-arē",
+          "gloss": "abstract noun",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=jen.not.are%3A&off=1DM4ETD%2C1DM4ETE%2C1X9M9DD"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "age, (lit.) \"year-reckoning\"",
+    "ids_code": "14.12",
+    "conception": "Key-2016-1310-19",
+    "notes": "",
+    "references": [],
+    "hidden": "Slot for \"age\", \"oldness\"",
+    "last_modified": "2026-07-17"
+  },
+  {
     "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
     "id": "thosta",
     "mutation_marker": "",
