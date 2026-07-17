@@ -14349,8 +14349,8 @@
     "swadesh100": null,
     "swadesh207": 126,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "10.12",
+    "conception": "Key-2016-1310-254",
     "notes": "This verb has been argued to collide with prefix \"per-\" meaning \"half\", but since they are  different classes of words, I think it's safe to use. The alternative is a possible \"perna-\".",
     "references": [],
     "hidden": "",
@@ -14622,8 +14622,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "11.12",
+    "conception": "Key-2016-1310-174",
     "notes": "",
     "references": [],
     "hidden": "",
@@ -24648,6 +24648,99 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "A3AB5AE3-1B39-4839-B444-5201BF1D1F2D",
+    "id": "muda",
+    "mutation_marker": "",
+    "sindarin": "muda-",
+    "spellings": [],
+    "ipa": "'mu.da",
+    "tengwar": "",
+    "cirth": "6S9cI",
+    "english": [
+      "work"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1997277981",
+    "etymology": {
+      "root_refs": [
+        "mō"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "mōta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "mūta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "mūda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "302560565"
+        },
+        {
+          "form": "muda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "MŌ",
+          "gloss": "labour",
+          "type": "root"
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "intransitive verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mo%3Ata&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1RZ3P2T"
+    },
+    "cognates": {
+      "quenya": "móta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to work",
+    "ids_code": "9.12",
+    "conception": "Key-2016-1310-325",
+    "notes": "",
+    "references": [
+      "Ety/MŌ"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
     "id": "menna",
     "mutation_marker": "",
@@ -25068,6 +25161,86 @@
     "notes": "",
     "references": [
       "PM/136"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "A7957357-53A7-4EF3-9EB9-1000B0F499B5",
+    "id": "adel",
+    "mutation_marker": "",
+    "sindarin": "adel",
+    "spellings": [],
+    "ipa": "'a.del",
+    "tengwar": "",
+    "cirth": "c9za",
+    "english": [
+      "behind"
+    ],
+    "grammar": [
+      "preposition"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3812269611",
+    "etymology": {
+      "root_refs": [
+        "teles"
+      ],
+      "primitive": {
+        "form": "ateles",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "ateles",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "981459769"
+        },
+        {
+          "form": "atele",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "atel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "adel",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ateles&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "12.11",
+    "conception": "Key-2016-1310-129",
+    "notes": "",
+    "references": [
+      "Ety/TELES"
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
