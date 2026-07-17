@@ -41,10 +41,12 @@
     "swadesh100": 1,
     "swadesh207": 1,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "60DBC4AD-47E2-44E1-A35A-C6A2770466DE",
@@ -89,10 +91,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7537D39B-17DB-4966-A2D1-9D4156AA0D7F",
@@ -137,10 +141,12 @@
     "swadesh100": 2,
     "swadesh207": 2,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "693FB9D9-6B1D-4172-BBC2-B4C3ECD98453",
@@ -186,10 +192,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C3624202-9326-4457-9C0C-3AEC68427956",
@@ -234,10 +242,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EE1077FB-B3A2-4905-94BC-FBB86E95DCA2",
@@ -283,10 +293,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3C635998-67C9-4886-9814-80275BF590E4",
@@ -327,10 +339,12 @@
     "swadesh100": null,
     "swadesh207": 3,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"ten\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6282F5BE-7505-465F-AEE5-2FAF7CF628BA",
@@ -372,10 +386,12 @@
     "swadesh100": 3,
     "swadesh207": 4,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E31C7DB2-BE6D-4FFC-A8FE-FB0ABA4FD3EB",
@@ -418,10 +434,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "35496230-E57E-4925-A248-6ED88C3C0A9D",
@@ -463,10 +481,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FFC672AA-AE0A-4CA9-9022-238471458BD9",
@@ -509,10 +529,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "07050DC2-E77A-487F-8209-CE44D2D90D3A",
@@ -552,10 +574,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9FEC4C5F-0C3A-45CC-A17E-36175B05E9F7",
@@ -595,10 +619,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A499868B-E2AD-4DC8-9AE3-767C73F19E9C",
@@ -637,12 +663,14 @@
     "swadesh100": null,
     "swadesh207": 5,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "81BFCA50-5345-48F8-9B9B-42F094BCFAB4",
@@ -681,10 +709,12 @@
     "swadesh100": null,
     "swadesh207": 6,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "63554FAC-BF44-4CD1-A4D5-2DB406707A2F",
@@ -724,10 +754,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D478D879-9639-4C19-9023-B6B9B35A3335",
@@ -766,10 +798,12 @@
     "swadesh100": 4,
     "swadesh207": 7,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"sen\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2668468A-7B21-487F-A0B8-497D3C951E02",
@@ -811,12 +845,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/44"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C14AD0E8-E930-4E23-A033-0C8F6FDB6976",
@@ -855,10 +891,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "01D800DF-BA79-4318-9D75-120BE3CF98C5",
@@ -900,10 +938,12 @@
     "swadesh100": 5,
     "swadesh207": 8,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
@@ -945,10 +985,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8D62AF29-5B32-42EF-ADC6-480839615531",
@@ -990,10 +1032,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3809751E-1B6F-4BD4-B472-19A422669B4C",
@@ -1037,6 +1081,8 @@
     "swadesh100": null,
     "swadesh207": 9,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/238",
@@ -1048,7 +1094,7 @@
       "RGEO/64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "745C0CF7-06A9-4674-B3D9-DCE4B84C172F",
@@ -1092,13 +1138,15 @@
     "swadesh100": null,
     "swadesh207": 10,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "AotM/62",
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8A0CF779-DC91-45D3-B845-DB5D217AB0AB",
@@ -1139,12 +1187,14 @@
     "swadesh100": 6,
     "swadesh207": 11,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "TI/281"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2D84CE99-3846-471C-93E4-DE7A5CE37BEA",
@@ -1185,12 +1235,14 @@
     "swadesh100": 7,
     "swadesh207": 12,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT50/5"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
@@ -1243,12 +1295,14 @@
     "swadesh100": null,
     "swadesh207": 13,
     "definition": "where, (lit.) in/at what",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8041CFEE-7496-4CED-804F-B58DFF7712C8",
@@ -1301,12 +1355,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "where, (lit.) whither, where to",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "67A2972D-B2DB-40B5-BE0A-E09C9F13757F",
@@ -1359,12 +1415,14 @@
     "swadesh100": null,
     "swadesh207": 14,
     "definition": "when, (lit.) what time",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FF4E16F2-8573-4AB3-8DDF-B784C356C08C",
@@ -1417,12 +1475,14 @@
     "swadesh100": null,
     "swadesh207": 15,
     "definition": "how, (lit.) by agency of what",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C6BF1AF7-206F-486A-89EB-D84E6F5CA21B",
@@ -1469,12 +1529,14 @@
     "swadesh100": 8,
     "swadesh207": 16,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from prefix \"ú-\".",
     "references": [
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "925EF065-00A6-483D-9600-DECC52753874",
@@ -1521,13 +1583,15 @@
     "swadesh100": 9,
     "swadesh207": 17,
     "definition": "all, (lit.) whole",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"phain\".",
     "references": [
       "AotM/62",
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "41EA758E-CCF4-4B07-A716-37780412930E",
@@ -1572,13 +1636,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "all, (lit.) each, every",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT44/28",
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1DC01044-F8EC-4263-8425-48338A982214",
@@ -1687,12 +1753,14 @@
     "swadesh100": 10,
     "swadesh207": 18,
     "definition": "many, (lit.) frequent",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "EtyAC/LI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8D9C9D89-3CD6-44AD-BEF5-E448D0EE67BE",
@@ -1735,10 +1803,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "13A9867F-6C6A-42E7-BEDD-DC338D064257",
@@ -1817,10 +1887,12 @@
     "swadesh100": null,
     "swadesh207": 19,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Based on Greek μέρος (méros), which originally means \"part\". The idea that \"some\" represents a part of a larger thing seems logical enough to treat this word as a determiner.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
@@ -1873,10 +1945,12 @@
     "swadesh100": null,
     "swadesh207": 20,
     "definition": "few, (lit.) countable",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9E5470C8-CB1E-424D-B91F-0D3843989B98",
@@ -1921,10 +1995,12 @@
     "swadesh100": null,
     "swadesh207": 21,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from Gnomish \"eleg\".",
     "references": [],
     "hidden": "Unknown suffix -ele",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5EBBC20C-90EF-4B11-9401-F519190CFF0A",
@@ -1999,6 +2075,8 @@
     "swadesh100": 11,
     "swadesh207": 22,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/95",
@@ -2006,7 +2084,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7CA9EFD0-241C-45FC-9D7E-CED0882B61E5",
@@ -2081,6 +2159,8 @@
     "swadesh100": 12,
     "swadesh207": 23,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/14, 95",
@@ -2088,7 +2168,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7D43645C-2A59-49B9-8968-7FBBC244836E",
@@ -2168,6 +2248,8 @@
     "swadesh100": null,
     "swadesh207": 24,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/95",
@@ -2175,7 +2257,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3A44F0A0-82B2-400D-85CA-68257CDE4D11",
@@ -2258,6 +2340,8 @@
     "swadesh100": null,
     "swadesh207": 25,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/95",
@@ -2266,7 +2350,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1D7F8DD5-8956-4969-B5C5-2086291E6FB9",
@@ -2333,6 +2417,8 @@
     "swadesh100": null,
     "swadesh207": 26,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/95",
@@ -2341,7 +2427,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6DC5DC9E-7CD0-40B2-A17C-6E6C4566975D",
@@ -2407,6 +2493,8 @@
     "swadesh100": 13,
     "swadesh207": 27,
     "definition": "great, large",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "UT/264",
@@ -2414,7 +2502,7 @@
       "WJ/191, 335, 338"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5F73B930-BEBF-4A52-960C-E943CA9CCC33",
@@ -2458,12 +2546,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "large, big",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE23/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "93E41EA9-169C-4B99-AD3B-039815AB2078",
@@ -2534,6 +2624,8 @@
     "swadesh100": 14,
     "swadesh207": 28,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/12",
@@ -2543,7 +2635,7 @@
       "RC/765"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EF6863CD-A31D-4868-A566-BFA92FC05B65",
@@ -2591,13 +2683,15 @@
     "swadesh100": null,
     "swadesh207": 29,
     "definition": "wide, broad",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/144",
       "S/123"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "320987F0-A27F-4849-AB68-A12201E6B520",
@@ -2688,12 +2782,14 @@
     "swadesh100": null,
     "swadesh207": 30,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Revised from Noldorin \"tûg\". Homonym to \"tŷg\" (thigh).",
     "references": [
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -2786,12 +2882,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word rejected by Tolkien, but no replacement was defined.",
     "references": [
       "PE17/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0E0A6421-92CB-49FA-9716-941CD26D7E15",
@@ -2854,12 +2952,14 @@
     "swadesh100": null,
     "swadesh207": 31,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"Mablung\"",
     "references": [
       "S/185"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "AA9B3FD4-BE30-4862-9DBD-3C99ED86DAE0",
@@ -2923,13 +3023,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "weighty, ponderous",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/99",
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "270561D8-D3E9-43CC-AC90-F7A2227921AC",
@@ -2986,12 +3088,14 @@
     "swadesh100": 15,
     "swadesh207": 32,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5D4B572A-3D64-4268-88A8-2CE0B64FA4AB",
@@ -3095,6 +3199,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "little, tiny",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"Caradras dilthen\"",
     "references": [
       "Ety/TIT",
@@ -3103,7 +3209,7 @@
       "RS/462"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7F0201CC-557C-4368-A9B4-564A2B6A8AD9",
@@ -3214,13 +3320,15 @@
     "swadesh100": null,
     "swadesh207": 33,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/141, 185",
       "WJ/311"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "52B31A19-8A3D-4DE1-BACA-E3605ECD0708",
@@ -3307,12 +3415,14 @@
     "swadesh100": null,
     "swadesh207": 34,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/AK"
     ],
     "hidden": "Unknown suffix -rā",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "05576E49-F09D-4B04-9EDA-3E8F259749C9",
@@ -3404,12 +3514,14 @@
     "swadesh100": null,
     "swadesh207": 35,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/23, 82"
     ],
     "hidden": "Unknown suffix -bi; s207 is \"thin\"",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A1065E48-A83C-4161-9CB9-9FC7373F2352",
@@ -3455,13 +3567,15 @@
     "swadesh100": 16,
     "swadesh207": 36,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/BES, DER, NĪ",
       "EtyAC/NDIS, NĪ, NIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D3EBC6E8-0377-414C-A39E-6B57E9A2871F",
@@ -3517,12 +3631,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "MR/323, 349, 470"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DE49F7C1-23A0-4E1A-BB30-AF80421D06EF",
@@ -3594,13 +3710,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "maiden, young woman",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/191",
       "PE23/136, 139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4733D9F4-D8B5-46E3-87B5-6126AF5C5028",
@@ -3665,12 +3783,14 @@
     "swadesh100": 17,
     "swadesh207": 37,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "70C983BB-F7DB-4CF9-8512-5322EF476512",
@@ -3763,13 +3883,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "man, as a husband, partner, spouse",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/BES, DER",
       "EtyAC/DER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "846F0C3E-1797-4827-A659-3EBB0023B119",
@@ -3816,6 +3938,8 @@
     "swadesh100": 18,
     "swadesh207": 38,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "From √ATATA, \"two\", \"the second\"",
     "references": [
       "Let/282",
@@ -3841,7 +3965,7 @@
       "WRI/Edain"
     ],
     "hidden": "swadesh is \"person\"",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2A16D2D0-99E9-4BC4-86F3-1DD0E1515BA1",
@@ -3936,6 +4060,8 @@
     "swadesh100": null,
     "swadesh207": 39,
     "definition": "child (young human or offspring)",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LR/322",
@@ -3947,7 +4073,7 @@
       "WJ/160, 403"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "949FBE7F-98E0-4497-9761-40DCB9B47636",
@@ -4050,13 +4176,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "wife, lady",
+    "ids_code": "",
+    "conception": "",
     "notes": "More formal than \"bess\", associated with \"lady\" as the wife of a \"lord\".",
     "references": [
       "Ety/BES",
       "Ety/KHER"
     ],
     "hidden": "Unkown suffix -se",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "890FB401-E5DA-4CB6-A468-212A5D31D3BB",
@@ -4133,13 +4261,15 @@
     "swadesh100": null,
     "swadesh207": 40,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "AotM/62",
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9E9C248E-524B-4309-8C30-CD839955F985",
@@ -4192,10 +4322,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "spouse (female), married woman",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0D04C1A7-DF18-48D8-A309-94B2E7381FD2",
@@ -4318,13 +4450,15 @@
     "swadesh100": null,
     "swadesh207": 41,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "More formal than \"benn\" or \"bethron\", associated with \"lord\".",
     "references": [
       "Ety/BES",
       "Ety/KHER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8EECCF0B-BC16-4494-BCF4-215F6A985FDA",
@@ -4402,12 +4536,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "spouse (male), married man",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9CEC6D69-37AD-425E-9F11-2F7A7286D352",
@@ -4454,12 +4590,14 @@
     "swadesh100": null,
     "swadesh207": 42,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FA3F3C34-F96F-4E3A-AA4B-BB86967E2381",
@@ -4522,6 +4660,8 @@
     "swadesh100": null,
     "swadesh207": 43,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PM/324",
@@ -4529,7 +4669,7 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "12182874-61AB-4AEB-8390-3CED9480B5BE",
@@ -4600,12 +4740,14 @@
     "swadesh100": null,
     "swadesh207": 44,
     "definition": "",
+    "ids_code": "3.11",
+    "conception": "Key-2016-1310-819",
     "notes": "",
     "references": [
       "WJ/388, 416"
     ],
     "hidden": "Unknown suffix -āna",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F776A67B-B312-42A4-B471-458002497063",
@@ -4672,12 +4814,14 @@
     "swadesh100": 19,
     "swadesh207": 45,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/LIW, LOK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7736ACC0-8A25-4CCD-8353-6BF3F54558A5",
@@ -4760,12 +4904,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F12735CD-0EF4-4C7B-A61B-2CA484429113",
@@ -4840,13 +4986,15 @@
     "swadesh100": 20,
     "swadesh207": 46,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/97",
       "SA/lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "60DE43AD-161E-4D6C-9F31-3C01208FC5DF",
@@ -4946,12 +5094,14 @@
     "swadesh100": 21,
     "swadesh207": 47,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/KHUGAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "CD4FD75E-0B75-4553-9B6D-B04BD6113505",
@@ -4996,12 +5146,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "SI/Huan"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7D117964-1D65-47DB-A67D-BD0E92A61F50",
@@ -5042,12 +5194,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/49"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "AD435698-BCEB-4DF2-B71F-277E5C7C5B79",
@@ -5092,12 +5246,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2D51EA5D-9623-4288-A000-3E8A67655524",
@@ -5163,12 +5319,14 @@
     "swadesh100": 22,
     "swadesh207": 48,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9BA2EE10-CACF-4EEB-9B92-6B3B9F0A8BFF",
@@ -5256,13 +5414,15 @@
     "swadesh100": null,
     "swadesh207": 49,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/1115",
       "PE17/121, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9113830A-FAD1-490A-A739-ED71040E9731",
@@ -5309,12 +5469,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3AF2892A-D7FA-4C12-8A89-7B897C0CEB48",
@@ -5372,12 +5534,14 @@
     "swadesh100": null,
     "swadesh207": 50,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0AE9D1BB-A5EC-462F-B701-CD921BAD3C68",
@@ -5456,6 +5620,8 @@
     "swadesh100": 23,
     "swadesh207": 51,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Standard word to describe any tree.",
     "references": [
       "LB/354",
@@ -5470,7 +5636,7 @@
       "UT/267"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E6AB0B32-B175-469B-B23B-B774B569B32F",
@@ -5541,6 +5707,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word used for excurrent trees, that is, a tree with a strong central leader, giving it a tall, straight, relatively narrow form, such as pines, spruces, firs, poplars, and, to a lesser extent, birches. For decurrent trees, use the standard tree word \"galadh\".",
     "references": [
       "Let/426",
@@ -5554,7 +5722,7 @@
       "WJI/Taur-i-Melegyrn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "81FE635C-3796-44B0-A8B3-72EBB7C3DE93",
@@ -5652,6 +5820,8 @@
     "swadesh100": null,
     "swadesh207": 52,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/469, 1134",
@@ -5664,7 +5834,7 @@
       "WJI/Taur-i-Melegyrn, Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3F14309D-6E64-4888-BD6C-D474C2968266",
@@ -5750,6 +5920,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Ancient variant plural of \"orn\" reinterpreted a collective word.",
     "references": [
       "PE17/33, 119, 153",
@@ -5758,7 +5930,7 @@
       "VT42/20"
     ],
     "hidden": "Unknown suffix -nī (presumably an ancient plural)",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "94A4E002-F35B-433F-A3AE-2B3147FCB36F",
@@ -5801,12 +5973,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Probably a loanword from Nandorin",
     "references": [
       "UT/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8CA047DC-8EC2-4269-B566-E8A00028EA59",
@@ -5919,10 +6093,12 @@
     "swadesh100": null,
     "swadesh207": 53,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "A neologism to describe a stick as a simple piece of wood, inspired by Germanic languages Stock, stok, stokk, Romance languages palus, pau, palo, par, Finnish keppi, Japanese 木の棒, Chinese 木棍. Conservative speakers may prefer to use \"golf\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5DD60B9C-E2BD-4EFD-A949-AE50E21D8BEF",
@@ -6001,12 +6177,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/GÓLOB"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F3221076-CF94-4B3B-8949-3DAA8926FE45",
@@ -6074,12 +6252,14 @@
     "swadesh100": null,
     "swadesh207": 54,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/38, 40, 42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C9B96920-1314-4617-8E82-3FFC3601DDE4",
@@ -6158,13 +6338,15 @@
     "swadesh100": 24,
     "swadesh207": 55,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/ERÉD",
       "EtyAC/ERÉD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
@@ -6235,6 +6417,8 @@
     "swadesh100": 25,
     "swadesh207": 56,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/282",
@@ -6244,7 +6428,7 @@
       "RC/760"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "295B6264-0C06-4C69-A35B-C8AF12F2A4CC",
@@ -6328,13 +6512,15 @@
     "swadesh100": 26,
     "swadesh207": 57,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "(There are two possible origins of this word, one is given below, and another one on Quettamorphosis.)",
     "references": [
       "LotR/1115",
       "PE17/96, 121"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "AC619657-47EC-4989-84B6-8BA8A65EE468",
@@ -6373,12 +6559,14 @@
     "swadesh100": 27,
     "swadesh207": 58,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"Fladrif\".",
     "references": [
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F67AB558-3211-473B-875C-C9EA60E99979",
@@ -6453,6 +6641,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Can refer to a single flower or a group of flowers.",
     "references": [
       "LB/354",
@@ -6464,7 +6654,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DC410E00-113D-4C78-ABE4-AC9BAFB44276",
@@ -6517,12 +6707,14 @@
     "swadesh100": null,
     "swadesh207": 59,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8BE9EF5A-C91E-47A9-B129-69BE82633DAF",
@@ -6578,12 +6770,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D88923D9-4C4A-48CF-8A2B-8C14885113BE",
@@ -6624,12 +6818,14 @@
     "swadesh100": null,
     "swadesh207": 60,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3CF60B0E-EECF-4858-BD62-431FA6DD4D65",
@@ -6713,12 +6909,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/STAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9ACC33EC-7C06-476F-A646-AD54387D7AE8",
@@ -6790,12 +6988,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"Lisgardh\".",
     "references": [
       "UT/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3DB30672-12A3-4109-8D22-4AE782F864DC",
@@ -6840,13 +7040,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Taken from \"Taras-ness\". The meaning is unclear, but it's assumed to mean \"meadow\" due to the possible root √NES.",
     "references": [
       "UT/28",
       "UTI/Taras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F470EBBB-D832-4500-AF76-18D3A9C91A7B",
@@ -6891,12 +7093,14 @@
     "swadesh100": null,
     "swadesh207": 61,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"talraph\". The meaning has been theorised by David Salo. GS/281",
     "references": [
       "UT/313"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "78898167-8B6D-440C-9C75-A30EAAA4F88D",
@@ -6948,6 +7152,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Strong, grey and silky fibre made from the inner bark of mallorn trees.",
     "references": [
       "LotR/371",
@@ -6955,7 +7161,7 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "535B518D-03D6-4EF8-B1D1-E174556EC05D",
@@ -6998,12 +7204,14 @@
     "swadesh100": 28,
     "swadesh207": 62,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"Fladrif\".",
     "references": [
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E760F824-051D-4576-9A86-DBC825E702D9",
@@ -7169,10 +7377,12 @@
     "swadesh100": null,
     "swadesh207": 63,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Neologism for \"meat\", based on Old English term \"flesh-meat\" (12c), in which \"meat\" referred to food in general. (French had a similar term, \"viande\", which meant \"food\".)",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C7DB8C96-BFDB-4A8F-990E-3CEC37609675",
@@ -7244,10 +7454,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Adapted from Noldorin word \"aes\", which doesn't follow Sindarin phonetic standards. Some people use the Noldorin variant regardless.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F8E687B2-B8C7-4224-AC31-E22B42A68F43",
@@ -7342,13 +7554,15 @@
     "swadesh100": 29,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "MR/350, 470-471",
       "VT47/12"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BF8C3304-963C-47E2-AB23-2E4AB13558F3",
@@ -7412,13 +7626,15 @@
     "swadesh100": 30,
     "swadesh207": 64,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/184",
       "SA/sereg"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D307CB7A-506D-4BBE-837E-A5E42BEB5C7B",
@@ -7466,12 +7682,14 @@
     "swadesh100": 31,
     "swadesh207": 65,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/137, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6A2839C5-0D72-42C3-B1C8-C9EFB12D21E9",
@@ -7578,12 +7796,14 @@
     "swadesh100": 32,
     "swadesh207": 66,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "AA9C1C08-BC77-45BE-A3ED-D69C1C5E6B3E",
@@ -7694,12 +7914,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B7EC34A1-8C93-41BF-9C92-E0D909A63D1C",
@@ -7810,12 +8032,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "10255EDF-93F0-42D1-883E-1C948B15A288",
@@ -7875,12 +8099,14 @@
     "swadesh100": 33,
     "swadesh207": 67,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/62, 74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "28CA4D0C-5B77-4DA3-A9B9-AE23CA6333B7",
@@ -7927,6 +8153,8 @@
     "swadesh100": 34,
     "swadesh207": 68,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/36",
@@ -7934,7 +8162,7 @@
       "SA/ras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "44FFEEE5-4DA4-4AD6-8ACE-04A5B7C82A76",
@@ -7975,12 +8203,14 @@
     "swadesh100": 35,
     "swadesh207": 69,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Neologism coined based on Neo-Quenya word.",
     "references": [
       "QL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "812EB3A1-BC6C-434E-81DB-2395F41954A5",
@@ -8063,12 +8293,14 @@
     "swadesh100": 36,
     "swadesh207": 70,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"gwaelod\".",
     "references": [
       "PE23/142"
     ],
     "hidden": "Roots seem to work with law+tod",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "73F191D1-C4E9-42CA-A74D-F1688E56916D",
@@ -8128,12 +8360,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word predates \"laud\" because the latter was only published in 2024.",
     "references": [
       "GL/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "83FF09BC-B0A0-44FE-AE67-51A8770BA154",
@@ -8240,6 +8474,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/17",
@@ -8247,7 +8483,7 @@
       "SA/fin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F8EBDB5D-BAC9-4729-B54D-65C9E53D686D",
@@ -8338,13 +8574,15 @@
     "swadesh100": 37,
     "swadesh207": 71,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/17",
       "PM/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "57CCB57B-3003-45D8-BF46-F835EAD3F45F",
@@ -8455,12 +8693,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0F4B77DA-C731-48AE-83B6-9F563161682D",
@@ -8571,12 +8811,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B3BEB96A-1811-4E18-999B-AF2377C5F18B",
@@ -8623,6 +8865,8 @@
     "swadesh100": 38,
     "swadesh207": 72,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/32, 36, 173",
@@ -8631,7 +8875,7 @@
       "SA/dol"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F159A58E-2AD1-46B1-A17C-52A1BDC095D2",
@@ -8678,12 +8922,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/433"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "55568AEA-73EE-418F-8EB8-F380226A1868",
@@ -8744,6 +8990,8 @@
     "swadesh100": 39,
     "swadesh207": 73,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "The singular form is based on a primitive dual inflection, and the plural is based on the ancient plural, so they don't follow standard pluralisation rules.",
     "references": [
       "PE17/62, 77",
@@ -8751,7 +8999,7 @@
       "TT17/33"
     ],
     "hidden": "Can't make the evolution work",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "770461E3-6B9D-4361-8F92-58892FFEEF3E",
@@ -8801,6 +9049,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "The singular form is based on a primitive dual inflection, and the plural is based on the ancient plural, so they don't follow standard pluralisation rules.",
     "references": [
       "PE17/62, 77",
@@ -8808,7 +9058,7 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6C5CB3D9-1C08-423B-B1FB-5F5AF8BE9EEB",
@@ -8855,6 +9105,8 @@
     "swadesh100": 40,
     "swadesh207": 74,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/77",
@@ -8862,7 +9114,7 @@
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "955BC4F4-4E39-44CD-8D42-0F879036656B",
@@ -8901,10 +9153,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word follows the same pattern of \"lhaw\" (ears) and \"sunt\" (nostrils), in which a primitive dual is fossilised into a modern Sindarin word. As a pair of eyes is as natural as a pair of ears or nostrils, it makes sense to have a dual plural for \"eye\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "55069C4A-DEE1-41F1-AA97-550C007572B4",
@@ -9015,12 +9269,14 @@
     "swadesh100": 41,
     "swadesh207": 75,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/NEÑ-WI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2B819CA0-9A5F-4B27-8FC1-6743A21502C4",
@@ -9120,13 +9376,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GG/10",
       "GL/50"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "89C23B87-273B-41AE-8872-D49EE88CA460",
@@ -9169,10 +9427,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3038151B-0044-4993-A42B-5F8C166F2479",
@@ -9251,12 +9511,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/MBUD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2978AF6C-D0CE-4A6A-B631-8E5A56E5DA8E",
@@ -9299,10 +9561,12 @@
     "swadesh100": 42,
     "swadesh207": 76,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Based on Gnomish \"gogail\", and using the same compound elements from Sindarin.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DDFA093D-7ED2-4F86-853A-69498C9D947D",
@@ -9368,12 +9632,14 @@
     "swadesh100": 43,
     "swadesh207": 77,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DCBC8FFA-9649-4A8A-83D5-7733D6AC8135",
@@ -9447,12 +9713,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word has no direct attestations. Paul Strack suggests using it as part of compounds. For \"tooth\" noun, use \"neleg\" instead.",
     "references": [
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "976842F0-361F-4FF3-819E-2317297A746F",
@@ -9537,10 +9805,12 @@
     "swadesh100": 44,
     "swadesh207": 78,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "452DB9FA-0296-4A7D-9C9A-DBC6197314EB",
@@ -9627,6 +9897,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/307",
@@ -9636,7 +9908,7 @@
       "WJ/394"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
@@ -9752,10 +10024,12 @@
     "swadesh100": null,
     "swadesh207": 79,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word coined based on √NYELEK, which is used for a Neo-Quenya word meaning \"fingernail\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "11EF59CB-32B6-4FE8-B30E-8FE2BE6CE622",
@@ -9858,10 +10132,12 @@
     "swadesh100": 45,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Neologism based on Quenya \"nappa\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5409A7ED-E45F-4C32-A5BB-A8F54F665EE3",
@@ -9911,6 +10187,8 @@
     "swadesh100": 46,
     "swadesh207": 80,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE23/136",
@@ -9918,7 +10196,7 @@
       "UT/313"
     ],
     "hidden": "Doesn't respect rule 2858643115",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "716D6A95-9D77-4568-888A-58B79E9D34F8",
@@ -9994,10 +10272,12 @@
     "swadesh100": null,
     "swadesh207": 81,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4027E2C5-A371-4182-987E-3267A104B83E",
@@ -10040,12 +10320,14 @@
     "swadesh100": 47,
     "swadesh207": 82,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "From Gnomish \"octha\". Word by Sami Paldanius from the VinQuettaParma Wiki.",
     "references": [
       "GL/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "37690141-0A48-42E0-84AF-C541062595EB",
@@ -10159,13 +10441,15 @@
     "swadesh100": 48,
     "swadesh207": 83,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Element in \"Mablung\"",
     "references": [
       "PE23/144",
       "VT47/6-7, 19-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "53E09682-68CC-401E-9D07-96279742C28E",
@@ -10208,10 +10492,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Archaic word for \"hand\". Use mâb instead, unless if using for poetry or compounds.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3D941C9A-A44A-4DC8-A077-F1C5FC2C365E",
@@ -10261,13 +10547,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word serves as compund element for \"forvo\" and \"harvo\", \"right\" and \"left\" sides. So it's implicit it can be used as a sense of \"side\" as well.",
     "references": [
       "PE17/162",
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
@@ -10365,6 +10653,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word indicating a hand holding something, either loosely or tightly.",
     "references": [
       "SA/cam",
@@ -10372,7 +10662,7 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A7FD3898-018B-46B3-BADA-F5C1FC74177C",
@@ -10419,12 +10709,14 @@
     "swadesh100": null,
     "swadesh207": 84,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "03020EEE-AF45-4AD0-B21B-B4CB9D834E72",
@@ -10471,10 +10763,12 @@
     "swadesh100": 49,
     "swadesh207": 85,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Neologism based on Quenya \"cumbo\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "69DC5487-071C-4CEC-A14B-B02494809DF3",
@@ -10545,12 +10839,14 @@
     "swadesh100": null,
     "swadesh207": 86,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/144, 161"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2703D957-8FE3-4D68-B046-A0F6DA5B8EAD",
@@ -10626,12 +10922,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/92"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A9580791-C89A-4199-A15F-1F42B016CEBF",
@@ -10674,10 +10972,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "664F40F5-85EA-4513-9949-764C58B68218",
@@ -10756,13 +11056,15 @@
     "swadesh100": 50,
     "swadesh207": 87,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/92",
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5977FB38-E166-4517-B3D9-369D5356B5C1",
@@ -10816,13 +11118,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/92, 98",
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D3E32838-5E83-40A1-834C-D000191DAB82",
@@ -10867,12 +11171,14 @@
     "swadesh100": null,
     "swadesh207": 88,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
@@ -10961,12 +11267,14 @@
     "swadesh100": 51,
     "swadesh207": 89,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE13/154"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "88725EBC-4576-4FA6-B762-BA5C9190378B",
@@ -11009,13 +11317,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Unclear etymology, but probably from ~ \"amboss\".",
     "references": [
       "PE13/137",
       "GL/19, 27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0D89F5EA-74AD-40CF-8F82-7CB806B3FABB",
@@ -11091,12 +11401,14 @@
     "swadesh100": 52,
     "swadesh207": 90,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/KHŌ-N"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "88CF3036-9C0F-4A80-A702-4E79F392EF7E",
@@ -11154,12 +11466,14 @@
     "swadesh100": 53,
     "swadesh207": 91,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/65"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E8ADE915-736F-48CB-95AD-0F5CC2AE941C",
@@ -11226,13 +11540,15 @@
     "swadesh100": 54,
     "swadesh207": 92,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/SUK",
       "EtyAC/SUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D484FCD2-19F6-4C70-A4D6-6F82870CE988",
@@ -11294,12 +11610,14 @@
     "swadesh100": 55,
     "swadesh207": 93,
     "definition": "",
+    "ids_code": "5.11",
+    "conception": "Key-2016-1310-574",
     "notes": "",
     "references": [
       "PE17/131, 145"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "476CE22A-BA10-4968-81F2-1983FF39DEDD",
@@ -11358,12 +11676,14 @@
     "swadesh100": 56,
     "swadesh207": 94,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/NAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "78E4831C-B8AA-433E-B827-38255C3A0D6D",
@@ -11402,10 +11722,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "849598BA-9AEE-4218-8849-7E2241EA936D",
@@ -11449,12 +11771,14 @@
     "swadesh100": null,
     "swadesh207": 95,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/53"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
@@ -11500,12 +11824,14 @@
     "swadesh100": null,
     "swadesh207": 96,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Unclear phonetic development, the Noldorin word is preserved.",
     "references": [
       "Ety/PIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "296B4D75-4912-4BF2-A663-DDD1FABA8B88",
@@ -11571,12 +11897,14 @@
     "swadesh100": null,
     "swadesh207": 97,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Unclear phonetic development, Paul Strack suggested an ancestral word \"khikh\".",
     "references": [
       "PE13/162-163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6D285BEC-BF8F-43D3-9745-A2185DF00ED3",
@@ -11620,13 +11948,15 @@
     "swadesh100": null,
     "swadesh207": 98,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/68",
       "LT1A/Súlimo"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A6AFA88C-8E03-4E26-A7C3-5FFCDC2C56CB",
@@ -11683,12 +12013,14 @@
     "swadesh100": null,
     "swadesh207": 99,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/THŪ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "AA6CB329-0F5A-452E-B305-5BD8043BBBB1",
@@ -11734,12 +12066,14 @@
     "swadesh100": null,
     "swadesh207": 100,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "11D29988-8AB0-47E5-8027-7AAE984872AF",
@@ -11785,12 +12119,14 @@
     "swadesh100": 57,
     "swadesh207": 101,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/37, 148, 181"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "36F0535E-F859-483C-938C-3E2286C016D2",
@@ -11836,13 +12172,15 @@
     "swadesh100": 58,
     "swadesh207": 102,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/38",
       "LT2A/Gimli"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "54EC50E8-4488-4F0D-907B-3E74835E7FCA",
@@ -11891,13 +12229,15 @@
     "swadesh100": 59,
     "swadesh207": 103,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/IS",
       "EtyAC/IS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
@@ -11943,10 +12283,12 @@
     "swadesh100": null,
     "swadesh207": 104,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2B71905D-06EC-4CC3-AFAA-F141A01F0F5D",
@@ -12019,12 +12361,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "NM/176"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
@@ -12099,12 +12443,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/NOWO"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "564AE595-3B9B-48E8-A30B-B8E65B652ACA",
@@ -12148,12 +12494,14 @@
     "swadesh100": null,
     "swadesh207": 105,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/61"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4B75D44A-238F-4715-A15B-1F592F019449",
@@ -12210,10 +12558,12 @@
     "swadesh100": null,
     "swadesh207": 106,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BEA83FA3-F0B6-44F3-B859-21D2AE412875",
@@ -12257,12 +12607,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/GOS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6C7483CF-F1AB-48D6-A809-E8E0E2A34E66",
@@ -12307,12 +12659,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FC65ECA3-F141-4FDF-91B6-5962101BC453",
@@ -12356,12 +12710,14 @@
     "swadesh100": 60,
     "swadesh207": 107,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3221F068-F87A-4A90-B3E1-7A9F9D09EF98",
@@ -12405,12 +12761,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FF7CA91D-1A54-4F21-A0F9-BDE8FB8B85F6",
@@ -12454,6 +12812,8 @@
     "swadesh100": null,
     "swadesh207": 108,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/448",
@@ -12461,7 +12821,7 @@
       "PE17/102"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1AFD7A0D-476A-4A1F-91F2-6A57E0F97DFA",
@@ -12505,12 +12865,14 @@
     "swadesh100": 61,
     "swadesh207": 109,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/1107"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "49878C37-FF9D-412F-A2EC-59183405124B",
@@ -12602,12 +12964,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/WAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5C8CACDC-DEBD-42A2-B969-66D46F652A9E",
@@ -12672,13 +13036,15 @@
     "swadesh100": 62,
     "swadesh207": 110,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/97, 131, 133",
       "SA/dagor"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2801ECAD-B87B-4D18-9639-54C0DF9AC760",
@@ -12780,12 +13146,14 @@
     "swadesh100": null,
     "swadesh207": 111,
     "definition": "",
+    "ids_code": "20.11",
+    "conception": "Key-2016-1310-1223",
     "notes": "",
     "references": [
       "Ety/MAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "215D262B-FF7A-436D-81E6-867F74BDE433",
@@ -12882,13 +13250,15 @@
     "swadesh100": null,
     "swadesh207": 112,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/SPAR",
       "EtyAC/PHAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0391A76A-8F11-4AB5-9FB1-BF9CDEB4BD6C",
@@ -12932,13 +13302,15 @@
     "swadesh100": null,
     "swadesh207": 113,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/DRING",
       "EtyAC/DRING"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
@@ -13016,12 +13388,14 @@
     "swadesh100": null,
     "swadesh207": 114,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/RIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5CD95067-0693-473D-B422-A20B97CCF8EB",
@@ -13065,10 +13439,12 @@
     "swadesh100": null,
     "swadesh207": 115,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E0739FA6-7BF3-45C6-A258-CC8D40359C25",
@@ -13110,10 +13486,12 @@
     "swadesh100": null,
     "swadesh207": 116,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E1B24881-9CCC-4624-9522-4C416B36A372",
@@ -13197,12 +13575,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "WJ/365"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9CA4B467-1A62-401B-98C8-BCE44D964556",
@@ -13244,12 +13624,14 @@
     "swadesh100": null,
     "swadesh207": 117,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F7CDC8D9-06D5-49FD-AFCF-D18CEDB136BB",
@@ -13295,12 +13677,14 @@
     "swadesh100": null,
     "swadesh207": 118,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BA5D5597-E863-4C6B-A3AC-92DD6EA7A66F",
@@ -13375,10 +13759,12 @@
     "swadesh100": 63,
     "swadesh207": 119,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "More conservative users prefer \"loda-\", meaning \"to float\". I disagree because \"to swim\" is one of the 100 words in the Swadesh list and should have its own meaning.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "557C1A13-4E91-4C5C-A6FB-41F656A8F520",
@@ -13422,13 +13808,15 @@
     "swadesh100": 64,
     "swadesh207": 120,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/23, 45",
       "LT1A/Vilna"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8E7515CD-414B-4C42-8691-D11FF039BCFF",
@@ -13470,12 +13858,14 @@
     "swadesh100": 65,
     "swadesh207": 121,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "506883F0-1F60-44FA-8C3A-9B6AF5C27822",
@@ -13534,6 +13924,8 @@
     "swadesh100": 66,
     "swadesh207": 122,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/166",
@@ -13542,7 +13934,7 @@
       "WJ/254, 301"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6D74DE9A-BBAD-49F2-B037-FE25BF9FE094",
@@ -13628,10 +14020,12 @@
     "swadesh100": 67,
     "swadesh207": 123,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "119F4981-907C-49DD-B622-9DD816E068C4",
@@ -13741,12 +14135,14 @@
     "swadesh100": 68,
     "swadesh207": 124,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "The term in Eldamo \"hadh-\" doesn't seem to have a logical phonetic evolution, so this word has been revised.",
     "references": [
       "EtyAC/KHAM"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3B4526DB-57D0-46DE-9ED4-D858AA4A1D0C",
@@ -13847,12 +14243,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE22/148"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "635737B7-2947-4BAA-A695-E40B2A6A329B",
@@ -13898,12 +14296,14 @@
     "swadesh100": 69,
     "swadesh207": 125,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "AotH/56"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "42402FA9-442C-4CBD-8D3B-696320863E2F",
@@ -13949,10 +14349,12 @@
     "swadesh100": null,
     "swadesh207": 126,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This verb has been argued to collide with prefix \"per-\" meaning \"half\", but since they are  different classes of words, I think it's safe to use. The alternative is a possible \"perna-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "26547753-40CC-43D3-81CD-FCF7DB7031A6",
@@ -13996,12 +14398,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Gnomish verb for \"to turn\", but also has a meaning of \"to twist\". Since we have another verb for \"turn\", I think this fits better with the idea of \"twist\", so that's listed as chief meaning. Whatever the case, it's related to a circular motion.",
     "references": [
       "GL/30"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1DCEBF98-7F0E-4E9E-822B-DFC9B618A4C9",
@@ -14076,12 +14480,14 @@
     "swadesh100": null,
     "swadesh207": 127,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
@@ -14167,6 +14573,8 @@
     "swadesh100": 70,
     "swadesh207": 128,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/1061",
@@ -14175,7 +14583,7 @@
       "VT44/27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4057850C-9E8B-40B4-84F1-A056BC5645D8",
@@ -14214,10 +14622,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "409B8222-0782-466E-806F-0067CB191D62",
@@ -14261,6 +14671,8 @@
     "swadesh100": null,
     "swadesh207": 129,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/GAR, ƷAR|GAR",
@@ -14268,7 +14680,7 @@
       "TAI/150"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1D716151-634B-4DCD-B94E-D12C672E662D",
@@ -14310,12 +14722,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/55"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0E4ADB77-76EB-4320-BFAB-835A7560DA3F",
@@ -14357,12 +14771,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/65-66"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "893AD642-3AD9-4A62-AF61-54F6299AFE2F",
@@ -14404,12 +14820,14 @@
     "swadesh100": null,
     "swadesh207": 130,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "81921783-512D-4E23-8733-D2F2E65CD4F1",
@@ -14453,10 +14871,12 @@
     "swadesh100": null,
     "swadesh207": 131,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "72330D7B-61FF-4A3C-9833-831C76AFA3B2",
@@ -14502,12 +14922,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5DB341BB-AF2E-4195-8B35-55B1492546B7",
@@ -14569,12 +14991,14 @@
     "swadesh100": null,
     "swadesh207": 132,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE23/122"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C10C13C4-A434-4F81-B797-C03E8FBAC566",
@@ -14616,12 +15040,14 @@
     "swadesh100": null,
     "swadesh207": 133,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/36"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3045B642-5C26-465B-8244-D71DB6530EF5",
@@ -14665,10 +15091,12 @@
     "swadesh100": null,
     "swadesh207": 134,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "A bit hypothetical because it requires some assumptions about its root for it to work.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F3CD52F2-1BC0-4F72-A47B-15B7BCBFDE04",
@@ -14714,10 +15142,12 @@
     "swadesh100": null,
     "swadesh207": 135,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2C361C9C-2F22-4DFC-BB1F-F85034438438",
@@ -14790,12 +15220,14 @@
     "swadesh100": null,
     "swadesh207": 136,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/KHAT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4DFAF0B2-8474-4A50-8F80-5E5A69B08019",
@@ -14863,12 +15295,14 @@
     "swadesh100": null,
     "swadesh207": 137,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/NUT, WŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "81795E78-0F1C-46D1-BE26-E2EDA0945B3B",
@@ -14914,12 +15348,14 @@
     "swadesh100": null,
     "swadesh207": 138,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/72"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "56014915-3D21-4DB4-AC73-6C58EEFC1B13",
@@ -14972,12 +15408,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"genediad\".",
     "references": [
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4FFE6E79-5840-493E-AFA0-88D8F3EF29BC",
@@ -15021,13 +15459,15 @@
     "swadesh100": null,
     "swadesh207": 139,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/145",
       "WJ/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7C486276-AA99-41B5-8CDF-230DCB8C963D",
@@ -15095,6 +15535,8 @@
     "swadesh100": 71,
     "swadesh207": 140,
     "definition": "say, speak",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/424",
@@ -15107,7 +15549,7 @@
       "VT50/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A6423CA6-12E2-49D8-976D-75A01B145F99",
@@ -15154,6 +15596,8 @@
     "swadesh100": null,
     "swadesh207": 141,
     "definition": "sing, chant",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LB/354",
@@ -15164,7 +15608,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F2AB643B-7701-4408-AB99-9CD5418E7A41",
@@ -15250,12 +15694,14 @@
     "swadesh100": null,
     "swadesh207": 142,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/TYAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E994BD33-80EE-46FE-BDEE-5002ED9AB901",
@@ -15299,13 +15745,15 @@
     "swadesh100": null,
     "swadesh207": 143,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word is used by more conservative Sindarin users as a word for \"to swim\". But I don't think that swimming and floating should be synonyms, so I propose a neologism for \"to swim\".",
     "references": [
       "Ety/LUT",
       "EtyAC/LUT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FFB873C6-1503-4216-84F4-B1919DFBB9E4",
@@ -15351,12 +15799,14 @@
     "swadesh100": null,
     "swadesh207": 144,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This is a Noldorin verb. It's Sindarin equivalent would be \"seria-\". But because this word is heavily associated with Sirion, I think it's easily recognisable. One could pretend it to be an defective case.",
     "references": [
       "Ety/SIR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D7FD44AB-FAC8-4791-A8CC-3C9138558A2F",
@@ -15413,10 +15863,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "outpour, outflow",
+    "ids_code": "",
+    "conception": "",
     "notes": "Based on \"ethir\" meaning \"outflow\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1338E96E-E7A9-47F6-BAF6-86B1A005C32B",
@@ -15460,13 +15912,15 @@
     "swadesh100": null,
     "swadesh207": 145,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/48",
       "LT1A/Helkar"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6ED9D60F-C915-4D21-B915-CF5DD93062C6",
@@ -15524,12 +15978,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "sprout, spring forth",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/TUY"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0BB8DD60-A19B-4137-8ADC-425CC5A1DDE0",
@@ -15582,10 +16038,12 @@
     "swadesh100": null,
     "swadesh207": 146,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0ED9B529-695E-4DBD-AC26-E4325267554E",
@@ -15629,12 +16087,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "open out, expand, billow",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "50FA4C0F-CCB4-4E94-B033-7EB4F7928FF9",
@@ -15709,6 +16169,8 @@
     "swadesh100": 72,
     "swadesh207": 147,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotRI",
@@ -15719,7 +16181,7 @@
       "SI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E7DBB81F-D795-44C5-A744-6CF2C8E74FCE",
@@ -15765,6 +16227,8 @@
     "swadesh100": 73,
     "swadesh207": 148,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LB/354",
@@ -15778,7 +16242,7 @@
       "WJI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EF1076EC-70EB-40E1-B42C-2B8D3ADE7E78",
@@ -15843,6 +16307,8 @@
     "swadesh100": 74,
     "swadesh207": 149,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "The primitive word is hypothetical because Tolkien insisted in a form that wouldn't develop following the phonetic rules.",
     "references": [
       "Let/427",
@@ -15857,7 +16323,7 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A1A4A98F-00E0-499E-BC47-43A85117C112",
@@ -15907,6 +16373,8 @@
     "swadesh100": 75,
     "swadesh207": 150,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "NM/378",
@@ -15916,7 +16384,7 @@
       "VT42/14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4E401BD3-0190-4501-98B1-F4C865149B89",
@@ -15988,6 +16456,8 @@
     "swadesh100": 76,
     "swadesh207": 151,
     "definition": "rain, spray of water",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "MR/155",
@@ -15996,7 +16466,7 @@
       "SA/ros"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F1D59E3A-6724-42A9-A7C5-5E6ED1CD68C5",
@@ -16039,6 +16509,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/37",
@@ -16047,7 +16519,7 @@
       "UT/263"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9D01BFD9-B7E5-4507-BB5E-B024C3270C62",
@@ -16114,6 +16586,8 @@
     "swadesh100": null,
     "swadesh207": 152,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/1138",
@@ -16126,7 +16600,7 @@
       "WJ/191"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4482E5D3-5FEC-48B9-99E3-88A917CCDE74",
@@ -16172,13 +16646,15 @@
     "swadesh100": null,
     "swadesh207": 153,
     "definition": "lake, pool",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from \"Aeluin\", \"Blue Lake\" and \"Aelin-uial\", \"Meres of Twilight\".",
     "references": [
       "S/162",
       "SA/aelin, lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C39E9FDC-98C1-4B1A-A811-1682CE70E0E3",
@@ -16249,6 +16725,8 @@
     "swadesh100": null,
     "swadesh207": 154,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/386",
@@ -16260,7 +16738,7 @@
       "WJ/400"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "26827AC3-50B0-4629-941D-B87F3C4FD225",
@@ -16303,12 +16781,14 @@
     "swadesh100": null,
     "swadesh207": 155,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "58A49E3F-E487-44BD-A53E-917222D4E87D",
@@ -16380,6 +16860,8 @@
     "swadesh100": 77,
     "swadesh207": 156,
     "definition": "stone, rock",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "NM/363",
@@ -16389,7 +16871,7 @@
       "WJ/201"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0BEF59B7-8522-4B1B-9F66-32ECAFA3F94F",
@@ -16460,6 +16942,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "pebble, stone, gem",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE23/136, 139",
@@ -16469,7 +16953,7 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A78BD10F-6D37-454D-A137-10AD06CF1FD0",
@@ -16540,12 +17024,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
@@ -16668,10 +17154,12 @@
     "swadesh100": 78,
     "swadesh207": 157,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "I really believe that a separate word for \"sand\" is important. I wouldn't claim that lith cannot mean both \"ash\" and \"sand\", natural languages permit stranger polysemies than that. But I do think there's a reasonable linguistic case that this merger is unusually unsupported cross-linguistically and that distinguishing the two concepts would improve the lexicon with very little cost. I have used √LIT \"grit\" + ✶-mā \"instrumental suffix\", in analogy to √SAG \"bitter, poison\" + -mā = ✶sagmā \"poison\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0BD66B3F-3A98-4EA3-BC66-70B850BA0DC2",
@@ -16718,12 +17206,14 @@
     "swadesh100": null,
     "swadesh207": 158,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/ÁS-AT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A4CF4976-6A20-42FE-B4FD-2B5025EF749D",
@@ -16786,12 +17276,14 @@
     "swadesh100": 79,
     "swadesh207": 159,
     "definition": "Both \"earth\" the element, and \"earth\" the world.",
+    "ids_code": "",
+    "conception": "",
     "notes": "In this word, the rule that removes the final \"-n\" from words did not seem to apply, suggesting that either this word has a different origin like \"kemenē\" or it's a back-formation from some inflected form. Prefer to use \"amar\" to refer to the whole world.",
     "references": [
       "VT44/27"
     ],
     "hidden": "s100 is \"earth or soil\"",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C26629A8-62E7-4748-8D97-6AA9698C75AE",
@@ -16875,6 +17367,8 @@
     "swadesh100": 80,
     "swadesh207": 160,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/278",
@@ -16883,7 +17377,7 @@
       "RGEO/66"
     ],
     "hidden": "s100 \"cloud, not fog\"",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B9330274-8553-42AF-B153-8534609B4867",
@@ -16955,13 +17449,15 @@
     "swadesh100": null,
     "swadesh207": 161,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/328",
       "SA/hîth"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9E6958CF-4AD6-45AA-A1AA-5EF79EB1BF0F",
@@ -17008,13 +17504,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/KHIS",
       "EtyAC/KHIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8396837B-8CE0-4CF3-BDCC-E1A5568D31D0",
@@ -17064,6 +17562,8 @@
     "swadesh100": null,
     "swadesh207": 162,
     "definition": "Sky, the heavens, firmament, region of the stars",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LB/354",
@@ -17074,7 +17574,7 @@
       "VT44/23"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "67DCC523-4E28-48E5-AA5D-B3FE2BA3E91A",
@@ -17165,6 +17665,8 @@
     "swadesh100": null,
     "swadesh207": 163,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "NM/237",
@@ -17172,7 +17674,7 @@
       "PE23/142"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "1FEDC319-1E46-422B-BF7F-3A8D6DA43F34",
@@ -17243,6 +17745,8 @@
     "swadesh100": null,
     "swadesh207": 164,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/278",
@@ -17252,7 +17756,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C1C610F2-68B4-421A-8B88-358071522CAF",
@@ -17342,12 +17846,14 @@
     "swadesh100": null,
     "swadesh207": 165,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "(The phonetic development here is a guess.)",
     "references": [
       "PE23/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D293677A-9716-4D61-947F-1BFC03A9C12C",
@@ -17432,12 +17938,14 @@
     "swadesh100": 81,
     "swadesh207": 166,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/USUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5136744A-8797-4E97-9EB6-851ECC898027",
@@ -17485,12 +17993,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "vapour, steam",
+    "ids_code": "",
+    "conception": "",
     "notes": "Neologism based on Quenya cognate.",
     "references": [
       "GL/71"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "49E6CD12-7D77-4EE5-A401-277B72D88253",
@@ -17558,6 +18068,8 @@
     "swadesh100": 82,
     "swadesh207": 167,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/290, 299, 942",
@@ -17567,7 +18079,7 @@
       "SA/nár"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7E45AC20-2470-49CE-8A03-81CAC2B5513F",
@@ -17611,13 +18123,15 @@
     "swadesh100": 83,
     "swadesh207": 168,
     "definition": "ash, sand",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/765",
       "SA/lith"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A5F4E714-87E6-4509-8405-7275723534D6",
@@ -17661,12 +18175,14 @@
     "swadesh100": 84,
     "swadesh207": 169,
     "definition": "burn (transitive and intransitive)",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/75"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "93E2E900-6D0A-4E9C-95D9-F9C1EC91A785",
@@ -17751,12 +18267,14 @@
     "swadesh100": null,
     "swadesh207": 170,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE23/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D397B400-EFB1-4812-B48E-46592AB7FD69",
@@ -17804,6 +18322,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "road, way",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "NM/372",
@@ -17811,7 +18331,7 @@
       "UTI/Men-i-Naugrim"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "46F49D00-38A1-4106-9A5E-995D802DFB43",
@@ -17857,12 +18377,14 @@
     "swadesh100": 85,
     "swadesh207": null,
     "definition": "path, pass",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT47/14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "522A220B-A061-4D68-B1C0-82CBEFE98DC5",
@@ -17936,6 +18458,8 @@
     "swadesh100": 86,
     "swadesh207": 171,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/469",
@@ -17948,7 +18472,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E180B8AA-098B-4C38-9CBC-4B40F25F9A5F",
@@ -17993,12 +18517,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "lump, clump, mass",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/15, 93"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F3864741-E1C1-4DD9-842A-6F4003159E7A",
@@ -18086,6 +18612,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "hill, mountain with steep sides",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/1097, 1115",
@@ -18101,7 +18629,7 @@
       "WJ/187"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7839E187-5311-4DDA-94A8-D3B8BF865D13",
@@ -18165,12 +18693,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "mound, hill",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/MINI, TUN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F4EEFAB2-2CF4-4339-B279-10993CFE8A0D",
@@ -18218,6 +18748,8 @@
     "swadesh100": 87,
     "swadesh207": 172,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/36",
@@ -18225,7 +18757,7 @@
       "VT41/10"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BF6E010A-DD0E-4284-9196-69ADDDAB3CC7",
@@ -18268,10 +18800,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word coined from Middle Quenya \"kuluina\".",
     "references": [],
     "hidden": "karanismalinā",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5A6E6034-D139-40CF-9B5D-1B982C1E0E81",
@@ -18347,6 +18881,8 @@
     "swadesh100": 88,
     "swadesh207": 173,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/282",
@@ -18357,7 +18893,7 @@
       "VT42/19"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5B0899DE-86C2-436E-8ED9-80A77AF79A74",
@@ -18444,12 +18980,14 @@
     "swadesh100": 89,
     "swadesh207": 174,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/SMAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2AF2EDFE-B9E1-41CB-8A59-92E81B5BEFAA",
@@ -18508,6 +19046,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/448",
@@ -18517,7 +19057,7 @@
       "VT48/23-24, 28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A613851E-8EEB-4A46-A310-D0A55CEEB014",
@@ -18612,12 +19152,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/ƷEL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BD9249AC-6387-462F-B3BB-28AD4741C00C",
@@ -18700,10 +19242,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "indigo, (lit.) \"dark-blue\"",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C9389F84-32C5-45F8-8C15-3F069CF733AC",
@@ -18749,13 +19293,15 @@
     "swadesh100": 90,
     "swadesh207": 175,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word has a dubious phonetic evolution.",
     "references": [
       "PE17/19, 168",
       "SA/nim"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "9DBECE67-7982-488C-83CB-E283E9B2C5AD",
@@ -18826,6 +19372,8 @@
     "swadesh100": 91,
     "swadesh207": 176,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/382, 427",
@@ -18837,7 +19385,7 @@
       "WJ/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2D3ACB09-8EA7-4A38-9D89-9A99E5A6233E",
@@ -18912,6 +19460,8 @@
     "swadesh100": 92,
     "swadesh207": 177,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "NM/279, 283",
@@ -18922,7 +19472,7 @@
       "VT41/8"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B6E1B8F2-D22A-4A21-8F35-F474E8266174",
@@ -19005,6 +19555,8 @@
     "swadesh100": null,
     "swadesh207": 178,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/120, 148",
@@ -19013,7 +19565,7 @@
       "VT44/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0210D66C-9D4B-459C-9BB1-3C920873ACA6",
@@ -19069,10 +19621,12 @@
     "swadesh100": null,
     "swadesh207": 179,
     "definition": "solar year, (lit.) sun-round",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from Quenya \"coranar\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DAFAAA3F-4D0F-4AFF-BE69-19606C440EDD",
@@ -19130,10 +19684,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "seasonal year, (lit.) growth-cycle",
+    "ids_code": "",
+    "conception": "",
     "notes": "Reconstructed from Quenya \"löa\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3AFAC197-D5B6-4D94-B695-CEDD6ECC3C1B",
@@ -19176,13 +19732,15 @@
     "swadesh100": 93,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word extracted from \"Borgil\".",
     "references": [
       "Let/426",
       "PE23/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E5CB2F0D-09C5-4AA1-AE6E-8E731BFAB9D3",
@@ -19269,12 +19827,14 @@
     "swadesh100": null,
     "swadesh207": 180,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/LAW"
     ],
     "hidden": "s100 hot; s207 warm",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E5A38108-6922-48F2-940F-ECCB6F6F4A8E",
@@ -19339,13 +19899,15 @@
     "swadesh100": 94,
     "swadesh207": 181,
     "definition": "cold, chill",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "SA/ring",
       "VT42/13-14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BD8F463B-97DF-48CD-9B94-CF399CC3DBC8",
@@ -19388,12 +19950,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Extracted from \"Nen Hithoel\".",
     "references": [
       "RC/328"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "66DDCF0E-94EC-4358-ADA7-8C1E89CE6B54",
@@ -19438,12 +20002,14 @@
     "swadesh100": 95,
     "swadesh207": 182,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "SD/126"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F1E0FA04-BCB0-433D-98A0-C803FB3097A3",
@@ -19531,12 +20097,14 @@
     "swadesh100": 96,
     "swadesh207": 183,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/SI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EC1069C1-5136-45AD-B4AC-7171353D19F4",
@@ -19598,12 +20166,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word is a homonym of \"laew\" meaning \"frequent\", but their primitive versions are different.",
     "references": [
       "PE17/159"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4B8B3214-065B-41A4-94CF-A34803C3BC43",
@@ -19650,6 +20220,8 @@
     "swadesh100": null,
     "swadesh207": 184,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/523",
@@ -19658,7 +20230,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "62B916F4-9DB5-4733-8FCB-8EBF1E394BED",
@@ -19699,12 +20271,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "RC/579"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2A67E309-48C1-4E70-8C42-5A390D6C421F",
@@ -19758,12 +20332,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Extracted from \"Torhir Ifant\"",
     "references": [
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-14"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "973CCD97-B758-4962-83AC-137C4D161878",
@@ -19856,12 +20432,14 @@
     "swadesh100": 97,
     "swadesh207": 185,
     "definition": "good, excellent, fair",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/162-163, 172"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4200325F-46AB-4E04-A113-A74B6C4A4957",
@@ -19921,6 +20499,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/308",
@@ -19928,7 +20508,7 @@
       "PE17/16-17, 131, 157-158, 162-163, 172"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2B5BD136-073B-472C-B0DD-F41A80134276",
@@ -20047,12 +20627,14 @@
     "swadesh100": null,
     "swadesh207": 186,
     "definition": "bad; mean; low in quality, value, or importance; paltry; poor; inferior",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/SPAY"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "7F4180C1-22BA-477E-BA9F-D8205BCDA05A",
@@ -20158,12 +20740,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "nasty, unpleasant, offensive, repugnant",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE22/160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "16814695-8692-465E-8DE1-90BB5E813D6C",
@@ -20267,12 +20851,14 @@
     "swadesh100": null,
     "swadesh207": 187,
     "definition": "corrupt, rotten",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/THUS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "06D4E12C-0E1F-42D6-98F4-0D214778909A",
@@ -20375,12 +20961,14 @@
     "swadesh100": null,
     "swadesh207": 188,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/WAƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C491D32C-2310-49E8-9C5A-B9B63E7A3875",
@@ -20419,10 +21007,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EA0E160E-F77E-4525-BA50-459C3188E109",
@@ -20511,13 +21101,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/SMAG",
       "EtyAC/MAG"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2329B2EE-E062-4E24-994F-A3CB6BFF94EF",
@@ -20558,12 +21150,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Extracted from \"Agarwaen\"",
     "references": [
       "S/210"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D37D15CB-887C-4282-A51C-52368E4CDCFB",
@@ -20611,13 +21205,15 @@
     "swadesh100": null,
     "swadesh207": 189,
     "definition": "right; not curved; straight",
+    "ids_code": "",
+    "conception": "",
     "notes": "This word has a peculiar phonetic development even in Noldorin form, which we retain in Sindarin. Regular development would yield \"tair\".",
     "references": [
       "Ety/TEÑ",
       "EtyAC/TEÑ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "366141C6-4DA5-48C4-9EEE-B7360DD86D92",
@@ -20685,13 +21281,15 @@
     "swadesh100": 98,
     "swadesh207": 190,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/RIN",
       "EtyAC/RIN"
     ],
     "hidden": "swadesh should be \"round\"",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0ECF7953-0E59-4988-9CEC-83CF2A3218B7",
@@ -20763,12 +21361,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "round, globed",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/KOR, MBAS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F481793F-5BFA-46D7-8266-8307D6F70395",
@@ -20809,13 +21409,15 @@
     "swadesh100": null,
     "swadesh207": 191,
     "definition": "sharp (as a knife)",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "GL/27",
       "LT2A/Cris Ilbranteloth"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0FB5FFF7-A948-43FF-8045-288657692FCF",
@@ -20899,13 +21501,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "sharp, piercing",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "SA/maeg",
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "24341DB2-C621-4BF6-B6CC-D2778B525943",
@@ -20955,10 +21559,12 @@
     "swadesh100": null,
     "swadesh207": 192,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C808FEFC-5A9B-42CE-8947-DA458EDA5CF8",
@@ -21064,12 +21670,14 @@
     "swadesh100": null,
     "swadesh207": 193,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/PATH"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "8FDA8ED0-4FB7-4DCC-A7A7-567385F99580",
@@ -21173,12 +21781,14 @@
     "swadesh100": null,
     "swadesh207": 194,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/LINKWI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "23E092ED-F703-4DEF-A940-982344551FC5",
@@ -21263,13 +21873,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "damp, wet; tearful",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/NEI",
       "EtyAC/NEI, NEI̯(ET)"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4EB00F4D-3EF8-4A64-A478-BAC16981D024",
@@ -21345,6 +21957,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "wet, watery",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/52, 61",
@@ -21352,7 +21966,7 @@
       "SA/nen"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "61136050-57E1-4591-A4A1-7C3BB550A075",
@@ -21439,13 +22053,15 @@
     "swadesh100": 99,
     "swadesh207": 195,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/PÁRAK",
       "EtyAC/A"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "935E47F2-7210-439D-BBB2-5AA4F04C1052",
@@ -21486,10 +22102,12 @@
     "swadesh100": null,
     "swadesh207": 196,
     "definition": "correct, appropriate, or acceptable",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "267917C4-142A-45E5-8B07-3AA9699D6F80",
@@ -21529,10 +22147,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "upright, honest",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D2D30E4C-0A7E-47C8-AA06-163B7A598A49",
@@ -21601,12 +22221,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "esteem, regard, honour",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/TEƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A1A0AFC5-BA35-44DA-9DCD-B4F5DEA5B7CB",
@@ -21681,6 +22303,8 @@
     "swadesh100": null,
     "swadesh207": 197,
     "definition": "near; hither, on this side of (side of the speaker)",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LotR/238",
@@ -21688,7 +22312,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E0748887-413A-4384-B2DB-89E3E85BFA7E",
@@ -21738,10 +22362,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B1100C02-A8E9-455B-8C2D-5DBFCC8BC3A1",
@@ -21791,10 +22417,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F0F08FB1-4FE0-4C2C-B73A-48CA2309F5FD",
@@ -21840,6 +22468,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "here, in this place (of speaker)",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "LB/354",
@@ -21850,7 +22480,7 @@
       "VT49/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3A2A0183-C5F0-4C38-9256-35474EF57AB8",
@@ -21932,12 +22562,14 @@
     "swadesh100": null,
     "swadesh207": 198,
     "definition": "far, distant, remote",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE17/25, 27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6AD3E2B1-94CC-4EEE-AF61-A949F2083D25",
@@ -21982,6 +22614,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "afar, abroad, far and wide",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Let/279",
@@ -21990,7 +22624,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B3FDE174-205D-4785-8FA6-1D6582A52F11",
@@ -22031,12 +22665,14 @@
     "swadesh100": null,
     "swadesh207": 199,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word taken from \"Eryn Fuir\" meaning \"North Wood\". The meaning for north was striken through. David Salo suggested that the word was derived from a root meaning \"right hand\". The evidence is sound, but the phonetic development is murky.",
     "references": [
       "VT42/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4B8D37BC-2167-4A8D-95C3-D3B0B3C147CC",
@@ -22092,12 +22728,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "right hand, a position or direction indicated by its location to the side of an object or the observer",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT47/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "36746B60-1CF3-4537-B229-EE40070AEA01",
@@ -22201,13 +22839,15 @@
     "swadesh100": null,
     "swadesh207": 200,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "Ety/KHYAR",
       "EtyAC/KHYAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "DAB2A068-8441-4A75-BFF9-E47681EE86FA",
@@ -22262,13 +22902,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "left hand, a position or direction indicated by its location to the side of an object or the observer",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "PE23/136",
       "VT47/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2A95ABDD-3A81-43D8-B929-D6E8D6D13FBE",
@@ -22318,6 +22960,8 @@
     "swadesh100": null,
     "swadesh207": 201,
     "definition": "to, towards; at; with, by",
+    "ids_code": "",
+    "conception": "",
     "notes": "\"n(a)\" is an allative preposition, indicating movement towards something. It is regularly elided to \"n'\" before vowels and it triggers soft mutation. Avoid using \"n(a)\" for meanings of time, unless it's to indicate the end of a waiting period, as in \"na vedui\", \"at last\". This preposition should not be reduced before a \"lost g.\"",
     "references": [
       "LotR/209, 238",
@@ -22326,7 +22970,7 @@
       "VT50/21"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "2920A26B-6AF7-499D-B433-4D276D472276",
@@ -22372,6 +23016,8 @@
     "swadesh100": null,
     "swadesh207": 202,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "\"mi\" triggers soft mutation when the modified noun is indefinite. When the noun is definite, the article appears as a suffix as \"min\". In the singular, \"min\" causes mixed mutation, and in the plural, nasal mutation.",
     "references": [
       "PE22/165",
@@ -22380,7 +23026,7 @@
       "VT50/18-19"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C5F1D055-7EBC-4A7C-8CEE-D04F085909D5",
@@ -22431,6 +23077,8 @@
     "swadesh100": null,
     "swadesh207": 203,
     "definition": "of; with, accompanied/provided by, associated/marked with",
+    "ids_code": "",
+    "conception": "",
     "notes": "\"na(n)\" is a prepositional genitive, used for partitive relationships. It becomes \"nan\" before vowels and triggers nasal mutation. It indicates a sense of possession or having a certain feature.",
     "references": [
       "LotR/469",
@@ -22443,7 +23091,7 @@
       "WJI/Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F7B007FF-EB78-4EBE-8E35-53D83F2F9ED0",
@@ -22489,6 +23137,8 @@
     "swadesh100": null,
     "swadesh207": 204,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "\"a\" is regularly modified to \"ah\" before vowels and it triggers sibilant mutation.",
     "references": [
       "AotM/62",
@@ -22506,7 +23156,7 @@
       "VT50/18-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "5ACAE6B6-4680-43FA-878A-4DE7D088C163",
@@ -22562,10 +23212,12 @@
     "swadesh100": null,
     "swadesh207": 205,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "Word reconstructed from Quenya \"qui\". This is basically the only word for \"if\" in Sindarin, thus very popular.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "6A35AEBA-37F2-4825-9740-2598CAC46C35",
@@ -22620,10 +23272,12 @@
     "swadesh100": null,
     "swadesh207": 206,
     "definition": "because, (lit.) \"for reason that\"",
+    "ids_code": "",
+    "conception": "",
     "notes": "This is an expression to represent an equivalent of English word \"because\". It's also written \"a chaeth i\", because there is a group that believes that the preposition \"an\" should cause nasal mutation on the following word (\"caeth\"). I think it should cause mixed mutation, therefore \"añ gaeth\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "49379349-C98A-4A7E-A7E4-04AA6437F9D8",
@@ -22679,12 +23333,14 @@
     "swadesh100": 100,
     "swadesh207": 207,
     "definition": "",
+    "ids_code": "",
+    "conception": "",
     "notes": "",
     "references": [
       "VT44/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-15"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EAD3EA85-A1B9-4AB7-A552-74E5A8D2A12B",
@@ -22738,12 +23394,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "1.1",
+    "conception": "Key-2016-1310-965",
     "notes": "Word appearing only in the name \"Mîr n'Ardhon\", or \"Jewel of the World\".",
     "references": [
       "PM/348"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "3C01FA4F-6699-461B-B7FF-9CCA9394D86B",
@@ -22796,13 +23454,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "one, somebody, anybody",
+    "ids_code": "2.1",
+    "conception": "Key-2016-1310-893",
     "notes": "",
     "references": [
       "PE17/141",
       "WJ/362, 376"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
@@ -22849,13 +23509,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "4.1",
+    "conception": "Key-2016-1310-723",
     "notes": "",
     "references": [
       "NM/237",
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "4C2BB992-88DF-430F-AC1C-9B175EB021E6",
@@ -22953,13 +23615,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to wear; put on clothes",
+    "ids_code": "6.11",
+    "conception": "Key-2016-1310-494",
     "notes": "In Sindarin, [mm] is shortened, so this verb doesn't match its Noldorin counterpart exactly.",
     "references": [
       "Ety/KHAP",
       "EtyAC/KHAP"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
@@ -23008,12 +23672,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to live, dwell, reside, stay",
+    "ids_code": "7.11",
+    "conception": "Key-2016-1310-436",
     "notes": "",
     "references": [
       "PE13/150"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
@@ -23069,10 +23735,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "8.11",
+    "conception": "Key-2016-1310-393",
     "notes": "Reconstructed from Gnomish \"nandor\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
@@ -23122,6 +23790,8 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to do, make",
+    "ids_code": "9.11",
+    "conception": "Key-2016-1310-326",
     "notes": "",
     "references": [
       "PE17/68, 132, 144-145, 148, 170",
@@ -23131,7 +23801,7 @@
       "WJ/371, 415"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -23215,10 +23885,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to move, to cause to move",
+    "ids_code": "10.11",
+    "conception": "Key-2016-1310-255",
     "notes": "Neologism meaning roughly \"to cause to move\". It's intransitive, thus suggesting moving oneself.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "F7F1269B-54A9-4CB5-89B8-9FABBDF7843C",
@@ -23288,10 +23960,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to move, cause something to move",
+    "ids_code": "10.11",
+    "conception": "Key-2016-1310-255",
     "notes": "Neologism attempting to translate Quenya \"lev-\", based on root √ELE.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "C886444C-FC03-48EE-840E-2D9917A1B7A9",
@@ -23392,10 +24066,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to move; to push; cause to go",
+    "ids_code": "10.11",
+    "conception": "Key-2016-1310-255",
     "notes": "Neologism based on root √NID to express inprinting movement onto something.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "0A82999B-FA3E-4C42-A84F-F4E3D4D413E4",
@@ -23439,13 +24115,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to go",
+    "ids_code": "10.11",
+    "conception": "Key-2016-1310-255",
     "notes": "",
     "references": [
       "PE17/93",
       "PE22/165"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
@@ -23491,12 +24169,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to be in material possession of; to own; to possess as a characteristic quality or attribute",
+    "ids_code": "11.11",
+    "conception": "Key-2016-1310-175",
     "notes": "",
     "references": [
       "PE17/173"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -23539,12 +24219,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "12.1",
+    "conception": "Key-2016-1310-130",
     "notes": "",
     "references": [
       "PM/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
@@ -23585,10 +24267,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "13",
+    "conception": "Key-2016-1310-58",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "E8E51EB2-5236-4405-95DF-94B299A4AE34",
@@ -23627,10 +24311,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "13",
+    "conception": "Key-2016-1310-58",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "677A07CA-9F00-4D0A-9625-A9627C0F8FD3",
@@ -23673,12 +24359,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
+    "ids_code": "13",
+    "conception": "Key-2016-1310-58",
     "notes": "",
     "references": [
       "GL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "FDA0B361-B902-4777-9E03-FF50E69B1837",
@@ -23722,13 +24410,15 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "time, occasion",
+    "ids_code": "14.11",
+    "conception": "Key-2016-1310-21",
     "notes": "",
     "references": [
       "Ety/LU",
       "EtyAC/LOƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   },
   {
     "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
@@ -23794,11 +24484,13 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to smell bad, to stink (intransitive)",
+    "ids_code": "15.21",
+    "conception": "Key-2016-1310-1000",
     "notes": "",
     "references": [
       "EtyAC/THUS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-16"
+    "last_modified": "2026-07-17"
   }
 ]
