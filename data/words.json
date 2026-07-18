@@ -25543,6 +25543,122 @@
     "last_modified": "2026-07-18"
   },
   {
+    "uuid": "17FBF917-6CF3-4065-9233-F563F5C90292",
+    "id": "nedunnia",
+    "mutation_marker": "",
+    "sindarin": "nedunnia-",
+    "spellings": [],
+    "ipa": "ne.'du.nja",
+    "tengwar": "",
+    "cirth": "@z9S@@lcI",
+    "english": [
+      "sniff"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "smell",
+    "ids_chapter": "sense perception",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ne",
+        "tuntu"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "netuntuja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "netuntʰuja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "netunθuja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "netunθuia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "nedunθuia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "nedunθia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "nedunnia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "NE",
+          "gloss": "scent",
+          "type": "root"
+        },
+        {
+          "form": "TUNTU",
+          "gloss": "notice, perceive",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "ancient causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=netuntu.ja&off=DGIAQL%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-19H0Q4R"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "sniff, (lit.) \"scent notice\"",
+    "ids_code": "15.212",
+    "conception": "Key-2016-1310-1001",
+    "notes": "Very experimental neologism based on French \"flairer\", which comes from the idea of \"perceiving scent\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
     "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
     "id": "thosta",
     "mutation_marker": "",
@@ -25560,7 +25676,7 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "condition",
+    "category": "smell",
     "ids_chapter": "sense perception",
     "type": "restored",
     "source": "Noldorin",
@@ -25613,7 +25729,7 @@
       "EtyAC/THUS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "308240B8-F2A5-4C8B-9CA7-6DBFCDC47D62",
@@ -26100,6 +26216,68 @@
     "last_modified": "2026-07-18"
   },
   {
+    "uuid": "EE4C5626-E157-4C5B-BFD4-C6162FA0EEB2",
+    "id": "bardor",
+    "mutation_marker": "mb-",
+    "sindarin": "bardor",
+    "spellings": [],
+    "ipa": "'bar.dor",
+    "tengwar": "",
+    "cirth": "2cR9bR",
+    "english": [
+      "home land"
+    ],
+    "grammar": [],
+    "inflection": {
+      "base": "bardor",
+      "singular": "",
+      "plural": "berdyr"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2456200671",
+    "etymology": {
+      "root_refs": [
+        "mbar",
+        "ndor"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "bâr",
+          "gloss": "house, dwelling, home",
+          "type": "noun"
+        },
+        {
+          "form": "dôr",
+          "gloss": "land",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "home land, native land",
+    "ids_code": "19.12",
+    "conception": "Key-2016-1310-1190",
+    "notes": "",
+    "references": [
+      "PE17/164"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
@@ -26246,6 +26424,55 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "B2EAB64A-6405-4B86-8452-A0A851B7363A",
+    "id": "baumar",
+    "mutation_marker": "mb-",
+    "sindarin": "baumar",
+    "spellings": [],
+    "ipa": "'baw.mar",
+    "tengwar": "",
+    "cirth": "2cS6cR",
+    "english": [
+      "court of law",
+      "tribunal"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "baumar",
+      "singular": "",
+      "plural": "baumair"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "law",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "court of law, tribunal",
+    "ids_code": "21.15",
+    "conception": "Key-2016-1310-1264",
+    "notes": "Neologism coined based on Hebrew בית משפט (beit mishpat) \"house of judgment\" and Japanese 裁判所 (saibansho) \"place of judgment\". The components are \"baudh [mb-]\" and \"bâr [mb-]\", based on Angmar \"Iron Home\" and skipping the [au] to [o] rule based on \"Bauglir [mb-]\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
     "id": "aedaith",
     "mutation_marker": "",
@@ -26373,5 +26600,103 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "071803B4-CD59-4645-A1FA-E9EEBE81BF85",
+    "id": "aenor",
+    "mutation_marker": "",
+    "sindarin": "aenor",
+    "spellings": [],
+    "ipa": "'ae.nor",
+    "tengwar": "",
+    "cirth": "cz@bR",
+    "english": [
+      "god"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "aenor",
+      "singular": "",
+      "plural": "aenyr"
+    },
+    "gender": "",
+    "category": "beliefs",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1115058761",
+    "etymology": {
+      "root_refs": [
+        "ayan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "word used for any god, and probably the Valar, depending on context",
+    "ids_code": "22.12",
+    "conception": "Key-2016-1310-1290",
+    "notes": "Neologism from Gnomish \"ain\". The original for \"aen\" collides with another word, so the extended form with the agental suffix \"-or\" is used instead.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
+    "uuid": "38E11426-95FC-495F-8A3C-042DDF883E4F",
+    "id": "eru",
+    "mutation_marker": "",
+    "sindarin": "Eru",
+    "spellings": [],
+    "ipa": "'e.ru",
+    "tengwar": "",
+    "cirth": "zRS",
+    "english": [
+      "the god"
+    ],
+    "grammar": [
+      "proper noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "beliefs",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3884549351",
+    "etymology": {
+      "root_refs": [
+        "er"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "eru"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "the god said to have created Arda",
+    "ids_code": "22.12",
+    "conception": "Key-2016-1310-1290",
+    "notes": "Based on the same name from Quenya.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
   }
 ]
