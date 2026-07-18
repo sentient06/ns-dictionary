@@ -947,7 +947,7 @@
   },
   {
     "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
-    "id": "san",
+    "id": "san-pronoun",
     "mutation_marker": "",
     "sindarin": "san",
     "spellings": [],
@@ -990,7 +990,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "8D62AF29-5B32-42EF-ADC6-480839615531",
@@ -2075,8 +2075,8 @@
     "swadesh100": 11,
     "swadesh207": 22,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "13.1",
+    "conception": "Key-2016-1310-57",
     "notes": "",
     "references": [
       "PE17/95",
@@ -2084,7 +2084,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "7CA9EFD0-241C-45FC-9D7E-CED0882B61E5",
@@ -12241,7 +12241,7 @@
   },
   {
     "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
-    "id": "san",
+    "id": "san-verb",
     "mutation_marker": "",
     "sindarin": "san-",
     "spellings": [],
@@ -12249,7 +12249,8 @@
     "tengwar": "",
     "cirth": "fc@I",
     "english": [
-      "think (in an active and analytical way)"
+      "think (in an active and analytical way)",
+      "reflect"
     ],
     "grammar": [
       "verb"
@@ -12259,7 +12260,7 @@
     "category": "mind",
     "ids_chapter": "cognition",
     "type": "neologism",
-    "source": "Unknown",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -12279,16 +12280,16 @@
       "class": "basic",
       "irregular": false
     },
-    "confidence": 3,
+    "confidence": 0,
     "swadesh100": null,
     "swadesh207": 104,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "",
+    "definition": "to think, to reflect",
+    "ids_code": "17.13",
+    "conception": "Key-2016-1310-1098",
+    "notes": "Neologism based on reverse-engineered Quenya \"sana-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "2B71905D-06EC-4CC3-AFAA-F141A01F0F5D",
@@ -25064,7 +25065,7 @@
   },
   {
     "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
-    "id": "sav",
+    "id": "sav-have",
     "mutation_marker": "",
     "sindarin": "sav-",
     "spellings": [],
@@ -25113,7 +25114,7 @@
       "PE17/173"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -25238,12 +25239,12 @@
     "definition": "",
     "ids_code": "12.11",
     "conception": "Key-2016-1310-129",
-    "notes": "",
+    "notes": "Causes soft mutation in the next word.",
     "references": [
       "Ety/TELES"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
@@ -25538,8 +25539,8 @@
     "conception": "Key-2016-1310-19",
     "notes": "",
     "references": [],
-    "hidden": "Slot for \"age\", \"oldness\"",
-    "last_modified": "2026-07-17"
+    "hidden": "",
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
@@ -25722,6 +25723,143 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "7733C8BB-B0BA-4657-962D-35423F265BA0",
+    "id": "gaeda",
+    "mutation_marker": "",
+    "sindarin": "gaeda-",
+    "spellings": [],
+    "ipa": "'gae.da",
+    "tengwar": "",
+    "cirth": "rcz9cI",
+    "english": [
+      "astound",
+      "surprise",
+      "shock"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "780444551",
+    "etymology": {
+      "root_refs": [
+        "gayar"
+      ],
+      "primitive": {
+        "form": "gaytā",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "gajtā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "113345945"
+        },
+        {
+          "form": "gaitā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "gaita",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "gaida",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "gaeda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gaj.ta%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "aita-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to astound, make aghast; to surprise, to shock",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
+    "uuid": "440A9B10-7B46-4A29-B68B-1504C0746456",
+    "id": "gaedannen",
+    "mutation_marker": "",
+    "sindarin": "gaedannen",
+    "spellings": [],
+    "ipa": "gae.'dan.nen",
+    "tengwar": "",
+    "cirth": "rcz9c@@z@",
+    "english": [
+      "surprised"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "surprised, awe-struck; past participle of \"gaeda-\"",
+    "ids_code": "16.15",
+    "conception": "Key-2016-1310-1050",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
     "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
     "id": "sadhor",
     "mutation_marker": "",
@@ -25808,6 +25946,55 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "B1BA77AC-F33B-4E30-83D0-CC15CAE21773",
+    "id": "sav-believe",
+    "mutation_marker": "",
+    "sindarin": "sav-",
+    "spellings": [],
+    "ipa": "sav",
+    "tengwar": "",
+    "cirth": "fc4I",
+    "english": [
+      "think (be of opinion)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "818278213",
+    "etymology": {
+      "root_refs": [
+        "sab"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to think, to believe, to be of the opinion, to accept as fact",
+    "ids_code": "17.14",
+    "conception": "Key-2016-1310-1099",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
     "id": "glim",
     "mutation_marker": "",
@@ -25852,6 +26039,158 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "A96625F7-52E6-459F-856C-73AA7368E67C",
+    "id": "linna",
+    "mutation_marker": "",
+    "sindarin": "linna-",
+    "spellings": [],
+    "ipa": "'li.na",
+    "tengwar": "",
+    "cirth": "al@@cI",
+    "english": [
+      "sing",
+      "chant"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "art",
+    "ids_chapter": "speech and language",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "578926463",
+    "etymology": {
+      "root_refs": [
+        "lin"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "linda-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to sing, chant",
+    "ids_code": "18.12",
+    "conception": "Key-2016-1310-1149",
+    "notes": "",
+    "references": [
+      "LB/354",
+      "LotR/238",
+      "Minor-Doc/1975-01-01",
+      "PE17/27",
+      "PE22/167",
+      "RGEO/63-64"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-18"
+  },
+  {
+    "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
+    "id": "dagor",
+    "mutation_marker": "nd-",
+    "sindarin": "dagor",
+    "spellings": [],
+    "ipa": "'da.gor",
+    "tengwar": "",
+    "cirth": "9crbR",
+    "english": [
+      "battle"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "dagor",
+      "singular": "",
+      "plural": "degyr"
+    },
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2092261605",
+    "etymology": {
+      "root_refs": [
+        "ndak"
+      ],
+      "primitive": {
+        "form": "ndakro",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "ndakro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "dakro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "dakr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "dagr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "dagor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ndakro&off=PE%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "20.13",
+    "conception": "Key-2016-1310-1224",
+    "notes": "",
+    "references": [
+      "S/106, 115, 151, 292",
+      "SA/dagor"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-18"
   },
   {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
