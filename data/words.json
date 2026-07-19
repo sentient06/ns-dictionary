@@ -3567,15 +3567,15 @@
     "swadesh100": 16,
     "swadesh207": 36,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "2.22",
+    "conception": "Key-2016-1310-891",
     "notes": "",
     "references": [
       "Ety/BES, DER, NĪ",
       "EtyAC/NDIS, NĪ, NIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "D3EBC6E8-0377-414C-A39E-6B57E9A2871F",
@@ -7554,15 +7554,15 @@
     "swadesh100": 29,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.13",
+    "conception": "Key-2016-1310-721",
     "notes": "",
     "references": [
       "MR/350, 470-471",
       "VT47/12"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "BF8C3304-963C-47E2-AB23-2E4AB13558F3",
@@ -17226,7 +17226,8 @@
     "tengwar": "",
     "cirth": "ez4z@",
     "english": [
-      "earth"
+      "earth",
+      "soil"
     ],
     "grammar": [
       "noun"
@@ -17276,15 +17277,15 @@
     "confidence": null,
     "swadesh100": 79,
     "swadesh207": 159,
-    "definition": "Both \"earth\" the element, and \"earth\" the world.",
-    "ids_code": "",
-    "conception": "",
+    "definition": "earth, element, dirt, soil; Earth, the world",
+    "ids_code": "1.212",
+    "conception": "Key-2016-1310-963",
     "notes": "In this word, the rule that removes the final \"-n\" from words did not seem to apply, suggesting that either this word has a different origin like \"kemenē\" or it's a back-formation from some inflected form. Prefer to use \"amar\" to refer to the whole world.",
     "references": [
       "VT44/27"
     ],
     "hidden": "s100 is \"earth or soil\"",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "C26629A8-62E7-4748-8D97-6AA9698C75AE",
@@ -23627,6 +23628,60 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "3B248E46-14BA-474E-B657-302F3FC0D634",
+    "id": "inu",
+    "mutation_marker": "",
+    "sindarin": "inu",
+    "spellings": [],
+    "ipa": "'i.nu",
+    "tengwar": "",
+    "cirth": "l@S",
+    "english": [
+      "female (of animal)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "inu",
+      "singular": "",
+      "plural": "iny"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "inw",
+    "eldamo_id": "4073123935",
+    "etymology": {
+      "root_refs": [
+        "ini"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "inya"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "3.13",
+    "conception": "Key-2016-1310-817",
+    "notes": "",
+    "references": [
+      "Ety/INI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
     "id": "rhond",
     "mutation_marker": "",
@@ -23868,6 +23923,157 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "57153A39-86E6-4094-B2D4-B378ECAF21D2",
+    "id": "brant",
+    "mutation_marker": "",
+    "sindarin": "brant",
+    "spellings": [],
+    "ipa": "brant",
+    "tengwar": "",
+    "cirth": "2Rc@8",
+    "english": [
+      "cooked",
+      "done",
+      "overdone"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "brant",
+      "singular": "",
+      "plural": "brent"
+    },
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3323629343",
+    "etymology": {
+      "root_refs": [
+        "brath"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "cooked, done; overdone",
+    "ids_code": "5.121",
+    "conception": "Key-2016-1310-572",
+    "notes": "This has connotations of overcooked. For regular \"cooked\", use \"brannen\".",
+    "references": [
+      "GL/24"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "26082875-A27B-43EC-B2CC-B49BD69D2AB5",
+    "id": "brannen",
+    "mutation_marker": "",
+    "sindarin": "brannen",
+    "spellings": [],
+    "ipa": "'bra.nen",
+    "tengwar": "",
+    "cirth": "2Rc@@z@",
+    "english": [
+      "cooked"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "5.121",
+    "conception": "Key-2016-1310-572",
+    "notes": "Past participle of \"brath-\". For \"overcooked\", use \"brant\".",
+    "references": [
+      "GL/24"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
+    "id": "brath",
+    "mutation_marker": "",
+    "sindarin": "brath-",
+    "spellings": [],
+    "ipa": "braθ",
+    "tengwar": "",
+    "cirth": "2Rc0",
+    "english": [
+      "cook"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "food and drink",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1455659915",
+    "etymology": {
+      "root_refs": [
+        "brath"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to cook",
+    "ids_code": "5.21",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "GL/24"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
     "uuid": "4C2BB992-88DF-430F-AC1C-9B175EB021E6",
     "id": "hama",
     "mutation_marker": "",
@@ -24090,6 +24296,69 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "9E453A14-2759-44BC-979C-3F97D9661641",
+    "id": "theron",
+    "mutation_marker": "",
+    "sindarin": "theron",
+    "spellings": [],
+    "ipa": "'θe.ron",
+    "tengwar": "",
+    "cirth": "0zRb@",
+    "english": [
+      "tailor"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "theron",
+      "singular": "",
+      "plural": "theryn"
+    },
+    "gender": "",
+    "category": "occupations",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ther"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "THER",
+          "gloss": "sew",
+          "type": "root"
+        },
+        {
+          "form": "-(r)on",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "serindë"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "6.13",
+    "conception": "Key-2016-1310-492",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
@@ -26455,9 +26724,97 @@
     "etymology": {
       "root_refs": [],
       "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
+      "development": [
+        {
+          "form": "bādambarā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "bādambara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "bǭdambara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "bǭðambara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "bauðambara",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bauðambar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "bauðmbar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841960279"
+        },
+        {
+          "form": "baumbar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "baummar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "baumar",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "baudh",
+          "gloss": "judgement",
+          "type": "noun"
+        },
+        {
+          "form": "bâr",
+          "gloss": "house",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ba%3Ada.mbara%3A&off=PE%2C4YMLLL%2C9DPJC5%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-9DPJC5"
     },
     "cognates": {},
     "conjugation": null,
@@ -26470,7 +26827,7 @@
     "notes": "Neologism coined based on Hebrew בית משפט (beit mishpat) \"house of judgment\" and Japanese 裁判所 (saibansho) \"place of judgment\". The components are \"baudh [mb-]\" and \"bâr [mb-]\", based on Angmar \"Iron Home\" and skipping the [au] to [o] rule based on \"Bauglir [mb-]\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
