@@ -28,13 +28,6 @@
     "notes": ""
   },
   {
-    "id": "ala",
-    "form": "AL(A)",
-    "gloss": "good (physically), blessed, fortunate, prosperous, health(y)",
-    "eldamo_id": "3010949305",
-    "notes": ""
-  },
-  {
     "id": "am",
     "form": "AM",
     "gloss": "go up, up",
@@ -53,13 +46,6 @@
     "form": "AP",
     "gloss": "cook",
     "eldamo_id": "691960675",
-    "notes": ""
-  },
-  {
-    "id": "as",
-    "form": "AS",
-    "gloss": "beside",
-    "eldamo_id": "1944887875",
     "notes": ""
   },
   {
@@ -315,13 +301,6 @@
     "notes": ""
   },
   {
-    "id": "kan",
-    "form": "KAN",
-    "gloss": "cry aloud",
-    "eldamo_id": "1188333779",
-    "notes": "In Quenya, it also means \"command; lead, rule\""
-  },
-  {
     "id": "kanat",
     "form": "KANAT",
     "gloss": "four",
@@ -354,13 +333,6 @@
     "form": "KEN",
     "gloss": "see, perceive, note",
     "eldamo_id": "3864726987",
-    "notes": ""
-  },
-  {
-    "id": "kew",
-    "form": "KEW",
-    "gloss": "new, fresh; anew, repeated; live of vegetables",
-    "eldamo_id": "3262325803",
     "notes": ""
   },
   {
@@ -732,6 +704,125 @@
     "form": "MAH",
     "gloss": "handle, manage, control, wield",
     "eldamo_id": "838334445",
+    "notes": "< MAHA"
+  },
+  {
+    "id": "mak",
+    "form": "MAK",
+    "gloss": "strike; cut, hew with a sharp edge, cleave; sword, fight (with a sword); forge metal",
+    "eldamo_id": "3500848371",
+    "notes": ""
+  },
+  {
+    "id": "man",
+    "form": "MAN",
+    "gloss": "good (morally), blessed, holy, unmarred, free from evil",
+    "eldamo_id": "1868394071",
+    "notes": ""
+  },
+  {
+    "id": "map",
+    "form": "MAP",
+    "gloss": "take away, take hold of, grasp",
+    "eldamo_id": "3643401495",
+    "notes": ""
+  },
+  {
+    "id": "mat",
+    "form": "MAT",
+    "gloss": "eat",
+    "eldamo_id": "2898449047",
+    "notes": ""
+  },
+  {
+    "id": "may",
+    "form": "MAY",
+    "gloss": "excellent, admirable, beautiful; make [art]",
+    "eldamo_id": "3041000311",
+    "notes": ""
+  },
+  {
+    "id": "mbad",
+    "form": "(M)BAD",
+    "gloss": "duress, prison, doom, hell; judge",
+    "eldamo_id": "1027069297",
+    "notes": ""
+  },
+  {
+    "id": "mbar",
+    "form": "MBAR",
+    "gloss": "settle, dwell; establish, fix, decide, determine, make a decision",
+    "eldamo_id": "721831795",
+    "notes": ""
+  },
+  {
+    "id": "mbon",
+    "form": "MBON",
+    "gloss": "lump, mass",
+    "eldamo_id": "2807218431",
+    "notes": ""
+  },
+  {
+    "id": "mbud",
+    "form": "(M)BUD",
+    "gloss": "jut out, project",
+    "eldamo_id": "3639475677",
+    "notes": ""
+  },
+  {
+    "id": "men",
+    "form": "MEN",
+    "gloss": "go, move, proceed (in any direction); make for, go towards; have as object, (in)tend; direction, object, point moved toward; region",
+    "eldamo_id": "249819983",
+    "notes": ""
+  },
+  {
+    "id": "menel",
+    "form": "MENEL",
+    "gloss": "heavens, firmament",
+    "eldamo_id": "3233302831",
+    "notes": ""
+  },
+  {
+    "id": "mik",
+    "form": "MIK",
+    "gloss": "pierce",
+    "eldamo_id": "263700195",
+    "notes": ""
+  },
+  {
+    "id": "imi",
+    "form": "MI/IMI",
+    "gloss": "in, within",
+    "eldamo_id": "4236320083",
+    "notes": ""
+  },
+  {
+    "id": "milig",
+    "form": "MILIG",
+    "gloss": "oil",
+    "eldamo_id": "1984005469",
+    "notes": ""
+  },
+  {
+    "id": "mini",
+    "form": "MINI",
+    "gloss": "small, less",
+    "eldamo_id": "3476968629",
+    "notes": ""
+  },
+  {
+    "id": "mor",
+    "form": "MOR",
+    "gloss": "black, dark, darkness",
+    "eldamo_id": "4048309247",
+    "notes": ""
+  },
+  {
+    "id": "mō",
+    "form": "MŌ",
+    "gloss": "labour",
+    "eldamo_id": "443862109",
     "notes": ""
   }
 ]
