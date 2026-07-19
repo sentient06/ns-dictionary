@@ -91,6 +91,13 @@
     "notes": ""
   },
   {
+    "id": "brath",
+    "form": "BRATH",
+    "gloss": "cook",
+    "eldamo_id": "3765274503",
+    "notes": ""
+  },
+  {
     "id": "dat",
     "form": "DAT",
     "gloss": "fall down, fall to ground",
@@ -266,6 +273,13 @@
     "notes": ""
   },
   {
+    "id": "ini",
+    "form": "NĪ/INI",
+    "gloss": "female",
+    "eldamo_id": "1865530792",
+    "notes": ""
+  },
+  {
     "id": "is",
     "form": "IS",
     "gloss": "know",
@@ -329,10 +343,185 @@
     "notes": ""
   },
   {
+    "id": "khag",
+    "form": "KHAG",
+    "gloss": "stake",
+    "eldamo_id": "1848063511",
+    "notes": ""
+  },
+  {
     "id": "khap",
     "form": "KHAP",
     "gloss": "enfold",
     "eldamo_id": "2258748317",
+    "notes": ""
+  },
+  {
+    "id": "khat",
+    "form": "KHAT",
+    "gloss": "hurl, cast, send through air, loose from hand",
+    "eldamo_id": "3618868901",
+    "notes": ""
+  },
+  {
+    "id": "khay",
+    "form": "KHAY",
+    "gloss": "far, distant, remote",
+    "eldamo_id": "3171535983",
+    "notes": ""
+  },
+  {
+    "id": "khel",
+    "form": "KHEL",
+    "gloss": "ice, freeze",
+    "eldamo_id": "2633713527",
+    "notes": ""
+  },
+  {
+    "id": "khelek",
+    "form": "KHELEK",
+    "gloss": "ice",
+    "eldamo_id": "3701867153",
+    "notes": ""
+  },
+  {
+    "id": "khen",
+    "form": "KHEN",
+    "gloss": "base of eye-words",
+    "eldamo_id": "1824366963",
+    "notes": ""
+  },
+  {
+    "id": "kher",
+    "form": "KHER",
+    "gloss": "possess, rule, govern, have power",
+    "eldamo_id": "205673835",
+    "notes": ""
+  },
+  {
+    "id": "khin",
+    "form": "KHIN",
+    "gloss": "child",
+    "eldamo_id": "3187284057",
+    "notes": ""
+  },
+  {
+    "id": "khith",
+    "form": "KHITH",
+    "gloss": "fog",
+    "eldamo_id": "382926797",
+    "notes": ""
+  },
+  {
+    "id": "khom",
+    "form": "KHOM",
+    "gloss": "heart (physical organ)",
+    "eldamo_id": "2730489479",
+    "notes": ""
+  },
+  {
+    "id": "khug",
+    "form": "KHUG",
+    "gloss": "bark, bay",
+    "eldamo_id": "1882446207",
+    "notes": ""
+  },
+  {
+    "id": "khyar",
+    "form": "KHYAR",
+    "gloss": "left hand",
+    "eldamo_id": "4236087203",
+    "notes": ""
+  },
+  {
+    "id": "kiris",
+    "form": "KIRIS",
+    "gloss": "cleave",
+    "eldamo_id": "1008454065",
+    "notes": ""
+  },
+  {
+    "id": "kor",
+    "form": "KOR",
+    "gloss": "round; be round, roll",
+    "eldamo_id": "3368191295",
+    "notes": ""
+  },
+  {
+    "id": "koy",
+    "form": "KOY",
+    "gloss": "live, have life",
+    "eldamo_id": "990782687",
+    "notes": ""
+  },
+  {
+    "id": "kuh",
+    "form": "KU(H)",
+    "gloss": "bow, bend",
+    "eldamo_id": "2048073749",
+    "notes": ""
+  },
+  {
+    "id": "kum",
+    "form": "KUM",
+    "gloss": "void",
+    "eldamo_id": "3979401141",
+    "notes": ""
+  },
+  {
+    "id": "kwa",
+    "form": "KWA",
+    "gloss": "complete, full, whole, all, every",
+    "eldamo_id": "2222809799",
+    "notes": ""
+  },
+  {
+    "id": "kwat",
+    "form": "KWAT",
+    "gloss": "fill; full",
+    "eldamo_id": "3674846579",
+    "notes": ""
+  },
+  {
+    "id": "kwen",
+    "form": "KWEN",
+    "gloss": "speak with rational words",
+    "eldamo_id": "3171724219",
+    "notes": ""
+  },
+  {
+    "id": "kwer",
+    "form": "KWER",
+    "gloss": "revolve",
+    "eldamo_id": "1553034811",
+    "notes": ""
+  },
+  {
+    "id": "kwes",
+    "form": "KWES",
+    "gloss": "feather",
+    "eldamo_id": "3573331113",
+    "notes": ""
+  },
+  {
+    "id": "kwet",
+    "form": "KWET",
+    "gloss": "say, speak, utter words",
+    "eldamo_id": "743690107",
+    "notes": ""
+  },
+  {
+    "id": "kwi",
+    "form": "KWI",
+    "gloss": "suppose",
+    "eldamo_id": "733142983",
+    "notes": ""
+  },
+  {
+    "id": "kā",
+    "form": "KĀ",
+    "gloss": "after (later than) of time",
+    "eldamo_id": "3091178037",
     "notes": ""
   }
 ]

@@ -11357,7 +11357,7 @@
     "eldamo_id": "430314911",
     "etymology": {
       "root_refs": [
-        "kho(n)"
+        "khom"
       ],
       "primitive": null,
       "development": [
@@ -11408,7 +11408,7 @@
       "Ety/KHŌ-N"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "88CF3036-9C0F-4A80-A702-4E79F392EF7E",
@@ -14618,7 +14618,10 @@
       "quettamorphosis_url": ""
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
@@ -14628,7 +14631,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "409B8222-0782-466E-806F-0067CB191D62",
@@ -20270,7 +20273,10 @@
       "quettamorphosis_url": ""
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
@@ -20282,7 +20288,7 @@
       "RC/579"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "2A67E309-48C1-4E70-8C42-5A390D6C421F",
@@ -24485,6 +24491,136 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "69F72FE1-AC4C-44C7-AAAF-ABE132409D1F",
+    "id": "caw",
+    "mutation_marker": "",
+    "sindarin": "caw",
+    "spellings": [],
+    "ipa": "kaw",
+    "tengwar": "",
+    "cirth": "ecF",
+    "english": [
+      "hut"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "caw",
+      "singular": "",
+      "plural": "caiw"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "kaw"
+      ],
+      "primitive": {
+        "form": "kawa",
+        "eldamo_id": "2435478529"
+      },
+      "development": [
+        {
+          "form": "kawa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kaw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798091205"
+        },
+        {
+          "form": "kau",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kawa&off=PE%2C4YMLLL%2C9DPJC5%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-98MYWB"
+    },
+    "cognates": {
+      "quenya": "cöa"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "7.13",
+    "conception": "Key-2016-1310-434",
+    "notes": "This is a homonym of the word \"caw\" meaning \"top\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "5B417F86-677E-4058-9F80-EC7AF72C7CB9",
+    "id": "tump",
+    "mutation_marker": "",
+    "sindarin": "tump",
+    "spellings": [],
+    "ipa": "tump",
+    "tengwar": "",
+    "cirth": "8S61",
+    "english": [
+      "shed"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "tump",
+      "singular": "",
+      "plural": "tymp"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2950178893",
+    "etymology": {
+      "root_refs": [
+        "tup"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "tumpo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "GL/71"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
     "id": "redhor",
     "mutation_marker": "",
@@ -24857,6 +24993,97 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "4CA359F9-B745-4EE1-B1CF-5078F64DBD9D",
+    "id": "sant",
+    "mutation_marker": "",
+    "sindarin": "sant",
+    "spellings": [],
+    "ipa": "sant",
+    "tengwar": "",
+    "cirth": "fc@8",
+    "english": [
+      "garden",
+      "field",
+      "yard"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sant",
+      "singular": "",
+      "plural": "sent"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1564335007",
+    "etymology": {
+      "root_refs": [
+        "sat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "santa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "santʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "sanθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "sanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "sant",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=santa&off=PE%2C4YMLLL%2C9DPJC5%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-98MYWB"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "garden, field, yard",
+    "ids_code": "8.13",
+    "conception": "Key-2016-1310-391",
+    "notes": "",
+    "references": [
+      "VT42/20"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -25009,6 +25236,111 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-17"
+  },
+  {
+    "uuid": "4F851B3F-8FA6-4F65-AA2A-47C2177833CE",
+    "id": "loetha",
+    "mutation_marker": "",
+    "sindarin": "loetha-",
+    "spellings": [],
+    "ipa": "'loe.θa",
+    "tengwar": "",
+    "cirth": "abz0cI",
+    "english": [
+      "curl",
+      "bend",
+      "wind",
+      "twine"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "833824473",
+    "etymology": {
+      "root_refs": [
+        "lok"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to curl, bend, wind, twine",
+    "ids_code": "9.14",
+    "conception": "Key-2016-1310-324",
+    "notes": "",
+    "references": [
+      "GL/54"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "AC298E34-C243-4EC2-AE48-F53551923037",
+    "id": "cov",
+    "mutation_marker": "",
+    "sindarin": "cov-",
+    "spellings": [],
+    "ipa": "kov",
+    "tengwar": "",
+    "cirth": "eb4I",
+    "english": [
+      "bow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3662249953",
+    "etymology": {
+      "root_refs": [
+        "kuh"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "kuv-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "9.14",
+    "conception": "Key-2016-1310-324",
+    "notes": "Based on Quenya \"kuv-\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -25333,6 +25665,59 @@
     "last_modified": "2026-07-17"
   },
   {
+    "uuid": "CDA7043A-A566-4FC4-A5BA-E13AB03B449D",
+    "id": "rin",
+    "mutation_marker": "",
+    "sindarin": "rin-",
+    "spellings": [],
+    "ipa": "rin",
+    "tengwar": "",
+    "cirth": "Rl@I",
+    "english": [
+      "revolve",
+      "turn around"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "777977879",
+    "etymology": {
+      "root_refs": [
+        "rin"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to revolve, to turn around",
+    "ids_code": "10.13",
+    "conception": "Key-2016-1310-253",
+    "notes": "",
+    "references": [
+      "GL/65",
+      "LT1A/Uolë Kúvion"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
     "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
     "id": "sav-have",
     "mutation_marker": "",
@@ -25384,6 +25769,61 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-18"
+  },
+  {
+    "uuid": "11228A3F-A1D0-451B-B5D5-3A0A833A0FBC",
+    "id": "nab",
+    "mutation_marker": "",
+    "sindarin": "nab-",
+    "spellings": [],
+    "ipa": "nab",
+    "tengwar": "",
+    "cirth": "@c2I",
+    "english": [
+      "take",
+      "lay hold"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4102772263",
+    "etymology": {
+      "root_refs": [
+        "nap"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "mapa-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to take, to lay hold of",
+    "ids_code": "11.13",
+    "conception": "Key-2016-1310-173",
+    "notes": "",
+    "references": [
+      "GG/11",
+      "GL/59"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -25915,7 +26355,10 @@
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=netuntu.ja&off=DGIAQL%2C1DM4ETD%2C1DM4ETE%2C1X9M9DD#rule-19H0Q4R"
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
@@ -25925,7 +26368,7 @@
     "notes": "Very experimental neologism based on French \"flairer\", which comes from the idea of \"perceiving scent\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
