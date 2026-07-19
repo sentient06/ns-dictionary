@@ -551,5 +551,187 @@
     "gloss": "after (later than) of time",
     "eldamo_id": "3091178037",
     "notes": ""
+  },
+  {
+    "id": "la",
+    "form": "LA",
+    "gloss": "no, not; negative; not to be",
+    "eldamo_id": "2805470303",
+    "notes": ""
+  },
+  {
+    "id": "lab",
+    "form": "LAB",
+    "gloss": "lick, move the tongue",
+    "eldamo_id": "1615728321",
+    "notes": ""
+  },
+  {
+    "id": "lad",
+    "form": "LAD",
+    "gloss": "lie flat, be flat",
+    "eldamo_id": "3390737605",
+    "notes": ""
+  },
+  {
+    "id": "lal",
+    "form": "LAL",
+    "gloss": "laugh",
+    "eldamo_id": "1900840149",
+    "notes": ""
+  },
+  {
+    "id": "lam",
+    "form": "LAM",
+    "gloss": "inarticulate voiced sound",
+    "eldamo_id": "2788343861",
+    "notes": ""
+  },
+  {
+    "id": "lan",
+    "form": "LAN",
+    "gloss": "weave",
+    "eldamo_id": "3010809839",
+    "notes": ""
+  },
+  {
+    "id": "las",
+    "form": "LAS",
+    "gloss": "listen",
+    "eldamo_id": "52259685",
+    "notes": ""
+  },
+  {
+    "id": "law",
+    "form": "LAW",
+    "gloss": "flourish (green), grow, abound; warm",
+    "eldamo_id": "3073446389",
+    "notes": ""
+  },
+  {
+    "id": "lay",
+    "form": "LAY",
+    "gloss": "be alive, flourish",
+    "eldamo_id": "553486517",
+    "notes": ""
+  },
+  {
+    "id": "laʒ",
+    "form": "LAƷ",
+    "gloss": "cross, pass over, go beyond",
+    "eldamo_id": "1942130596",
+    "notes": ""
+  },
+  {
+    "id": "lepen",
+    "form": "LEPEN",
+    "gloss": "five",
+    "eldamo_id": "612862513",
+    "notes": ""
+  },
+  {
+    "id": "lewek",
+    "form": "LEWEK",
+    "gloss": "worm",
+    "eldamo_id": "2046469485",
+    "notes": ""
+  },
+  {
+    "id": "li",
+    "form": "LI",
+    "gloss": "many",
+    "eldamo_id": "3034511199",
+    "notes": ""
+  },
+  {
+    "id": "lin",
+    "form": "LIN",
+    "gloss": "sing, make a musical sound",
+    "eldamo_id": "3229840027",
+    "notes": ""
+  },
+  {
+    "id": "linkwi",
+    "form": "LINKWI",
+    "gloss": "wet",
+    "eldamo_id": "1857614299",
+    "notes": ""
+  },
+  {
+    "id": "liski",
+    "form": "LISKI",
+    "gloss": "reed",
+    "eldamo_id": "3714709665",
+    "notes": ""
+  },
+  {
+    "id": "lit",
+    "form": "LIT",
+    "gloss": "fine grit",
+    "eldamo_id": "3310397375",
+    "notes": ""
+  },
+  {
+    "id": "liw",
+    "form": "LIW",
+    "gloss": "fish",
+    "eldamo_id": "4243863967",
+    "notes": ""
+  },
+  {
+    "id": "lok",
+    "form": "LOK",
+    "gloss": "bend, loop",
+    "eldamo_id": "3938142681",
+    "notes": ""
+  },
+  {
+    "id": "loth",
+    "form": "LOT(H)",
+    "gloss": "flower",
+    "eldamo_id": "3921937245",
+    "notes": ""
+  },
+  {
+    "id": "lu",
+    "form": "LU",
+    "gloss": "time",
+    "eldamo_id": "2825888791",
+    "notes": ""
+  },
+  {
+    "id": "lug",
+    "form": "LUG",
+    "gloss": "be heavy",
+    "eldamo_id": "2989823459",
+    "notes": ""
+  },
+  {
+    "id": "lut",
+    "form": "LUT",
+    "gloss": "float",
+    "eldamo_id": "907739005",
+    "notes": ""
+  },
+  {
+    "id": "luy",
+    "form": "LUY",
+    "gloss": "blue",
+    "eldamo_id": "1050291199",
+    "notes": ""
+  },
+  {
+    "id": "ma",
+    "form": "MA",
+    "gloss": "interrogative base",
+    "eldamo_id": "3692974015",
+    "notes": ""
+  },
+  {
+    "id": "mah",
+    "form": "MAH",
+    "gloss": "handle, manage, control, wield",
+    "eldamo_id": "838334445",
+    "notes": ""
   }
 ]
