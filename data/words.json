@@ -1056,15 +1056,17 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "grammar",
-    "ids_chapter": "grammar",
+    "category": "location",
+    "ids_chapter": "spacial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3098131039",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "si"
+      ],
       "primitive": {
         "form": "sī",
         "eldamo_id": "1167708799"
@@ -1080,21 +1082,20 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 9,
-    "definition": "",
+    "definition": "here, in this place (of speaker)",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [
-      "LotR/238",
-      "LotR/729",
-      "PE17/67",
-      "PE17/94",
-      "RGEO/63",
-      "RGEO/64",
-      "RGEO/64"
+      "LB/354",
+      "LotR/238, 729",
+      "PE17/27, 67, 94, 127",
+      "PE22/147",
+      "RGEO/63-64",
+      "VT49/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "745C0CF7-06A9-4674-B3D9-DCE4B84C172F",
@@ -10336,7 +10337,7 @@
   },
   {
     "uuid": "37690141-0A48-42E0-84AF-C541062595EB",
-    "id": "mab",
+    "id": "mab-noun",
     "mutation_marker": "",
     "sindarin": "mâb",
     "spellings": [],
@@ -10454,7 +10455,7 @@
       "VT47/6-7, 19-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "53E09682-68CC-401E-9D07-96279742C28E",
@@ -22395,64 +22396,6 @@
     "last_modified": "2026-07-17"
   },
   {
-    "uuid": "F0F08FB1-4FE0-4C2C-B73A-48CA2309F5FD",
-    "id": "si",
-    "mutation_marker": "",
-    "sindarin": "sí",
-    "spellings": [],
-    "ipa": "siː",
-    "tengwar": "",
-    "cirth": "fll",
-    "english": [
-      "here"
-    ],
-    "grammar": [
-      "adverb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "location",
-    "ids_chapter": "spacial relations",
-    "type": "attested",
-    "source": "Tolkien",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "3098131039",
-    "etymology": {
-      "root_refs": [
-        "si"
-      ],
-      "primitive": {
-        "form": "sī",
-        "eldamo_id": "1167708799"
-      },
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {
-      "quenya": "sí"
-    },
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "definition": "here, in this place (of speaker)",
-    "ids_code": "",
-    "conception": "",
-    "notes": "",
-    "references": [
-      "LB/354",
-      "LotR/238, 729",
-      "PE17/27, 67, 94, 127",
-      "PE22/147",
-      "RGEO/63-64",
-      "VT49/34"
-    ],
-    "hidden": "",
-    "last_modified": "2026-07-17"
-  },
-  {
     "uuid": "3A2A0183-C5F0-4C38-9256-35474EF57AB8",
     "id": "hae",
     "mutation_marker": "",
@@ -23837,6 +23780,160 @@
     "notes": "Neologism based on French \"bétail\", from \"bestia\" + collective \"-ail\". Literally \"animals\".",
     "references": [],
     "hidden": "any animals, not sure",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "FEB46A5C-64D6-44D3-8BD7-6542D12C3D56",
+    "id": "nadhras",
+    "mutation_marker": "",
+    "sindarin": "nadhras",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "pasture"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "animals",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "837634691",
+    "etymology": {
+      "root_refs": [
+        "nad"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nadrasse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "nadrass",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "naðrass",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1742178057"
+        },
+        {
+          "form": "naðras",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nadrasse&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-EH28FV"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "3.160",
+    "conception": "Key-2016-1310-815",
+    "notes": "",
+    "references": [
+      "Ety/NAD"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "A5D28BEC-BDB1-45C1-A829-22370BE1ECA0",
+    "id": "nadhor",
+    "mutation_marker": "",
+    "sindarin": "nadhor",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "pasture"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "animals",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "152304703",
+    "etymology": {
+      "root_refs": [
+        "nad"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nadro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "nadr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "naðr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "naðor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nadro&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-EH28FV"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "3.160",
+    "conception": "Key-2016-1310-815",
+    "notes": "",
+    "references": [
+      "Ety/NAD"
+    ],
+    "hidden": "",
     "last_modified": "2026-07-19"
   },
   {
@@ -26527,7 +26624,7 @@
   },
   {
     "uuid": "DADC1D04-BA9E-4412-952B-0A1353DC39F8",
-    "id": "mab",
+    "id": "mab-verb",
     "mutation_marker": "",
     "sindarin": "mab-",
     "spellings": [],
