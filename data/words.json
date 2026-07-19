@@ -4742,14 +4742,14 @@
     "swadesh100": null,
     "swadesh207": 44,
     "definition": "",
-    "ids_code": "3.11",
+    "ids_code": "3.110",
     "conception": "Key-2016-1310-819",
     "notes": "",
     "references": [
       "WJ/388, 416"
     ],
     "hidden": "Unknown suffix -āna",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "F776A67B-B312-42A4-B471-458002497063",
@@ -7208,14 +7208,14 @@
     "swadesh100": 28,
     "swadesh207": 62,
     "definition": "",
-    "ids_code": "4.12",
+    "ids_code": "4.120",
     "conception": "Key-2016-1310-722",
     "notes": "Reconstructed from \"Fladrif\".",
     "references": [
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "E760F824-051D-4576-9A86-DBC825E702D9",
@@ -7558,7 +7558,7 @@
     "swadesh100": 29,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "4.13",
+    "ids_code": "4.130",
     "conception": "Key-2016-1310-721",
     "notes": "",
     "references": [
@@ -8578,15 +8578,15 @@
     "swadesh100": 37,
     "swadesh207": 71,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.140",
+    "conception": "Key-2016-1310-720",
     "notes": "",
     "references": [
       "PE17/17",
       "PM/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "57CCB57B-3003-45D8-BF46-F835EAD3F45F",
@@ -8697,14 +8697,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.140",
+    "conception": "Key-2016-1310-720",
     "notes": "",
     "references": [
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "0F4B77DA-C731-48AE-83B6-9F563161682D",
@@ -23364,14 +23364,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "1.1",
+    "ids_code": "1.100",
     "conception": "Key-2016-1310-965",
     "notes": "Word appearing only in the name \"Mîr n'Ardhon\", or \"Jewel of the World\".",
     "references": [
       "PM/348"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "DBF7A8A2-BD84-47B4-8B2A-03A2C06AB3A2",
@@ -23458,7 +23458,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "1.21",
+    "ids_code": "1.210",
     "conception": "Key-2016-1310-964",
     "notes": "",
     "references": [
@@ -23475,7 +23475,70 @@
       "WJ/192, 370, 413"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "864BDA81-39FE-4F45-9666-49D7CDC163D3",
+    "id": "ast",
+    "mutation_marker": "",
+    "sindarin": "ast",
+    "spellings": [],
+    "ipa": "ast",
+    "tengwar": "",
+    "cirth": "cf8",
+    "english": [
+      "dust"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "the physical world",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "428436257",
+    "etymology": {
+      "root_refs": [
+        "asat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "asto",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ast",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=asto&off=PE%2C4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "asto"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "1.213",
+    "conception": "Key-2016-1310-962",
+    "notes": "",
+    "references": [
+      "Ety/ÁS-AT"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "3C01FA4F-6699-461B-B7FF-9CCA9394D86B",
@@ -23548,7 +23611,7 @@
     "tengwar": "",
     "cirth": "c@S",
     "english": [
-      "male (of animal)"
+      "male"
     ],
     "grammar": [
       "adjective"
@@ -23582,16 +23645,16 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
-    "ids_code": "3.12",
-    "conception": "Key-2016-1310-818",
+    "definition": "male (person or animal)",
+    "ids_code": "3.120;2.230",
+    "conception": "Key-2016-1310-818;Key-2016-1310-890",
     "notes": "",
     "references": [
       "Ety/ƷAN, INI",
       "EtyAC/ƷAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "3B248E46-14BA-474E-B657-302F3FC0D634",
@@ -23603,7 +23666,7 @@
     "tengwar": "",
     "cirth": "l@S",
     "english": [
-      "female (of animal)"
+      "female"
     ],
     "grammar": [
       "adjective"
@@ -23637,14 +23700,245 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
-    "ids_code": "3.13",
-    "conception": "Key-2016-1310-817",
+    "definition": "female (person or animal)",
+    "ids_code": "3.130;2.240",
+    "conception": "Key-2016-1310-817;Key-2016-1310-889",
     "notes": "",
     "references": [
       "Ety/INI"
     ],
     "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "31BD3FE7-CD34-4D8A-8CC8-CBDDF0A582D4",
+    "id": "lavost",
+    "mutation_marker": "",
+    "sindarin": "lavost",
+    "spellings": [],
+    "ipa": "'la.vost",
+    "tengwar": "",
+    "cirth": "ac4bf8",
+    "english": [
+      "livestock"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "lam"
+      ],
+      "primitive": {
+        "form": "lamā̆n(a)",
+        "eldamo_id": "3392562551"
+      },
+      "development": [
+        {
+          "form": "lamānastā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lamānasta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "lamǭnasta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "lamaunasta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lamaunast",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "lamaunst",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "lamaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "lamost",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "lavost",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "lamāna",
+          "gloss": "animal",
+          "type": "noun"
+        },
+        {
+          "form": "-stā",
+          "gloss": "",
+          "type": "collective suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lama%3Ana.sta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-5PZ3TL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "3.150",
+    "conception": "Key-2016-1310-816",
+    "notes": "Neologism based on French \"bétail\", from \"bestia\" + collective \"-ail\". Literally \"animals\".",
+    "references": [],
+    "hidden": "any animals, not sure",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "691E2459-C918-4815-BE0D-830BE00AD0BF",
+    "id": "gacht",
+    "mutation_marker": "",
+    "sindarin": "gacht",
+    "spellings": [],
+    "ipa": "gaxt",
+    "tengwar": "",
+    "cirth": "rct8",
+    "english": [
+      "cattle"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "gyak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "gjakstā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "345959193"
+        },
+        {
+          "form": "gakstā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "gaksta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "gaxxta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gaxxt",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "gaxt",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "GYAK",
+          "gloss": "cattle",
+          "type": "root"
+        },
+        {
+          "form": "-stā",
+          "gloss": "",
+          "type": "collective suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gjak.sta%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-5PZ3TL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "3.200",
+    "conception": "Key-2016-1310-812",
+    "notes": "",
+    "references": [],
+    "hidden": "bovines, straight from gyak",
     "last_modified": "2026-07-19"
   },
   {
@@ -23692,7 +23986,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "4.1",
+    "ids_code": "4.110",
     "conception": "Key-2016-1310-723",
     "notes": "",
     "references": [
@@ -23700,7 +23994,7 @@
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "02535406-5728-4987-A161-598B9E5B26CD",
@@ -23795,12 +24089,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "5.12",
+    "ids_code": "5.120",
     "conception": "Key-2016-1310-573",
     "notes": "Word reconstructed from Quenya \"matta\". Both with a fictitious ancient word \"mattā\" to explain the phonetic changes.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "666CA23C-9456-4140-A2A5-B303DE1248F0",
@@ -23879,14 +24173,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "5.12",
+    "ids_code": "5.120",
     "conception": "Key-2016-1310-573",
     "notes": "This word's ancestral version was apparently rejected, leaving the state of this word unknown.",
     "references": [
       "EtyAC/MAT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "57153A39-86E6-4094-B2D4-B378ECAF21D2",
@@ -24030,7 +24324,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to cook",
-    "ids_code": "5.21",
+    "ids_code": "5.210",
     "conception": "",
     "notes": "",
     "references": [
@@ -24135,7 +24429,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to wear; put on clothes",
-    "ids_code": "6.11",
+    "ids_code": "6.110",
     "conception": "Key-2016-1310-494",
     "notes": "In Sindarin, [mm] is shortened, so this verb doesn't match its Noldorin counterpart exactly.",
     "references": [
@@ -24143,7 +24437,7 @@
       "EtyAC/KHAP"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "F6FF36F2-589E-4941-9D36-3507430A0CB2",
@@ -24254,14 +24548,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "clothing, clothes",
-    "ids_code": "6.12",
+    "ids_code": "6.120",
     "conception": "Key-2016-1310-493",
     "notes": "",
     "references": [
       "Ety/KHAP"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "9E453A14-2759-44BC-979C-3F97D9661641",
@@ -24319,9 +24613,62 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "6.13",
+    "ids_code": "6.130",
     "conception": "Key-2016-1310-492",
     "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "8F214C51-7D6F-46E5-B3FC-AF856A618892",
+    "id": "lann",
+    "mutation_marker": "",
+    "sindarin": "lann",
+    "spellings": [],
+    "ipa": "lan",
+    "tengwar": "",
+    "cirth": "ac@@",
+    "english": [
+      "cloth",
+      "tissue"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lann",
+      "singular": "",
+      "plural": "lenn"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2274772649",
+    "etymology": {
+      "root_refs": [
+        "lan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lanne"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "cloth, tissue",
+    "ids_code": "6.210",
+    "conception": "Key-2016-1310-491",
+    "notes": "Word reconstructed from Quenya \"lanne\" of the same meaning.",
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-19"
