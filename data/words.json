@@ -3434,7 +3434,9 @@
     "tengwar": "",
     "cirth": "3l6",
     "english": [
-      "slim, slender, thin"
+      "slim",
+      "slender",
+      "thin"
     ],
     "grammar": [
       "adjective"
@@ -3513,7 +3515,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 35,
-    "definition": "",
+    "definition": "slim, slender, thin",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -3521,7 +3523,7 @@
       "PE17/23, 82"
     ],
     "hidden": "Unknown suffix -bi; s207 is \"thin\"",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "A1065E48-A83C-4161-9CB9-9FC7373F2352",
@@ -5846,7 +5848,8 @@
     "tengwar": "",
     "cirth": "zRL@",
     "english": [
-      "wood, forest of trees"
+      "wood",
+      "forest of trees"
     ],
     "grammar": [
       "noun"
@@ -5919,7 +5922,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "wood, forest of trees",
     "ids_code": "",
     "conception": "",
     "notes": "Ancient variant plural of \"orn\" reinterpreted a collective word.",
@@ -5930,7 +5933,7 @@
       "VT42/20"
     ],
     "hidden": "Unknown suffix -nī (presumably an ancient plural)",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "94A4E002-F35B-433F-A3AE-2B3147FCB36F",
@@ -5942,7 +5945,8 @@
     "tengwar": "",
     "cirth": "rac9",
     "english": [
-      "wood, forest of trees"
+      "wood",
+      "forest of trees"
     ],
     "grammar": [
       "noun"
@@ -5972,7 +5976,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "wood, forest of trees",
     "ids_code": "",
     "conception": "",
     "notes": "Probably a loanword from Nandorin",
@@ -5980,7 +5984,7 @@
       "UT/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "8CA047DC-8EC2-4269-B566-E8A00028EA59",
@@ -9396,7 +9400,8 @@
     "tengwar": "",
     "cirth": "2Sk",
     "english": [
-      "snout, nose (of animals)"
+      "snout",
+      "nose (of animals)"
     ],
     "grammar": [
       "noun"
@@ -9426,13 +9431,13 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "snout, nose (of animals)",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "3038151B-0044-4993-A42B-5F8C166F2479",
@@ -12249,7 +12254,7 @@
     "tengwar": "",
     "cirth": "fc@I",
     "english": [
-      "think (in an active and analytical way)",
+      "think",
       "reflect"
     ],
     "grammar": [
@@ -12283,7 +12288,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 104,
-    "definition": "to think, to reflect",
+    "definition": "think (in an active and analytical way); reflect",
     "ids_code": "17.130",
     "conception": "Key-2016-1310-1098",
     "notes": "Neologism based on reverse-engineered Quenya \"sana-\".",
@@ -12301,7 +12306,8 @@
     "tengwar": "",
     "cirth": "rzRlcI",
     "english": [
-      "ponder, think (in a reflective and contemplative way)"
+      "ponder",
+      "think"
     ],
     "grammar": [
       "verb"
@@ -12361,7 +12367,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "ponder, think (in a reflective and contemplative way)",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -12369,7 +12375,7 @@
       "NM/176"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
@@ -12381,7 +12387,8 @@
     "tengwar": "",
     "cirth": "@D0cI",
     "english": [
-      "conceive, imagine or create something new with the mind"
+      "conceive",
+      "imagine"
     ],
     "grammar": [
       "verb"
@@ -12443,7 +12450,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "conceive, imagine or create something new with the mind",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -12451,7 +12458,7 @@
       "Ety/NOWO"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "564AE595-3B9B-48E8-A30B-B8E65B652ACA",
@@ -13457,7 +13464,8 @@
     "tengwar": "",
     "cirth": "zl0cI",
     "english": [
-      "prick with a sharp point, stab"
+      "prick",
+      "stab"
     ],
     "grammar": [
       "verb"
@@ -13486,13 +13494,13 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 116,
-    "definition": "",
+    "definition": "prick with a sharp point, stab",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "E1B24881-9CCC-4624-9522-4C416B36A372",
@@ -13586,7 +13594,7 @@
     "last_modified": "2026-07-17"
   },
   {
-    "uuid": "9CA4B467-1A62-401B-98C8-BCE44D964556",
+    "uuid": "72330D7B-61FF-4A3C-9833-831C76AFA3B2",
     "id": "gratha",
     "mutation_marker": "",
     "sindarin": "gratha-",
@@ -13595,7 +13603,9 @@
     "tengwar": "",
     "cirth": "rRc0cI",
     "english": [
-      "scratch"
+      "rub",
+      "scratch",
+      "fray"
     ],
     "grammar": [
       "verb"
@@ -13603,20 +13613,24 @@
     "inflection": null,
     "gender": "",
     "category": "actions",
-    "ids_chapter": "actions",
+    "ids_chapter": "basic actions and technology",
     "type": "reconstructed",
     "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "4043949665",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "gwara"
+      ],
       "primitive": null,
       "development": [],
       "elements": [],
       "quettamorphosis_url": ""
     },
-    "cognates": {},
+    "cognates": {
+      "quenya": "wara-"
+    },
     "conjugation": {
       "class": "derived",
       "irregular": false
@@ -13624,7 +13638,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 117,
-    "definition": "",
+    "definition": "rub, scratch, fray",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -13632,7 +13646,7 @@
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "F7CDC8D9-06D5-49FD-AFCF-D18CEDB136BB",
@@ -14038,7 +14052,7 @@
     "tengwar": "",
     "cirth": ".z!lcI",
     "english": [
-      "sit, to adopt a sitting position"
+      "sit"
     ],
     "grammar": [
       "verb"
@@ -14135,7 +14149,7 @@
     "confidence": null,
     "swadesh100": 68,
     "swadesh207": 124,
-    "definition": "",
+    "definition": "sit, to adopt a sitting position",
     "ids_code": "",
     "conception": "",
     "notes": "The term in Eldamo \"hadh-\" doesn't seem to have a logical phonetic evolution, so this word has been revised.",
@@ -14143,7 +14157,7 @@
       "EtyAC/KHAM"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "3B4526DB-57D0-46DE-9ED4-D858AA4A1D0C",
@@ -14155,8 +14169,7 @@
     "tengwar": "",
     "cirth": ".c!FcI",
     "english": [
-      "seat, to bring to or place on a seat",
-      "cause to sit down"
+      "sit (tr. and intr.)"
     ],
     "grammar": [
       "verb"
@@ -14243,7 +14256,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "definition": "sit, to bring to or place on a seat; cause to sit down",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -14251,7 +14264,7 @@
       "PE22/148"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "635737B7-2947-4BAA-A695-E40B2A6A329B",
@@ -14879,59 +14892,6 @@
     "conception": "",
     "notes": "",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-17"
-  },
-  {
-    "uuid": "72330D7B-61FF-4A3C-9833-831C76AFA3B2",
-    "id": "gratha",
-    "mutation_marker": "",
-    "sindarin": "gratha-",
-    "spellings": [],
-    "ipa": "'gra.θa",
-    "tengwar": "",
-    "cirth": "rRc0cI",
-    "english": [
-      "rub, scratch, fray"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "basic actions and technology",
-    "type": "reconstructed",
-    "source": "Gnomish",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "4043949665",
-    "etymology": {
-      "root_refs": [
-        "gwara"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {
-      "quenya": "wara-"
-    },
-    "conjugation": {
-      "class": "derived",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "",
-    "references": [
-      "GL/42"
-    ],
     "hidden": "",
     "last_modified": "2026-07-17"
   },
