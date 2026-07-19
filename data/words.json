@@ -24928,6 +24928,121 @@
     "last_modified": "2026-07-19"
   },
   {
+    "uuid": "270E5FAB-A3EF-4A2D-B7BB-5DBB25E4FDEE",
+    "id": "langaw",
+    "mutation_marker": "",
+    "sindarin": "langaw",
+    "spellings": [],
+    "ipa": "lan.gaw",
+    "tengwar": "",
+    "cirth": "acdcF",
+    "english": [
+      "tent"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "langaw",
+      "singular": "",
+      "plural": "lengaiw"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "lann",
+          "gloss": "cloth",
+          "type": "noun"
+        },
+        {
+          "form": "caw",
+          "gloss": "hut",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lancöa"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "tent, (lit.) \"cloth hut\"",
+    "ids_code": "7.140",
+    "conception": "Key-2016-1310-432",
+    "notes": "Word based on Neo-Quenya \"lancöa\", with the same components: \"lann\" and \"caw\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "0812F970-1BF1-40B7-BF95-BFA970D748B2",
+    "id": "pand",
+    "mutation_marker": "",
+    "sindarin": "pand",
+    "spellings": [],
+    "ipa": "pand",
+    "tengwar": "",
+    "cirth": "1ck",
+    "english": [
+      "courtyard"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "pand",
+      "singular": "",
+      "plural": "pend"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "pann",
+    "eldamo_id": "3678390865",
+    "etymology": {
+      "root_refs": [
+        "pad"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "panda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "7.150",
+    "conception": "Key-2016-1310-431",
+    "notes": "",
+    "references": [
+      "Ety/PAD"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
     "id": "redhor",
     "mutation_marker": "",
@@ -24981,12 +25096,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "8.11",
+    "ids_code": "8.110",
     "conception": "Key-2016-1310-393",
     "notes": "Reconstructed from Gnomish \"nandor\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "C86488B0-B9DA-4FBC-99FE-DF9915D7DCB1",
@@ -25055,14 +25170,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "plot of land, fenced field",
-    "ids_code": "8.12",
+    "ids_code": "8.120",
     "conception": "Key-2016-1310-392",
     "notes": "",
     "references": [
       "PE17/95"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "3EE2F341-3FF5-442D-A076-7EE43E3FA2C4",
@@ -25172,14 +25287,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "sown field",
-    "ids_code": "8.12",
+    "ids_code": "8.120",
     "conception": "Key-2016-1310-392",
     "notes": "",
     "references": [
       "PE19/91-92"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "FD48030C-2DDB-42CC-972F-1FA9EF3472B5",
@@ -25381,11 +25496,63 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "garden, field, yard",
-    "ids_code": "8.13",
+    "ids_code": "8.130",
     "conception": "Key-2016-1310-391",
     "notes": "",
     "references": [
       "VT42/20"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "7A1E83AD-8A2D-4F35-BB30-5D6F3C61B58E",
+    "id": "barna",
+    "mutation_marker": "mb-",
+    "sindarin": "barna-",
+    "spellings": [],
+    "ipa": "'bar.na",
+    "tengwar": "",
+    "cirth": "2cR@cI",
+    "english": [
+      "till (land)",
+      "cultivate"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2415185761",
+    "etymology": {
+      "root_refs": [
+        "mbar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to till (land), to cultivate; (orig.) to dwell in (a land)",
+    "ids_code": "8.150",
+    "conception": "Key-2016-1310-390",
+    "notes": "",
+    "references": [
+      "GL/21"
     ],
     "hidden": "",
     "last_modified": "2026-07-19"
@@ -25438,7 +25605,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to do, make",
-    "ids_code": "9.11",
+    "ids_code": "9.110",
     "conception": "Key-2016-1310-326",
     "notes": "",
     "references": [
@@ -25449,7 +25616,7 @@
       "WJ/371, 415"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "A3AB5AE3-1B39-4839-B444-5201BF1D1F2D",
@@ -25535,14 +25702,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to work",
-    "ids_code": "9.12",
+    "ids_code": "9.120",
     "conception": "Key-2016-1310-325",
     "notes": "",
     "references": [
       "Ety/MŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "4F851B3F-8FA6-4F65-AA2A-47C2177833CE",
@@ -25589,7 +25756,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to curl, bend, wind, twine",
-    "ids_code": "9.14",
+    "ids_code": "9.140",
     "conception": "Key-2016-1310-324",
     "notes": "",
     "references": [
@@ -25642,9 +25809,73 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "9.14",
+    "ids_code": "9.140",
     "conception": "Key-2016-1310-324",
     "notes": "Based on Quenya \"kuv-\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "EE7E669B-D83C-46E4-9069-002010F6B3F1",
+    "id": "lab",
+    "mutation_marker": "",
+    "sindarin": "lab-",
+    "spellings": [],
+    "ipa": "lab",
+    "tengwar": "",
+    "cirth": "ac2I",
+    "english": [
+      "fold"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "lab"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lap",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "lab",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lap&off=4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "lap-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "9.150",
+    "conception": "Key-2016-1310-323",
+    "notes": "Based on Neo-Quenya \"lap-\", of same meaning.",
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-19"
@@ -25731,12 +25962,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to move, to cause to move",
-    "ids_code": "10.11",
+    "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "Neologism meaning roughly \"to cause to move\". It's intransitive, thus suggesting moving oneself.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "F7F1269B-54A9-4CB5-89B8-9FABBDF7843C",
@@ -25806,12 +26037,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to move, cause something to move",
-    "ids_code": "10.11",
+    "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "Neologism attempting to translate Quenya \"lev-\", based on root √ELE.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "C886444C-FC03-48EE-840E-2D9917A1B7A9",
@@ -25912,12 +26143,12 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to move; to push; cause to go",
-    "ids_code": "10.11",
+    "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "Neologism based on root √NID to express inprinting movement onto something.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "0A82999B-FA3E-4C42-A84F-F4E3D4D413E4",
@@ -25961,7 +26192,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to go",
-    "ids_code": "10.11",
+    "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "",
     "references": [
@@ -25969,7 +26200,7 @@
       "PE22/165"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "CDA7043A-A566-4FC4-A5BA-E13AB03B449D",
@@ -26014,7 +26245,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to revolve, to turn around",
-    "ids_code": "10.13",
+    "ids_code": "10.130",
     "conception": "Key-2016-1310-253",
     "notes": "",
     "references": [
@@ -26022,6 +26253,168 @@
       "LT1A/Uolë Kúvion"
     ],
     "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "227B8CCF-BEDE-4D64-BC68-80E3E2FDCC80",
+    "id": "gwaeda",
+    "mutation_marker": "",
+    "sindarin": "gwaeda-",
+    "spellings": [],
+    "ipa": "'gʷae.da",
+    "tengwar": "",
+    "cirth": "ocz9cI",
+    "english": [
+      "enfold"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2861482927",
+    "etymology": {
+      "root_refs": [
+        "way"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "wajta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwajta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "gwaita",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "gwaida",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "gwaeda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "WAY",
+          "gloss": "enfold, rip",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "transitive verb suffix, causative"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wajta&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "vaita-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "10.140",
+    "conception": "Key-2016-1310-252",
+    "notes": "",
+    "references": [
+      "EtyAC/WAY"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "20A85A0B-A511-47B3-88A0-F187BC5EA60B",
+    "id": "gonathra",
+    "mutation_marker": "",
+    "sindarin": "gonathra-",
+    "spellings": [],
+    "ipa": "'go.na.θra",
+    "tengwar": "",
+    "cirth": "rb@c0RcI",
+    "english": [
+      "entangle",
+      "enmesh"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "481511043",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "go-",
+          "gloss": "together",
+          "type": "prefix"
+        },
+        {
+          "form": "nath",
+          "gloss": "web",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to entangle, enmesh",
+    "ids_code": "10.140",
+    "conception": "Key-2016-1310-252",
+    "notes": "",
+    "references": [
+      "Ety/NAT"
+    ],
+    "hidden": "Unknown suffix -ra",
     "last_modified": "2026-07-19"
   },
   {
@@ -26068,14 +26461,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to be in material possession of; to own; to possess as a characteristic quality or attribute",
-    "ids_code": "11.11",
+    "ids_code": "11.110",
     "conception": "Key-2016-1310-175",
     "notes": "",
     "references": [
       "PE17/173"
     ],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-19"
   },
   {
     "uuid": "11228A3F-A1D0-451B-B5D5-3A0A833A0FBC",
@@ -26122,12 +26515,67 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "to take, to lay hold of",
-    "ids_code": "11.13",
+    "ids_code": "11.130",
     "conception": "Key-2016-1310-173",
     "notes": "",
     "references": [
       "GG/11",
       "GL/59"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "DADC1D04-BA9E-4412-952B-0A1353DC39F8",
+    "id": "mab",
+    "mutation_marker": "",
+    "sindarin": "mab-",
+    "spellings": [],
+    "ipa": "mab",
+    "tengwar": "",
+    "cirth": "6c2I",
+    "english": [
+      "seize",
+      "take",
+      "grasp"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3973688583",
+    "etymology": {
+      "root_refs": [
+        "map"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "mapa-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to seize, take away by force, grasp",
+    "ids_code": "11.140",
+    "conception": "Key-2016-1310-172",
+    "notes": "",
+    "references": [
+      "Ety/MAP"
     ],
     "hidden": "",
     "last_modified": "2026-07-19"
