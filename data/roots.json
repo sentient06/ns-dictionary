@@ -28,6 +28,13 @@
     "notes": ""
   },
   {
+    "id": "ala",
+    "form": "AL(A)",
+    "gloss": "good (physically), blessed, fortunate, prosperous, health(y)",
+    "eldamo_id": "3010949305",
+    "notes": ""
+  },
+  {
     "id": "am",
     "form": "AM",
     "gloss": "go up, up",
@@ -46,6 +53,13 @@
     "form": "AP",
     "gloss": "cook",
     "eldamo_id": "691960675",
+    "notes": ""
+  },
+  {
+    "id": "as",
+    "form": "AS",
+    "gloss": "beside",
+    "eldamo_id": "1944887875",
     "notes": ""
   },
   {
@@ -301,6 +315,13 @@
     "notes": ""
   },
   {
+    "id": "kan",
+    "form": "KAN",
+    "gloss": "cry aloud",
+    "eldamo_id": "1188333779",
+    "notes": "In Quenya, it also means \"command; lead, rule\""
+  },
+  {
     "id": "kanat",
     "form": "KANAT",
     "gloss": "four",
@@ -333,6 +354,13 @@
     "form": "KEN",
     "gloss": "see, perceive, note",
     "eldamo_id": "3864726987",
+    "notes": ""
+  },
+  {
+    "id": "kew",
+    "form": "KEW",
+    "gloss": "new, fresh; anew, repeated; live of vegetables",
+    "eldamo_id": "3262325803",
     "notes": ""
   },
   {
