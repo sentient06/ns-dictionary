@@ -35,6 +35,13 @@
     .search-field-toggle { margin: 0.6rem 0; font-family: var(--font-sans); font-size: 0.8rem;
       color: var(--ink-light); display: flex; gap: 1rem; flex-wrap: wrap; }
     .search-field-toggle label { cursor: pointer; display: flex; align-items: center; gap: 0.3rem; }
+    .search-filters { margin: 0.8rem 0; font-family: var(--font-sans); font-size: 0.8rem;
+      color: var(--ink-light); display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
+    .search-filters select { font-family: var(--font-sans); font-size: 0.8rem; padding: 0.25rem 0.4rem;
+      border: 1px solid var(--border); border-radius: 3px; background: var(--parchment-light); color: var(--ink); }
+    .search-filters input[type="text"] { font-family: var(--font-sans); font-size: 0.8rem; padding: 0.25rem 0.4rem;
+      border: 1px solid var(--border); border-radius: 3px; background: var(--parchment-light); color: var(--ink); width: 8rem; }
+    .filter-label { font-weight: 600; color: var(--ink-muted); text-transform: uppercase; font-size: 0.65rem; letter-spacing: 0.04em; }
   </style>
 </head>
 <body>
@@ -69,6 +76,33 @@
       Search in:
       <label><input type="checkbox" id="fSin" checked> Sindarin</label>
       <label><input type="checkbox" id="fEng" checked> English</label>
+      <label><input type="checkbox" id="fRoot"> Roots</label>
+    </div>
+    <div class="search-filters">
+      <span class="filter-label">Type</span>
+      <select id="fType">
+        <option value="">All</option>
+        <option value="attested">Attested</option>
+        <option value="restored">Restored</option>
+        <option value="reconstructed">Reconstructed</option>
+        <option value="neologism">Neologism</option>
+        <option value="!neologism">Exclude neologisms</option>
+      </select>
+      <span class="filter-label">Grammar</span>
+      <select id="fGram">
+        <option value="">All</option>
+      </select>
+      <span class="filter-label">Confidence</span>
+      <select id="fConf">
+        <option value="">All</option>
+        <option value="0">0 — Unreviewed</option>
+        <option value="1">1 — Dubious</option>
+        <option value="2">2 — Debated</option>
+        <option value="3">3 — Accepted</option>
+        <option value="4">4 — Established</option>
+        <option value="5">5 — Recommended</option>
+        <option value="3+">3+ (accepted or better)</option>
+      </select>
     </div>
     <div id="error" class="search-error"></div>
     <div id="status" class="search-status"></div>
@@ -83,25 +117,67 @@
     var W={{{search_data}}};
     var q=document.getElementById('q'),res=document.getElementById('results'),
         err=document.getElementById('error'),stat=document.getElementById('status'),
-        fSin=document.getElementById('fSin'),fEng=document.getElementById('fEng');
+        fSin=document.getElementById('fSin'),fEng=document.getElementById('fEng'),
+        fRoot=document.getElementById('fRoot'),
+        fType=document.getElementById('fType'),fGram=document.getElementById('fGram'),
+        fConf=document.getElementById('fConf');
+
+    // Populate grammar dropdown from data
+    var grams={};
+    for(var i=0;i<W.length;i++){
+      var parts=W[i].g.split(', ');
+      for(var k=0;k<parts.length;k++) if(parts[k]) grams[parts[k]]=1;
+    }
+    Object.keys(grams).sort().forEach(function(g){
+      var o=document.createElement('option'); o.value=g; o.textContent=g;
+      fGram.appendChild(o);
+    });
+
     function run(){
       var v=q.value; err.textContent=''; stat.textContent=''; res.innerHTML='';
-      if(!v){stat.textContent=W.length+' words total';return;}
-      var re;
-      try{re=new RegExp(v,'i');}catch(e){err.textContent='Invalid regex: '+e.message;return;}
-      var sin=fSin.checked,eng=fEng.checked,hits=[];
+      var re=null;
+      if(v){
+        try{re=new RegExp(v,'i');}catch(e){err.textContent='Invalid regex: '+e.message;return;}
+      }
+      var sin=fSin.checked,eng=fEng.checked,root=fRoot.checked,
+          typeF=fType.value,gramF=fGram.value,confF=fConf.value;
+      var hits=[];
       for(var i=0;i<W.length;i++){
-        var w=W[i],m=false;
-        if(sin&&re.test(w.s))m=true;
-        if(eng&&re.test(w.e))m=true;
-        if(m)hits.push(w);
+        var w=W[i];
+
+        // Text search (if query present)
+        if(re){
+          var m=false;
+          if(sin&&re.test(w.s))m=true;
+          if(eng&&re.test(w.e))m=true;
+          if(root&&w.r&&re.test(w.r))m=true;
+          if(!m)continue;
+        }
+
+        // Type filter
+        if(typeF==='!neologism'){if(w.t==='neologism')continue;}
+        else if(typeF&&w.t!==typeF)continue;
+
+        // Grammar filter
+        if(gramF&&w.g.split(', ').indexOf(gramF)===-1)continue;
+
+        // Confidence filter
+        if(confF){
+          if(confF==='0+'){if(w.c<0)continue;}
+          else if(confF==='3+'){if(w.c<3)continue;}
+          else{if(w.c!==parseInt(confF))continue;}
+        }
+
+        hits.push(w);
       }
       stat.textContent=hits.length+' of '+W.length+' words';
       var h='';
       for(var j=0;j<hits.length;j++){
         var w=hits[j];
-        h+='<li><span><a href="words/'+w.id+'.html" class="word-entry-sindarin">'+esc(w.s)+'</a> '
-          +'<span class="word-entry-grammar">'+esc(w.g)+'</span></span>'
+        var cc=(w.t==='neologism'&&w.c>=0)?'confidence-'+w.c:'';
+        h+='<li'+(cc?' class="'+cc+'"':'')+'><span><span class="confidence-stars">'
+          +'<a href="words/'+w.id+'.html" class="word-entry-sindarin">'+esc(w.s)+'</a>'
+          +'</span> <span class="word-entry-grammar">'+esc(w.g)+'</span></span>'
           +'<span class="word-entry-english">'+esc(w.e)+'</span></li>';
       }
       res.innerHTML=h;
@@ -110,6 +186,10 @@
     q.addEventListener('input',run);
     fSin.addEventListener('change',run);
     fEng.addEventListener('change',run);
+    fRoot.addEventListener('change',run);
+    fType.addEventListener('change',run);
+    fGram.addEventListener('change',run);
+    fConf.addEventListener('change',run);
     run();
   })();
   </script>

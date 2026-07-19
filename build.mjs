@@ -630,6 +630,9 @@ const searchData = words.map(w => ({
   s: w.sindarin,
   e: w.english.join(', '),
   g: grammarLabel(w),
+  t: w.type || '',
+  c: w.confidence ?? -1,
+  r: (w.etymology?.root_refs || []).join(' '),
 }));
 
 writeOut('search.html', render(searchTemplate, { search_data: JSON.stringify(searchData) }));
