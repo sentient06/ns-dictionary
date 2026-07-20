@@ -1146,5 +1146,89 @@
     "gloss": "spit",
     "eldamo_id": "3457929111",
     "notes": ""
+  },
+  {
+    "id": "ram",
+    "form": "RAM",
+    "gloss": "wing, fly",
+    "eldamo_id": "88952109",
+    "notes": ""
+  },
+  {
+    "id": "rap",
+    "form": "RAP",
+    "gloss": "bind",
+    "eldamo_id": "3406816845",
+    "notes": ""
+  },
+  {
+    "id": "ras",
+    "form": "RAS",
+    "gloss": "horn; stick up",
+    "eldamo_id": "1563612417",
+    "notes": ""
+  },
+  {
+    "id": "rat",
+    "form": "RAT",
+    "gloss": "to find a way",
+    "eldamo_id": "3957916423",
+    "notes": ""
+  },
+  {
+    "id": "red",
+    "form": "RED",
+    "gloss": "scatter, sow",
+    "eldamo_id": "3812309983",
+    "notes": ""
+  },
+  {
+    "id": "rin",
+    "form": "RIN",
+    "gloss": "circle",
+    "eldamo_id": "264446587",
+    "notes": ""
+  },
+  {
+    "id": "ringi",
+    "form": "RINGI",
+    "gloss": "cold",
+    "eldamo_id": "3077851853",
+    "notes": ""
+  },
+  {
+    "id": "ris",
+    "form": "RIS",
+    "gloss": "cut; slash, rip",
+    "eldamo_id": "2621431537",
+    "notes": ""
+  },
+  {
+    "id": "ron",
+    "form": "RON",
+    "gloss": "solid, tangible, firm",
+    "eldamo_id": "4158663553",
+    "notes": ""
+  },
+  {
+    "id": "ros",
+    "form": "ROS",
+    "gloss": "spindrift, spray; distil, drip",
+    "eldamo_id": "193570405",
+    "notes": ""
+  },
+  {
+    "id": "rud",
+    "form": "RUD",
+    "gloss": "piece of wood",
+    "eldamo_id": "4092067083",
+    "notes": ""
+  },
+  {
+    "id": "run",
+    "form": "RUN",
+    "gloss": "rub, grind, smooth, polish; flat of hand or sole of foot",
+    "eldamo_id": "2979674779",
+    "notes": ""
   }
 ]
