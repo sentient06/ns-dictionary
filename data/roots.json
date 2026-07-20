@@ -1057,6 +1057,13 @@
     "notes": ""
   },
   {
+    "id": "oro",
+    "form": "RŌ/ORO",
+    "gloss": "up(wards); rise (up), go high, mount",
+    "eldamo_id": "471662883",
+    "notes": ""
+  },
+  {
     "id": "pad",
     "form": "PAD",
     "gloss": "enclosure",
@@ -1229,6 +1236,111 @@
     "form": "RUN",
     "gloss": "rub, grind, smooth, polish; flat of hand or sole of foot",
     "eldamo_id": "2979674779",
+    "notes": ""
+  },
+  {
+    "id": "sab",
+    "form": "SAB",
+    "gloss": "believe (that statements, reports, traditions, etc. are) true, accept as fact",
+    "eldamo_id": "1848449185",
+    "notes": ""
+  },
+  {
+    "id": "sak2",
+    "form": "SAK²",
+    "gloss": "draw, pull",
+    "eldamo_id": "1246056371",
+    "notes": "This root should not be used. Use √LUK or √TUK instead."
+  },
+  {
+    "id": "sam",
+    "form": "SAM",
+    "gloss": "have; unite, join",
+    "eldamo_id": "1928094501",
+    "notes": ""
+  },
+  {
+    "id": "san",
+    "form": "SAN",
+    "gloss": "think, use mind; (trans.) ponder, consider in thought",
+    "eldamo_id": "3908570297",
+    "notes": ""
+  },
+  {
+    "id": "sap",
+    "form": "SAP",
+    "gloss": "dig, excavate",
+    "eldamo_id": "320434053",
+    "notes": ""
+  },
+  {
+    "id": "sar2",
+    "form": "SAR²",
+    "gloss": "stone",
+    "eldamo_id": "16705603",
+    "notes": "There is a more modern √SAR meaning \"score, incise; write\", but both are valid"
+  },
+  {
+    "id": "sat",
+    "form": "SAT",
+    "gloss": "divide, apportion, mark off; space, place",
+    "eldamo_id": "643662627",
+    "notes": ""
+  },
+  {
+    "id": "sed",
+    "form": "SED",
+    "gloss": "rest",
+    "eldamo_id": "2749664709",
+    "notes": ""
+  },
+  {
+    "id": "serek",
+    "form": "SEREK",
+    "gloss": "blood",
+    "eldamo_id": "387476281",
+    "notes": ""
+  },
+  {
+    "id": "si",
+    "form": "SI",
+    "gloss": "this, here, now",
+    "eldamo_id": "3377957087",
+    "notes": ""
+  },
+  {
+    "id": "sir",
+    "form": "SIR",
+    "gloss": "flow",
+    "eldamo_id": "4221440689",
+    "notes": ""
+  },
+  {
+    "id": "singi",
+    "form": "SIÑGI",
+    "gloss": "salt",
+    "eldamo_id": "2139902279",
+    "notes": ""
+  },
+  {
+    "id": "skal",
+    "form": "SKAL",
+    "gloss": "cover, veil, cloak, conceal, screen, hide (from light), overshadow",
+    "eldamo_id": "3484711051",
+    "notes": ""
+  },
+  {
+    "id": "slas",
+    "form": "SLAS",
+    "gloss": "ear",
+    "eldamo_id": "2603004521",
+    "notes": ""
+  },
+  {
+    "id": "slus",
+    "form": "SLUS",
+    "gloss": "whisper",
+    "eldamo_id": "4256162853",
     "notes": ""
   }
 ]
