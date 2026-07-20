@@ -1057,7 +1057,7 @@
     "inflection": null,
     "gender": "",
     "category": "location",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -1095,7 +1095,7 @@
       "VT49/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "745C0CF7-06A9-4674-B3D9-DCE4B84C172F",
@@ -15040,7 +15040,7 @@
     "eldamo_id": "3947776011",
     "etymology": {
       "root_refs": [
-        "sak"
+        "sak2"
       ],
       "primitive": null,
       "development": [],
@@ -15061,7 +15061,7 @@
     "notes": "A bit hypothetical because it requires some assumptions about its root for it to work.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F3CD52F2-1BC0-4F72-A47B-15B7BCBFDE04",
@@ -16950,7 +16950,7 @@
     "eldamo_id": "1057523367",
     "etymology": {
       "root_refs": [
-        "sar"
+        "sar2"
       ],
       "primitive": {
         "form": "sarnā",
@@ -16996,7 +16996,7 @@
       "RC/163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
@@ -19243,7 +19243,7 @@
     "eldamo_id": "1181190183",
     "etymology": {
       "root_refs": [
-        "nik(w)"
+        "nikw"
       ],
       "primitive": {
         "form": "ninkwi",
@@ -19269,7 +19269,7 @@
       "SA/nim"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9DBECE67-7982-488C-83CB-E283E9B2C5AD",
@@ -21150,7 +21150,7 @@
     "inflection": null,
     "gender": "",
     "category": "shape",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "restored",
     "source": "Noldorin",
     "status": "",
@@ -21184,7 +21184,7 @@
       "EtyAC/TEÑ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "366141C6-4DA5-48C4-9EEE-B7360DD86D92",
@@ -21208,7 +21208,7 @@
     },
     "gender": "",
     "category": "shape",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "reconstructed",
     "source": "Noldorin",
     "status": "",
@@ -21260,7 +21260,7 @@
       "EtyAC/RIN"
     ],
     "hidden": "swadesh should be \"round\"",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0ECF7953-0E59-4988-9CEC-83CF2A3218B7",
@@ -21285,7 +21285,7 @@
     },
     "gender": "",
     "category": "shape",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "restored",
     "source": "Noldorin",
     "status": "",
@@ -21339,7 +21339,7 @@
       "Ety/KOR, MBAS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F481793F-5BFA-46D7-8266-8307D6F70395",
@@ -22221,7 +22221,7 @@
     "inflection": null,
     "gender": "",
     "category": "location",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22283,7 +22283,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E0748887-413A-4384-B2DB-89E3E85BFA7E",
@@ -22303,7 +22303,7 @@
     "inflection": null,
     "gender": "",
     "category": "location",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "neologism",
     "source": "Celephinnel",
     "status": "",
@@ -22338,7 +22338,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B1100C02-A8E9-455B-8C2D-5DBFCC8BC3A1",
@@ -22358,7 +22358,7 @@
     "inflection": null,
     "gender": "",
     "category": "location",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "neologism",
     "source": "Celephinnel",
     "status": "",
@@ -22393,7 +22393,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3A2A0183-C5F0-4C38-9256-35474EF57AB8",
@@ -22415,7 +22415,7 @@
     "inflection": null,
     "gender": "",
     "category": "location",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22482,7 +22482,7 @@
       "PE17/25, 27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6AD3E2B1-94CC-4EEE-AF61-A949F2083D25",
@@ -22504,7 +22504,7 @@
     "inflection": null,
     "gender": "",
     "category": "location",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22537,7 +22537,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B3FDE174-205D-4785-8FA6-1D6582A52F11",
@@ -22557,7 +22557,7 @@
     "inflection": null,
     "gender": "",
     "category": "direction",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "restored",
     "source": "Noldorin",
     "status": "",
@@ -22585,7 +22585,7 @@
       "VT42/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4B8D37BC-2167-4A8D-95C3-D3B0B3C147CC",
@@ -22606,7 +22606,7 @@
     "inflection": null,
     "gender": "",
     "category": "direction",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22648,7 +22648,7 @@
       "VT47/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "36746B60-1CF3-4537-B229-EE40070AEA01",
@@ -22668,7 +22668,7 @@
     "inflection": null,
     "gender": "",
     "category": "direction",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "restored",
     "source": "Noldorin",
     "status": "",
@@ -22760,7 +22760,7 @@
       "EtyAC/KHYAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DAB2A068-8441-4A75-BFF9-E47681EE86FA",
@@ -22780,7 +22780,7 @@
     "inflection": null,
     "gender": "",
     "category": "direction",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22823,7 +22823,7 @@
       "VT47/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2A95ABDD-3A81-43D8-B929-D6E8D6D13FBE",
@@ -22847,7 +22847,7 @@
     "inflection": null,
     "gender": "",
     "category": "space",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22883,7 +22883,7 @@
       "VT50/21"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2920A26B-6AF7-499D-B433-4D276D472276",
@@ -22903,7 +22903,7 @@
     "inflection": null,
     "gender": "",
     "category": "space",
-    "ids_chapter": "spacial relations",
+    "ids_chapter": "spatial relations",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -22939,7 +22939,7 @@
       "VT50/18-19"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C5F1D055-7EBC-4A7C-8CEE-D04F085909D5",
