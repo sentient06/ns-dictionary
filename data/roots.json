@@ -1034,5 +1034,117 @@
     "gloss": "female",
     "eldamo_id": "1865530792",
     "notes": ""
+  },
+  {
+    "id": "okh",
+    "form": "OKH",
+    "gloss": "egg",
+    "eldamo_id": "940697059",
+    "notes": ""
+  },
+  {
+    "id": "oko",
+    "form": "OKO",
+    "gloss": "evil, wicked, bad",
+    "eldamo_id": "3684490151",
+    "notes": ""
+  },
+  {
+    "id": "olor",
+    "form": "(O)LOR",
+    "gloss": "sleep, doze, slumber",
+    "eldamo_id": "2116024331",
+    "notes": ""
+  },
+  {
+    "id": "pad",
+    "form": "PAD",
+    "gloss": "enclosure",
+    "eldamo_id": "1976285247",
+    "notes": ""
+  },
+  {
+    "id": "pal",
+    "form": "PAL",
+    "gloss": "wide, broad, extended; wide (open); flatness",
+    "eldamo_id": "3260957013",
+    "notes": ""
+  },
+  {
+    "id": "parak",
+    "form": "PARAK",
+    "gloss": "dry",
+    "eldamo_id": "4033660263",
+    "notes": ""
+  },
+  {
+    "id": "path",
+    "form": "PATH",
+    "gloss": "smooth (to feel), silky",
+    "eldamo_id": "3887476911",
+    "notes": ""
+  },
+  {
+    "id": "pel",
+    "form": "PEL",
+    "gloss": "fence, border, edge; bound, limit; go round, encircle",
+    "eldamo_id": "1642382925",
+    "notes": ""
+  },
+  {
+    "id": "phan",
+    "form": "PHAN",
+    "gloss": "cover, screen, veil; white, (light white) shape; shape, vision",
+    "eldamo_id": "65736881",
+    "notes": ""
+  },
+  {
+    "id": "phay",
+    "form": "PHAY",
+    "gloss": "spirit",
+    "eldamo_id": "2056783583",
+    "notes": ""
+  },
+  {
+    "id": "phim",
+    "form": "PHIM",
+    "gloss": "slender, slim",
+    "eldamo_id": "1049653503",
+    "notes": ""
+  },
+  {
+    "id": "phir",
+    "form": "PHIR",
+    "gloss": "exhale, expire, breathe out; die of natural causes",
+    "eldamo_id": "1173773531",
+    "notes": ""
+  },
+  {
+    "id": "phor",
+    "form": "PHOR",
+    "gloss": "right-hand",
+    "eldamo_id": "1040050793",
+    "notes": ""
+  },
+  {
+    "id": "phuy",
+    "form": "PHUY",
+    "gloss": "darkness",
+    "eldamo_id": "274140471",
+    "notes": ""
+  }, 
+  {
+    "id": "pin",
+    "form": "PI(N)",
+    "gloss": "little",
+    "eldamo_id": "1798818121",
+    "notes": ""
+  },
+  {
+    "id": "piw",
+    "form": "PIW",
+    "gloss": "spit",
+    "eldamo_id": "3457929111",
+    "notes": ""
   }
 ]
