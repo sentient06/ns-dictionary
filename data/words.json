@@ -24348,7 +24348,11 @@
     "grammar": [
       "adjective"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "brannen",
+      "singular": "",
+      "plural": "brennin"
+    },
     "gender": "",
     "category": "state",
     "ids_chapter": "food and drink",
@@ -24358,7 +24362,9 @@
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "brath"
+      ],
       "primitive": null,
       "development": [],
       "elements": [],
@@ -24377,7 +24383,109 @@
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "CF664E9C-B65A-4379-A30E-1887467C78E8",
+    "id": "uvrannen",
+    "mutation_marker": "",
+    "sindarin": "úvrannen",
+    "spellings": [],
+    "ipa": "'uː.vra.nen",
+    "tengwar": "",
+    "cirth": "D4Rc@@z@",
+    "english": [
+      "uncooked",
+      "raw"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "úvrannen",
+      "singular": "",
+      "plural": "úvrennin"
+    },
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "brath"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "raw, (lit.) uncooked",
+    "ids_code": "5.122",
+    "conception": "Key-2016-1310-571",
+    "notes": "Negated past participle of \"brath-\". The negative is inspired by proto-Germanic \"hrawaz\" and Latin \"crūdus\", both meaning \"uncooked\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "FD4E9560-E6DD-4BB1-89D2-95F81FA010BC",
+    "id": "alvrannen",
+    "mutation_marker": "",
+    "sindarin": "alvrannen",
+    "spellings": [],
+    "ipa": "'al.vra.nen",
+    "tengwar": "",
+    "cirth": "ca4Rc@@z@",
+    "english": [
+      "uncooked",
+      "raw"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "alvrannen",
+      "singular": "",
+      "plural": "alvrennin"
+    },
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "brath"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "raw, (lit.) uncooked",
+    "ids_code": "5.122",
+    "conception": "Key-2016-1310-571",
+    "notes": "Negated past participle of \"brath-\". The negative is inspired by proto-Germanic \"hrawaz\" and Latin \"crūdus\", both meaning \"uncooked\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
@@ -26861,6 +26969,56 @@
     "last_modified": "2026-07-19"
   },
   {
+    "uuid": "8679A3C5-CD75-4030-9C41-921ACB0828DE",
+    "id": "dad",
+    "mutation_marker": "",
+    "sindarin": "dad",
+    "spellings": [],
+    "ipa": "dad",
+    "tengwar": "",
+    "cirth": "9c9",
+    "english": [
+      "down",
+      "below"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "975025413",
+    "etymology": {
+      "root_refs": [
+        "dat"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "down, below",
+    "ids_code": "12.30",
+    "conception": "Key-2016-1310-127",
+    "notes": "",
+    "references": [
+      "Ety/DAT",
+      "EtyAC/DAT"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
     "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
     "id": "lad",
     "mutation_marker": "",
@@ -27241,6 +27399,131 @@
     "last_modified": "2026-07-19"
   },
   {
+    "uuid": "19E70E92-7113-4AE0-B311-351946C4A369",
+    "id": "gwain",
+    "mutation_marker": "",
+    "sindarin": "gwain",
+    "spellings": [],
+    "ipa": "gʷain",
+    "tengwar": "",
+    "cirth": "ocl@",
+    "english": [
+      "young",
+      "new"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1087096531",
+    "etymology": {
+      "root_refs": [
+        "win"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vinya"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "young, new",
+    "ids_code": "14.140",
+    "conception": "Key-2016-1310-18",
+    "notes": "Taken from words such as \"Iarwain\" and \"Narwain\" and extrapolated from its Noldorin counterpart.",
+    "references": [
+      "PE17/191",
+      "SA/iaur"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
+    "id": "thosta",
+    "mutation_marker": "",
+    "sindarin": "thosta-",
+    "spellings": [],
+    "ipa": "'θos.ta",
+    "tengwar": "",
+    "cirth": "0bf8cI",
+    "english": [
+      "smell (stink)",
+      "stink"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "smell",
+    "ids_chapter": "sense perception",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3296188631",
+    "etymology": {
+      "root_refs": [
+        "thus"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰusta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θusta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "θosta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7usta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to smell bad, to stink (intransitive)",
+    "ids_code": "15.210",
+    "conception": "Key-2016-1310-1000",
+    "notes": "",
+    "references": [
+      "EtyAC/THUS"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
     "uuid": "17FBF917-6CF3-4065-9233-F563F5C90292",
     "id": "nedunnia",
     "mutation_marker": "",
@@ -27360,77 +27643,80 @@
     "last_modified": "2026-07-19"
   },
   {
-    "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
-    "id": "thosta",
+    "uuid": "C48F33BC-EFAC-446C-A2AF-29AB17A03615",
+    "id": "liss",
     "mutation_marker": "",
-    "sindarin": "thosta-",
+    "sindarin": "liss",
     "spellings": [],
-    "ipa": "'θos.ta",
-    "tengwar": "",
-    "cirth": "0bf8cI",
+    "ipa": "lis",
+    "tengwar": "",
+    "cirth": "alh",
     "english": [
-      "smell (stink)",
-      "stink"
+      "fragrant",
+      "sweet"
     ],
     "grammar": [
-      "verb"
+      "adjective"
     ],
     "inflection": null,
     "gender": "",
     "category": "smell",
     "ids_chapter": "sense perception",
-    "type": "restored",
-    "source": "Noldorin",
+    "type": "attested",
+    "source": "Tolkien",
     "status": "",
     "noldorin_form": "",
-    "eldamo_id": "3296188631",
+    "eldamo_id": "1798132415",
     "etymology": {
       "root_refs": [
-        "thus"
+        "lis"
       ],
-      "primitive": null,
+      "primitive": {
+        "form": "lissĭ-",
+        "eldamo_id": "1474613087"
+      },
       "development": [
         {
-          "form": "tʰusta",
+          "form": "lissi",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "883570327"
+          "eldamo_id": "3064357955"
         },
         {
-          "form": "θusta",
+          "form": "lisse",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "1593810649"
+          "eldamo_id": "813787869"
         },
         {
-          "form": "θosta",
+          "form": "liss",
           "eldamo_id": ""
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7usta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lissi&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
     },
-    "cognates": {},
-    "conjugation": {
-      "class": "derived",
-      "irregular": false
+    "cognates": {
+      "quenya": "lissë"
     },
+    "conjugation": null,
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "to smell bad, to stink (intransitive)",
-    "ids_code": "15.21",
-    "conception": "Key-2016-1310-1000",
-    "notes": "",
+    "definition": "fragrant, sweet",
+    "ids_code": "15.250",
+    "conception": "Key-2016-1310-1003",
+    "notes": "Taken from \"lissuin\"",
     "references": [
-      "EtyAC/THUS"
+      "UT/189",
+      "UTI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "308240B8-F2A5-4C8B-9CA7-6DBFCDC47D62",
@@ -27751,6 +28037,83 @@
     "last_modified": "2026-07-19"
   },
   {
+    "uuid": "C9E02D31-817E-445D-B290-1D5C26533431",
+    "id": "ogvar",
+    "mutation_marker": "",
+    "sindarin": "ogvar",
+    "spellings": [],
+    "ipa": "'og.var",
+    "tengwar": "",
+    "cirth": "br4cR",
+    "english": [
+      "misfortune",
+      "bad luck"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "notion",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "oko",
+        "mbar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "okobar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "okovar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "ogovar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "ogvar",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=oko.bar&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "misfortune, bad luck",
+    "ids_code": "16.190",
+    "conception": "Key-2016-1310-1052",
+    "notes": "Neologism based on it opposite \"alvar\", but changing the prefixed root √AL(A) meaning \"good\" for √OKO meaning \"wicked\", \"bad\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
     "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
     "id": "sadhor",
     "mutation_marker": "",
@@ -27884,6 +28247,87 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "C024FE4A-41E2-4AB0-8614-3A79824B5320",
+    "id": "notha",
+    "mutation_marker": "",
+    "sindarin": "notha-",
+    "spellings": [],
+    "ipa": "'no.θa",
+    "tengwar": "",
+    "cirth": "@b0cI",
+    "english": [
+      "conceive (think)",
+      "believe"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "nautha-",
+    "eldamo_id": "2014743631",
+    "etymology": {
+      "root_refs": [
+        "now"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nowtʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "nowθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "noθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "noθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=now.%C5%A7a&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-EM1Z87"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to believe, to conceive",
+    "ids_code": "17.150",
+    "conception": "Key-2016-1310-1100",
+    "notes": "",
+    "references": [
+      "Ety/NOWO"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -28046,6 +28490,56 @@
     "last_modified": "2026-07-19"
   },
   {
+    "uuid": "ADF49610-D1DA-4BB3-9D91-859AE4581248",
+    "id": "lhossa",
+    "mutation_marker": "",
+    "sindarin": "lhossa-",
+    "spellings": [],
+    "ipa": "l̥osa",
+    "tengwar": "",
+    "cirth": "sbhcI",
+    "english": [
+      "whisper",
+      "rustle"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "speech and language",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3440362943",
+    "etymology": {
+      "root_refs": [
+        "slus"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "whisper, rustle",
+    "ids_code": "18.150",
+    "conception": "Key-2016-1310-1151",
+    "notes": "Based on Noldorin \"floss\", which means \"whispering or rustling sound\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
     "uuid": "EE4C5626-E157-4C5B-BFD4-C6162FA0EEB2",
     "id": "bardor",
     "mutation_marker": "mb-",
@@ -28196,6 +28690,72 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "BE6AE095-E637-437C-B9CB-B07F1601770F",
+    "id": "gobel",
+    "mutation_marker": "",
+    "sindarin": "gobel",
+    "spellings": [],
+    "ipa": "'go.bel",
+    "tengwar": "",
+    "cirth": "rb2za",
+    "english": [
+      "village",
+      "town"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gobel",
+      "singular": "",
+      "plural": "gebil"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3368542489",
+    "etymology": {
+      "root_refs": [
+        "pel"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "go-",
+          "gloss": "together",
+          "type": "prefix"
+        },
+        {
+          "form": "PEL",
+          "gloss": "fence, border",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "opele"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "village, town (enclosure)",
+    "ids_code": "19.160",
+    "conception": "Key-2016-1310-1192",
+    "notes": "",
+    "references": [
+      "RC/241"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
@@ -28368,6 +28928,72 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "07E56636-4F9B-4CFA-B100-C1A203B0C57E",
+    "id": "othrim",
+    "mutation_marker": "",
+    "sindarin": "othrim",
+    "spellings": [],
+    "ipa": "'oθ.rim",
+    "tengwar": "",
+    "cirth": "b0Rl6",
+    "english": [
+      "army"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "othrim",
+      "singular": "",
+      "plural": "ethrim"
+    },
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3695737149",
+    "etymology": {
+      "root_refs": [
+        "koth"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "auth",
+          "gloss": "war, battle",
+          "type": "noun"
+        },
+        {
+          "form": "-rim",
+          "gloss": "collective plural",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "hosse"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "20.150",
+    "conception": "Key-2016-1310-1226",
+    "notes": "",
+    "references": [
+      "GL/49",
+      "LT1A/Orc"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
@@ -28612,6 +29238,92 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "9981B2FE-6BCD-48D5-8543-8F125A073422",
+    "id": "baudh",
+    "mutation_marker": "mb-",
+    "sindarin": "baudh",
+    "spellings": [],
+    "ipa": "bauð",
+    "tengwar": "",
+    "cirth": "2cS!",
+    "english": [
+      "judgement"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "law",
+    "ids_chapter": "law",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "308669399",
+    "etymology": {
+      "root_refs": [
+        "mbad"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "bāda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "bǭda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "bǭða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "bauða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "bauð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ba%3Ada&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "",
+    "ids_code": "21.170",
+    "conception": "Key-2016-1310-1266",
+    "notes": "",
+    "references": [
+      "Ety/BAD",
+      "EtyAC/MBAD"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
@@ -28934,5 +29646,117 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "A48DA711-9CCA-4E2C-9DE4-0529D986525D",
+    "id": "annodal",
+    "mutation_marker": "",
+    "sindarin": "annodal",
+    "spellings": [],
+    "ipa": "'ano.dal",
+    "tengwar": "",
+    "cirth": "c@@b9ca",
+    "english": [
+      "altar"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "annodal",
+      "singular": "",
+      "plural": "ennedail"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "annātalam",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "annǭtalam",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "876455981"
+        },
+        {
+          "form": "annǭtala",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "annautala",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "annautal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "annaudal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "annodal",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "annā",
+          "gloss": "gift",
+          "type": "noun"
+        },
+        {
+          "form": "talam",
+          "gloss": "platform",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=anna%3A.talam&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-EHTHRH"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "altar, (lit.) \"gift platform\"",
+    "ids_code": "22.140",
+    "conception": "Key-2016-1310-1292",
+    "notes": "Based on Japanese 供物台 (kumotsudai), \"offering stand/platform\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   }
 ]
