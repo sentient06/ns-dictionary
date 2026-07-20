@@ -329,6 +329,13 @@
     "notes": ""
   },
   {
+    "id": "keg",
+    "form": "KEG",
+    "gloss": "snag, barb, difficulty",
+    "eldamo_id": "1947164579",
+    "notes": ""
+  },
+  {
     "id": "kem",
     "form": "KEM",
     "gloss": "soil, earth",
@@ -735,6 +742,13 @@
     "notes": ""
   },
   {
+    "id": "mal",
+    "form": "MAL",
+    "gloss": "yellow",
+    "eldamo_id": "1540227675",
+    "notes": ""
+  },
+  {
     "id": "man",
     "form": "MAN",
     "gloss": "good (morally), blessed, holy, unmarred, free from evil",
@@ -746,6 +760,13 @@
     "form": "MAP",
     "gloss": "take away, take hold of, grasp",
     "eldamo_id": "3643401495",
+    "notes": ""
+  },
+  {
+    "id": "masag",
+    "form": "MASAG",
+    "gloss": "sticky",
+    "eldamo_id": "3437182007",
     "notes": ""
   },
   {
@@ -1341,6 +1362,111 @@
     "form": "SLUS",
     "gloss": "whisper",
     "eldamo_id": "4256162853",
+    "notes": ""
+  },
+  {
+    "id": "smag",
+    "form": "SMAG",
+    "gloss": "soil, stain",
+    "eldamo_id": "1982947793",
+    "notes": ""
+  },
+  {
+    "id": "spanag",
+    "form": "SPANAG",
+    "gloss": "beard",
+    "eldamo_id": "2717682367",
+    "notes": ""
+  },
+  {
+    "id": "spar",
+    "form": "SPAR",
+    "gloss": "hunt",
+    "eldamo_id": "74258369",
+    "notes": ""
+  },
+  {
+    "id": "spay",
+    "form": "SPAY",
+    "gloss": "despise, contemn",
+    "eldamo_id": "2721115247",
+    "notes": ""
+  },
+  {
+    "id": "spinid",
+    "form": "SPIN(ID)",
+    "gloss": "fine thread, filament; hair",
+    "eldamo_id": "2704910281",
+    "notes": ""
+  },
+  {
+    "id": "sraw",
+    "form": "SRAW",
+    "gloss": "body, flesh",
+    "eldamo_id": "4100376405",
+    "notes": ""
+  },
+  {
+    "id": "sron",
+    "form": "SRON",
+    "gloss": "substance, matter",
+    "eldamo_id": "1777341887",
+    "notes": ""
+  },
+  {
+    "id": "stak",
+    "form": "STAK",
+    "gloss": "split, insert",
+    "eldamo_id": "3653180699",
+    "notes": ""
+  },
+  {
+    "id": "stan",
+    "form": "STAN",
+    "gloss": "fix, indicate, decide",
+    "eldamo_id": "2528555169",
+    "notes": ""
+  },
+  {
+    "id": "star",
+    "form": "STAR",
+    "gloss": "stiff",
+    "eldamo_id": "3583232219",
+    "notes": ""
+  },
+  {
+    "id": "sten",
+    "form": "STEN",
+    "gloss": "cut short, limit, confine, cramp",
+    "eldamo_id": "2270649835",
+    "notes": ""
+  },
+  {
+    "id": "stud",
+    "form": "STUD",
+    "gloss": "base, ground",
+    "eldamo_id": "3878463621",
+    "notes": ""
+  },
+  {
+    "id": "suk",
+    "form": "SUK",
+    "gloss": "drink, drain, gulp, quaff",
+    "eldamo_id": "4170866335",
+    "notes": "It seems to share meaning with √SOK"
+  },
+  {
+    "id": "swal",
+    "form": "SWAL",
+    "gloss": "wash",
+    "eldamo_id": "1126585633",
+    "notes": ""
+  },  
+  {
+    "id": "suu",
+    "form": "SŪ",
+    "gloss": "blow, move with audible sound (of air)",
+    "eldamo_id": "341003397",
     "notes": ""
   }
 ]
