@@ -14718,7 +14718,7 @@
     "inflection": null,
     "gender": "",
     "category": "actions",
-    "ids_chapter": "basic actions and technology",
+    "ids_chapter": "possession",
     "type": "reconstructed",
     "source": "Gnomish",
     "status": "",
@@ -14740,14 +14740,14 @@
     "swadesh100": null,
     "swadesh207": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "11.150",
+    "conception": "Key-2016-1310-171",
     "notes": "",
     "references": [
       "GL/55"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0E4ADB77-76EB-4320-BFAB-835A7560DA3F",
@@ -18893,7 +18893,7 @@
     "eldamo_id": "2215571959",
     "etymology": {
       "root_refs": [
-        "smal"
+        "mal"
       ],
       "primitive": {
         "form": "smalinā",
@@ -18901,20 +18901,12 @@
       },
       "development": [
         {
-          "form": "smalinā",
+          "form": "malinā",
           "eldamo_id": ""
         },
         {
           "rule": ">",
           "eldamo_id": "2753394075"
-        },
-        {
-          "form": "smalina",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "3923357111"
         },
         {
           "form": "malina",
@@ -18938,7 +18930,7 @@
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=smalina%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19JASGR"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=malina%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
       "quenya": "malina"
@@ -18950,12 +18942,12 @@
     "definition": "",
     "ids_code": "",
     "conception": "",
-    "notes": "",
+    "notes": "The root for this word is outdated on Eldamo, so the PE version of the word should be \"malinā\" instead of \"smalinā\". (The result is the same, though.)",
     "references": [
       "Ety/SMAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2AF2EDFE-B9E1-41CB-8A59-92E81B5BEFAA",
@@ -24690,6 +24682,189 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "F0A5D7CC-A2D6-403A-AE51-2E08FEFD382F",
+    "id": "ivelost",
+    "mutation_marker": "",
+    "sindarin": "ivelost",
+    "spellings": [],
+    "ipa": "'i.ve.lost",
+    "tengwar": "",
+    "cirth": "l4zabf8",
+    "english": [
+      "ripe"
+    ],
+    "grammar": [],
+    "inflection": {
+      "base": "ivelost",
+      "singular": "",
+      "plural": "ivelyst"
+    },
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "imi",
+        "mag",
+        "law"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "imimaglawstā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "113345945"
+        },
+        {
+          "form": "imimaglaustā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "imimaglausta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "imimaglǭsta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "imimaɣlǭsta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "539122737"
+        },
+        {
+          "form": "imimailǭsta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "imimailausta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "imimailaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "immailaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "immaelaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "imaelaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "imelost",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "iɱelost",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "imelost",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "ivelost",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "IMI",
+          "gloss": "in",
+          "type": "root"
+        },
+        {
+          "form": "MAG",
+          "gloss": "good",
+          "type": "root"
+        },
+        {
+          "form": "laust",
+          "gloss": "season",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=imi.mag.lawsta%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-9DPJC5"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "ripe, (lit.) \"in good season\"",
+    "ids_code": "5.123",
+    "conception": "Key-2016-1310-570",
+    "notes": "Based on Greek ώριμος (órimos) \"in its proper season\", formed by √IMI + √MAG + [√LAW + -stā], literally \"in good season\". The season part is based on Neo-Quenya \"löasta\".",
+    "references": [],
+    "hidden": "ripe",
+    "last_modified": "2026-07-20"
+  },
+  {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
     "id": "brath",
     "mutation_marker": "",
@@ -25079,6 +25254,118 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "28C68878-17B4-4B93-95E5-82E1BA681ED9",
+    "id": "to",
+    "mutation_marker": "",
+    "sindarin": "tô",
+    "spellings": [],
+    "ipa": "toː",
+    "tengwar": "",
+    "cirth": "8n",
+    "english": [
+      "wool",
+      "fleece"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2232227977",
+    "etymology": {
+      "root_refs": [
+        "tow"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "togō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "togo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "toɣo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "toɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "tōɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4164672875"
+        },
+        {
+          "form": "tō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "iɱelost",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "imelost",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=togo%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-9DPJC5"
+    },
+    "cognates": {
+      "quenya": "tó"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "wool, fleece",
+    "ids_code": "6.220",
+    "conception": "Key-2016-1310-490",
+    "notes": "",
+    "references": [
+      "PE13/154, 165"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
@@ -25965,6 +26252,222 @@
     "last_modified": "2026-07-19"
   },
   {
+    "uuid": "3E07672C-9871-47A3-A7F9-5F4859F2F092",
+    "id": "cail",
+    "mutation_marker": "",
+    "sindarin": "cail",
+    "spellings": [],
+    "ipa": "kail",
+    "tengwar": "",
+    "cirth": "ecla",
+    "english": [
+      "fence",
+      "palisade"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "structure",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3935172377",
+    "etymology": {
+      "root_refs": [
+        "keg"
+      ],
+      "primitive": {
+        "form": "keglē",
+        "eldamo_id": "3850925609"
+      },
+      "development": [
+        {
+          "form": "keglē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kegle",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "keɣle",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "539122737"
+        },
+        {
+          "form": "keile",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "keil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "kail",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "iɱelost",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "imelost",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kegle%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-9DPJC5"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "fence, palisade of spikes or sharp stakes",
+    "ids_code": "8.160",
+    "conception": "Key-2016-1310-389",
+    "notes": "",
+    "references": [
+      "UT/281-282"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "D0F83E62-2DDD-4479-8BC9-512A9FC205AC",
+    "id": "ephel",
+    "mutation_marker": "",
+    "sindarin": "ephel",
+    "spellings": [],
+    "ipa": "efel",
+    "tengwar": "",
+    "cirth": "z1.za",
+    "english": [
+      "outer fence",
+      "surrounding ring"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ephel",
+      "singular": "",
+      "plural": "ephil"
+    },
+    "gender": "",
+    "category": "structure",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1978574935",
+    "etymology": {
+      "root_refs": [
+        "pel"
+      ],
+      "primitive": {
+        "form": "et-pel",
+        "eldamo_id": "213067019"
+      },
+      "development": [
+        {
+          "form": "etpel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "700934409"
+        },
+        {
+          "form": "eppel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "eppʰel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "eɸɸel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "effel",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "ephel",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=etpel&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1JZCE3D%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1JZCE3D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "outer fence, surrounding ring",
+    "ids_code": "8.160",
+    "conception": "Key-2016-1310-389",
+    "notes": "",
+    "references": [
+      "LotR/1114",
+      "PE17/65, 87",
+      "SA/pel"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -26286,6 +26789,83 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "C4876195-BD9E-4021-AA88-CD6223C238A7",
+    "id": "nod",
+    "mutation_marker": "",
+    "sindarin": "nod-",
+    "spellings": [],
+    "ipa": "nod",
+    "tengwar": "",
+    "cirth": "@b9I",
+    "english": [
+      "tie"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2687940851",
+    "etymology": {
+      "root_refs": [
+        "nut"
+      ],
+      "primitive": {
+        "form": "nut-",
+        "eldamo_id": "3575495557"
+      },
+      "development": [
+        {
+          "form": "nut",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "not",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "nod",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nut&off=4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "nut-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to tie",
+    "ids_code": "9.160",
+    "conception": "Key-2016-1310-322",
+    "notes": "",
+    "references": [
+      "Ety/NUT, WŌ"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -26823,6 +27403,57 @@
     ],
     "hidden": "Unknown suffix -ra",
     "last_modified": "2026-07-19"
+  },
+  {
+    "uuid": "781067B4-FD6D-437A-976B-E249F55553AF",
+    "id": "thol",
+    "mutation_marker": "",
+    "sindarin": "thol-",
+    "spellings": [],
+    "ipa": "θol",
+    "tengwar": "",
+    "cirth": "0baI",
+    "english": [
+      "roll"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1270345947",
+    "etymology": {
+      "root_refs": [
+        "thol"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "definition": "to roll",
+    "ids_code": "10.150",
+    "conception": "Key-2016-1310-251",
+    "notes": "",
+    "references": [
+      "GL/73"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
