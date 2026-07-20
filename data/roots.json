@@ -49,6 +49,13 @@
     "notes": ""
   },
   {
+    "id": "as",
+    "form": "AS",
+    "gloss": "beside",
+    "eldamo_id": "1944887875",
+    "notes": ""
+  },
+  {
     "id": "asat",
     "form": "ASAT",
     "gloss": "dust",
@@ -441,6 +448,13 @@
     "notes": ""
   },
   {
+    "id": "koth",
+    "form": "KOT(H)",
+    "gloss": "quarrel, strive, be wroth",
+    "eldamo_id": "218413447",
+    "notes": ""
+  },
+  {
     "id": "kor",
     "form": "KOR",
     "gloss": "round; be round, roll",
@@ -627,6 +641,13 @@
     "form": "LINKWI",
     "gloss": "wet",
     "eldamo_id": "1857614299",
+    "notes": ""
+  },
+  {
+    "id": "lis",
+    "form": "LIS",
+    "gloss": "sweet",
+    "eldamo_id": "581250661",
     "notes": ""
   },
   {
@@ -823,6 +844,195 @@
     "form": "MŌ",
     "gloss": "labour",
     "eldamo_id": "443862109",
+    "notes": ""
+  },
+  {
+    "id": "ana",
+    "form": "NA/ANA",
+    "gloss": "to, towards; at side of, alongside, besides; moreover, in addition, plus",
+    "eldamo_id": "3999209813",
+    "notes": ""
+  },
+  {
+    "id": "nder",
+    "form": "N(D)ER",
+    "gloss": "man, adult male",
+    "eldamo_id": "3037451021",
+    "notes": ""
+  },
+  {
+    "id": "nad",
+    "form": "NAD",
+    "gloss": "plain, valley",
+    "eldamo_id": "2369310335",
+    "notes": ""
+  },
+  {
+    "id": "nak",
+    "form": "NAK",
+    "gloss": "bite",
+    "eldamo_id": "1693393939",
+    "notes": ""
+  },
+  {
+    "id": "nap",
+    "form": "NAP",
+    "gloss": "take (hold), pick up, grasp, seize quickly (with fingers)",
+    "eldamo_id": "1835947993",
+    "notes": ""
+  },
+  {
+    "id": "nar",
+    "form": "NAR",
+    "gloss": "fire, flame",
+    "eldamo_id": "3610955417",
+    "notes": ""
+  },
+  {
+    "id": "nat",
+    "form": "NAT",
+    "gloss": "lace, weave, tie",
+    "eldamo_id": "189808299",
+    "notes": ""
+  },
+  {
+    "id": "ndak",
+    "form": "NDAK",
+    "gloss": "hew, slay",
+    "eldamo_id": "3512107801",
+    "notes": ""
+  },
+  {
+    "id": "ndel",
+    "form": "NDEL",
+    "gloss": "thick, dense",
+    "eldamo_id": "2965274467",
+    "notes": ""
+  },
+  {
+    "id": "ndol",
+    "form": "NDOL",
+    "gloss": "head",
+    "eldamo_id": "1517198753",
+    "notes": ""
+  },
+  {
+    "id": "ndor",
+    "form": "NDOR",
+    "gloss": "land; hard, firm",
+    "eldamo_id": "3295391993",
+    "notes": ""
+  },
+  {
+    "id": "ne",
+    "form": "NE",
+    "gloss": "scent",
+    "eldamo_id": "400030879",
+    "notes": ""
+  },
+  {
+    "id": "neb",
+    "form": "NEB",
+    "gloss": "turn towards (speaker), front",
+    "eldamo_id": "677126175",
+    "notes": ""
+  },
+  {
+    "id": "neled",
+    "form": "NELED",
+    "gloss": "three",
+    "eldamo_id": "3784730413",
+    "notes": ""
+  },
+  {
+    "id": "nelek",
+    "form": "NELEK",
+    "gloss": "tooth",
+    "eldamo_id": "4046258957",
+    "notes": ""
+  },
+  {
+    "id": "nen",
+    "form": "NEN",
+    "gloss": "water",
+    "eldamo_id": "2737333777",
+    "notes": ""
+  },
+  {
+    "id": "nes",
+    "form": "NES",
+    "gloss": "give to feed; feed, pasture; graze",
+    "eldamo_id": "3600216529",
+    "notes": ""
+  },
+  {
+    "id": "neng",
+    "form": "NEÑ",
+    "gloss": "nose",
+    "eldamo_id": "361603117",
+    "notes": ""
+  },
+  {
+    "id": "ney",
+    "form": "NEY",
+    "gloss": "tear",
+    "eldamo_id": "1677741011",
+    "notes": ""
+  },
+  {
+    "id": "nid",
+    "form": "NID",
+    "gloss": "will; force, press(ure), thrust; lean against",
+    "eldamo_id": "833503711",
+    "notes": ""
+  },
+  {
+    "id": "nikw",
+    "form": "NIK(W)",
+    "gloss": "snow, ice; white",
+    "eldamo_id": "2837511337",
+    "notes": ""
+  },
+  {
+    "id": "not",
+    "form": "NOT",
+    "gloss": "count, reckon",
+    "eldamo_id": "4015891999",
+    "notes": ""
+  },
+  {
+    "id": "now",
+    "form": "NOW",
+    "gloss": "think, form idea, imagine",
+    "eldamo_id": "1600751749",
+    "notes": ""
+  },
+  {
+    "id": "nus",
+    "form": "NUS",
+    "gloss": "sense, wisdom; sense of smell",
+    "eldamo_id": "964770057",
+    "notes": ""
+  },
+  {
+    "id": "nut",
+    "form": "NUT",
+    "gloss": "tie, bind",
+    "eldamo_id": "2707610183",
+    "notes": ""
+  },
+  {
+    "id": "nyelek",
+    "form": "NYELEK",
+    "gloss": "hard substance",
+    "eldamo_id": "3776594919",
+    "notes": ""
+  },
+  {
+    "id": "nii",
+    "form": "NĪ/INI",
+    "gloss": "female",
+    "eldamo_id": "1865530792",
     "notes": ""
   }
 ]
