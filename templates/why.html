@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NS Dictionary — A Neo-Sindarin Lexicon</title>
+  <meta name="description" content="A comprehensive Neo-Sindarin dictionary with {{word_count}} entries. Browse Sindarin–English and English–Sindarin word lists, explore etymology, and search the lexicon.">
+  <link rel="canonical" href="https://sindarin.dictionary.elvish.nz/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="NS Dictionary — A Neo-Sindarin Lexicon">
+  <meta property="og:description" content="A comprehensive Neo-Sindarin dictionary with {{word_count}} entries. Browse, search, and explore Tolkien's Elvish language.">
+  <meta property="og:url" content="https://sindarin.dictionary.elvish.nz/">
+  <meta property="og:site_name" content="NS Dictionary">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="NS Dictionary — A Neo-Sindarin Lexicon">
+  <meta name="twitter:description" content="A comprehensive Neo-Sindarin dictionary with {{word_count}} entries. Browse, search, and explore Tolkien's Elvish language.">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/tengwar.css">
+  <link rel="stylesheet" href="css/cirth.css">
+</head>
+<body>
+  <header class="site-header">
+    <span class="site-title-wrapper">
+      <a href="index.html" class="site-title tengwar">
+        
+      </a>
+      <span>NS Dictionary</span>
+    </span>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
+    <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="1.4rem" height="1.4rem">
+        <line x1="3" y1="6" x2="21" y2="6"/>
+        <line x1="3" y1="12" x2="21" y2="12"/>
+        <line x1="3" y1="18" x2="21" y2="18"/>
+      </svg>
+    </label>
+    <nav class="site-nav">
+      <a href="sindarin-english.html">Sindarin - English</a>
+      <a href="english-sindarin.html">English - Sindarin</a>
+      <a href="by-grammar.html">By Grammar</a>
+      <a href="by-category.html">By Category</a>
+      <a href="search.html">Search</a>
+    </nav>
+  </header>
+  <main class="main-content prose">
+    <h1 class="page-title">
+      Why I made this website
+    </h1>
+    <h2>
+      The problem
+    </h2>
+    <p>
+      A while ago I decided to translate parts of the Silmarillion into Sindarin. To my disappointment, I found Sindarin lacking. A lot. I managed to translate a couple of chapters, but something bugged me about the results.
+    </p>
+    <p>
+      You see, Sindarin is full of holes. The way enthusiasts use it, "the correct way," is by minimising invention and sticking to attested forms. The result, in my opinion, is something akin to Simple English.
+    </p>
+    <p>
+      Take a simple sentence and translate it into pure Sindarin, no neologisms allowed:
+    </p>
+    <blockquote>
+      "the farmer is shocked to see his food on the floor"
+    </blockquote>
+    <blockquote>
+      "dîr e·rîdh sâf ndael cened devn dín am maded poe dalan"
+    </blockquote>
+    <blockquote>
+      "the man of the farm has horror seeing the handicraft his for eating on flat-space"
+    </blockquote>
+    <p>
+      The literal gloss looks so strange because Sindarin has low semantic resolution: its lexicon lacks the distinctions needed for ordinary words, forcing us to replace them with circumlocutions or broader terms.
+    </p>
+    <p>
+      This causes several related problems:
+    </p>
+    <ul>
+      <li>
+        <strong>Excessive circumlocution.</strong> "Man of the farm" is unnecessarily descriptive for a farmer, where a single word should suffice.
+      </li>
+      <li>
+        <strong>Severe lexical gaps.</strong> Words for simple concepts like "food" are simply missing.
+      </li>
+      <li>
+        <strong>Semantic bleaching.</strong> A very general word gets used where a more specific one would normally be expected.
+      </li>
+      <li>
+        <strong>Analytic paraphrasing.</strong> A lexical item is replaced with an explanatory expression instead.
+      </li>
+    </ul>
+    <p>
+      This makes pure Sindarin applied to prose tiresome and clumsy: it often forces the speaker to express concepts compositionally rather than lexically. The translation preserves propositional meaning, and each substitution is individually understandable, but at the cost of precision — concepts are defined rather than named, giving the text the feel of a controlled language or learner's paraphrase rather than fully developed natural prose.
+    </p>
+    <p>
+      Tolkien never intended the published corpus to constitute a complete language, and we possess only a fragment of the lexicon. So it's fair to say our attested vocabulary lacks sufficient coverage for unrestricted prose.
+    </p>
+    <p>
+      Sindarin lacks even neologisms! It pales when compared to Quenya. In the Vinyë Lambegolmor server, due to the lack of people with knowledge about Sindarin, for every 100 new Quenya words, there are only 2 for Sindarin. As the neologisms channel churns out a dozen or so every week, the Sindarin neologisms lag behind in a chasm of missing vocabulary.
+    </p>
+    <h2>
+      Neo-Sindarin Lexical Expansion Roadmap
+    </h2>
+    <p>
+      The objective is not to make Sindarin resemble English, but to reconstruct the lexical richness expected of a natural language while remaining faithful to Tolkien's historical and philological methods.
+    </p>
+    <p>
+      Neologisms should therefore be created only to fill demonstrable lexical gaps and should always be grounded in Tolkien's phonological, morphological and semantic developments whenever possible.
+    </p>
+    <h3>
+      Phase I — Core Vocabulary
+    </h3>
+    <p>
+      Goal: Ensure every fundamental human concept has a lexical expression.
+    </p>
+    <h4>
+      Reference sources
+    </h4>
+    <ul>
+      <li>Swadesh 100</li>
+      <li>Swadesh 207</li>
+      <li>Leipzig–Jakarta List</li>
+    </ul>
+    <h4>
+      Criteria
+    </h4>
+    <ul>
+      <li>Basic human experience</li>
+      <li>Universal concepts</li>
+      <li>High stability across languages</li>
+      <li>Difficult to replace naturally by circumlocution</li>
+    </ul>
+    <h3>
+      Phase II — Everyday Language
+    </h3>
+    <p>
+      Goal: Make Sindarin usable for ordinary narrative and conversation.
+    </p>
+    <h4>
+      Reference sources
+    </h4>
+    <ul>
+      <li>Longman Defining Vocabulary</li>
+      <li>Frequency lists (British National Corpus, SUBTLEX, etc.)</li>
+    </ul>
+    <h4>
+      Criteria
+    </h4>
+    <p>
+      Prioritise words that occur constantly in ordinary speech.
+    </p>
+    <h3>
+      Phase III — Semantic Coverage
+    </h3>
+    <p>
+      Goal: Increase lexical precision by reducing unnecessary circumlocution.
+    </p>
+    <h4>
+      Reference source
+    </h4>
+    <ul>
+      <li>
+        Princeton WordNet
+      </li>
+    </ul>
+    <p>
+      Rather than merely asking whether a concept exists, examine entire semantic fields.
+    </p>
+    <p>
+      Example:
+    </p>
+    <pre>
+    fear
+      ├── anxiety
+      ├── fright
+      ├── horror
+      ├── terror
+      ├── panic
+      └── shock</pre>
+    <p>
+      A language becomes expressive when these distinctions are lexicalised where appropriate.
+    </p>
+    <h3>
+      Phase IV — Tolkienian Validation
+    </h3>
+    <p>
+      Goal: Remain faithful to Tolkien's conceptual universe.
+    </p>
+    <h4>
+      Reference sources
+    </h4>
+    <ul>
+      <li>Eldamo</li>
+      <li>The Etymologies</li>
+      <li>Parma Eldalamberon</li>
+      <li>Vinyar Tengwar</li>
+      <li>Published linguistic papers</li>
+    </ul>
+    <p>
+      For every proposed concept, determine whether Tolkien:
+    </p>
+    <ul>
+      <li>directly attested it;</li> 
+      <li>implied it through a primitive root;</li>
+      <li>provided enough derivational material;</li>
+      <li>or left a genuine lexical gap.</li>
+    </ul>
+    <p>
+      This phase should always take precedence over modern lexical sources.
+    </p>
+    <h3>
+      Phase V — Cross-Linguistic Validation
+    </h3>
+    <p>
+      Goal: Avoid introducing distinctions that are merely English-specific.
+    </p>
+    <p>
+      When proposing a new word, ask:<br>
+      Is this concept lexicalised across unrelated languages?
+    </p>
+    <p>
+      Compare several languages. If most languages possess an ordinary lexical item for the concept, this strengthens the case that the gap is genuine rather than culture-specific.
+    </p>
+    <h3>
+      Phase VI — Lexical Audit
+    </h3>
+    <p>
+      Goal: Systematically identify remaining gaps.
+    </p>
+    <h4>
+      Reference sources
+    </h4>
+    <ul>
+      <li>
+        Intercontinental Dictionary Series (IDS)
+      </li>
+    </ul>
+    <p>
+      The IDS should serve as an auditing tool rather than the primary roadmap.
+    </p>
+    <p>
+      Its role is to reveal domains that remain underrepresented after the earlier phases have been completed.
+    </p>
+    <h2>
+      Evaluation Criteria for Every Neologism
+    </h2>
+    <p>
+      Each proposal should answer the following questions.
+    </p>
+    <p>
+      1. Is the concept genuinely needed?<br>
+      Can speakers naturally discuss ordinary life without repeatedly resorting to paraphrase?
+    </p>
+    <p>
+      2. Is there already an attested equivalent?<br>
+      Have all Tolkienian sources been examined?
+    </p>
+    <p>
+      3. Is the distinction cross-linguistically common?<br>
+      Do many unrelated languages lexicalise it?
+    </p>
+    <p>
+      4. Can the word be derived naturally?<br>
+      Does the proposed form follow Tolkien's phonological history and derivational patterns?
+    </p>
+    <p>
+      5. Is it semantically economical?<br>
+      Does it fill a genuine lexical gap rather than duplicate an existing word?
+    </p>
+    <h2>
+      Long-Term Vision
+    </h2>
+    <p>
+      The ultimate objective is not simply to produce more words, but to develop a lexicon that exhibits the characteristics of a mature natural language:
+    </p>
+    <ul>
+      <li>complete coverage of fundamental concepts;</li>
+      <li>rich semantic resolution;</li>
+      <li>productive derivational patterns;</li>
+      <li>internal historical consistency;</li>
+      <li>and a vocabulary that permits idiomatic prose without excessive circumlocution.</li>
+    </ul>
+    <p>
+      In this sense, the project is best understood not as reconstructing the unattested portions of the lexicon by applying Tolkien's comparative philological method as consistently as the available evidence permits.
+    </p>
+  </main>
+  <footer class="site-footer">
+    NS Dictionary — A Neo-Sindarin Lexicon · Not affiliated with the Tolkien Estate
+    <div class="footer-updated">Last updated {{build_date}}</div>
+  </footer>
+</body>
+</html>

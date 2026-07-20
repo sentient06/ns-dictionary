@@ -506,6 +506,7 @@ const rootsMap = Object.fromEntries(roots.map(r => [r.id, r]));
 const wordTemplate = readTemplate('word');
 const listTemplate = readTemplate('list');
 const indexTemplate = readTemplate('index');
+const whyTemplate = readTemplate('why');
 const searchTemplate = readTemplate('search');
 
 let oldManifest = {};
@@ -613,6 +614,7 @@ if (FULL || oldManifest['__lists__'] !== listHash) {
   writeOut('by-category.html', render(listTemplate, buildByCategoryList(words)));
   writeOut('swadesh-100.html', render(listTemplate, buildSwadeshList(words, 'swadesh100', 'Swadesh 100', 'The Swadesh 100 core vocabulary list in Neo-Sindarin.', 'swadesh-100.html')));
   writeOut('swadesh-207.html', render(listTemplate, buildSwadeshList(words, 'swadesh207', 'Swadesh 207', 'The extended Swadesh 207 vocabulary list in Neo-Sindarin.', 'swadesh-207.html')));
+  writeOut('leipzig-jakarta.html', render(listTemplate, buildSwadeshList(words, 'leipzig_jakarta', 'Leipzig-Jakarta', 'The Leipzig–Jakarta vocabulary list in Neo-Sindarin.', 'leipzig-jakarta.html')));
   console.log('✓ List pages rebuilt');
 } else {
   console.log('✓ List pages unchanged');
@@ -620,6 +622,7 @@ if (FULL || oldManifest['__lists__'] !== listHash) {
 
 // ── Build Index Page ─────────────────────────────────────────────────────────
 
+writeOut('why.html', render(whyTemplate));
 writeOut('index.html', render(indexTemplate, { word_count: words.length }));
 console.log('✓ Index page built');
 

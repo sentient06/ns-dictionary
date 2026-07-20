@@ -120,6 +120,23 @@ body {
   width: 100%;
 }
 
+.main-content.prose p {
+  margin: 16px 0;
+}
+
+.main-content.prose ul {
+  margin: revert;
+  padding: revert;
+}
+
+.main-content.prose pre {
+  font-size: 0.75rem;
+}
+
+.main-content.prose blockquote {
+  margin-left: 16px;
+}
+
 .site-footer {
   background: var(--parchment-dark);
   border-top: 2px solid var(--border);

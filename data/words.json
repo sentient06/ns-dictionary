@@ -40,13 +40,14 @@
     "confidence": null,
     "swadesh100": 1,
     "swadesh207": 1,
+    "leipzig_jakarta": 14,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "60DBC4AD-47E2-44E1-A35A-C6A2770466DE",
@@ -90,13 +91,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7537D39B-17DB-4966-A2D1-9D4156AA0D7F",
@@ -140,13 +142,14 @@
     "confidence": null,
     "swadesh100": 2,
     "swadesh207": 2,
+    "leipzig_jakarta": 9,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "693FB9D9-6B1D-4172-BBC2-B4C3ECD98453",
@@ -191,13 +194,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C3624202-9326-4457-9C0C-3AEC68427956",
@@ -241,13 +245,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EE1077FB-B3A2-4905-94BC-FBB86E95DCA2",
@@ -292,13 +297,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3C635998-67C9-4886-9814-80275BF590E4",
@@ -338,13 +344,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 3,
+    "leipzig_jakarta": 35,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Reconstructed from \"ten\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6282F5BE-7505-465F-AEE5-2FAF7CF628BA",
@@ -385,13 +392,14 @@
     "confidence": null,
     "swadesh100": 3,
     "swadesh207": 4,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E31C7DB2-BE6D-4FFC-A8FE-FB0ABA4FD3EB",
@@ -433,13 +441,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "35496230-E57E-4925-A248-6ED88C3C0A9D",
@@ -480,13 +489,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FFC672AA-AE0A-4CA9-9022-238471458BD9",
@@ -528,13 +538,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "07050DC2-E77A-487F-8209-CE44D2D90D3A",
@@ -573,13 +584,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9FEC4C5F-0C3A-45CC-A17E-36175B05E9F7",
@@ -618,13 +630,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A499868B-E2AD-4DC8-9AE3-767C73F19E9C",
@@ -662,6 +675,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 5,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -670,7 +684,7 @@
       "PE17/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "81BFCA50-5345-48F8-9B9B-42F094BCFAB4",
@@ -708,13 +722,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 6,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "63554FAC-BF44-4CD1-A4D5-2DB406707A2F",
@@ -753,13 +768,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D478D879-9639-4C19-9023-B6B9B35A3335",
@@ -797,13 +813,14 @@
     "confidence": null,
     "swadesh100": 4,
     "swadesh207": 7,
+    "leipzig_jakarta": 39,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Reconstructed from \"sen\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2668468A-7B21-487F-A0B8-497D3C951E02",
@@ -844,6 +861,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -852,7 +870,7 @@
       "PE17/44"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C14AD0E8-E930-4E23-A033-0C8F6FDB6976",
@@ -890,13 +908,14 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "01D800DF-BA79-4318-9D75-120BE3CF98C5",
@@ -937,13 +956,14 @@
     "confidence": null,
     "swadesh100": 5,
     "swadesh207": 8,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
@@ -984,13 +1004,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8D62AF29-5B32-42EF-ADC6-480839615531",
@@ -1031,13 +1052,14 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3809751E-1B6F-4BD4-B472-19A422669B4C",
@@ -1082,6 +1104,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 9,
+    "leipzig_jakarta": null,
     "definition": "here, in this place (of speaker)",
     "ids_code": "",
     "conception": "",
@@ -1138,6 +1161,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 10,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -1147,7 +1171,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8A0CF779-DC91-45D3-B845-DB5D217AB0AB",
@@ -1187,6 +1211,7 @@
     "confidence": null,
     "swadesh100": 6,
     "swadesh207": 11,
+    "leipzig_jakarta": 34,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -1195,7 +1220,7 @@
       "TI/281"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2D84CE99-3846-471C-93E4-DE7A5CE37BEA",
@@ -1235,6 +1260,7 @@
     "confidence": null,
     "swadesh100": 7,
     "swadesh207": 12,
+    "leipzig_jakarta": 50,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -1243,7 +1269,7 @@
       "VT50/5"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
@@ -1295,6 +1321,7 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": 13,
+    "leipzig_jakarta": null,
     "definition": "where, (lit.) in/at what",
     "ids_code": "",
     "conception": "",
@@ -1303,7 +1330,7 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8041CFEE-7496-4CED-804F-B58DFF7712C8",
@@ -1355,6 +1382,7 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "where, (lit.) whither, where to",
     "ids_code": "",
     "conception": "",
@@ -1363,7 +1391,7 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "67A2972D-B2DB-40B5-BE0A-E09C9F13757F",
@@ -1415,6 +1443,7 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": 14,
+    "leipzig_jakarta": null,
     "definition": "when, (lit.) what time",
     "ids_code": "",
     "conception": "",
@@ -1423,7 +1452,7 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FF4E16F2-8573-4AB3-8DDF-B784C356C08C",
@@ -1475,6 +1504,7 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": 15,
+    "leipzig_jakarta": null,
     "definition": "how, (lit.) by agency of what",
     "ids_code": "",
     "conception": "",
@@ -1483,7 +1513,7 @@
       "FJNS/220-221"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C6BF1AF7-206F-486A-89EB-D84E6F5CA21B",
@@ -1529,6 +1559,7 @@
     "confidence": null,
     "swadesh100": 8,
     "swadesh207": 16,
+    "leipzig_jakarta": 56,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -1537,7 +1568,7 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "925EF065-00A6-483D-9600-DECC52753874",
@@ -1583,6 +1614,7 @@
     "confidence": null,
     "swadesh100": 9,
     "swadesh207": 17,
+    "leipzig_jakarta": null,
     "definition": "all, (lit.) whole",
     "ids_code": "",
     "conception": "",
@@ -1592,7 +1624,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "41EA758E-CCF4-4B07-A716-37780412930E",
@@ -1636,6 +1668,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "all, (lit.) each, every",
     "ids_code": "",
     "conception": "",
@@ -1645,7 +1678,7 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1DC01044-F8EC-4263-8425-48338A982214",
@@ -1753,6 +1786,7 @@
     "confidence": null,
     "swadesh100": 10,
     "swadesh207": 18,
+    "leipzig_jakarta": null,
     "definition": "many, (lit.) frequent",
     "ids_code": "",
     "conception": "",
@@ -1761,7 +1795,7 @@
       "EtyAC/LI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8D9C9D89-3CD6-44AD-BEF5-E448D0EE67BE",
@@ -1803,13 +1837,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "13A9867F-6C6A-42E7-BEDD-DC338D064257",
@@ -1887,13 +1922,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 19,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Based on Greek μέρος (méros), which originally means \"part\". The idea that \"some\" represents a part of a larger thing seems logical enough to treat this word as a determiner.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
@@ -1945,13 +1981,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": 20,
+    "leipzig_jakarta": null,
     "definition": "few, (lit.) countable",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9E5470C8-CB1E-424D-B91F-0D3843989B98",
@@ -1995,13 +2032,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": 21,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Reconstructed from Gnomish \"eleg\".",
     "references": [],
     "hidden": "Unknown suffix -ele",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5EBBC20C-90EF-4B11-9401-F519190CFF0A",
@@ -2075,6 +2113,7 @@
     "confidence": null,
     "swadesh100": 11,
     "swadesh207": 22,
+    "leipzig_jakarta": 33,
     "definition": "",
     "ids_code": "13.10",
     "conception": "Key-2016-1310-57",
@@ -2085,7 +2124,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7CA9EFD0-241C-45FC-9D7E-CED0882B61E5",
@@ -2159,6 +2198,7 @@
     "confidence": null,
     "swadesh100": 12,
     "swadesh207": 23,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.20",
     "conception": "Key-2016-1310-55",
@@ -2169,7 +2209,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7D43645C-2A59-49B9-8968-7FBBC244836E",
@@ -2248,6 +2288,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 24,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.30",
     "conception": "Key-2016-1310-56",
@@ -2258,7 +2299,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3A44F0A0-82B2-400D-85CA-68257CDE4D11",
@@ -2340,6 +2381,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 25,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.40",
     "conception": "Key-2016-1310-54",
@@ -2351,7 +2393,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1D7F8DD5-8956-4969-B5C5-2086291E6FB9",
@@ -2417,6 +2459,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 26,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.50",
     "conception": "Key-2016-1310-53",
@@ -2428,7 +2471,7 @@
       "VT48/6"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6DC5DC9E-7CD0-40B2-A17C-6E6C4566975D",
@@ -2493,6 +2536,7 @@
     "confidence": null,
     "swadesh100": 13,
     "swadesh207": 27,
+    "leipzig_jakarta": 32,
     "definition": "great, large",
     "ids_code": "",
     "conception": "",
@@ -2503,7 +2547,7 @@
       "WJ/191, 335, 338"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5F73B930-BEBF-4A52-960C-E943CA9CCC33",
@@ -2546,6 +2590,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "large, big",
     "ids_code": "",
     "conception": "",
@@ -2554,7 +2599,7 @@
       "PE23/26"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "93E41EA9-169C-4B99-AD3B-039815AB2078",
@@ -2624,6 +2669,7 @@
     "confidence": null,
     "swadesh100": 14,
     "swadesh207": 28,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -2636,7 +2682,7 @@
       "RC/765"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EF6863CD-A31D-4868-A566-BFA92FC05B65",
@@ -2683,6 +2729,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 29,
+    "leipzig_jakarta": null,
     "definition": "wide, broad",
     "ids_code": "",
     "conception": "",
@@ -2692,7 +2739,7 @@
       "S/123"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "320987F0-A27F-4849-AB68-A12201E6B520",
@@ -2782,6 +2829,7 @@
     "confidence": 2,
     "swadesh100": null,
     "swadesh207": 30,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -2790,7 +2838,7 @@
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -2882,6 +2930,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -2890,7 +2939,7 @@
       "PE17/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0E0A6421-92CB-49FA-9716-941CD26D7E15",
@@ -2952,6 +3001,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 31,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -2960,7 +3010,7 @@
       "S/185"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AA9B3FD4-BE30-4862-9DBD-3C99ED86DAE0",
@@ -3023,6 +3073,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "weighty, ponderous",
     "ids_code": "",
     "conception": "",
@@ -3032,7 +3083,7 @@
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "270561D8-D3E9-43CC-AC90-F7A2227921AC",
@@ -3088,6 +3139,7 @@
     "confidence": null,
     "swadesh100": 15,
     "swadesh207": 32,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -3096,7 +3148,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5D4B572A-3D64-4268-88A8-2CE0B64FA4AB",
@@ -3199,6 +3251,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "little, tiny",
     "ids_code": "",
     "conception": "",
@@ -3210,7 +3263,7 @@
       "RS/462"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7F0201CC-557C-4368-A9B4-564A2B6A8AD9",
@@ -3320,6 +3373,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 33,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -3329,7 +3383,7 @@
       "WJ/311"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "52B31A19-8A3D-4DE1-BACA-E3605ECD0708",
@@ -3415,6 +3469,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 34,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -3423,7 +3478,7 @@
       "Ety/AK"
     ],
     "hidden": "Unknown suffix -rā",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "05576E49-F09D-4B04-9EDA-3E8F259749C9",
@@ -3516,6 +3571,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 35,
+    "leipzig_jakarta": null,
     "definition": "slim, slender, thin",
     "ids_code": "",
     "conception": "",
@@ -3524,7 +3580,7 @@
       "PE17/23, 82"
     ],
     "hidden": "Unknown suffix -bi; s207 is \"thin\"",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A1065E48-A83C-4161-9CB9-9FC7373F2352",
@@ -3569,6 +3625,7 @@
     "confidence": null,
     "swadesh100": 16,
     "swadesh207": 36,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "2.22",
     "conception": "Key-2016-1310-891",
@@ -3578,7 +3635,7 @@
       "EtyAC/NDIS, NĪ, NIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D3EBC6E8-0377-414C-A39E-6B57E9A2871F",
@@ -3633,6 +3690,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -3641,7 +3699,7 @@
       "MR/323, 349, 470"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DE49F7C1-23A0-4E1A-BB30-AF80421D06EF",
@@ -3712,6 +3770,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "maiden, young woman",
     "ids_code": "",
     "conception": "",
@@ -3721,7 +3780,7 @@
       "PE23/136, 139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4733D9F4-D8B5-46E3-87B5-6126AF5C5028",
@@ -3785,6 +3844,7 @@
     "confidence": null,
     "swadesh100": 17,
     "swadesh207": 37,
+    "leipzig_jakarta": null,
     "definition": "man (of any kindred), adult male",
     "ids_code": "2.21",
     "conception": "Key-2016-1310-892",
@@ -3793,7 +3853,7 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "70C983BB-F7DB-4CF9-8512-5322EF476512",
@@ -3885,6 +3945,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "man, as a husband, partner, spouse",
     "ids_code": "2.21",
     "conception": "Key-2016-1310-892",
@@ -3894,7 +3955,7 @@
       "EtyAC/DER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "846F0C3E-1797-4827-A659-3EBB0023B119",
@@ -3940,6 +4001,7 @@
     "confidence": null,
     "swadesh100": 18,
     "swadesh207": 38,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -3968,7 +4030,7 @@
       "WRI/Edain"
     ],
     "hidden": "swadesh is \"person\"",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2A16D2D0-99E9-4BC4-86F3-1DD0E1515BA1",
@@ -4062,6 +4124,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 39,
+    "leipzig_jakarta": 51,
     "definition": "child (young human or offspring)",
     "ids_code": "",
     "conception": "",
@@ -4076,7 +4139,7 @@
       "WJ/160, 403"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "949FBE7F-98E0-4497-9761-40DCB9B47636",
@@ -4178,6 +4241,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "wife, lady",
     "ids_code": "",
     "conception": "",
@@ -4187,7 +4251,7 @@
       "Ety/KHER"
     ],
     "hidden": "Unkown suffix -se",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "890FB401-E5DA-4CB6-A468-212A5D31D3BB",
@@ -4263,6 +4327,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 40,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4272,7 +4337,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9E9C248E-524B-4309-8C30-CD839955F985",
@@ -4324,13 +4389,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "spouse (female), married woman",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0D04C1A7-DF18-48D8-A309-94B2E7381FD2",
@@ -4452,6 +4518,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 41,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4461,7 +4528,7 @@
       "Ety/KHER"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8EECCF0B-BC16-4494-BCF4-215F6A985FDA",
@@ -4538,6 +4605,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "spouse (male), married man",
     "ids_code": "",
     "conception": "",
@@ -4546,7 +4614,7 @@
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9CEC6D69-37AD-425E-9F11-2F7A7286D352",
@@ -4592,6 +4660,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 42,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4600,7 +4669,7 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FA3F3C34-F96F-4E3A-AA4B-BB86967E2381",
@@ -4662,6 +4731,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 43,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4672,7 +4742,7 @@
       "VT48/17"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "12182874-61AB-4AEB-8390-3CED9480B5BE",
@@ -4742,6 +4812,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 44,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "3.110",
     "conception": "Key-2016-1310-819",
@@ -4750,7 +4821,7 @@
       "WJ/388, 416"
     ],
     "hidden": "Unknown suffix -āna",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F776A67B-B312-42A4-B471-458002497063",
@@ -4816,6 +4887,7 @@
     "confidence": null,
     "swadesh100": 19,
     "swadesh207": 45,
+    "leipzig_jakarta": 40,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4824,7 +4896,7 @@
       "Ety/LIW, LOK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7736ACC0-8A25-4CCD-8353-6BF3F54558A5",
@@ -4906,6 +4978,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4914,7 +4987,7 @@
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F12735CD-0EF4-4C7B-A61B-2CA484429113",
@@ -4988,6 +5061,7 @@
     "confidence": null,
     "swadesh100": 20,
     "swadesh207": 46,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -4997,7 +5071,7 @@
       "SA/lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "60DE43AD-161E-4D6C-9F31-3C01208FC5DF",
@@ -5096,6 +5170,7 @@
     "confidence": null,
     "swadesh100": 21,
     "swadesh207": 47,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5104,7 +5179,7 @@
       "Ety/KHUGAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "CD4FD75E-0B75-4553-9B6D-B04BD6113505",
@@ -5148,6 +5223,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5156,7 +5232,7 @@
       "SI/Huan"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7D117964-1D65-47DB-A67D-BD0E92A61F50",
@@ -5196,6 +5272,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5204,7 +5281,7 @@
       "GL/49"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AD435698-BCEB-4DF2-B71F-277E5C7C5B79",
@@ -5248,6 +5325,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5256,7 +5334,7 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2D51EA5D-9623-4288-A000-3E8A67655524",
@@ -5321,6 +5399,7 @@
     "confidence": null,
     "swadesh100": 22,
     "swadesh207": 48,
+    "leipzig_jakarta": 16,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5329,7 +5408,7 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9BA2EE10-CACF-4EEB-9B92-6B3B9F0A8BFF",
@@ -5416,6 +5495,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 49,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5425,7 +5505,7 @@
       "PE17/121, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9113830A-FAD1-490A-A739-ED71040E9731",
@@ -5471,6 +5551,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5479,7 +5560,7 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3AF2892A-D7FA-4C12-8A89-7B897C0CEB48",
@@ -5536,6 +5617,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 50,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5544,7 +5626,7 @@
       "PE17/160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0AE9D1BB-A5EC-462F-B701-CD921BAD3C68",
@@ -5622,6 +5704,7 @@
     "confidence": null,
     "swadesh100": 23,
     "swadesh207": 51,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5639,7 +5722,7 @@
       "UT/267"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E6AB0B32-B175-469B-B23B-B774B569B32F",
@@ -5709,6 +5792,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5725,7 +5809,7 @@
       "WJI/Taur-i-Melegyrn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "81FE635C-3796-44B0-A8B3-72EBB7C3DE93",
@@ -5822,6 +5906,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 52,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5837,7 +5922,7 @@
       "WJI/Taur-i-Melegyrn, Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3F14309D-6E64-4888-BD6C-D474C2968266",
@@ -5923,6 +6008,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "wood, forest of trees",
     "ids_code": "",
     "conception": "",
@@ -5934,7 +6020,7 @@
       "VT42/20"
     ],
     "hidden": "Unknown suffix -nī (presumably an ancient plural)",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "94A4E002-F35B-433F-A3AE-2B3147FCB36F",
@@ -5977,6 +6063,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "wood, forest of trees",
     "ids_code": "",
     "conception": "",
@@ -5985,7 +6072,7 @@
       "UT/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8CA047DC-8EC2-4269-B566-E8A00028EA59",
@@ -6097,13 +6184,14 @@
     "confidence": 1,
     "swadesh100": null,
     "swadesh207": 53,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "A neologism to describe a stick as a simple piece of wood, inspired by Germanic languages Stock, stok, stokk, Romance languages palus, pau, palo, par, Finnish keppi, Japanese 木の棒, Chinese 木棍. Conservative speakers may prefer to use \"golf\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5DD60B9C-E2BD-4EFD-A949-AE50E21D8BEF",
@@ -6181,6 +6269,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6189,7 +6278,7 @@
       "Ety/GÓLOB"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F3221076-CF94-4B3B-8949-3DAA8926FE45",
@@ -6256,6 +6345,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 54,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6264,7 +6354,7 @@
       "GL/38, 40, 42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C9B96920-1314-4617-8E82-3FFC3601DDE4",
@@ -6342,6 +6432,7 @@
     "confidence": null,
     "swadesh100": 24,
     "swadesh207": 55,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6351,7 +6442,7 @@
       "EtyAC/ERÉD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
@@ -6421,6 +6512,7 @@
     "confidence": null,
     "swadesh100": 25,
     "swadesh207": 56,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6433,7 +6525,7 @@
       "RC/760"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "295B6264-0C06-4C69-A35B-C8AF12F2A4CC",
@@ -6516,6 +6608,7 @@
     "confidence": null,
     "swadesh100": 26,
     "swadesh207": 57,
+    "leipzig_jakarta": 10,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6525,7 +6618,7 @@
       "PE17/96, 121"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AC619657-47EC-4989-84B6-8BA8A65EE468",
@@ -6563,6 +6656,7 @@
     "confidence": null,
     "swadesh100": 27,
     "swadesh207": 58,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6571,7 +6665,7 @@
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F67AB558-3211-473B-875C-C9EA60E99979",
@@ -6645,6 +6739,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6659,7 +6754,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DC410E00-113D-4C78-ABE4-AC9BAFB44276",
@@ -6711,6 +6806,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 59,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6719,7 +6815,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8BE9EF5A-C91E-47A9-B129-69BE82633DAF",
@@ -6774,6 +6870,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6782,7 +6879,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D88923D9-4C4A-48CF-8A2B-8C14885113BE",
@@ -6822,6 +6919,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 60,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6830,7 +6928,7 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3CF60B0E-EECF-4858-BD62-431FA6DD4D65",
@@ -6913,6 +7011,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -6921,7 +7020,7 @@
       "Ety/STAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9ACC33EC-7C06-476F-A646-AD54387D7AE8",
@@ -6992,6 +7091,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7000,7 +7100,7 @@
       "UT/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3DB30672-12A3-4109-8D22-4AE782F864DC",
@@ -7044,6 +7144,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7053,7 +7154,7 @@
       "UTI/Taras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F470EBBB-D832-4500-AF76-18D3A9C91A7B",
@@ -7097,6 +7198,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 61,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7105,7 +7207,7 @@
       "UT/313"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "78898167-8B6D-440C-9C75-A30EAAA4F88D",
@@ -7156,6 +7258,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7166,7 +7269,7 @@
       "PE17/60"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "535B518D-03D6-4EF8-B1D1-E174556EC05D",
@@ -7208,6 +7311,7 @@
     "confidence": null,
     "swadesh100": 28,
     "swadesh207": 62,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "4.120",
     "conception": "Key-2016-1310-722",
@@ -7216,7 +7320,7 @@
       "LotR/474"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E760F824-051D-4576-9A86-DBC825E702D9",
@@ -7381,13 +7485,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 63,
+    "leipzig_jakarta": 18,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Neologism for \"meat\", based on Old English term \"flesh-meat\" (12c), in which \"meat\" referred to food in general. (French had a similar term, \"viande\", which meant \"food\".)",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C7DB8C96-BFDB-4A8F-990E-3CEC37609675",
@@ -7458,13 +7563,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Adapted from Noldorin word \"aes\", which doesn't follow Sindarin phonetic standards. Some people use the Noldorin variant regardless.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F8E687B2-B8C7-4224-AC31-E22B42A68F43",
@@ -7558,6 +7664,7 @@
     "confidence": null,
     "swadesh100": 29,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "4.130",
     "conception": "Key-2016-1310-721",
@@ -7567,7 +7674,7 @@
       "VT47/12"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BF8C3304-963C-47E2-AB23-2E4AB13558F3",
@@ -7630,6 +7737,7 @@
     "confidence": null,
     "swadesh100": 30,
     "swadesh207": 64,
+    "leipzig_jakarta": 7,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7639,7 +7747,7 @@
       "SA/sereg"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D307CB7A-506D-4BBE-837E-A5E42BEB5C7B",
@@ -7686,6 +7794,7 @@
     "confidence": null,
     "swadesh100": 31,
     "swadesh207": 65,
+    "leipzig_jakarta": 8,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7694,7 +7803,7 @@
       "PE13/137, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6A2839C5-0D72-42C3-B1C8-C9EFB12D21E9",
@@ -7800,6 +7909,7 @@
     "confidence": null,
     "swadesh100": 32,
     "swadesh207": 66,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7808,7 +7918,7 @@
       "PE13/153"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AA9C1C08-BC77-45BE-A3ED-D69C1C5E6B3E",
@@ -7918,6 +8028,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7926,7 +8037,7 @@
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B7EC34A1-8C93-41BF-9C92-E0D909A63D1C",
@@ -8036,6 +8147,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8044,7 +8156,7 @@
       "PE13/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "10255EDF-93F0-42D1-883E-1C948B15A288",
@@ -8103,6 +8215,7 @@
     "confidence": null,
     "swadesh100": 33,
     "swadesh207": 67,
+    "leipzig_jakarta": 52,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8111,7 +8224,7 @@
       "GL/62, 74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "28CA4D0C-5B77-4DA3-A9B9-AE23CA6333B7",
@@ -8157,6 +8270,7 @@
     "confidence": null,
     "swadesh100": 34,
     "swadesh207": 68,
+    "leipzig_jakarta": 38,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8167,7 +8281,7 @@
       "SA/ras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "44FFEEE5-4DA4-4AD6-8ACE-04A5B7C82A76",
@@ -8207,6 +8321,7 @@
     "confidence": 3,
     "swadesh100": 35,
     "swadesh207": 69,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8215,7 +8330,7 @@
       "QL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "812EB3A1-BC6C-434E-81DB-2395F41954A5",
@@ -8297,6 +8412,7 @@
     "confidence": null,
     "swadesh100": 36,
     "swadesh207": 70,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8305,7 +8421,7 @@
       "PE23/142"
     ],
     "hidden": "Roots seem to work with law+tod",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "73F191D1-C4E9-42CA-A74D-F1688E56916D",
@@ -8364,6 +8480,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8372,7 +8489,7 @@
       "GL/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "83FF09BC-B0A0-44FE-AE67-51A8770BA154",
@@ -8478,6 +8595,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8488,7 +8606,7 @@
       "SA/fin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F8EBDB5D-BAC9-4729-B54D-65C9E53D686D",
@@ -8578,6 +8696,7 @@
     "confidence": null,
     "swadesh100": 37,
     "swadesh207": 71,
+    "leipzig_jakarta": 31,
     "definition": "",
     "ids_code": "4.140",
     "conception": "Key-2016-1310-720",
@@ -8587,7 +8706,7 @@
       "PM/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "57CCB57B-3003-45D8-BF46-F835EAD3F45F",
@@ -8697,6 +8816,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "4.140",
     "conception": "Key-2016-1310-720",
@@ -8705,7 +8825,7 @@
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0F4B77DA-C731-48AE-83B6-9F563161682D",
@@ -8815,6 +8935,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8823,7 +8944,7 @@
       "PE17/17, 119, 151"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B3BEB96A-1811-4E18-999B-AF2377C5F18B",
@@ -8869,6 +8990,7 @@
     "confidence": null,
     "swadesh100": 38,
     "swadesh207": 72,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8880,7 +9002,7 @@
       "SA/dol"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F159A58E-2AD1-46B1-A17C-52A1BDC095D2",
@@ -8926,6 +9048,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8934,7 +9057,7 @@
       "RC/433"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "55568AEA-73EE-418F-8EB8-F380226A1868",
@@ -8994,6 +9117,7 @@
     "confidence": null,
     "swadesh100": 39,
     "swadesh207": 73,
+    "leipzig_jakarta": 22,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9004,7 +9128,7 @@
       "TT17/33"
     ],
     "hidden": "Can't make the evolution work",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "770461E3-6B9D-4361-8F92-58892FFEEF3E",
@@ -9053,6 +9177,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9063,7 +9188,7 @@
       "TT17/33"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6C5CB3D9-1C08-423B-B1FB-5F5AF8BE9EEB",
@@ -9109,6 +9234,7 @@
     "confidence": null,
     "swadesh100": 40,
     "swadesh207": 74,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9119,7 +9245,7 @@
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "955BC4F4-4E39-44CD-8D42-0F879036656B",
@@ -9157,13 +9283,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "This word follows the same pattern of \"lhaw\" (ears) and \"sunt\" (nostrils), in which a primitive dual is fossilised into a modern Sindarin word. As a pair of eyes is as natural as a pair of ears or nostrils, it makes sense to have a dual plural for \"eye\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "55069C4A-DEE1-41F1-AA97-550C007572B4",
@@ -9273,6 +9400,7 @@
     "confidence": null,
     "swadesh100": 41,
     "swadesh207": 75,
+    "leipzig_jakarta": 2,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9281,7 +9409,7 @@
       "Ety/NEÑ-WI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2B819CA0-9A5F-4B27-8FC1-6743A21502C4",
@@ -9380,6 +9508,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9389,7 +9518,7 @@
       "GL/50"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "89C23B87-273B-41AE-8872-D49EE88CA460",
@@ -9432,13 +9561,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "snout, nose (of animals)",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3038151B-0044-4993-A42B-5F8C166F2479",
@@ -9516,6 +9646,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9524,7 +9655,7 @@
       "Ety/MBUD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2978AF6C-D0CE-4A6A-B631-8E5A56E5DA8E",
@@ -9566,13 +9697,14 @@
     "confidence": 3,
     "swadesh100": 42,
     "swadesh207": 76,
+    "leipzig_jakarta": 5,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Based on Gnomish \"gogail\", and using the same compound elements from Sindarin.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DDFA093D-7ED2-4F86-853A-69498C9D947D",
@@ -9637,6 +9769,7 @@
     "confidence": null,
     "swadesh100": 43,
     "swadesh207": 77,
+    "leipzig_jakarta": 30,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9645,7 +9778,7 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DCBC8FFA-9649-4A8A-83D5-7733D6AC8135",
@@ -9718,6 +9851,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9726,7 +9860,7 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "976842F0-361F-4FF3-819E-2317297A746F",
@@ -9810,13 +9944,14 @@
     "confidence": null,
     "swadesh100": 44,
     "swadesh207": 78,
+    "leipzig_jakarta": 6,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "452DB9FA-0296-4A7D-9C9A-DBC6197314EB",
@@ -9902,6 +10037,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9914,7 +10050,7 @@
       "WJ/394"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
@@ -10029,13 +10165,14 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": 79,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Word coined based on √NYELEK, which is used for a Neo-Quenya word meaning \"fingernail\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "11EF59CB-32B6-4FE8-B30E-8FE2BE6CE622",
@@ -10137,13 +10274,14 @@
     "confidence": 0,
     "swadesh100": 45,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Neologism based on Quenya \"nappa\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5409A7ED-E45F-4C32-A5BB-A8F54F665EE3",
@@ -10192,6 +10330,7 @@
     "confidence": null,
     "swadesh100": 46,
     "swadesh207": 80,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10202,7 +10341,7 @@
       "UT/313"
     ],
     "hidden": "Doesn't respect rule 2858643115",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "716D6A95-9D77-4568-888A-58B79E9D34F8",
@@ -10277,13 +10416,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 81,
+    "leipzig_jakarta": 37,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4027E2C5-A371-4182-987E-3267A104B83E",
@@ -10325,6 +10465,7 @@
     "confidence": null,
     "swadesh100": 47,
     "swadesh207": 82,
+    "leipzig_jakarta": 59,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10333,7 +10474,7 @@
       "GL/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "37690141-0A48-42E0-84AF-C541062595EB",
@@ -10446,6 +10587,7 @@
     "confidence": null,
     "swadesh100": 48,
     "swadesh207": 83,
+    "leipzig_jakarta": 19,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10455,7 +10597,7 @@
       "VT47/6-7, 19-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "53E09682-68CC-401E-9D07-96279742C28E",
@@ -10497,13 +10639,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Archaic word for \"hand\". Use mâb instead, unless if using for poetry or compounds.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3D941C9A-A44A-4DC8-A077-F1C5FC2C365E",
@@ -10552,6 +10695,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10561,7 +10705,7 @@
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
@@ -10658,6 +10802,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10668,7 +10813,7 @@
       "VT50/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A7FD3898-018B-46B3-BADA-F5C1FC74177C",
@@ -10714,6 +10859,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 84,
+    "leipzig_jakarta": 17,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10722,7 +10868,7 @@
       "PE17/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "03020EEE-AF45-4AD0-B21B-B4CB9D834E72",
@@ -10768,13 +10914,14 @@
     "confidence": 3,
     "swadesh100": 49,
     "swadesh207": 85,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Neologism based on Quenya \"cumbo\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "69DC5487-071C-4CEC-A14B-B02494809DF3",
@@ -10844,6 +10991,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 86,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10852,7 +11000,7 @@
       "PE13/144, 161"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2703D957-8FE3-4D68-B046-A0F6DA5B8EAD",
@@ -10927,6 +11075,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -10935,7 +11084,7 @@
       "PE17/92"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A9580791-C89A-4199-A15F-1F42B016CEBF",
@@ -10977,13 +11126,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "664F40F5-85EA-4513-9949-764C58B68218",
@@ -11061,6 +11211,7 @@
     "confidence": null,
     "swadesh100": 50,
     "swadesh207": 87,
+    "leipzig_jakarta": 23,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11070,7 +11221,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5977FB38-E166-4517-B3D9-369D5356B5C1",
@@ -11123,6 +11274,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11132,7 +11284,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D3E32838-5E83-40A1-834C-D000191DAB82",
@@ -11176,6 +11328,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 88,
+    "leipzig_jakarta": 47,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11184,7 +11337,7 @@
       "PE13/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
@@ -11272,6 +11425,7 @@
     "confidence": null,
     "swadesh100": 51,
     "swadesh207": 89,
+    "leipzig_jakarta": 12,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11280,7 +11434,7 @@
       "PE13/154"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "88725EBC-4576-4FA6-B762-BA5C9190378B",
@@ -11322,6 +11476,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11331,7 +11486,7 @@
       "GL/19, 27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0D89F5EA-74AD-40CF-8F82-7CB806B3FABB",
@@ -11406,6 +11561,7 @@
     "confidence": null,
     "swadesh100": 52,
     "swadesh207": 90,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11414,7 +11570,7 @@
       "Ety/KHŌ-N"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "88CF3036-9C0F-4A80-A702-4E79F392EF7E",
@@ -11471,6 +11627,7 @@
     "confidence": null,
     "swadesh100": 53,
     "swadesh207": 91,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11479,7 +11636,7 @@
       "GL/65"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E8ADE915-736F-48CB-95AD-0F5CC2AE941C",
@@ -11545,6 +11702,7 @@
     "confidence": null,
     "swadesh100": 54,
     "swadesh207": 92,
+    "leipzig_jakarta": 42,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11554,7 +11712,7 @@
       "EtyAC/SUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D484FCD2-19F6-4C70-A4D6-6F82870CE988",
@@ -11615,6 +11773,7 @@
     "confidence": null,
     "swadesh100": 55,
     "swadesh207": 93,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "5.11",
     "conception": "Key-2016-1310-574",
@@ -11623,7 +11782,7 @@
       "PE17/131, 145"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "476CE22A-BA10-4968-81F2-1983FF39DEDD",
@@ -11681,6 +11840,7 @@
     "confidence": null,
     "swadesh100": 56,
     "swadesh207": 94,
+    "leipzig_jakarta": 46,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11689,7 +11849,7 @@
       "Ety/NAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "78E4831C-B8AA-433E-B827-38255C3A0D6D",
@@ -11727,13 +11887,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "849598BA-9AEE-4218-8849-7E2241EA936D",
@@ -11776,6 +11937,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 95,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11784,7 +11946,7 @@
       "GL/53"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
@@ -11829,6 +11991,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 96,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11837,7 +12000,7 @@
       "Ety/PIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "296B4D75-4912-4BF2-A663-DDD1FABA8B88",
@@ -11902,6 +12065,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 97,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11910,7 +12074,7 @@
       "PE13/162-163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6D285BEC-BF8F-43D3-9745-A2185DF00ED3",
@@ -11953,6 +12117,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 98,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -11962,7 +12127,7 @@
       "LT1A/Súlimo"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A6AFA88C-8E03-4E26-A7C3-5FFCDC2C56CB",
@@ -12018,6 +12183,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 99,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12026,7 +12192,7 @@
       "Ety/THŪ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AA6CB329-0F5A-452E-B305-5BD8043BBBB1",
@@ -12071,6 +12237,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 100,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12079,7 +12246,7 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "11D29988-8AB0-47E5-8027-7AAE984872AF",
@@ -12124,6 +12291,7 @@
     "confidence": null,
     "swadesh100": 57,
     "swadesh207": 101,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12132,7 +12300,7 @@
       "PE17/37, 148, 181"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "36F0535E-F859-483C-938C-3E2286C016D2",
@@ -12177,6 +12345,7 @@
     "confidence": null,
     "swadesh100": 58,
     "swadesh207": 102,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12186,7 +12355,7 @@
       "LT2A/Gimli"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "54EC50E8-4488-4F0D-907B-3E74835E7FCA",
@@ -12234,6 +12403,7 @@
     "confidence": null,
     "swadesh100": 59,
     "swadesh207": 103,
+    "leipzig_jakarta": 58,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12243,7 +12413,7 @@
       "EtyAC/IS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
@@ -12289,13 +12459,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 104,
+    "leipzig_jakarta": null,
     "definition": "think (in an active and analytical way); reflect",
     "ids_code": "17.130",
     "conception": "Key-2016-1310-1098",
     "notes": "Neologism based on reverse-engineered Quenya \"sana-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2B71905D-06EC-4CC3-AFAA-F141A01F0F5D",
@@ -12368,6 +12539,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "ponder, think (in a reflective and contemplative way)",
     "ids_code": "",
     "conception": "",
@@ -12376,7 +12548,7 @@
       "NM/176"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DF34E7A0-1C55-45BB-9AE8-6669F770B7C7",
@@ -12451,6 +12623,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "conceive, imagine or create something new with the mind",
     "ids_code": "",
     "conception": "",
@@ -12459,7 +12632,7 @@
       "Ety/NOWO"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "564AE595-3B9B-48E8-A30B-B8E65B652ACA",
@@ -12502,6 +12675,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 105,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "15.220",
     "conception": "Key-2016-1310-1002",
@@ -12510,7 +12684,7 @@
       "GL/61"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4B75D44A-238F-4715-A15B-1F592F019449",
@@ -12566,13 +12740,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 106,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BEA83FA3-F0B6-44F3-B859-21D2AE412875",
@@ -12615,6 +12790,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12623,7 +12799,7 @@
       "Ety/GOS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6C7483CF-F1AB-48D6-A809-E8E0E2A34E66",
@@ -12667,6 +12843,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12675,7 +12852,7 @@
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FC65ECA3-F141-4FDF-91B6-5962101BC453",
@@ -12718,6 +12895,7 @@
     "confidence": null,
     "swadesh100": 60,
     "swadesh207": 107,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12726,7 +12904,7 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3221F068-F87A-4A90-B3E1-7A9F9D09EF98",
@@ -12769,6 +12947,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12777,7 +12956,7 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FF7CA91D-1A54-4F21-A0F9-BDE8FB8B85F6",
@@ -12820,6 +12999,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 108,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12830,7 +13010,7 @@
       "PE17/102"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1AFD7A0D-476A-4A1F-91F2-6A57E0F97DFA",
@@ -12842,7 +13022,8 @@
     "tengwar": "",
     "cirth": "3lRI",
     "english": [
-      "die (mortals), fade"
+      "die (mortals)",
+      "fade"
     ],
     "grammar": [
       "verb"
@@ -12873,7 +13054,8 @@
     "confidence": null,
     "swadesh100": 61,
     "swadesh207": 109,
-    "definition": "",
+    "leipzig_jakarta": null,
+    "definition": "die (mortals), fade",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -12881,7 +13063,7 @@
       "LotR/1107"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "49878C37-FF9D-412F-A2EC-59183405124B",
@@ -12893,7 +13075,8 @@
     "tengwar": "",
     "cirth": "oc@@cI",
     "english": [
-      "die (elves), depart"
+      "die (elves)",
+      "depart"
     ],
     "grammar": [
       "verb"
@@ -12972,7 +13155,8 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "definition": "",
+    "leipzig_jakarta": null,
+    "definition": "die (elves), depart",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -12980,7 +13164,7 @@
       "Ety/WAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5C8CACDC-DEBD-42A2-B969-66D46F652A9E",
@@ -13044,6 +13228,7 @@
     "confidence": null,
     "swadesh100": 62,
     "swadesh207": 110,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13053,7 +13238,7 @@
       "SA/dagor"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2801ECAD-B87B-4D18-9639-54C0DF9AC760",
@@ -13154,6 +13339,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 111,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "20.110",
     "conception": "Key-2016-1310-1223",
@@ -13162,7 +13348,7 @@
       "Ety/MAK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "215D262B-FF7A-436D-81E6-867F74BDE433",
@@ -13258,6 +13444,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 112,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13267,7 +13454,7 @@
       "EtyAC/PHAR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0391A76A-8F11-4AB5-9FB1-BF9CDEB4BD6C",
@@ -13279,7 +13466,9 @@
     "tengwar": "",
     "cirth": "9RldcI",
     "english": [
-      "beat, strike, hit"
+      "beat",
+      "strike",
+      "hit"
     ],
     "grammar": [
       "verb"
@@ -13310,7 +13499,8 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 113,
-    "definition": "",
+    "leipzig_jakarta": 36,
+    "definition": "beat, strike, hit",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -13319,7 +13509,7 @@
       "EtyAC/DRING"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
@@ -13396,6 +13586,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 114,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13404,7 +13595,7 @@
       "Ety/RIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5CD95067-0693-473D-B422-A20B97CCF8EB",
@@ -13447,13 +13638,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 115,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E0739FA6-7BF3-45C6-A258-CC8D40359C25",
@@ -13495,13 +13687,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 116,
+    "leipzig_jakarta": null,
     "definition": "prick with a sharp point, stab",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E1B24881-9CCC-4624-9522-4C416B36A372",
@@ -13584,6 +13777,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13592,7 +13786,7 @@
       "WJ/365"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "72330D7B-61FF-4A3C-9833-831C76AFA3B2",
@@ -13639,6 +13833,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 117,
+    "leipzig_jakarta": null,
     "definition": "rub, scratch, fray",
     "ids_code": "",
     "conception": "",
@@ -13647,7 +13842,7 @@
       "GL/42"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F7CDC8D9-06D5-49FD-AFCF-D18CEDB136BB",
@@ -13692,6 +13887,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 118,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13700,7 +13896,7 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BA5D5597-E863-4C6B-A3AC-92DD6EA7A66F",
@@ -13774,6 +13970,7 @@
     "confidence": 0,
     "swadesh100": 63,
     "swadesh207": 119,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13823,6 +14020,7 @@
     "confidence": null,
     "swadesh100": 64,
     "swadesh207": 120,
+    "leipzig_jakarta": 20,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13832,7 +14030,7 @@
       "LT1A/Vilna"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8E7515CD-414B-4C42-8691-D11FF039BCFF",
@@ -13873,6 +14071,7 @@
     "confidence": null,
     "swadesh100": 65,
     "swadesh207": 121,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13881,7 +14080,7 @@
       "PE17/34"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "506883F0-1F60-44FA-8C3A-9B6AF5C27822",
@@ -13939,6 +14138,7 @@
     "confidence": null,
     "swadesh100": 66,
     "swadesh207": 122,
+    "leipzig_jakarta": 11,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -13950,7 +14150,7 @@
       "WJ/254, 301"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6D74DE9A-BBAD-49F2-B037-FE25BF9FE094",
@@ -14035,13 +14235,14 @@
     "confidence": null,
     "swadesh100": 67,
     "swadesh207": 123,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "119F4981-907C-49DD-B622-9DD816E068C4",
@@ -14150,6 +14351,7 @@
     "confidence": null,
     "swadesh100": 68,
     "swadesh207": 124,
+    "leipzig_jakarta": null,
     "definition": "sit, to adopt a sitting position",
     "ids_code": "",
     "conception": "",
@@ -14158,7 +14360,7 @@
       "EtyAC/KHAM"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3B4526DB-57D0-46DE-9ED4-D858AA4A1D0C",
@@ -14257,6 +14459,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "sit, to bring to or place on a seat; cause to sit down",
     "ids_code": "",
     "conception": "",
@@ -14265,7 +14468,7 @@
       "PE22/148"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "635737B7-2947-4BAA-A695-E40B2A6A329B",
@@ -14310,6 +14513,7 @@
     "confidence": null,
     "swadesh100": 69,
     "swadesh207": 125,
+    "leipzig_jakarta": 45,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14318,7 +14522,7 @@
       "AotH/56"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "42402FA9-442C-4CBD-8D3B-696320863E2F",
@@ -14363,13 +14567,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 126,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "10.12",
     "conception": "Key-2016-1310-254",
     "notes": "This verb has been argued to collide with prefix \"per-\" meaning \"half\", but since they are  different classes of words, I think it's safe to use. The alternative is a possible \"perna-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "26547753-40CC-43D3-81CD-FCF7DB7031A6",
@@ -14412,6 +14617,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14420,7 +14626,7 @@
       "GL/30"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1DCEBF98-7F0E-4E9E-822B-DFC9B618A4C9",
@@ -14494,6 +14700,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 127,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14502,7 +14709,7 @@
       "PE17/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
@@ -14587,6 +14794,7 @@
     "confidence": null,
     "swadesh100": 70,
     "swadesh207": 128,
+    "leipzig_jakarta": 53,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14598,7 +14806,7 @@
       "VT44/27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4057850C-9E8B-40B4-84F1-A056BC5645D8",
@@ -14639,13 +14847,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "11.12",
     "conception": "Key-2016-1310-174",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "409B8222-0782-466E-806F-0067CB191D62",
@@ -14688,6 +14897,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 129,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14698,7 +14908,7 @@
       "TAI/150"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1D716151-634B-4DCD-B94E-D12C672E662D",
@@ -14739,6 +14949,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "11.150",
     "conception": "Key-2016-1310-171",
@@ -14788,6 +14999,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14796,7 +15008,7 @@
       "GL/65-66"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "893AD642-3AD9-4A62-AF61-54F6299AFE2F",
@@ -14837,6 +15049,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 130,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14845,7 +15058,7 @@
       "GL/45"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "81921783-512D-4E23-8733-D2F2E65CD4F1",
@@ -14888,13 +15101,14 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": 131,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5DB341BB-AF2E-4195-8B35-55B1492546B7",
@@ -14955,6 +15169,7 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": 132,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14963,7 +15178,7 @@
       "PE23/122"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C10C13C4-A434-4F81-B797-C03E8FBAC566",
@@ -15004,6 +15219,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 133,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15012,7 +15228,7 @@
       "GL/36"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3045B642-5C26-465B-8244-D71DB6530EF5",
@@ -15055,6 +15271,7 @@
     "confidence": 2,
     "swadesh100": null,
     "swadesh207": 134,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15106,13 +15323,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 135,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2C361C9C-2F22-4DFC-BB1F-F85034438438",
@@ -15184,6 +15402,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 136,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15192,7 +15411,7 @@
       "Ety/KHAT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4DFAF0B2-8474-4A50-8F80-5E5A69B08019",
@@ -15259,6 +15478,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 137,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15267,7 +15487,7 @@
       "Ety/NUT, WŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "81795E78-0F1C-46D1-BE26-E2EDA0945B3B",
@@ -15312,6 +15532,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 138,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15320,7 +15541,7 @@
       "GL/72"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "56014915-3D21-4DB4-AC73-6C58EEFC1B13",
@@ -15372,6 +15593,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15380,7 +15602,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4FFE6E79-5840-493E-AFA0-88D8F3EF29BC",
@@ -15423,6 +15645,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 139,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15432,7 +15655,7 @@
       "WJ/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7C486276-AA99-41B5-8CDF-230DCB8C963D",
@@ -15499,6 +15722,7 @@
     "confidence": null,
     "swadesh100": 71,
     "swadesh207": 140,
+    "leipzig_jakarta": 29,
     "definition": "say, speak",
     "ids_code": "",
     "conception": "",
@@ -15514,7 +15738,7 @@
       "VT50/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A6423CA6-12E2-49D8-976D-75A01B145F99",
@@ -15560,6 +15784,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 141,
+    "leipzig_jakarta": null,
     "definition": "sing, chant",
     "ids_code": "",
     "conception": "",
@@ -15573,7 +15798,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F2AB643B-7701-4408-AB99-9CD5418E7A41",
@@ -15658,6 +15883,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 142,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15666,7 +15892,7 @@
       "Ety/TYAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E994BD33-80EE-46FE-BDEE-5002ED9AB901",
@@ -15709,6 +15935,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 143,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15718,7 +15945,7 @@
       "EtyAC/LUT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FFB873C6-1503-4216-84F4-B1919DFBB9E4",
@@ -15763,6 +15990,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 144,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15771,7 +15999,7 @@
       "Ety/SIR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D7FD44AB-FAC8-4791-A8CC-3C9138558A2F",
@@ -15827,13 +16055,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "outpour, outflow",
     "ids_code": "",
     "conception": "",
     "notes": "Based on \"ethir\" meaning \"outflow\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1338E96E-E7A9-47F6-BAF6-86B1A005C32B",
@@ -15876,6 +16105,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 145,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -15885,7 +16115,7 @@
       "LT1A/Helkar"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6ED9D60F-C915-4D21-B915-CF5DD93062C6",
@@ -15942,6 +16172,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "sprout, spring forth",
     "ids_code": "",
     "conception": "",
@@ -15950,7 +16181,7 @@
       "Ety/TUY"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0BB8DD60-A19B-4137-8ADC-425CC5A1DDE0",
@@ -16002,13 +16233,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 146,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0ED9B529-695E-4DBD-AC26-E4325267554E",
@@ -16051,6 +16283,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "open out, expand, billow",
     "ids_code": "",
     "conception": "",
@@ -16059,7 +16292,7 @@
       "GL/22"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "50FA4C0F-CCB4-4E94-B033-7EB4F7928FF9",
@@ -16133,6 +16366,7 @@
     "confidence": null,
     "swadesh100": 72,
     "swadesh207": 147,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16146,7 +16380,7 @@
       "SI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E7DBB81F-D795-44C5-A744-6CF2C8E74FCE",
@@ -16191,6 +16425,7 @@
     "confidence": null,
     "swadesh100": 73,
     "swadesh207": 148,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16207,7 +16442,7 @@
       "WJI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EF1076EC-70EB-40E1-B42C-2B8D3ADE7E78",
@@ -16271,6 +16506,7 @@
     "confidence": null,
     "swadesh100": 74,
     "swadesh207": 149,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16288,7 +16524,7 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A1A4A98F-00E0-499E-BC47-43A85117C112",
@@ -16337,6 +16573,7 @@
     "confidence": null,
     "swadesh100": 75,
     "swadesh207": 150,
+    "leipzig_jakarta": 4,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16349,7 +16586,7 @@
       "VT42/14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4E401BD3-0190-4501-98B1-F4C865149B89",
@@ -16420,6 +16657,7 @@
     "confidence": null,
     "swadesh100": 76,
     "swadesh207": 151,
+    "leipzig_jakarta": 13,
     "definition": "rain, spray of water",
     "ids_code": "",
     "conception": "",
@@ -16431,7 +16669,7 @@
       "SA/ros"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F1D59E3A-6724-42A9-A7C5-5E6ED1CD68C5",
@@ -16473,6 +16711,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16484,7 +16723,7 @@
       "UT/263"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9D01BFD9-B7E5-4507-BB5E-B024C3270C62",
@@ -16550,6 +16789,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 152,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16565,7 +16805,7 @@
       "WJ/191"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4482E5D3-5FEC-48B9-99E3-88A917CCDE74",
@@ -16610,6 +16850,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 153,
+    "leipzig_jakarta": null,
     "definition": "lake, pool",
     "ids_code": "",
     "conception": "",
@@ -16619,7 +16860,7 @@
       "SA/aelin, lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C39E9FDC-98C1-4B1A-A811-1682CE70E0E3",
@@ -16689,6 +16930,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 154,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16703,7 +16945,7 @@
       "WJ/400"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "26827AC3-50B0-4629-941D-B87F3C4FD225",
@@ -16745,6 +16987,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 155,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16753,7 +16996,7 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "58A49E3F-E487-44BD-A53E-917222D4E87D",
@@ -16824,6 +17067,7 @@
     "confidence": null,
     "swadesh100": 77,
     "swadesh207": 156,
+    "leipzig_jakarta": 27,
     "definition": "stone, rock",
     "ids_code": "",
     "conception": "",
@@ -16836,7 +17080,7 @@
       "WJ/201"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0BEF59B7-8522-4B1B-9F66-32ECAFA3F94F",
@@ -16906,6 +17150,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "pebble, stone, gem",
     "ids_code": "",
     "conception": "",
@@ -16918,7 +17163,7 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A78BD10F-6D37-454D-A137-10AD06CF1FD0",
@@ -16988,6 +17233,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17118,13 +17364,14 @@
     "confidence": 1,
     "swadesh100": 78,
     "swadesh207": 157,
+    "leipzig_jakarta": 60,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "I really believe that a separate word for \"sand\" is important. I wouldn't claim that lith cannot mean both \"ash\" and \"sand\", natural languages permit stranger polysemies than that. But I do think there's a reasonable linguistic case that this merger is unusually unsupported cross-linguistically and that distinguishing the two concepts would improve the lexicon with very little cost. I have used √LIT \"grit\" + ✶-mā \"instrumental suffix\", in analogy to √SAG \"bitter, poison\" + -mā = ✶sagmā \"poison\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0BD66B3F-3A98-4EA3-BC66-70B850BA0DC2",
@@ -17170,6 +17417,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 158,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17178,7 +17426,7 @@
       "Ety/ÁS-AT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A4CF4976-6A20-42FE-B4FD-2B5025EF749D",
@@ -17241,6 +17489,7 @@
     "confidence": null,
     "swadesh100": 79,
     "swadesh207": 159,
+    "leipzig_jakarta": null,
     "definition": "earth, element, dirt, soil; Earth, the world",
     "ids_code": "1.212",
     "conception": "Key-2016-1310-963",
@@ -17249,7 +17498,7 @@
       "VT44/27"
     ],
     "hidden": "s100 is \"earth or soil\"",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C26629A8-62E7-4748-8D97-6AA9698C75AE",
@@ -17332,6 +17581,7 @@
     "confidence": null,
     "swadesh100": 80,
     "swadesh207": 160,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17343,7 +17593,7 @@
       "RGEO/66"
     ],
     "hidden": "s100 \"cloud, not fog\"",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B9330274-8553-42AF-B153-8534609B4867",
@@ -17414,6 +17664,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 161,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17423,7 +17674,7 @@
       "SA/hîth"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9E6958CF-4AD6-45AA-A1AA-5EF79EB1BF0F",
@@ -17469,6 +17720,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17478,7 +17730,7 @@
       "EtyAC/KHIS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8396837B-8CE0-4CF3-BDCC-E1A5568D31D0",
@@ -17527,6 +17779,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 162,
+    "leipzig_jakarta": null,
     "definition": "Sky, the heavens, firmament, region of the stars",
     "ids_code": "",
     "conception": "",
@@ -17540,7 +17793,7 @@
       "VT44/23"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "67DCC523-4E28-48E5-AA5D-B3FE2BA3E91A",
@@ -17630,6 +17883,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 163,
+    "leipzig_jakarta": 48,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17640,7 +17894,7 @@
       "PE23/142"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1FEDC319-1E46-422B-BF7F-3A8D6DA43F34",
@@ -17710,6 +17964,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 164,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17722,7 +17977,7 @@
       "VT42/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C1C610F2-68B4-421A-8B88-358071522CAF",
@@ -17811,6 +18066,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 165,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17819,7 +18075,7 @@
       "PE23/139"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D293677A-9716-4D61-947F-1BFC03A9C12C",
@@ -17903,6 +18159,7 @@
     "confidence": null,
     "swadesh100": 81,
     "swadesh207": 166,
+    "leipzig_jakarta": 49,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -17911,7 +18168,7 @@
       "Ety/USUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5136744A-8797-4E97-9EB6-851ECC898027",
@@ -17958,6 +18215,7 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "vapour, steam",
     "ids_code": "",
     "conception": "",
@@ -17966,7 +18224,7 @@
       "GL/71"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "49E6CD12-7D77-4EE5-A401-277B72D88253",
@@ -18033,6 +18291,7 @@
     "confidence": null,
     "swadesh100": 82,
     "swadesh207": 167,
+    "leipzig_jakarta": 1,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -18045,7 +18304,7 @@
       "SA/nár"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7E45AC20-2470-49CE-8A03-81CAC2B5513F",
@@ -18088,6 +18347,7 @@
     "confidence": null,
     "swadesh100": 83,
     "swadesh207": 168,
+    "leipzig_jakarta": null,
     "definition": "ash, sand",
     "ids_code": "",
     "conception": "",
@@ -18097,7 +18357,7 @@
       "SA/lith"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A5F4E714-87E6-4509-8405-7275723534D6",
@@ -18140,6 +18400,7 @@
     "confidence": null,
     "swadesh100": 84,
     "swadesh207": 169,
+    "leipzig_jakarta": 55,
     "definition": "burn (transitive and intransitive)",
     "ids_code": "",
     "conception": "",
@@ -18148,7 +18409,7 @@
       "GL/75"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "93E2E900-6D0A-4E9C-95D9-F9C1EC91A785",
@@ -18232,6 +18493,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 170,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -18240,7 +18502,7 @@
       "PE23/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D397B400-EFB1-4812-B48E-46592AB7FD69",
@@ -18287,6 +18549,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "road, way",
     "ids_code": "",
     "conception": "",
@@ -18297,7 +18560,7 @@
       "UTI/Men-i-Naugrim"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "46F49D00-38A1-4106-9A5E-995D802DFB43",
@@ -18342,6 +18605,7 @@
     "confidence": null,
     "swadesh100": 85,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "path, pass",
     "ids_code": "",
     "conception": "",
@@ -18350,7 +18614,7 @@
       "VT47/14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "522A220B-A061-4D68-B1C0-82CBEFE98DC5",
@@ -18423,6 +18687,7 @@
     "confidence": null,
     "swadesh100": 86,
     "swadesh207": 171,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -18438,7 +18703,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E180B8AA-098B-4C38-9CBC-4B40F25F9A5F",
@@ -18482,6 +18747,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "lump, clump, mass",
     "ids_code": "",
     "conception": "",
@@ -18490,7 +18756,7 @@
       "PE17/15, 93"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F3864741-E1C1-4DD9-842A-6F4003159E7A",
@@ -18577,6 +18843,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "hill, mountain with steep sides",
     "ids_code": "",
     "conception": "",
@@ -18595,7 +18862,7 @@
       "WJ/187"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7839E187-5311-4DDA-94A8-D3B8BF865D13",
@@ -18658,6 +18925,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "mound, hill",
     "ids_code": "",
     "conception": "",
@@ -18666,7 +18934,7 @@
       "Ety/MINI, TUN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F4EEFAB2-2CF4-4339-B279-10993CFE8A0D",
@@ -18713,6 +18981,7 @@
     "confidence": null,
     "swadesh100": 87,
     "swadesh207": 172,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -18723,7 +18992,7 @@
       "VT41/10"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BF6E010A-DD0E-4284-9196-69ADDDAB3CC7",
@@ -18765,13 +19034,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Word coined from Middle Quenya \"kuluina\".",
     "references": [],
     "hidden": "karanismalinā",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5A6E6034-D139-40CF-9B5D-1B982C1E0E81",
@@ -18848,6 +19118,7 @@
     "confidence": null,
     "swadesh100": 88,
     "swadesh207": 173,
+    "leipzig_jakarta": null,
     "definition": "green; fresh, vigorous",
     "ids_code": "",
     "conception": "",
@@ -18861,7 +19132,7 @@
       "VT42/19"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5B0899DE-86C2-436E-8ED9-80A77AF79A74",
@@ -18939,6 +19210,7 @@
     "confidence": null,
     "swadesh100": 89,
     "swadesh207": 174,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19005,6 +19277,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19017,7 +19290,7 @@
       "VT48/23-24, 28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A613851E-8EEB-4A46-A310-D0A55CEEB014",
@@ -19111,6 +19384,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19119,7 +19393,7 @@
       "Ety/ƷEL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BD9249AC-6387-462F-B3BB-28AD4741C00C",
@@ -19201,13 +19475,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "indigo, (lit.) \"dark-blue\"",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C9389F84-32C5-45F8-8C15-3F069CF733AC",
@@ -19252,6 +19527,7 @@
     "confidence": null,
     "swadesh100": 90,
     "swadesh207": 175,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19331,6 +19607,7 @@
     "confidence": null,
     "swadesh100": 91,
     "swadesh207": 176,
+    "leipzig_jakarta": 43,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19345,7 +19622,7 @@
       "WJ/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2D3ACB09-8EA7-4A38-9D89-9A99E5A6233E",
@@ -19419,6 +19696,7 @@
     "confidence": null,
     "swadesh100": 92,
     "swadesh207": 177,
+    "leipzig_jakarta": 21,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19432,7 +19710,7 @@
       "VT41/8"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B6E1B8F2-D22A-4A21-8F35-F474E8266174",
@@ -19514,6 +19792,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 178,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19525,7 +19804,7 @@
       "VT44/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0210D66C-9D4B-459C-9BB1-3C920873ACA6",
@@ -19580,13 +19859,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": 179,
+    "leipzig_jakarta": null,
     "definition": "solar year, (lit.) sun-round",
     "ids_code": "",
     "conception": "",
     "notes": "Reconstructed from Quenya \"coranar\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DAFAAA3F-4D0F-4AFF-BE69-19606C440EDD",
@@ -19643,13 +19923,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "seasonal year, (lit.) growth-cycle",
     "ids_code": "",
     "conception": "",
     "notes": "Reconstructed from Quenya \"löa\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3AFAC197-D5B6-4D94-B695-CEDD6ECC3C1B",
@@ -19691,6 +19972,7 @@
     "confidence": null,
     "swadesh100": 93,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19700,7 +19982,7 @@
       "PE23/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E5CB2F0D-09C5-4AA1-AE6E-8E731BFAB9D3",
@@ -19786,6 +20068,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 180,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19794,7 +20077,7 @@
       "Ety/LAW"
     ],
     "hidden": "s100 hot; s207 warm",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E5A38108-6922-48F2-940F-ECCB6F6F4A8E",
@@ -19858,6 +20141,7 @@
     "confidence": null,
     "swadesh100": 94,
     "swadesh207": 181,
+    "leipzig_jakarta": null,
     "definition": "cold, chill",
     "ids_code": "",
     "conception": "",
@@ -19867,7 +20151,7 @@
       "VT42/13-14"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BD8F463B-97DF-48CD-9B94-CF399CC3DBC8",
@@ -19909,6 +20193,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19917,7 +20202,7 @@
       "RC/328"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "66DDCF0E-94EC-4358-ADA7-8C1E89CE6B54",
@@ -19961,6 +20246,7 @@
     "confidence": null,
     "swadesh100": 95,
     "swadesh207": 182,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -19969,7 +20255,7 @@
       "SD/126"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F1E0FA04-BCB0-433D-98A0-C803FB3097A3",
@@ -20056,6 +20342,7 @@
     "confidence": null,
     "swadesh100": 96,
     "swadesh207": 183,
+    "leipzig_jakarta": 54,
     "definition": "",
     "ids_code": "14.130",
     "conception": "Key-2016-1310-20",
@@ -20064,7 +20351,7 @@
       "Ety/SI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EC1069C1-5136-45AD-B4AC-7171353D19F4",
@@ -20125,6 +20412,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20133,7 +20421,7 @@
       "PE17/159"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4B8B3214-065B-41A4-94CF-A34803C3BC43",
@@ -20179,6 +20467,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 184,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20190,7 +20479,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "62B916F4-9DB5-4733-8FCB-8EBF1E394BED",
@@ -20233,6 +20522,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20241,7 +20531,7 @@
       "RC/579"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2A67E309-48C1-4E70-8C42-5A390D6C421F",
@@ -20294,6 +20584,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20302,7 +20593,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "973CCD97-B758-4962-83AC-137C4D161878",
@@ -20394,6 +20685,7 @@
     "confidence": null,
     "swadesh100": 97,
     "swadesh207": 185,
+    "leipzig_jakarta": 57,
     "definition": "good, excellent, fair",
     "ids_code": "",
     "conception": "",
@@ -20402,7 +20694,7 @@
       "PE17/162-163, 172"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4200325F-46AB-4E04-A113-A74B6C4A4957",
@@ -20461,6 +20753,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20471,7 +20764,7 @@
       "PE17/16-17, 131, 157-158, 162-163, 172"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2B5BD136-073B-472C-B0DD-F41A80134276",
@@ -20589,6 +20882,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 186,
+    "leipzig_jakarta": null,
     "definition": "bad; mean; low in quality, value, or importance; paltry; poor; inferior",
     "ids_code": "",
     "conception": "",
@@ -20597,7 +20891,7 @@
       "Ety/SPAY"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7F4180C1-22BA-477E-BA9F-D8205BCDA05A",
@@ -20702,6 +20996,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "nasty, unpleasant, offensive, repugnant",
     "ids_code": "",
     "conception": "",
@@ -20710,7 +21005,7 @@
       "PE22/160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "16814695-8692-465E-8DE1-90BB5E813D6C",
@@ -20813,6 +21108,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 187,
+    "leipzig_jakarta": null,
     "definition": "corrupt, rotten",
     "ids_code": "",
     "conception": "",
@@ -20821,7 +21117,7 @@
       "Ety/THUS"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "06D4E12C-0E1F-42D6-98F4-0D214778909A",
@@ -20923,6 +21219,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 188,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20931,7 +21228,7 @@
       "Ety/WAƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C491D32C-2310-49E8-9C5A-B9B63E7A3875",
@@ -20969,13 +21266,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EA0E160E-F77E-4525-BA50-459C3188E109",
@@ -21063,6 +21361,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -21072,7 +21371,7 @@
       "EtyAC/MAG"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "2329B2EE-E062-4E24-994F-A3CB6BFF94EF",
@@ -21112,6 +21411,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -21120,7 +21420,7 @@
       "S/210"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D37D15CB-887C-4282-A51C-52368E4CDCFB",
@@ -21167,6 +21467,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 189,
+    "leipzig_jakarta": null,
     "definition": "right; not curved; straight",
     "ids_code": "",
     "conception": "",
@@ -21243,6 +21544,7 @@
     "confidence": null,
     "swadesh100": 98,
     "swadesh207": 190,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -21323,6 +21625,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "round, globed",
     "ids_code": "",
     "conception": "",
@@ -21371,6 +21674,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 191,
+    "leipzig_jakarta": null,
     "definition": "sharp (as a knife)",
     "ids_code": "",
     "conception": "",
@@ -21380,7 +21684,7 @@
       "LT2A/Cris Ilbranteloth"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0FB5FFF7-A948-43FF-8045-288657692FCF",
@@ -21463,6 +21767,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "sharp, piercing",
     "ids_code": "",
     "conception": "",
@@ -21472,7 +21777,7 @@
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "24341DB2-C621-4BF6-B6CC-D2778B525943",
@@ -21521,13 +21826,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": 192,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C808FEFC-5A9B-42CE-8947-DA458EDA5CF8",
@@ -21632,6 +21938,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 193,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -21640,7 +21947,7 @@
       "Ety/PATH"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8FDA8ED0-4FB7-4DCC-A7A7-567385F99580",
@@ -21743,6 +22050,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 194,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -21751,7 +22059,7 @@
       "Ety/LINKWI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "23E092ED-F703-4DEF-A940-982344551FC5",
@@ -21835,6 +22143,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "damp, wet; tearful",
     "ids_code": "",
     "conception": "",
@@ -21844,7 +22153,7 @@
       "EtyAC/NEI, NEI̯(ET)"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4EB00F4D-3EF8-4A64-A478-BAC16981D024",
@@ -21919,6 +22228,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "wet, watery",
     "ids_code": "",
     "conception": "",
@@ -21929,7 +22239,7 @@
       "SA/nen"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "61136050-57E1-4591-A4A1-7C3BB550A075",
@@ -22015,6 +22325,7 @@
     "confidence": null,
     "swadesh100": 99,
     "swadesh207": 195,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -22024,7 +22335,7 @@
       "EtyAC/A"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "935E47F2-7210-439D-BBB2-5AA4F04C1052",
@@ -22064,13 +22375,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 196,
+    "leipzig_jakarta": null,
     "definition": "correct, appropriate, or acceptable",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "267917C4-142A-45E5-8B07-3AA9699D6F80",
@@ -22109,13 +22421,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "upright, honest",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D2D30E4C-0A7E-47C8-AA06-163B7A598A49",
@@ -22183,6 +22496,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "esteem, regard, honour",
     "ids_code": "",
     "conception": "",
@@ -22191,7 +22505,7 @@
       "Ety/TEƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A1A0AFC5-BA35-44DA-9DCD-B4F5DEA5B7CB",
@@ -22265,6 +22579,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 197,
+    "leipzig_jakarta": null,
     "definition": "near; hither, on this side of (side of the speaker)",
     "ids_code": "",
     "conception": "",
@@ -22324,6 +22639,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -22379,6 +22695,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -22466,6 +22783,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 198,
+    "leipzig_jakarta": 24,
     "definition": "far, distant, remote",
     "ids_code": "",
     "conception": "",
@@ -22518,6 +22836,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "afar, abroad, far and wide",
     "ids_code": "",
     "conception": "",
@@ -22569,6 +22888,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 199,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -22632,6 +22952,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "right hand, a position or direction indicated by its location to the side of an object or the observer",
     "ids_code": "",
     "conception": "",
@@ -22743,6 +23064,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 200,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -22806,6 +23128,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "left hand, a position or direction indicated by its location to the side of an object or the observer",
     "ids_code": "",
     "conception": "",
@@ -22864,6 +23187,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 201,
+    "leipzig_jakarta": null,
     "definition": "to, towards; at; with, by",
     "ids_code": "",
     "conception": "",
@@ -22920,6 +23244,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 202,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -22981,6 +23306,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 203,
+    "leipzig_jakarta": null,
     "definition": "of; with, accompanied/provided by, associated/marked with",
     "ids_code": "",
     "conception": "",
@@ -22996,7 +23322,7 @@
       "WJI/Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F7B007FF-EB78-4EBE-8E35-53D83F2F9ED0",
@@ -23041,6 +23367,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 204,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -23061,7 +23388,7 @@
       "VT50/18-20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5ACAE6B6-4680-43FA-878A-4DE7D088C163",
@@ -23116,13 +23443,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": 205,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "Word reconstructed from Quenya \"qui\". This is basically the only word for \"if\" in Sindarin, thus very popular.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "6A35AEBA-37F2-4825-9740-2598CAC46C35",
@@ -23176,13 +23504,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": 206,
+    "leipzig_jakarta": null,
     "definition": "because, (lit.) \"for reason that\"",
     "ids_code": "",
     "conception": "",
     "notes": "This is an expression to represent an equivalent of English word \"because\". It's also written \"a chaeth i\", because there is a group that believes that the preposition \"an\" should cause nasal mutation on the following word (\"caeth\"). I think it should cause mixed mutation, therefore \"añ gaeth\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "49379349-C98A-4A7E-A7E4-04AA6437F9D8",
@@ -23237,6 +23566,7 @@
     "confidence": null,
     "swadesh100": 100,
     "swadesh207": 207,
+    "leipzig_jakarta": 15,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -23245,7 +23575,7 @@
       "VT44/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EAD3EA85-A1B9-4AB7-A552-74E5A8D2A12B",
@@ -23298,6 +23628,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "1.100",
     "conception": "Key-2016-1310-965",
@@ -23306,7 +23637,7 @@
       "PM/348"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DBF7A8A2-BD84-47B4-8B2A-03A2C06AB3A2",
@@ -23392,6 +23723,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "1.210",
     "conception": "Key-2016-1310-964",
@@ -23410,7 +23742,7 @@
       "WJ/192, 370, 413"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "864BDA81-39FE-4F45-9666-49D7CDC163D3",
@@ -23465,6 +23797,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "1.213",
     "conception": "Key-2016-1310-962",
@@ -23473,7 +23806,7 @@
       "Ety/ÁS-AT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "20286697-E2DA-4D9B-806F-63DD7853BAD9",
@@ -23556,6 +23889,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "1.214",
     "conception": "Key-2016-1310-960",
@@ -23616,6 +23950,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "one, somebody, anybody",
     "ids_code": "2.1",
     "conception": "Key-2016-1310-893",
@@ -23625,7 +23960,7 @@
       "WJ/362, 376"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
@@ -23671,6 +24006,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "male (person or animal)",
     "ids_code": "3.120;2.230",
     "conception": "Key-2016-1310-818;Key-2016-1310-890",
@@ -23680,7 +24016,7 @@
       "EtyAC/ƷAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3B248E46-14BA-474E-B657-302F3FC0D634",
@@ -23726,6 +24062,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "female (person or animal)",
     "ids_code": "3.130;2.240",
     "conception": "Key-2016-1310-817;Key-2016-1310-889",
@@ -23734,7 +24071,7 @@
       "Ety/INI"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "31BD3FE7-CD34-4D8A-8CC8-CBDDF0A582D4",
@@ -23857,13 +24194,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "3.150",
     "conception": "Key-2016-1310-816",
     "notes": "Neologism based on French \"bétail\", from \"bestia\" + collective \"-ail\". Literally \"animals\".",
     "references": [],
     "hidden": "any animals, not sure",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FEB46A5C-64D6-44D3-8BD7-6542D12C3D56",
@@ -23932,6 +24270,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "3.160",
     "conception": "Key-2016-1310-815",
@@ -23940,7 +24279,7 @@
       "Ety/NAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A5D28BEC-BDB1-45C1-A829-22370BE1ECA0",
@@ -24009,6 +24348,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "3.160",
     "conception": "Key-2016-1310-815",
@@ -24017,7 +24357,7 @@
       "Ety/NAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "691E2459-C918-4815-BE0D-830BE00AD0BF",
@@ -24113,13 +24453,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "3.200",
     "conception": "Key-2016-1310-812",
     "notes": "",
     "references": [],
     "hidden": "bovines, straight from gyak",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
@@ -24165,6 +24506,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "4.110",
     "conception": "Key-2016-1310-723",
@@ -24174,7 +24516,7 @@
       "PE17/183"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "51CB87C8-BF7D-488C-9113-051388F91700",
@@ -24277,6 +24619,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "4.142",
     "conception": "Key-2016-1310-719",
@@ -24379,13 +24722,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "5.120",
     "conception": "Key-2016-1310-573",
     "notes": "Word reconstructed from Quenya \"matta\". Both with a fictitious ancient word \"mattā\" to explain the phonetic changes.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "666CA23C-9456-4140-A2A5-B303DE1248F0",
@@ -24463,6 +24807,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "5.120",
     "conception": "Key-2016-1310-573",
@@ -24471,7 +24816,7 @@
       "EtyAC/MAT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "57153A39-86E6-4094-B2D4-B378ECAF21D2",
@@ -24517,6 +24862,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "cooked, done; overdone",
     "ids_code": "5.121",
     "conception": "Key-2016-1310-572",
@@ -24525,7 +24871,7 @@
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "26082875-A27B-43EC-B2CC-B49BD69D2AB5",
@@ -24569,6 +24915,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "5.121",
     "conception": "Key-2016-1310-572",
@@ -24622,6 +24969,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "raw, (lit.) uncooked",
     "ids_code": "5.122",
     "conception": "Key-2016-1310-571",
@@ -24673,6 +25021,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "raw, (lit.) uncooked",
     "ids_code": "5.122",
     "conception": "Key-2016-1310-571",
@@ -24856,6 +25205,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "ripe, (lit.) \"in good season\"",
     "ids_code": "5.123",
     "conception": "Key-2016-1310-570",
@@ -24905,6 +25255,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to cook",
     "ids_code": "5.210",
     "conception": "",
@@ -24913,7 +25264,7 @@
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4C2BB992-88DF-430F-AC1C-9B175EB021E6",
@@ -25010,6 +25361,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to wear; put on clothes",
     "ids_code": "6.110",
     "conception": "Key-2016-1310-494",
@@ -25019,7 +25371,7 @@
       "EtyAC/KHAP"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F6FF36F2-589E-4941-9D36-3507430A0CB2",
@@ -25129,6 +25481,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "clothing, clothes",
     "ids_code": "6.120",
     "conception": "Key-2016-1310-493",
@@ -25137,7 +25490,7 @@
       "Ety/KHAP"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9E453A14-2759-44BC-979C-3F97D9661641",
@@ -25194,13 +25547,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "6.130",
     "conception": "Key-2016-1310-492",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8F214C51-7D6F-46E5-B3FC-AF856A618892",
@@ -25247,13 +25601,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "cloth, tissue",
     "ids_code": "6.210",
     "conception": "Key-2016-1310-491",
     "notes": "Word reconstructed from Quenya \"lanne\" of the same meaning.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "28C68878-17B4-4B93-95E5-82E1BA681ED9",
@@ -25357,6 +25712,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "wool, fleece",
     "ids_code": "6.220",
     "conception": "Key-2016-1310-490",
@@ -25413,6 +25769,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to live, dwell, reside, stay",
     "ids_code": "7.11",
     "conception": "Key-2016-1310-436",
@@ -25421,7 +25778,7 @@
       "PE13/150"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3D4F6A59-40C4-4F6B-A2F3-136AAD72C575",
@@ -25473,6 +25830,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": 26,
     "definition": "house, dwelling, home; dynastic house",
     "ids_code": "7.12",
     "conception": "Key-2016-1310-435",
@@ -25489,7 +25847,7 @@
       "WJ/379, 414, 418"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "69F72FE1-AC4C-44C7-AAAF-ABE132409D1F",
@@ -25559,13 +25917,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "7.13",
     "conception": "Key-2016-1310-434",
     "notes": "This is a homonym of the word \"caw\" meaning \"top\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "5B417F86-677E-4058-9F80-EC7AF72C7CB9",
@@ -25611,6 +25970,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -25619,7 +25979,7 @@
       "GL/71"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "270E5FAB-A3EF-4A2D-B7BB-5DBB25E4FDEE",
@@ -25674,13 +26034,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "tent, (lit.) \"cloth hut\"",
     "ids_code": "7.140",
     "conception": "Key-2016-1310-432",
     "notes": "Word based on Neo-Quenya \"lancöa\", with the same components: \"lann\" and \"caw\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0812F970-1BF1-40B7-BF95-BFA970D748B2",
@@ -25726,6 +26087,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "7.150",
     "conception": "Key-2016-1310-431",
@@ -25734,7 +26096,7 @@
       "Ety/PAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
@@ -25789,13 +26151,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "8.110",
     "conception": "Key-2016-1310-393",
     "notes": "Reconstructed from Gnomish \"nandor\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C86488B0-B9DA-4FBC-99FE-DF9915D7DCB1",
@@ -25863,6 +26226,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "plot of land, fenced field",
     "ids_code": "8.120",
     "conception": "Key-2016-1310-392",
@@ -25871,7 +26235,7 @@
       "PE17/95"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3EE2F341-3FF5-442D-A076-7EE43E3FA2C4",
@@ -25980,6 +26344,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "sown field",
     "ids_code": "8.120",
     "conception": "Key-2016-1310-392",
@@ -25988,7 +26353,7 @@
       "PE19/91-92"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FD48030C-2DDB-42CC-972F-1FA9EF3472B5",
@@ -26098,6 +26463,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "fenced enclosure; bailey, compound; ward",
     "ids_code": "",
     "conception": "",
@@ -26106,7 +26472,7 @@
       "PE19/91"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4CA359F9-B745-4EE1-B1CF-5078F64DBD9D",
@@ -26189,6 +26555,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "garden, field, yard",
     "ids_code": "8.130",
     "conception": "Key-2016-1310-391",
@@ -26197,7 +26564,7 @@
       "VT42/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7A1E83AD-8A2D-4F35-BB30-5D6F3C61B58E",
@@ -26241,6 +26608,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to till (land), to cultivate; (orig.) to dwell in (a land)",
     "ids_code": "8.150",
     "conception": "Key-2016-1310-390",
@@ -26249,7 +26617,7 @@
       "GL/21"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3E07672C-9871-47A3-A7F9-5F4859F2F092",
@@ -26354,6 +26722,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "fence, palisade of spikes or sharp stakes",
     "ids_code": "8.160",
     "conception": "Key-2016-1310-389",
@@ -26455,6 +26824,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "outer fence, surrounding ring",
     "ids_code": "8.160",
     "conception": "Key-2016-1310-389",
@@ -26514,6 +26884,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": 25,
     "definition": "to do, make",
     "ids_code": "9.110",
     "conception": "Key-2016-1310-326",
@@ -26526,7 +26897,7 @@
       "WJ/371, 415"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A3AB5AE3-1B39-4839-B444-5201BF1D1F2D",
@@ -26611,6 +26982,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to work",
     "ids_code": "9.120",
     "conception": "Key-2016-1310-325",
@@ -26619,7 +26991,7 @@
       "Ety/MŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "4F851B3F-8FA6-4F65-AA2A-47C2177833CE",
@@ -26665,6 +27037,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to curl, bend, wind, twine",
     "ids_code": "9.140",
     "conception": "Key-2016-1310-324",
@@ -26673,7 +27046,7 @@
       "GL/54"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "AC298E34-C243-4EC2-AE48-F53551923037",
@@ -26718,13 +27091,14 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "9.140",
     "conception": "Key-2016-1310-324",
     "notes": "Based on Quenya \"kuv-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "EE7E669B-D83C-46E4-9069-002010F6B3F1",
@@ -26782,13 +27156,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "9.150",
     "conception": "Key-2016-1310-323",
     "notes": "Based on Neo-Quenya \"lap-\", of same meaning.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C4876195-BD9E-4021-AA88-CD6223C238A7",
@@ -26857,6 +27232,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to tie",
     "ids_code": "9.160",
     "conception": "Key-2016-1310-322",
@@ -26948,13 +27324,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to move, to cause to move",
     "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "Neologism meaning roughly \"to cause to move\". It's intransitive, thus suggesting moving oneself.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "F7F1269B-54A9-4CB5-89B8-9FABBDF7843C",
@@ -27023,13 +27400,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to move, cause something to move",
     "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "Neologism attempting to translate Quenya \"lev-\", based on root √ELE.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C886444C-FC03-48EE-840E-2D9917A1B7A9",
@@ -27129,13 +27507,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to move; to push; cause to go",
     "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
     "notes": "Neologism based on root √NID to express inprinting movement onto something.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0A82999B-FA3E-4C42-A84F-F4E3D4D413E4",
@@ -27178,6 +27557,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to go",
     "ids_code": "10.110",
     "conception": "Key-2016-1310-255",
@@ -27187,7 +27567,7 @@
       "PE22/165"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "CDA7043A-A566-4FC4-A5BA-E13AB03B449D",
@@ -27231,6 +27611,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to revolve, to turn around",
     "ids_code": "10.130",
     "conception": "Key-2016-1310-253",
@@ -27240,7 +27621,7 @@
       "LT1A/Uolë Kúvion"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "227B8CCF-BEDE-4D64-BC68-80E3E2FDCC80",
@@ -27333,6 +27714,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "10.140",
     "conception": "Key-2016-1310-252",
@@ -27341,7 +27723,7 @@
       "EtyAC/WAY"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "20A85A0B-A511-47B3-88A0-F187BC5EA60B",
@@ -27394,6 +27776,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to entangle, enmesh",
     "ids_code": "10.140",
     "conception": "Key-2016-1310-252",
@@ -27402,7 +27785,7 @@
       "Ety/NAT"
     ],
     "hidden": "Unknown suffix -ra",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "781067B4-FD6D-437A-976B-E249F55553AF",
@@ -27445,6 +27828,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to roll",
     "ids_code": "10.150",
     "conception": "Key-2016-1310-251",
@@ -27498,6 +27882,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to be in material possession of; to own; to possess as a characteristic quality or attribute",
     "ids_code": "11.110",
     "conception": "Key-2016-1310-175",
@@ -27506,7 +27891,7 @@
       "PE17/173"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "11228A3F-A1D0-451B-B5D5-3A0A833A0FBC",
@@ -27552,6 +27937,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to take, to lay hold of",
     "ids_code": "11.130",
     "conception": "Key-2016-1310-173",
@@ -27561,7 +27947,7 @@
       "GL/59"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "DADC1D04-BA9E-4412-952B-0A1353DC39F8",
@@ -27608,6 +27994,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to seize, take away by force, grasp",
     "ids_code": "11.140",
     "conception": "Key-2016-1310-172",
@@ -27616,7 +28003,7 @@
       "Ety/MAP"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -27658,6 +28045,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "12.10",
     "conception": "Key-2016-1310-130",
@@ -27666,7 +28054,7 @@
       "PM/136"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A7957357-53A7-4EF3-9EB9-1000B0F499B5",
@@ -27738,6 +28126,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "12.11",
     "conception": "Key-2016-1310-129",
@@ -27746,7 +28135,7 @@
       "Ety/TELES"
     ],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "711B85A7-1BAB-461A-9467-1AB61DC946DD",
@@ -27791,6 +28180,7 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "beside, alongside, next (to)",
     "ids_code": "12.20",
     "conception": "Key-2016-1310-128",
@@ -27799,7 +28189,7 @@
       "GL/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "8679A3C5-CD75-4030-9C41-921ACB0828DE",
@@ -27840,6 +28230,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "down, below",
     "ids_code": "12.30",
     "conception": "Key-2016-1310-127",
@@ -27889,13 +28280,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.0",
     "conception": "Key-2016-1310-58",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E8E51EB2-5236-4405-95DF-94B299A4AE34",
@@ -27933,13 +28325,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.0",
     "conception": "Key-2016-1310-58",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "677A07CA-9F00-4D0A-9625-A9627C0F8FD3",
@@ -27981,6 +28374,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "13.0",
     "conception": "Key-2016-1310-58",
@@ -27989,7 +28383,7 @@
       "GL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "FDA0B361-B902-4777-9E03-FF50E69B1837",
@@ -28032,6 +28426,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "time, occasion",
     "ids_code": "14.110",
     "conception": "Key-2016-1310-21",
@@ -28041,7 +28436,7 @@
       "EtyAC/LOƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "0782BBBD-486C-43A8-B044-E54A7953026E",
@@ -28139,13 +28534,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "age, (lit.) \"year-reckoning\"",
     "ids_code": "14.120",
     "conception": "Key-2016-1310-19",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7FAA7C86-53DA-4CB2-A4C9-A5D02B64C12F",
@@ -28221,6 +28617,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "fresh, new, renewed",
     "ids_code": "14.130",
     "conception": "Key-2016-1310-20",
@@ -28229,7 +28626,7 @@
       "VT48/7-8"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "19E70E92-7113-4AE0-B311-351946C4A369",
@@ -28272,6 +28669,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "young, new",
     "ids_code": "14.140",
     "conception": "Key-2016-1310-18",
@@ -28346,6 +28744,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to smell bad, to stink (intransitive)",
     "ids_code": "15.210",
     "conception": "Key-2016-1310-1000",
@@ -28467,13 +28866,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "sniff, (lit.) \"scent notice\"",
     "ids_code": "15.212",
     "conception": "Key-2016-1310-1001",
     "notes": "Very experimental neologism based on French \"flairer\", which comes from the idea of \"perceiving scent\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C48F33BC-EFAC-446C-A2AF-29AB17A03615",
@@ -28540,6 +28940,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "fragrant, sweet",
     "ids_code": "15.250",
     "conception": "Key-2016-1310-1003",
@@ -28648,6 +29049,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "soul, spirit",
     "ids_code": "16.110",
     "conception": "Key-2016-1310-1049",
@@ -28656,7 +29058,7 @@
       "MR/165"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "7733C8BB-B0BA-4657-962D-35423F265BA0",
@@ -28743,13 +29145,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to astound, make aghast; to surprise, to shock",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-18"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "440A9B10-7B46-4A29-B68B-1504C0746456",
@@ -28787,13 +29190,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "surprised, awe-struck; past participle of \"gaeda-\"",
     "ids_code": "16.150",
     "conception": "Key-2016-1310-1050",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A45E334B-87BE-403F-9B92-FFA86B2EE04F",
@@ -28858,6 +29262,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "(good) luck, fortune",
     "ids_code": "16.180",
     "conception": "Key-2016-1310-1051",
@@ -28867,7 +29272,7 @@
       "LT1A/Valar"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C9E02D31-817E-445D-B290-1D5C26533431",
@@ -28938,6 +29343,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "misfortune, bad luck",
     "ids_code": "16.190",
     "conception": "Key-2016-1310-1052",
@@ -29024,13 +29430,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "mind, (lit.) \"thinker\", \"reflector\"",
     "ids_code": "17.110",
     "conception": "Key-2016-1310-1097",
     "notes": "Neologism based on reverse-engineered Quenya \"sanar\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B1BA77AC-F33B-4E30-83D0-CC15CAE21773",
@@ -29073,13 +29480,14 @@
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to think, to believe, to be of the opinion, to accept as fact",
     "ids_code": "17.140",
     "conception": "Key-2016-1310-1099",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "C024FE4A-41E2-4AB0-8614-3A79824B5320",
@@ -29152,6 +29560,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to believe, to conceive",
     "ids_code": "17.150",
     "conception": "Key-2016-1310-1100",
@@ -29198,6 +29607,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "18.110",
     "conception": "Key-2016-1310-1148",
@@ -29206,7 +29616,7 @@
       "PE17/97"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A96625F7-52E6-459F-856C-73AA7368E67C",
@@ -29252,6 +29662,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to sing, chant",
     "ids_code": "18.120",
     "conception": "Key-2016-1310-1149",
@@ -29265,7 +29676,7 @@
       "RGEO/63-64"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A1DF878D-6C3F-4012-BD9B-8F82F35DEC37",
@@ -29312,6 +29723,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to cry out, shout, call",
     "ids_code": "18.130",
     "conception": "Key-2016-1310-1150",
@@ -29320,7 +29732,7 @@
       "PM/362"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "ADF49610-D1DA-4BB3-9D91-859AE4581248",
@@ -29364,6 +29776,7 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "whisper, rustle",
     "ids_code": "18.150",
     "conception": "Key-2016-1310-1151",
@@ -29424,6 +29837,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "home land, native land",
     "ids_code": "19.120",
     "conception": "Key-2016-1310-1190",
@@ -29432,7 +29846,7 @@
       "PE17/164"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E59A326C-8254-4CBC-A164-627E55307839",
@@ -29513,6 +29927,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "city, fort or dwelling surrounded by bulwarks, circular earthwall with dike",
     "ids_code": "19.150",
     "conception": "Key-2016-1310-1191",
@@ -29522,7 +29937,7 @@
       "RC/311"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "BE6AE095-E637-437C-B9CB-B07F1601770F",
@@ -29580,6 +29995,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "village, town (enclosure)",
     "ids_code": "19.160",
     "conception": "Key-2016-1310-1192",
@@ -29672,6 +30088,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "20.130",
     "conception": "Key-2016-1310-1224",
@@ -29681,7 +30098,7 @@
       "SA/dagor"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "E4118871-F2FC-493C-BAC0-7D9B0F1A6448",
@@ -29752,6 +30169,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "20.140",
     "conception": "Key-2016-1310-1225",
@@ -29760,7 +30178,7 @@
       "Ety/SED"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "07E56636-4F9B-4CFA-B100-C1A203B0C57E",
@@ -29817,6 +30235,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "20.150",
     "conception": "Key-2016-1310-1226",
@@ -29873,13 +30292,14 @@
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "law, rule",
     "ids_code": "21.110",
     "conception": "Key-2016-1310-1263",
     "notes": "Word extracted from Middle Quenya \"sanya\" (adj).",
     "references": [],
     "hidden": "Needs reviewing",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "B2EAB64A-6405-4B86-8452-A0A851B7363A",
@@ -30013,13 +30433,14 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "court of law, tribunal",
     "ids_code": "21.150",
     "conception": "Key-2016-1310-1264",
     "notes": "Neologism coined based on Hebrew בית משפט (beit mishpat) \"house of judgment\" and Japanese 裁判所 (saibansho) \"place of judgment\". The components are \"baudh [mb-]\" and \"bâr [mb-]\", based on Angmar \"Iron Home\" and skipping the [au] to [o] rule based on \"Bauglir [mb-]\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "1B0DB61E-2874-467B-BDCB-3103C656BD6D",
@@ -30062,6 +30483,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "to judge, adjudicate, pass judgement",
     "ids_code": "21.160",
     "conception": "Key-2016-1310-1265",
@@ -30070,7 +30492,7 @@
       "Ety/BAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "9981B2FE-6BCD-48D5-8543-8F125A073422",
@@ -30147,6 +30569,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "",
     "ids_code": "21.170",
     "conception": "Key-2016-1310-1266",
@@ -30209,6 +30632,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "reverence, worship, religion",
     "ids_code": "22.110",
     "conception": "Key-2016-1310-1289",
@@ -30217,7 +30641,7 @@
       "GL/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3C1C519D-BCE2-400E-8DCE-C1C46ECAAE82",
@@ -30277,6 +30701,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "revere, worship",
     "ids_code": "",
     "conception": "",
@@ -30285,7 +30710,7 @@
       "GL/18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-17"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "071803B4-CD59-4645-A1FA-E9EEBE81BF85",
@@ -30329,13 +30754,14 @@
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "word used for any god, and probably the Valar, depending on context",
     "ids_code": "22.120",
     "conception": "Key-2016-1310-1290",
     "notes": "Neologism from Gnomish \"ain\". The original for \"aen\" collides with another word, so the extended form with the agental suffix \"-or\" is used instead.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "38E11426-95FC-495F-8A3C-042DDF883E4F",
@@ -30377,13 +30803,14 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "the god said to have created Arda",
     "ids_code": "22.120",
     "conception": "Key-2016-1310-1290",
     "notes": "Based on the same name from Quenya.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "3A72906E-4868-4E79-B24E-C1B7892FA615",
@@ -30470,6 +30897,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "holy place, fane, temple, shrine, sanctuary",
     "ids_code": "22.130",
     "conception": "Key-2016-1310-1291",
@@ -30478,7 +30906,7 @@
       "Ety/YAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-19"
+    "last_modified": "2026-07-20"
   },
   {
     "uuid": "A48DA711-9CCA-4E2C-9DE4-0529D986525D",
@@ -30584,6 +31012,7 @@
     "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
+    "leipzig_jakarta": null,
     "definition": "altar, (lit.) \"gift platform\"",
     "ids_code": "22.140",
     "conception": "Key-2016-1310-1292",
