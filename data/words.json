@@ -24855,6 +24855,57 @@
     "last_modified": "2026-07-21"
   },
   {
+    "uuid": "541FE08F-BC91-4845-A112-767C91660C9C",
+    "id": "en",
+    "mutation_marker": "",
+    "sindarin": "ên",
+    "spellings": [],
+    "ipa": "eːn",
+    "tengwar": "",
+    "cirth": "x@",
+    "english": [
+      "navel"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ên",
+      "singular": "",
+      "plural": "în"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ened"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 44,
+    "definition": "",
+    "ids_code": "4.430",
+    "conception": "Key-2016-1310-649",
+    "notes": "Neologism based on the word for \"centre\". Navel is a very conservative word. The best metaphor I could find is for \"centre\". Ancient Greek \"ὀμφαλός\" (omphalós), Arabic \"سُرّة\" (surrah), Japanese \"へそ\" (heso) and Sanskrit \"नाभि\" (nābhi) all seem to imply \"centre\". Other sources from PIE, Russian, Chinese, Hebrew, etc, seem to all have a native word for navel. So I've picked the root for \"centre\" and simply applied the phonetic rules, ending up with \"ên\".",
+    "references": [],
+    "hidden": "\"navel\" - no word",
+    "last_modified": "2026-07-21"
+  },
+  {
     "uuid": "02535406-5728-4987-A161-598B9E5B26CD",
     "id": "math",
     "mutation_marker": "",
@@ -30247,6 +30298,164 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "68E892BF-980D-44DF-8E97-17AC29FA3705",
+    "id": "gelir",
+    "mutation_marker": "",
+    "sindarin": "gelir",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "merry"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2629986153",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "16.230",
+    "conception": "Key-2016-1310-1053",
+    "notes": "",
+    "references": [
+      "SD/129"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
+    "id": "ninna",
+    "mutation_marker": "",
+    "sindarin": "ninna-",
+    "spellings": [],
+    "ipa": "'ni.na",
+    "tengwar": "",
+    "cirth": "@l@@c",
+    "english": [
+      "weep",
+      "cry (tears)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2021605353",
+    "etymology": {
+      "root_refs": [
+        "ney"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 87,
+    "definition": "to weep, cry (tears)",
+    "ids_code": "16.370",
+    "conception": "Key-2016-1310-1065",
+    "notes": "",
+    "references": [
+      "GL/60",
+      "LT2A/Níniel"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "4CE0D3E0-EB35-4B21-B55A-63D39B072CBB",
+    "id": "nida",
+    "mutation_marker": "",
+    "sindarin": "nída-",
+    "spellings": [],
+    "ipa": "'niː.da",
+    "tengwar": "",
+    "cirth": "@ll9c",
+    "english": [
+      "weep",
+      "cry (tears)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "599728925",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "neytā",
+        "eldamo_id": ""
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "NEY",
+          "gloss": "tear",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "transitive verb,causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to weep, cry (tears)",
+    "ids_code": "16.370",
+    "conception": "Key-2016-1310-1065",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
     "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
     "id": "sadhor",
     "mutation_marker": "",
@@ -31914,5 +32123,178 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
+    "id": "penagor",
+    "mutation_marker": "",
+    "sindarin": "penagor",
+    "spellings": [],
+    "ipa": "'pe.na.gor",
+    "tengwar": "",
+    "cirth": "1z@crbR",
+    "english": [
+      "ant"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "penagor",
+      "singular": "",
+      "plural": "penegyr"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "pin",
+        "nak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pinakro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "pinakr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "penakr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "penagr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "penagor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "PI",
+          "gloss": "small",
+          "type": "root"
+        },
+        {
+          "form": "NAK",
+          "gloss": "bite",
+          "type": "root"
+        },
+        {
+          "form": "-ro",
+          "gloss": "old agental formation",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pinakro&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 71,
+    "definition": "ant, (lit.) \"small biter\"",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Ant is a remarkably conservative word. Germanic languages seem to inherit the word from PIE meaning \"the biter-off\". This is the only descriptive word for \"ant\" that I could find, so I've decided to copy the metaphor by using √PI \"small\" and coining a \"biter\" with √NAK \"bite\" and -ro.",
+    "references": [],
+    "hidden": "\"ant\", not on IDS",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "9A7D9CB9-CC8A-4F61-BEF4-96CDF0AC93E0",
+    "id": "unodui",
+    "mutation_marker": "",
+    "sindarin": "únodui",
+    "spellings": [],
+    "ipa": "'uː.no.duj",
+    "tengwar": "",
+    "cirth": "D@b9Sl",
+    "english": [
+      "countless",
+      "uncountable"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "únodui",
+      "singular": "",
+      "plural": "únedui"
+    },
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "727755329",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "ú-",
+          "gloss": "",
+          "type": "negative prefix"
+        },
+        {
+          "form": "nod-",
+          "gloss": "to count",
+          "type": "verb"
+        },
+        {
+          "form": "-ui",
+          "gloss": "",
+          "type": "adjective suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "countless, uncountable",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/144"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
   }
 ]
