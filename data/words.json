@@ -2669,7 +2669,7 @@
     "confidence": null,
     "swadesh100": 14,
     "swadesh207": 28,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 78,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -2682,7 +2682,7 @@
       "RC/765"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "EF6863CD-A31D-4868-A566-BFA92FC05B65",
@@ -2729,7 +2729,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 29,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 96,
     "definition": "wide, broad",
     "ids_code": "",
     "conception": "",
@@ -2739,7 +2739,7 @@
       "S/123"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "320987F0-A27F-4849-AB68-A12201E6B520",
@@ -2829,7 +2829,7 @@
     "confidence": 2,
     "swadesh100": null,
     "swadesh207": 30,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 77,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -2838,7 +2838,7 @@
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -3139,7 +3139,7 @@
     "confidence": null,
     "swadesh100": 15,
     "swadesh207": 32,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 95,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -3148,7 +3148,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "5D4B572A-3D64-4268-88A8-2CE0B64FA4AB",
@@ -5061,7 +5061,7 @@
     "confidence": null,
     "swadesh100": 20,
     "swadesh207": 46,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 93,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5071,7 +5071,7 @@
       "SA/lin"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "60DE43AD-161E-4D6C-9F31-3C01208FC5DF",
@@ -5170,7 +5170,7 @@
     "confidence": null,
     "swadesh100": 21,
     "swadesh207": 47,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 86,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -5179,7 +5179,7 @@
       "Ety/KHUGAN"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "CD4FD75E-0B75-4553-9B6D-B04BD6113505",
@@ -7198,7 +7198,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 61,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 91,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -7207,7 +7207,7 @@
       "UT/313"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "78898167-8B6D-440C-9C75-A30EAAA4F88D",
@@ -8321,7 +8321,7 @@
     "confidence": 3,
     "swadesh100": 35,
     "swadesh207": 69,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 85,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -8330,7 +8330,7 @@
       "QL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "812EB3A1-BC6C-434E-81DB-2395F41954A5",
@@ -9234,7 +9234,7 @@
     "confidence": null,
     "swadesh100": 40,
     "swadesh207": 74,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 83,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -9245,7 +9245,7 @@
       "WJ/337"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "955BC4F4-4E39-44CD-8D42-0F879036656B",
@@ -11773,7 +11773,7 @@
     "confidence": null,
     "swadesh100": 55,
     "swadesh207": 93,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 75,
     "definition": "",
     "ids_code": "5.11",
     "conception": "Key-2016-1310-574",
@@ -11782,7 +11782,7 @@
       "PE17/131, 145"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "476CE22A-BA10-4968-81F2-1983FF39DEDD",
@@ -12117,7 +12117,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 98,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 79,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12127,7 +12127,7 @@
       "LT1A/Súlimo"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "A6AFA88C-8E03-4E26-A7C3-5FFCDC2C56CB",
@@ -12291,7 +12291,7 @@
     "confidence": null,
     "swadesh100": 57,
     "swadesh207": 101,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 89,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -12300,7 +12300,7 @@
       "PE17/37, 148, 181"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "36F0535E-F859-483C-938C-3E2286C016D2",
@@ -14700,7 +14700,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 127,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 82,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -14709,7 +14709,7 @@
       "PE17/62"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
@@ -16506,7 +16506,7 @@
     "confidence": null,
     "swadesh100": 74,
     "swadesh207": 149,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 97,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16524,7 +16524,7 @@
       "VT42/11"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "A1A4A98F-00E0-499E-BC47-43A85117C112",
@@ -16987,7 +16987,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 155,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 94,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -16996,7 +16996,7 @@
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "58A49E3F-E487-44BD-A53E-917222D4E87D",
@@ -18347,7 +18347,7 @@
     "confidence": null,
     "swadesh100": 83,
     "swadesh207": 168,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 84,
     "definition": "ash, sand",
     "ids_code": "",
     "conception": "",
@@ -18357,7 +18357,7 @@
       "SA/lith"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "A5F4E714-87E6-4509-8405-7275723534D6",
@@ -20467,7 +20467,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 184,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 74,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -20479,7 +20479,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "62B916F4-9DB5-4733-8FCB-8EBF1E394BED",
@@ -23244,7 +23244,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": 202,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 98,
     "definition": "",
     "ids_code": "",
     "conception": "",
@@ -23256,7 +23256,7 @@
       "VT50/18-19"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "C5F1D055-7EBC-4A7C-8CEE-D04F085909D5",
@@ -27232,7 +27232,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 88,
     "definition": "to tie",
     "ids_code": "9.160",
     "conception": "Key-2016-1310-322",
@@ -27241,7 +27241,7 @@
       "Ety/NUT, WŌ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -27937,7 +27937,7 @@
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
-    "leipzig_jakarta": null,
+    "leipzig_jakarta": 73,
     "definition": "to take, to lay hold of",
     "ids_code": "11.130",
     "conception": "Key-2016-1310-173",
@@ -27947,7 +27947,7 @@
       "GL/59"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "DADC1D04-BA9E-4412-952B-0A1353DC39F8",
