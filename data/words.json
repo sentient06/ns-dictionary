@@ -28172,6 +28172,60 @@
     "last_modified": "2026-07-21"
   },
   {
+    "uuid": "7CB09CD6-C7AB-439C-84B5-805E54DE1409",
+    "id": "col",
+    "mutation_marker": "",
+    "sindarin": "col-",
+    "spellings": [],
+    "ipa": "kol",
+    "tengwar": "",
+    "cirth": "ebaI",
+    "english": [
+      "bear",
+      "carry",
+      "wear"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "David Salo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1332357037",
+    "etymology": {
+      "root_refs": [
+        "kol"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "col-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 70,
+    "definition": "to bear, carry, wear",
+    "ids_code": "10.610",
+    "conception": "Key-2016-1310-207",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
     "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
     "id": "sav-have",
     "mutation_marker": "",
@@ -28573,6 +28627,110 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
+    "id": "dolla",
+    "mutation_marker": "",
+    "sindarin": "dolla-",
+    "spellings": [],
+    "ipa": "'do.la",
+    "tengwar": "",
+    "cirth": "9baacI",
+    "english": [
+      "conceal"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "doltha-",
+    "eldamo_id": "2211767985",
+    "etymology": {
+      "root_refs": [
+        "ndul"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 67,
+    "definition": "to conceal, to hide",
+    "ids_code": "12.270",
+    "conception": "Key-2016-1310-104",
+    "notes": "",
+    "references": [
+      "Ety/DUL"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "FD0CDE38-4C14-4080-ACFB-35E7F477083F",
+    "id": "tobla",
+    "mutation_marker": "",
+    "sindarin": "tobla-",
+    "spellings": [],
+    "ipa": "'to.bla",
+    "tengwar": "",
+    "cirth": "8b2acI",
+    "english": [
+      "hide"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1570068789",
+    "etymology": {
+      "root_refs": [
+        "tup"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 67,
+    "definition": "to hide",
+    "ids_code": "12.270",
+    "conception": "Key-2016-1310-104",
+    "notes": "",
+    "references": [
+      "GL/71"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
@@ -29014,6 +29172,66 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
+    "id": "nuir",
+    "mutation_marker": "",
+    "sindarin": "nuir",
+    "spellings": [],
+    "ipa": "nuir",
+    "tengwar": "",
+    "cirth": "@SlR",
+    "english": [
+      "yesterday"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3527217791",
+    "etymology": {
+      "root_refs": [
+        "nowo"
+      ],
+      "primitive": {
+        "form": "nō",
+        "eldamo_id": "1998546843"
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "nui",
+          "gloss": "before (of time)",
+          "type": "preposition and adverb"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nöa"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 41,
+    "definition": "",
+    "ids_code": "14.490",
+    "conception": "Key-2016-1310-981",
+    "notes": "Based on \"sír\", but using a different word.",
+    "references": [
+      "GL/38"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
     "uuid": "A896D36F-538C-4F7D-B711-7A2D5B45435D",
     "id": "thosta",
     "mutation_marker": "",
@@ -29283,6 +29501,350 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "E353AD49-1A63-4A8B-8DC4-7313CDA42BE0",
+    "id": "laich",
+    "mutation_marker": "",
+    "sindarin": "laich",
+    "spellings": [],
+    "ipa": "laix",
+    "tengwar": "",
+    "cirth": "aclt",
+    "english": [
+      "sweet"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "taste",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3698039951",
+    "etymology": {
+      "root_refs": [
+        "lis"
+      ],
+      "primitive": {
+        "form": "lisyā",
+        "eldamo_id": "4019297499"
+      },
+      "development": [
+        {
+          "form": "lisjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3229649933"
+        },
+        {
+          "form": "lixʲā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lixʲa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "lexʲa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2422841513"
+        },
+        {
+          "form": "leixa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "leix",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "laix",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "LIS",
+          "gloss": "sweet",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "",
+          "type": "causative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lisja%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "lissë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 90,
+    "definition": "",
+    "ids_code": "15.350",
+    "conception": "Key-2016-1310-1006",
+    "notes": "",
+    "references": [
+      "PE17/148, 154"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "92FDE924-E99E-4D25-91B1-4F398C795ECC",
+    "id": "saer",
+    "mutation_marker": "",
+    "sindarin": "saer",
+    "spellings": [],
+    "ipa": "saer",
+    "tengwar": "",
+    "cirth": "fczR",
+    "english": [
+      "bitter"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "taste",
+    "ids_chapter": "sense perception",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3988422785",
+    "etymology": {
+      "root_refs": [
+        "sag"
+      ],
+      "primitive": {
+        "form": "sagrā",
+        "eldamo_id": "1329401393"
+      },
+      "development": [
+        {
+          "form": "sagrā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "sagra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "saɣra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "539122737"
+        },
+        {
+          "form": "saira",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "sair",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "saer",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sagra%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "sára"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 28,
+    "definition": "",
+    "ids_code": "15.370",
+    "conception": "Key-2016-1310-1008",
+    "notes": "",
+    "references": [
+      "Ety/SAG"
+    ],
+    "hidden": "check -rā",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "35BEC6D8-2B5C-4DC7-98AE-4E886E1F31EC",
+    "id": "dorn",
+    "mutation_marker": "",
+    "sindarin": "dorn",
+    "spellings": [],
+    "ipa": "dorn",
+    "tengwar": "",
+    "cirth": "9bR@",
+    "english": [
+      "tough",
+      "stiff",
+      "thrawn",
+      "obdurate"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "dorn",
+      "singular": "",
+      "plural": "dyrn"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3788535851",
+    "etymology": {
+      "root_refs": [
+        "dor"
+      ],
+      "primitive": {
+        "form": "dorna",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "dorna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "dorn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=dorna&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "norna"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 99,
+    "definition": "tough, stiff, thrawn, obdurate",
+    "ids_code": "15.740",
+    "conception": "Key-2016-1310-1033",
+    "notes": "",
+    "references": [
+      "PE17/181",
+      "WJ/388, 408, 413",
+      "WJI/Dornhoth"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "3E39527A-A9E4-48B1-8500-9A89617C1BD0",
+    "id": "dorn",
+    "mutation_marker": "",
+    "sindarin": "dorn",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "Dwarf"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "dorn",
+      "singular": "",
+      "plural": "dyrn"
+    },
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "people",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "Norno"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-21"
   },
   {
     "uuid": "308240B8-F2A5-4C8B-9CA7-6DBFCDC47D62",
