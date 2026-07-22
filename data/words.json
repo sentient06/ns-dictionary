@@ -31455,7 +31455,7 @@
     "conception": "Key-2016-1310-1152",
     "notes": "Based on the same root used for the Quenya verb \"nurru-\". I've added an -ā suffix to discern it from \"nor-\", meaning \"to run\". There are still some collisions, but I think it's acceptable and the true meaning can be based on context. This word is unlikely to get wide acceptance, but I don't know a better one.",
     "references": [],
-    "hidden": "mumble",
+    "hidden": "",
     "last_modified": "2026-07-22"
   },
   {
@@ -31678,6 +31678,63 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "2EADB0AB-950E-46E4-A337-0F7223B1E6ED",
+    "id": "glann",
+    "mutation_marker": "",
+    "sindarin": "glann",
+    "spellings": [],
+    "ipa": "glan",
+    "tengwar": "",
+    "cirth": "rac@@",
+    "english": [
+      "boundary",
+      "border"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "glann",
+      "singular": "",
+      "plural": "glenn"
+    },
+    "gender": "",
+    "category": "notion",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3978070507",
+    "etymology": {
+      "root_refs": [
+        "glan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "landa",
+      "telerin": "glanda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "boundary, border, frontier, march",
+    "ids_code": "19.170",
+    "conception": "Key-2016-1310-1193",
+    "notes": "",
+    "references": [
+      "VT42/8"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
