@@ -1151,7 +1151,18 @@
       ],
       "primitive": null,
       "development": [],
-      "elements": [],
+      "elements": [
+        {
+          "form": "en",
+          "gloss": "that",
+          "type": "pronoun"
+        },
+        {
+          "form": "-tha",
+          "gloss": "noun or adjective suffix",
+          "type": "suffix"
+        }
+      ],
       "quettamorphosis_url": ""
     },
     "cognates": {
@@ -1171,7 +1182,7 @@
       "SD/129"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "8A0CF779-DC91-45D3-B845-DB5D217AB0AB",
@@ -1255,7 +1266,9 @@
       "elements": [],
       "quettamorphosis_url": ""
     },
-    "cognates": {},
+    "cognates": {
+      "quenya": "mana"
+    },
     "conjugation": null,
     "confidence": null,
     "swadesh100": 7,
@@ -1266,10 +1279,10 @@
     "conception": "",
     "notes": "",
     "references": [
-      "VT50/5"
+      "VT50/5, 21"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
@@ -1525,6 +1538,7 @@
     "tengwar": "",
     "cirth": "D",
     "english": [
+      "no",
       "not"
     ],
     "grammar": [
@@ -1560,7 +1574,7 @@
     "swadesh100": 8,
     "swadesh207": 16,
     "leipzig_jakarta": 56,
-    "definition": "",
+    "definition": "no, not",
     "ids_code": "",
     "conception": "",
     "notes": "Reconstructed from prefix \"ú-\".",
@@ -1568,7 +1582,7 @@
       "PE17/144"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "925EF065-00A6-483D-9600-DECC52753874",
@@ -2472,6 +2486,399 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "0D443513-C01E-4521-B6AE-7781E5F3D3EC",
+    "id": "eneg",
+    "mutation_marker": "",
+    "sindarin": "eneg",
+    "spellings": [],
+    "ipa": "'e.neg",
+    "tengwar": "",
+    "cirth": "z@zr",
+    "english": [
+      "six"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "601079373",
+    "etymology": {
+      "root_refs": [
+        "enek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "eneke",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "enek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "eneg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=eneke&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "enquë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.60",
+    "conception": "Key-2016-1310-52",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-22"
+  },
+  {
+    "uuid": "B73382AB-8FD1-4765-B2EA-8CDF1ED4F199",
+    "id": "odog",
+    "mutation_marker": "",
+    "sindarin": "odog",
+    "spellings": [],
+    "ipa": "'o.dog",
+    "tengwar": "",
+    "cirth": "b9br",
+    "english": [
+      "seven"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "881038351",
+    "etymology": {
+      "root_refs": [
+        "otok"
+      ],
+      "primitive": {
+        "form": "otoso",
+        "eldamo_id": "2110841975"
+      },
+      "development": [
+        {
+          "form": "otoko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "otok",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "odog",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=otoko&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "otso"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.70",
+    "conception": "Key-2016-1310-51",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-22"
+  },
+  {
+    "uuid": "B3A8987D-A213-42D5-BE57-0AA29440886F",
+    "id": "tolodh",
+    "mutation_marker": "",
+    "sindarin": "tolodh",
+    "spellings": [],
+    "ipa": "'to.loð",
+    "tengwar": "",
+    "cirth": "8bab!",
+    "english": [
+      "eight"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3023271443",
+    "etymology": {
+      "root_refs": [
+        "tolod"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tolotʰo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "toloθo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "toloθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tolo%C5%A7o&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1K19NY5"
+    },
+    "cognates": {
+      "quenya": "toldo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.80",
+    "conception": "Key-2016-1310-50",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-22"
+  },
+  {
+    "uuid": "DD18A60C-4913-49FE-A7F2-364A1412956E",
+    "id": "neder",
+    "mutation_marker": "",
+    "sindarin": "neder",
+    "spellings": [],
+    "ipa": "'ne.der",
+    "tengwar": "",
+    "cirth": "@z9zR",
+    "english": [
+      "nine"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2822334673",
+    "etymology": {
+      "root_refs": [
+        "neter"
+      ],
+      "primitive": {
+        "form": "neter(e)",
+        "eldamo_id": "383860637"
+      },
+      "development": [
+        {
+          "form": "netere",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "neter",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "neder",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=netere&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1K19NY5"
+    },
+    "cognates": {
+      "quenya": "nertë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.90",
+    "conception": "Key-2016-1310-49",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-22"
+  },
+  {
+    "uuid": "9DF01144-F6C9-4752-A95D-C5C3B6C594B7",
+    "id": "pae",
+    "mutation_marker": "",
+    "sindarin": "pae",
+    "spellings": [],
+    "ipa": "pae",
+    "tengwar": "",
+    "cirth": "1cz",
+    "english": [
+      "ten"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2293326951",
+    "etymology": {
+      "root_refs": [
+        "kway"
+      ],
+      "primitive": {
+        "form": "kwayam",
+        "eldamo_id": "3054637519"
+      },
+      "development": [
+        {
+          "form": "kwajam",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "760163573"
+        },
+        {
+          "form": "kwajan",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "pajan",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "paian",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "876455981"
+        },
+        {
+          "form": "paia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "pai",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "pae",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kwajam&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-G8C37D"
+    },
+    "cognates": {
+      "quenya": "quëan"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.100",
+    "conception": "Key-2016-1310-48",
+    "notes": "",
+    "references": [
+      "PE17/95"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "6DC5DC9E-7CD0-40B2-A17C-6E6C4566975D",
@@ -21450,7 +21857,7 @@
     "eldamo_id": "2191471427",
     "etymology": {
       "root_refs": [
-        "teñ"
+        "teng"
       ],
       "primitive": {
         "form": "teñrā",
@@ -21477,7 +21884,7 @@
       "EtyAC/TEÑ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "366141C6-4DA5-48C4-9EEE-B7360DD86D92",
@@ -22458,7 +22865,7 @@
     "eldamo_id": "2584197447",
     "etymology": {
       "root_refs": [
-        "teñ"
+        "teng"
       ],
       "primitive": {
         "form": "teñrā",
@@ -22505,7 +22912,7 @@
       "Ety/TEƷ"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "A1A0AFC5-BA35-44DA-9DCD-B4F5DEA5B7CB",
@@ -23978,7 +24385,7 @@
     "eldamo_id": "2507942725",
     "etymology": {
       "root_refs": [
-        "day"
+        "day2"
       ],
       "primitive": {
         "form": "daiō",
@@ -24033,7 +24440,7 @@
       "SA/dae"
     ],
     "hidden": "unkown suffix -o ?",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "3C01FA4F-6699-461B-B7FF-9CCA9394D86B",
