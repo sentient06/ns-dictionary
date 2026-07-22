@@ -182,6 +182,13 @@
     "notes": ""
   },
   {
+    "id": "enek",
+    "form": "ENEK",
+    "gloss": "six",
+    "eldamo_id": "1903506413",
+    "notes": ""
+  },
+  {
     "id": "er",
     "form": "ER",
     "gloss": "one, single, only, alone",
@@ -543,6 +550,13 @@
     "form": "KWAT",
     "gloss": "fill; full",
     "eldamo_id": "3674846579",
+    "notes": ""
+  },
+  {
+    "id": "kway",
+    "form": "KWAY",
+    "gloss": "ten",
+    "eldamo_id": "3798966607",
     "notes": ""
   },
   {
@@ -1043,6 +1057,13 @@
     "notes": ""
   },
   {
+    "id": "neter",
+    "form": "NETER",
+    "gloss": "nine",
+    "eldamo_id": "2788365945",
+    "notes": ""
+  },
+  {
     "id": "neng",
     "form": "NEÑ",
     "gloss": "nose",
@@ -1152,6 +1173,13 @@
     "form": "RŌ/ORO",
     "gloss": "up(wards); rise (up), go high, mount",
     "eldamo_id": "471662883",
+    "notes": ""
+  },
+  {
+    "id": "otok",
+    "form": "OTOS/OTOK",
+    "gloss": "seven",
+    "eldamo_id": "2002947343",
     "notes": ""
   },
   {
@@ -1645,6 +1673,13 @@
     "notes": ""
   },
   {
+    "id": "tolod",
+    "form": "TOLOD",
+    "gloss": "eight",
+    "eldamo_id": "1356770137",
+    "notes": ""
+  },
+  {
     "id": "tow",
     "form": "TOW",
     "gloss": "wool",
@@ -1691,6 +1726,125 @@
     "form": "TYAL",
     "gloss": "play",
     "eldamo_id": "1580944869",
+    "notes": ""
+  },
+  {
+    "id": "ug",
+    "form": "UG",
+    "gloss": "dislike",
+    "eldamo_id": "2374849791",
+    "notes": ""
+  },
+  {
+    "id": "umu",
+    "form": "UMU",
+    "gloss": "not, expressing privation; negative stems",
+    "eldamo_id": "1650471663",
+    "notes": ""
+  },
+  {
+    "id": "ur",
+    "form": "UR",
+    "gloss": "heat, be hot",
+    "eldamo_id": "2689781023",
+    "notes": ""
+  },
+  {
+    "id": "usuk",
+    "form": "USUK",
+    "gloss": "reek, smoke",
+    "eldamo_id": "3385955907",
+    "notes": ""
+  },
+  {
+    "id": "wan",
+    "form": "WAN",
+    "gloss": "depart, go away, disappear, vanish",
+    "eldamo_id": "849229515",
+    "notes": ""
+  },
+  {
+    "id": "way",
+    "form": "WAY",
+    "gloss": "enfold",
+    "eldamo_id": "2840544057",
+    "notes": ""
+  },
+  {
+    "id": "waʒ",
+    "form": "WAƷ",
+    "gloss": "stain, soil",
+    "eldamo_id": "2938824915",
+    "notes": ""
+  },
+  {
+    "id": "web",
+    "form": "WEB",
+    "gloss": "worm",
+    "eldamo_id": "2265555523",
+    "notes": ""
+  },
+  {
+    "id": "wened",
+    "form": "WEN(ED)",
+    "gloss": "maiden, girl, virgin",
+    "eldamo_id": "4004975093",
+    "notes": ""
+  },
+  {
+    "id": "wil",
+    "form": "WIL",
+    "gloss": "fly, float in air",
+    "eldamo_id": "91170911",
+    "notes": ""
+  },
+  {
+    "id": "win",
+    "form": "WIN",
+    "gloss": "young",
+    "eldamo_id": "2031538985",
+    "notes": ""
+  },
+  {
+    "id": "ya",
+    "form": "YA",
+    "gloss": "there, over there; (of time) back, ago",
+    "eldamo_id": "1458116671",
+    "notes": ""
+  },
+  {
+    "id": "yab",
+    "form": "YAB",
+    "gloss": "fruit",
+    "eldamo_id": "1016959395",
+    "notes": ""
+  },
+  {
+    "id": "yan",
+    "form": "(A)YAN",
+    "gloss": "holy",
+    "eldamo_id": "1167723719",
+    "notes": ""
+  },
+  {
+    "id": "uu",
+    "form": "Ū",
+    "gloss": "denial of fact, privation, negative element, not",
+    "eldamo_id": "1705944307",
+    "notes": ""
+  },
+  {
+    "id": "ʒan",
+    "form": "ƷAN",
+    "gloss": "male",
+    "eldamo_id": "395974053",
+    "notes": ""
+  },
+  {
+    "id": "ʒel",
+    "form": "ƷEL",
+    "gloss": "sky",
+    "eldamo_id": "2569071921",
     "notes": ""
   }
 ]
