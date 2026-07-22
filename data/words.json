@@ -31082,6 +31082,98 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "AE7DFAC0-7A5A-48F3-B1EB-A5DD74191AF9",
+    "id": "henia",
+    "mutation_marker": "",
+    "sindarin": "henia-",
+    "spellings": [],
+    "ipa": "'he.nja",
+    "tengwar": "",
+    "cirth": ".z@lcI",
+    "english": [
+      "understand"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "907083839",
+    "etymology": {
+      "root_refs": [
+        "khan"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰanja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xanja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "xania",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "xenia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "henia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81anja&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "hanya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "17.160",
+    "conception": "Key-2016-1310-1101",
+    "notes": "",
+    "references": [
+      "Ety/KHAN",
+      "EtyAC/KHAN"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-22"
+  },
+  {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
     "id": "glim",
     "mutation_marker": "",
