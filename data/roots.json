@@ -1120,6 +1120,13 @@
     "notes": ""
   },
   {
+    "id": "nur",
+    "form": "NUR",
+    "gloss": "growl, grumble, mumble",
+    "eldamo_id": "3011338633",
+    "notes": "Causes collisions with √NOR in Sindarin."
+  },
+  {
     "id": "nus",
     "form": "NUS",
     "gloss": "sense, wisdom; sense of smell",
