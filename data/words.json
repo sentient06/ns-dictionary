@@ -23687,8 +23687,8 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "traits",
-    "ids_chapter": "traits",
+    "category": "coordination",
+    "ids_chapter": "coordination",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -23729,7 +23729,7 @@
       "WJI/Taur-na-Chardhîn"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "F7B007FF-EB78-4EBE-8E35-53D83F2F9ED0",
@@ -29191,7 +29191,7 @@
     "last_modified": "2026-07-21"
   },
   {
-    "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
+    "uuid": "E8E51EB2-5236-4405-95DF-94B299A4AE34",
     "id": "lad",
     "mutation_marker": "",
     "sindarin": "lad",
@@ -29200,10 +29200,10 @@
     "tengwar": "",
     "cirth": "ac9",
     "english": [
-      "nothing"
+      "zero"
     ],
     "grammar": [
-      "noun"
+      "numeral"
     ],
     "inflection": null,
     "gender": "",
@@ -29235,10 +29235,10 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
-    "uuid": "E8E51EB2-5236-4405-95DF-94B299A4AE34",
+    "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
     "id": "lad",
     "mutation_marker": "",
     "sindarin": "lad",
@@ -29247,15 +29247,15 @@
     "tengwar": "",
     "cirth": "ac9",
     "english": [
-      "zero"
+      "nothing"
     ],
     "grammar": [
-      "numeral"
+      "noun"
     ],
     "inflection": null,
     "gender": "",
-    "category": "",
-    "ids_chapter": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
     "type": "",
     "source": "",
     "status": "",
@@ -29280,7 +29280,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-22"
   },
   {
     "uuid": "677A07CA-9F00-4D0A-9625-A9627C0F8FD3",
