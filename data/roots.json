@@ -119,6 +119,20 @@
     "notes": ""
   },
   {
+    "id": "day2",
+    "form": "DAY²",
+    "gloss": "shadow",
+    "eldamo_id": "2278767327",
+    "notes": ""
+  },
+  {
+    "id": "dor",
+    "form": "DOR",
+    "gloss": "hard, tough, dried up, unyielding",
+    "eldamo_id": "3135262111",
+    "notes": ""
+  },
+  {
     "id": "dring",
     "form": "DRING",
     "gloss": "beat, strike",
@@ -161,6 +175,13 @@
     "notes": ""
   },
   {
+    "id": "ened",
+    "form": "ENED",
+    "gloss": "centre, middle",
+    "eldamo_id": "2587806669",
+    "notes": ""
+  },
+  {
     "id": "er",
     "form": "ER",
     "gloss": "one, single, only, alone",
@@ -186,6 +207,13 @@
     "form": "GALAD",
     "gloss": "tree",
     "eldamo_id": "588112985",
+    "notes": ""
+  },
+  {
+    "id": "galas",
+    "form": "GALAS",
+    "gloss": "joy, be glad",
+    "eldamo_id": "1938303951",
     "notes": ""
   },
   {
@@ -459,6 +487,13 @@
     "form": "KIRIS",
     "gloss": "cleave",
     "eldamo_id": "1008454065",
+    "notes": ""
+  },
+  {
+    "id": "kol",
+    "form": "KOL",
+    "gloss": "bear, carry, wear",
+    "eldamo_id": "2338133529",
     "notes": ""
   },
   {
@@ -875,17 +910,17 @@
     "notes": ""
   },
   {
+    "id": "mul",
+    "form": "MUL",
+    "gloss": "grind (fine)",
+    "eldamo_id": "1338928723",
+    "notes": ""
+  },
+  {
     "id": "ana",
     "form": "NA/ANA",
     "gloss": "to, towards; at side of, alongside, besides; moreover, in addition, plus",
     "eldamo_id": "3999209813",
-    "notes": ""
-  },
-  {
-    "id": "nder",
-    "form": "N(D)ER",
-    "gloss": "man, adult male",
-    "eldamo_id": "3037451021",
     "notes": ""
   },
   {
@@ -938,6 +973,13 @@
     "notes": ""
   },
   {
+    "id": "nder",
+    "form": "N(D)ER",
+    "gloss": "man, adult male",
+    "eldamo_id": "3037451021",
+    "notes": ""
+  },
+  {
     "id": "ndol",
     "form": "NDOL",
     "gloss": "head",
@@ -949,6 +991,13 @@
     "form": "NDOR",
     "gloss": "land; hard, firm",
     "eldamo_id": "3295391993",
+    "notes": ""
+  },
+  {
+    "id": "ndul",
+    "form": "(N)DUL",
+    "gloss": "hide, conceal",
+    "eldamo_id": "3134188749",
     "notes": ""
   },
   {
@@ -1022,6 +1071,13 @@
     "notes": ""
   },
   {
+    "id": "nol",
+    "form": "NOL",
+    "gloss": "run (or leap) of animals or men",
+    "eldamo_id": "2240884575",
+    "notes": ""
+  },
+  {
     "id": "not",
     "form": "NOT",
     "gloss": "count, reckon",
@@ -1033,6 +1089,13 @@
     "form": "NOW",
     "gloss": "think, form idea, imagine",
     "eldamo_id": "1600751749",
+    "notes": ""
+  },
+  {
+    "id": "nowo",
+    "form": "NO(WO)",
+    "gloss": "ahead, in front; after of time, tomorrow",
+    "eldamo_id": "604471575",
     "notes": ""
   },
   {
@@ -1274,6 +1337,13 @@
     "notes": ""
   },
   {
+    "id": "sag",
+    "form": "SAG",
+    "gloss": "bitter, poison",
+    "eldamo_id": "2320300697",
+    "notes": ""
+  },
+  {
     "id": "sak2",
     "form": "SAK²",
     "gloss": "draw, pull",
@@ -1474,6 +1544,153 @@
     "form": "SŪ",
     "gloss": "blow, move with audible sound (of air)",
     "eldamo_id": "341003397",
+    "notes": ""
+  },
+  {
+    "id": "ta",
+    "form": "TA",
+    "gloss": "that, there, then; demonstrative",
+    "eldamo_id": "1315565407",
+    "notes": ""
+  },
+  {
+    "id": "tal",
+    "form": "TAL",
+    "gloss": "foot; flat; support",
+    "eldamo_id": "326106581",
+    "notes": ""
+  },
+  {
+    "id": "tar",
+    "form": "TAR",
+    "gloss": "stand",
+    "eldamo_id": "1356167137",
+    "notes": ""
+  },
+  {
+    "id": "taw",
+    "form": "TAW",
+    "gloss": "wood",
+    "eldamo_id": "1498720261",
+    "notes": ""
+  },
+  {
+    "id": "telek",
+    "form": "TELEK",
+    "gloss": "stalk, stem, leg",
+    "eldamo_id": "834893367",
+    "notes": ""
+  },
+  {
+    "id": "teles",
+    "form": "TELES",
+    "gloss": "hindmost, tarrier",
+    "eldamo_id": "3558884681",
+    "notes": ""
+  },
+  {
+    "id": "teng",
+    "form": "TEÑ",
+    "gloss": "indicate, signify, show, represent, betoken, mark, to point at",
+    "eldamo_id": "781413727",
+    "notes": ""
+  },
+  {
+    "id": "ther",
+    "form": "THER",
+    "gloss": "sew",
+    "eldamo_id": "2918691977",
+    "notes": ""
+  },
+  {
+    "id": "thil",
+    "form": "THIL",
+    "gloss": "shine silver; white light",
+    "eldamo_id": "708971487",
+    "notes": ""
+  },
+  {
+    "id": "thol",
+    "form": "THOL",
+    "gloss": "roll",
+    "eldamo_id": "",
+    "notes": "Doesn't have a page on Eldamo"
+  },
+  {
+    "id": "thos",
+    "form": "THOS",
+    "gloss": "frighten, terrify; show dread of",
+    "eldamo_id": "2064102527",
+    "notes": ""
+  },
+  {
+    "id": "thus",
+    "form": "THUS",
+    "gloss": "blow, cause an air movement; smell, stench",
+    "eldamo_id": "4104397793",
+    "notes": ""
+  },
+  {
+    "id": "tit",
+    "form": "TIT",
+    "gloss": "little, tiny",
+    "eldamo_id": "1738527663",
+    "notes": ""
+  },
+  {
+    "id": "tiw",
+    "form": "TIW",
+    "gloss": "fat, thick",
+    "eldamo_id": "2671994255",
+    "notes": ""
+  },
+  {
+    "id": "tow",
+    "form": "TOW",
+    "gloss": "wool",
+    "eldamo_id": "422743195",
+    "notes": ""
+  },
+  {
+    "id": "tul",
+    "form": "TUL",
+    "gloss": "come, approach, move towards (point of speaker)",
+    "eldamo_id": "822910333",
+    "notes": ""
+  },
+  {
+    "id": "tun",
+    "form": "TUN",
+    "gloss": "tall; mound",
+    "eldamo_id": "3956569031",
+    "notes": ""
+  },
+  {
+    "id": "tuntu",
+    "form": "TUNTU",
+    "gloss": "notice, perceive",
+    "eldamo_id": "677487875",
+    "notes": ""
+  },
+  {
+    "id": "tup",
+    "form": "TUP",
+    "gloss": "cover over, hide",
+    "eldamo_id": "78076925",
+    "notes": ""
+  },
+  {
+    "id": "tuy",
+    "form": "TUY",
+    "gloss": "sprout, bud",
+    "eldamo_id": "3770763007",
+    "notes": ""
+  },
+  {
+    "id": "tyal",
+    "form": "TYAL",
+    "gloss": "play",
+    "eldamo_id": "1580944869",
     "notes": ""
   }
 ]
