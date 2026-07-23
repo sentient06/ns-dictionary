@@ -29299,6 +29299,58 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "C0DD4E11-272F-4AE6-9BA5-DF6841DA8AB9",
+    "id": "dod",
+    "mutation_marker": "",
+    "sindarin": "dod-",
+    "spellings": [],
+    "ipa": "dod",
+    "tengwar": "",
+    "cirth": "9b9I",
+    "english": [
+      "drop"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3034232989",
+    "etymology": {
+      "root_refs": [
+        "dod"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to drop (something)",
+    "ids_code": "10.160",
+    "conception": "Key-2016-1310-250",
+    "notes": "",
+    "references": [
+      "GL/30"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-23"
+  },
+  {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
     "id": "nor",
     "mutation_marker": "",
@@ -29625,6 +29677,59 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "3A306375-7ECE-4F92-B29E-7A236D73CAD1",
+    "id": "gedh",
+    "mutation_marker": "ng-",
+    "sindarin": "gedh-",
+    "spellings": [],
+    "ipa": "geð",
+    "tengwar": "",
+    "cirth": "rz!I",
+    "english": [
+      "get",
+      "obtain"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "neologism",
+    "source": "Röandil",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4211148585",
+    "etymology": {
+      "root_refs": [
+        "nget"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "net-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to get, to obtain",
+    "ids_code": "11.160",
+    "conception": "Key-2016-1310-170",
+    "notes": "Based on Quenya \"net-\".",
+    "references": [],
+    "hidden": "Longman has both get and obtain",
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",

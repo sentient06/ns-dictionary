@@ -126,6 +126,13 @@
     "notes": ""
   },
   {
+    "id": "dod",
+    "form": "DOT",
+    "gloss": "drop",
+    "eldamo_id": "2117626403",
+    "notes": ""
+  },
+  {
     "id": "dor",
     "form": "DOR",
     "gloss": "hard, tough, dried up, unyielding",
@@ -1090,6 +1097,13 @@
     "gloss": "tear",
     "eldamo_id": "1677741011",
     "notes": ""
+  },
+  {
+    "id": "nget",
+    "form": "Ñ(G)ET",
+    "gloss": "catch, get",
+    "eldamo_id": "1074799041",
+    "notes": "Originally ŊETE"
   },
   {
     "id": "nid",

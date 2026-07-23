@@ -151,7 +151,7 @@ function prepareWordData(word, rootsMap) {
   //   An override value of "" marks a defective form (displayed as "—").
   //   An override value of null or absent → use the auto-generated form.
   if (word.conjugation?.class) {
-    const autoConj = conjugate(word.sindarin, word.conjugation.class);
+    const autoConj = conjugate(word.sindarin, word.conjugation.class, word.mutation_marker || '');
     if (autoConj) {
       const overrides = word.conjugation.overrides || {};
 
