@@ -17666,7 +17666,11 @@
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "ledhu",
+      "singular": "",
+      "plural": "ledhy"
+    },
     "gender": "",
     "category": "mineral",
     "ids_chapter": "the physical world",
@@ -17773,12 +17777,12 @@
     "swadesh207": 157,
     "leipzig_jakarta": 60,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "I really believe that a separate word for \"sand\" is important. I wouldn't claim that lith cannot mean both \"ash\" and \"sand\", natural languages permit stranger polysemies than that. But I do think there's a reasonable linguistic case that this merger is unusually unsupported cross-linguistically and that distinguishing the two concepts would improve the lexicon with very little cost. I have used √LIT \"grit\" + ✶-mā \"instrumental suffix\", in analogy to √SAG \"bitter, poison\" + -mā = ✶sagmā \"poison\".",
+    "ids_code": "1.215",
+    "conception": "Key-2016-1310-961",
+    "notes": "This word is highly debated. I wouldn't claim that \"lith\" cannot mean both \"ash\" and \"sand\", as natural languages permit stranger polysemies than that. But I do think there's a reasonable linguistic case that this merger is unusually unsupported cross-linguistically and that distinguishing the two concepts would improve the lexicon with very little cost. I have used √LIT \"grit\" + ✶-mā \"instrumental suffix\", in analogy to √SAG \"bitter, poison\" + -mā = ✶sagmā \"poison\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "0BD66B3F-3A98-4EA3-BC66-70B850BA0DC2",
@@ -24503,6 +24507,83 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "B4DF3C31-639B-4E88-80D5-2F044F95CD0B",
+    "id": "iond",
+    "mutation_marker": "",
+    "sindarin": "iond",
+    "spellings": [],
+    "ipa": "iond",
+    "tengwar": "",
+    "cirth": "$bk",
+    "english": [
+      "boy"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "iond",
+      "singular": "",
+      "plural": "ynd"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "yon"
+      ],
+      "primitive": {
+        "form": "yondō",
+        "eldamo_id": "1137276207"
+      },
+      "development": [
+        {
+          "form": "jondō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "jondo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "jond",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=yondo%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "yondo"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "2.250",
+    "conception": "Key-2016-1310-888",
+    "notes": "Taken from Quenya \"yondo\". Eldamo suggests using \"ion(n)\" instead.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
@@ -32376,6 +32457,89 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "B3107292-CF14-497D-ABFF-0B48753E5613",
+    "id": "badhor",
+    "mutation_marker": "mb-",
+    "sindarin": "badhor",
+    "spellings": [],
+    "ipa": "'ba.ðor",
+    "tengwar": "",
+    "cirth": "2c!bR",
+    "english": [
+      "judge (n.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "badhor",
+      "singular": "",
+      "plural": "bedhyr"
+    },
+    "gender": "",
+    "category": "law",
+    "ids_chapter": "law",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3475388343",
+    "etymology": {
+      "root_refs": [
+        "mbad"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "badro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "baðro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "baðr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "baðor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=badro&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "judge, adjudicator",
+    "ids_code": "21.180",
+    "conception": "Key-2016-1310-1267",
+    "notes": "",
+    "references": [
+      "Ety/BAD",
+      "EtyAC/MBAD"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-23"
+  },
+  {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
     "id": "aedaith",
     "mutation_marker": "",
@@ -32814,6 +32978,102 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "B38D69A1-1022-43D1-B533-611AB89CD147",
+    "id": "aeant",
+    "mutation_marker": "",
+    "sindarin": "aeant",
+    "spellings": [],
+    "ipa": "aeant",
+    "tengwar": "",
+    "cirth": "czc@8",
+    "english": [
+      "sacrifice (n.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "aeant",
+      "singular": "",
+      "plural": "aeanni"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "yan"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ajant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "ajantʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ajanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "aianθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "aeanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "aeant",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ajant&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-X4E3YT"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "sacrifice",
+    "ids_code": "22.150",
+    "conception": "Key-2016-1310-1293",
+    "notes": "Based on Latin \"sacrificium\", \"make sacred\". Made by using √AYA(N) + ✶-ta (single product of an action) to yield \"made reverent\" or \"made blessed\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
