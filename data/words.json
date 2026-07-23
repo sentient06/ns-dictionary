@@ -24832,16 +24832,20 @@
     "mutation_marker": "",
     "sindarin": "nadhras",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "'na.ðras",
+    "tengwar": "",
+    "cirth": "@c!Rcf",
     "english": [
       "pasture"
     ],
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "nadhras",
+      "singular": "",
+      "plural": "nedhrais"
+    },
     "gender": "",
     "category": "place",
     "ids_chapter": "animals",
@@ -24902,7 +24906,7 @@
       "Ety/NAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "A5D28BEC-BDB1-45C1-A829-22370BE1ECA0",
@@ -24910,16 +24914,20 @@
     "mutation_marker": "",
     "sindarin": "nadhor",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "'na.ðor",
+    "tengwar": "",
+    "cirth": "@c!bR",
     "english": [
       "pasture"
     ],
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "nadhor",
+      "singular": "",
+      "plural": "nedhyr"
+    },
     "gender": "",
     "category": "place",
     "ids_chapter": "animals",
@@ -24980,7 +24988,68 @@
       "Ety/NAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-23"
+  },
+  {
+    "uuid": "E874C091-5EDB-4891-88AF-F8751CF0DD04",
+    "id": "mavron",
+    "mutation_marker": "",
+    "sindarin": "mavron",
+    "spellings": [],
+    "ipa": "'ma.vron",
+    "tengwar": "",
+    "cirth": "6c4Rb@",
+    "english": [
+      "shepherd",
+      "herdsman"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "mavron",
+      "singular": "",
+      "plural": "mevryn"
+    },
+    "gender": "",
+    "category": "occupation",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2449992581",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "maf",
+          "gloss": "sheep",
+          "type": "noun"
+        },
+        {
+          "form": "-(r)on",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "shepherd, herdsman",
+    "ids_code": "3.180",
+    "conception": "Key-2016-1310-814",
+    "notes": "Based on the same construction in Gnomish.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "691E2459-C918-4815-BE0D-830BE00AD0BF",
@@ -25252,6 +25321,51 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "2E7BDE24-8CE2-4212-8C99-B40C4E18257B",
+    "id": "fin-e-thrond",
+    "mutation_marker": "",
+    "sindarin": "fîn e·thrond",
+    "spellings": [],
+    "ipa": "fiːn e.θrond",
+    "tengwar": " ",
+    "cirth": "3ll@`z0Rbk",
+    "english": [
+      "hair (body)"
+    ],
+    "grammar": [
+      "expression"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "[single] body hair, (lit.) hair [of] the body",
+    "ids_code": "4.144",
+    "conception": "Key-2016-1310-719",
+    "notes": "Expression to describe a hair of the body.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "FFE4A8CE-B35F-4C7B-A2FC-25E48C6AAE3C",
@@ -25974,8 +26088,157 @@
     "conception": "Key-2016-1310-570",
     "notes": "Based on Greek ώριμος (órimos) \"in its proper season\", formed by √IMI + √MAG + [√LAW + -stā], literally \"in good season\". The season part is based on Neo-Quenya \"löasta\".",
     "references": [],
-    "hidden": "ripe",
-    "last_modified": "2026-07-20"
+    "hidden": "",
+    "last_modified": "2026-07-23"
+  },
+  {
+    "uuid": "8E3F67FD-EDE9-4CBA-AA70-BE0A3827C27E",
+    "id": "uvelaust",
+    "mutation_marker": "",
+    "sindarin": "uvelaust",
+    "spellings": [],
+    "ipa": "'u.ve.laust",
+    "tengwar": "",
+    "cirth": "S4zacSf8",
+    "english": [
+      "unripe",
+      "green (unripe)"
+    ],
+    "grammar": [],
+    "inflection": {
+      "base": "uvelaust",
+      "singular": "",
+      "plural": "yvelaust"
+    },
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "umumaglawstā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "113345945"
+        },
+        {
+          "form": "umumaglaustā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "umumaglausta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "umumaglǭsta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "umumaɣlǭsta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "539122737"
+        },
+        {
+          "form": "umumailǭsta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "umumailausta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "umumailaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "ummailaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "ummaelaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "umaelaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "umelaust",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "uvelaust",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=umu.maglawsta%CC%84&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "unripe, green, (lit.) \"not good season\"",
+    "ids_code": "5.124",
+    "conception": "Key-2016-1310-569",
+    "notes": "Based on Ancient Greek ἄωρος (áōros) \"not proper season\", formed by √UMU + √MAG + [√LAW + -stā], literally \"not good season\". The season part is based on Neo-Quenya \"löasta\". This is a direct equivalent of its antonym \"ivelost\", also a neologism.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
@@ -33009,7 +33272,7 @@
     "eldamo_id": "",
     "etymology": {
       "root_refs": [
-        "yan"
+        "ayan"
       ],
       "primitive": null,
       "development": [
@@ -33058,7 +33321,18 @@
           "eldamo_id": ""
         }
       ],
-      "elements": [],
+      "elements": [
+        {
+          "form": "AYAN",
+          "gloss": "reverent, blessed",
+          "type": "root"
+        },
+        {
+          "form": "-ta",
+          "gloss": "single product of an action",
+          "type": "suffix"
+        }
+      ],
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ajant&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-X4E3YT"
     },
     "cognates": {},
