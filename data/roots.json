@@ -987,6 +987,13 @@
     "notes": ""
   },
   {
+    "id": "ndan",
+    "form": "(N)DAN",
+    "gloss": "back (again); retreat, go back, give way (as one advances), revert",
+    "eldamo_id": "1752002957",
+    "notes": ""
+  },
+  {
     "id": "ndel",
     "form": "NDEL",
     "gloss": "thick, dense",
@@ -1670,6 +1677,13 @@
     "form": "THUS",
     "gloss": "blow, cause an air movement; smell, stench",
     "eldamo_id": "4104397793",
+    "notes": ""
+  },
+  {
+    "id": "thu",
+    "form": "THŪ",
+    "gloss": "puff, blow",
+    "eldamo_id": "2715051655",
     "notes": ""
   },
   {
