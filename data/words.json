@@ -31978,6 +31978,70 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "A8A545A9-39CD-4EF5-B36F-BCD07DFC8CB9",
+    "id": "oethor",
+    "mutation_marker": "",
+    "sindarin": "oethor",
+    "spellings": [],
+    "ipa": "'oe.θor",
+    "tengwar": "",
+    "cirth": "bz0bR",
+    "english": [
+      "soldier"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "oethor",
+      "singular": "",
+      "plural": "oethyr"
+    },
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "kot"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "oktā",
+          "gloss": "war",
+          "type": "noun"
+        },
+        {
+          "form": "-rō",
+          "gloss": "old agental formation",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ohtar"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "20.170",
+    "conception": "Key-2016-1310-1227",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
+  },
+  {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
     "id": "theinas",
     "mutation_marker": "",
@@ -32182,7 +32246,7 @@
     "tengwar": "",
     "cirth": "2c!",
     "english": [
-      "judge"
+      "judge (v.)"
     ],
     "grammar": [
       "verb"
@@ -32222,7 +32286,7 @@
       "Ety/BAD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-23"
   },
   {
     "uuid": "9981B2FE-6BCD-48D5-8543-8F125A073422",
