@@ -784,6 +784,13 @@
     "notes": ""
   },
   {
+    "id": "mag",
+    "form": "MAG",
+    "gloss": "good (physically); to thrive, be in a good state",
+    "eldamo_id": "4245797099",
+    "notes": ""
+  },
+  {
     "id": "mah",
     "form": "MAH",
     "gloss": "handle, manage, control, wield",
@@ -1831,6 +1838,13 @@
     "form": "(A)YAN",
     "gloss": "holy",
     "eldamo_id": "1167723719",
+    "notes": ""
+  },
+  {
+    "id": "yon",
+    "form": "YON",
+    "gloss": "son",
+    "eldamo_id": "3779683119",
     "notes": ""
   },
   {
