@@ -27292,6 +27292,149 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "34D16B02-D66E-45AA-A661-8560172C76F1",
+    "id": "bar-brathed",
+    "mutation_marker": "",
+    "sindarin": "bâr brathed",
+    "spellings": [],
+    "ipa": "baːr 'bra.θed",
+    "tengwar": " ",
+    "cirth": "2vR`2Rc0z9",
+    "english": [
+      "cookhouse"
+    ],
+    "grammar": [
+      "expression"
+    ],
+    "inflection": {
+      "base": "bâr brathed",
+      "singular": "",
+      "plural": "bair brathed"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "cookhouse, (lit.) house of cooking",
+    "ids_code": "7,170",
+    "conception": "Key-2016-1310-429",
+    "notes": "Literal gloss for a cookhouse.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
+  },
+  {
+    "uuid": "A3C75808-43EF-4508-9A02-E157825D56B7",
+    "id": "brathstam",
+    "mutation_marker": "",
+    "sindarin": "brathstam",
+    "spellings": [],
+    "ipa": "'braθ.stam",
+    "tengwar": "",
+    "cirth": "2Rc0f8c6",
+    "english": [
+      "kitchen"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "brathstam",
+      "singular": "",
+      "plural": "brethstem"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "bratʰstambē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "bratʰstambe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "braθstambe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "braθstamb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "braθstamm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "braθstam",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=bra%C5%A7stambe%3A&off=PE%2CAT%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "kitchen, (lit.) \"cook room\"",
+    "ids_code": "7,170",
+    "conception": "Key-2016-1310-429",
+    "notes": "Neologism based on Chinese 厨房 (chúfáng), meaning \"cook room\". Combining Ancient Telerin \"bratʰ\" and \"stambē\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-23"
+  },
+  {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
     "id": "redhor",
     "mutation_marker": "",
