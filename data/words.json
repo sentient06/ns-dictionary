@@ -20880,8 +20880,8 @@
     "swadesh207": 184,
     "leipzig_jakarta": 74,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "14.150",
+    "conception": "Key-2016-1310-17",
     "notes": "",
     "references": [
       "RC/523",
@@ -20890,7 +20890,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "62B916F4-9DB5-4733-8FCB-8EBF1E394BED",
@@ -27044,7 +27044,7 @@
   },
   {
     "uuid": "69F72FE1-AC4C-44C7-AAAF-ABE132409D1F",
-    "id": "caw",
+    "id": "caw-noun",
     "mutation_marker": "",
     "sindarin": "caw",
     "spellings": [],
@@ -27117,7 +27117,7 @@
     "notes": "This is a homonym of the word \"caw\" meaning \"top\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "5B417F86-677E-4058-9F80-EC7AF72C7CB9",
@@ -29733,54 +29733,49 @@
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
-    "id": "cad",
+    "id": "pad",
     "mutation_marker": "",
-    "sindarin": "cad",
+    "sindarin": "pad",
     "spellings": [],
-    "ipa": "kad",
-    "tengwar": "",
-    "cirth": "ec9",
+    "ipa": "pad",
+    "tengwar": "",
+    "cirth": "1c9",
     "english": [
-      "after"
+      "after (place)"
     ],
     "grammar": [
+      "preposition",
       "adverb"
     ],
     "inflection": null,
     "gender": "",
     "category": "location",
     "ids_chapter": "spatial relations",
-    "type": "attested",
-    "source": "Tolkien",
+    "type": "neologism",
+    "source": "Elaran",
     "status": "",
     "noldorin_form": "",
-    "eldamo_id": "3427892515",
+    "eldamo_id": "",
     "etymology": {
-      "root_refs": [
-        "kā"
-      ],
+      "root_refs": [],
       "primitive": null,
       "development": [],
       "elements": [],
       "quettamorphosis_url": ""
     },
-    "cognates": {
-      "quenya": "ca(ta)"
-    },
+    "cognates": {},
     "conjugation": null,
-    "confidence": null,
+    "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "",
+    "definition": "after (place), behind",
     "ids_code": "12.10",
     "conception": "Key-2016-1310-130",
     "notes": "",
-    "references": [
-      "PM/136"
-    ],
+    "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "A7957357-53A7-4EF3-9EB9-1000B0F499B5",
@@ -29967,6 +29962,151 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "22D1D2D9-A2A8-43CE-8CAC-0A8ACA6CEC53",
+    "id": "haw",
+    "mutation_marker": "",
+    "sindarin": "haw",
+    "spellings": [],
+    "ipa": "haw",
+    "tengwar": "",
+    "cirth": ".cF",
+    "english": [
+      "before (place)",
+      "in front"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "before (place), in front",
+    "ids_code": "12.40",
+    "conception": "Key-2016-1310-126",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "77D1DB28-AC65-4C95-AC44-CC572AA52009",
+    "id": "faw",
+    "mutation_marker": "",
+    "sindarin": "faw",
+    "spellings": [],
+    "ipa": "faw",
+    "tengwar": "",
+    "cirth": "3cF",
+    "english": [
+      "before (time)",
+      "earlier"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "before (time), earlier",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "81A842F3-E119-4E0D-94A7-18FF37C394E3",
+    "id": "cad",
+    "mutation_marker": "",
+    "sindarin": "cad",
+    "spellings": [],
+    "ipa": "kad",
+    "tengwar": "",
+    "cirth": "ec9",
+    "english": [
+      "after (time)",
+      "later"
+    ],
+    "grammar": [
+      "preposition",
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3427892515",
+    "etymology": {
+      "root_refs": [
+        "kā"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ca(ta)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "after (time), later",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PM/136"
+    ],
+    "hidden": "Might be mixed up with \"after place\", \"behind\"",
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
@@ -30843,6 +30983,191 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "53A6B4B6-A553-47D1-B67B-67DCD0925184",
+    "id": "thostol",
+    "mutation_marker": "",
+    "sindarin": "thostol",
+    "spellings": [],
+    "ipa": "'θos.tol",
+    "tengwar": "",
+    "cirth": "0bf8ba",
+    "english": [
+      "stinking"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "thostol",
+      "singular": "",
+      "plural": "thestyl"
+    },
+    "gender": "",
+    "category": "smell",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2961733589",
+    "etymology": {
+      "root_refs": [
+        "thus"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "15.260",
+    "conception": "Key-2016-1310-1004",
+    "notes": "Active participle of \"thosta-\".",
+    "references": [
+      "GL/34"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "A1A85AE3-0203-437C-9F76-694C12BB82B5",
+    "id": "caw-verb",
+    "mutation_marker": "",
+    "sindarin": "caw-",
+    "spellings": [],
+    "ipa": "kaw",
+    "tengwar": "",
+    "cirth": "ecFI",
+    "english": [
+      "taste (verb)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "taste",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3289016555",
+    "etymology": {
+      "root_refs": [
+        "kyaw"
+      ],
+      "primitive": {
+        "form": "kyaw-",
+        "eldamo_id": "3147115187"
+      },
+      "development": [
+        {
+          "form": "kjaw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "345959193"
+        },
+        {
+          "form": "kaw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798091205"
+        },
+        {
+          "form": "kau",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kjaw&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "tyav-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to taste, sense the taste of something",
+    "ids_code": "15.310",
+    "conception": "Key-2016-1310-1005",
+    "notes": "",
+    "references": [
+      "PE22/152"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "17A5F0A3-88A2-42BE-A41B-F71A06BB618A",
+    "id": "cauda",
+    "mutation_marker": "",
+    "sindarin": "cauda-",
+    "spellings": [],
+    "ipa": "'kaw.da",
+    "tengwar": "",
+    "cirth": "ecS9cI",
+    "english": [
+      "perceive",
+      "notice",
+      "to sample"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "try",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3322631423",
+    "etymology": {
+      "root_refs": [
+        "kyaw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to get flavour of, sample, try; perceive, notice",
+    "ids_code": "15.310",
+    "conception": "Key-2016-1310-1005",
+    "notes": "",
+    "references": [
+      "GL/24"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
     "uuid": "E353AD49-1A63-4A8B-8DC4-7313CDA42BE0",
     "id": "laich",
     "mutation_marker": "",
@@ -31634,6 +31959,109 @@
     "last_modified": "2026-07-21"
   },
   {
+    "uuid": "3C04629D-A3F1-4F3D-BA84-D1858B617137",
+    "id": "gladh",
+    "mutation_marker": "",
+    "sindarin": "gladh-",
+    "spellings": [],
+    "ipa": "glað",
+    "tengwar": "",
+    "cirth": "rac!I",
+    "english": [
+      "laugh"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2939308023",
+    "etymology": {
+      "root_refs": [
+        "lal"
+      ],
+      "primitive": {
+        "form": "glada-",
+        "eldamo_id": "1326454511"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lala-",
+      "telerin": "glada-"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "16.250",
+    "conception": "Key-2016-1310-1054",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "B835B54A-828C-42B6-9E6D-926639CD9F50",
+    "id": "lala",
+    "mutation_marker": "",
+    "sindarin": "lala-",
+    "spellings": [],
+    "ipa": "'la.la",
+    "tengwar": "",
+    "cirth": "acacI",
+    "english": [
+      "laugh"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4255490933",
+    "etymology": {
+      "root_refs": [
+        "lal"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lala-",
+      "telerin": "glada-"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "16.250",
+    "conception": "Key-2016-1310-1054",
+    "notes": "Extracted from \"Lalaith\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
     "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
     "id": "ninna",
     "mutation_marker": "",
@@ -32056,6 +32484,62 @@
     "last_modified": "2026-07-22"
   },
   {
+    "uuid": "2DFC2F28-FB95-471F-971D-3E8AAD7FC2AB",
+    "id": "ista",
+    "mutation_marker": "",
+    "sindarin": "ista-",
+    "spellings": [],
+    "ipa": "'is.ta",
+    "tengwar": "",
+    "cirth": "lf8cI",
+    "english": [
+      "know"
+    ],
+    "grammar": [],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4226423969",
+    "etymology": {
+      "root_refs": [
+        "is"
+      ],
+      "primitive": {
+        "form": "ista-",
+        "eldamo_id": "3570006917"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ista-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to know, to have knowledge",
+    "ids_code": "17.170",
+    "conception": "Key-2016-1310-1102",
+    "notes": "",
+    "references": [
+      "Ety/IS",
+      "EtyAC/IS"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-24"
+  },
+  {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
     "id": "glim",
     "mutation_marker": "",
@@ -32339,6 +32823,56 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-22"
+  },
+  {
+    "uuid": "83446C88-EC15-4CAC-B802-B88F8517C2E6",
+    "id": "tiph",
+    "mutation_marker": "",
+    "sindarin": "tiph-",
+    "spellings": [],
+    "ipa": "tif",
+    "tengwar": "",
+    "cirth": "8l3I",
+    "english": [
+      "whistle"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "speech and language",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3996094197",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "18.170",
+    "conception": "Key-2016-1310-1153",
+    "notes": "",
+    "references": [
+      "GL/67, 70"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "EE4C5626-E157-4C5B-BFD4-C6162FA0EEB2",

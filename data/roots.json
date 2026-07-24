@@ -252,6 +252,13 @@
     "notes": ""
   },
   {
+    "id": "glan",
+    "form": "(G)LAN",
+    "gloss": "rim, edge, border, boundary",
+    "eldamo_id": "2028695239",
+    "notes": ""
+  },
+  {
     "id": "glos",
     "form": "(G)LOS",
     "gloss": "snow, whiteness",
@@ -602,6 +609,13 @@
     "notes": ""
   },
   {
+    "id": "kyaw",
+    "form": "KYAW",
+    "gloss": "taste, select, choose",
+    "eldamo_id": "4215286223",
+    "notes": ""
+  },
+  {
     "id": "kā",
     "form": "KĀ",
     "gloss": "after (later than) of time",
@@ -907,6 +921,13 @@
     "form": "MI/IMI",
     "gloss": "in, within",
     "eldamo_id": "4236320083",
+    "notes": ""
+  },
+  {
+    "id": "is",
+    "form": "IS",
+    "gloss": "know",
+    "eldamo_id": "117326425",
     "notes": ""
   },
   {
