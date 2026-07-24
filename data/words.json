@@ -3156,7 +3156,7 @@
     "spellings": [],
     "ipa": "tiːg",
     "tengwar": "",
-    "cirth": "8☠r",
+    "cirth": "8LLr",
     "english": [
       "thick"
     ],
@@ -3245,7 +3245,7 @@
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -5825,7 +5825,7 @@
     "spellings": [],
     "ipa": "liːg",
     "tengwar": "",
-    "cirth": "a☠r",
+    "cirth": "aLLr",
     "english": [
       "snake"
     ],
@@ -5912,7 +5912,7 @@
       "PE17/121, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "9113830A-FAD1-490A-A739-ED71040E9731",
@@ -19100,8 +19100,8 @@
     "swadesh207": 171,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "1.220",
+    "conception": "Key-2016-1310-959",
     "notes": "",
     "references": [
       "LotR/469",
@@ -19114,7 +19114,7 @@
       "WJ/192"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "E180B8AA-098B-4C38-9CBC-4B40F25F9A5F",
@@ -19256,8 +19256,8 @@
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "hill, mountain with steep sides",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "1.220",
+    "conception": "Key-2016-1310-959",
     "notes": "",
     "references": [
       "LotR/1097, 1115",
@@ -19273,7 +19273,7 @@
       "WJ/187"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-24"
   },
   {
     "uuid": "7839E187-5311-4DDA-94A8-D3B8BF865D13",
@@ -29772,7 +29772,7 @@
     "definition": "after (place), behind",
     "ids_code": "12.10",
     "conception": "Key-2016-1310-130",
-    "notes": "",
+    "notes": "Probably should use stop mutation.",
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-24"
@@ -30101,7 +30101,7 @@
     "definition": "after (time), later",
     "ids_code": "",
     "conception": "",
-    "notes": "",
+    "notes": "Probably should use stop mutation.",
     "references": [
       "PM/136"
     ],
