@@ -27330,6 +27330,126 @@
     "last_modified": "2026-07-23"
   },
   {
+    "uuid": "C524A1E5-A2FB-463D-A6E2-42F92B557590",
+    "id": "galadhso",
+    "mutation_marker": "",
+    "sindarin": "galadhso",
+    "spellings": [],
+    "ipa": "'ga.lað.so",
+    "tengwar": "",
+    "cirth": "rcac!fb",
+    "english": [
+      "cotton"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "galad",
+        "tow"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "galadtogō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "galadtogo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "galadtʰogo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "galadθogo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "galaðθoɣo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "galaðθoɣ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4164672875"
+        },
+        {
+          "form": "galaðθo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2090293737"
+        },
+        {
+          "form": "galaðso",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "GALAD",
+          "gloss": "tree",
+          "type": "root"
+        },
+        {
+          "form": "togō",
+          "gloss": "wool",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=galadtogo%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "cotton, (lit.) \"tree wool\"",
+    "ids_code": "6.240",
+    "conception": "Key-2016-1310-488",
+    "notes": "Almost all of Europe borrowed the same Arabic word for \"cotton\". Except the German, that uses Baumwolle \"tree wool\". Japanese also has 木綿 (momen) \"tree floss\", which inspired this neologism.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-25"
+  },
+  {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
     "id": "bar-verb",
     "mutation_marker": "mb-",
