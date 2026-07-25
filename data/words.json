@@ -23882,8 +23882,8 @@
     "gender": "",
     "category": "coordination",
     "ids_chapter": "coordination",
-    "type": "neologism",
-    "source": "Unknown",
+    "type": "compound",
+    "source": "",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3509158641",
@@ -23922,7 +23922,7 @@
     "notes": "This is an expression to represent an equivalent of English word \"because\". It's also written \"a chaeth i\", because there is a group that believes that the preposition \"an\" should cause nasal mutation on the following word (\"caeth\"). I think it should cause mixed mutation, therefore \"añ gaeth\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-25"
   },
   {
     "uuid": "49379349-C98A-4A7E-A7E4-04AA6437F9D8",
@@ -24584,6 +24584,64 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-23"
+  },
+  {
+    "uuid": "6F481486-5311-40B6-940F-ADC1CB348AD1",
+    "id": "dir-wain",
+    "mutation_marker": "",
+    "sindarin": "dîr 'wain",
+    "spellings": [],
+    "ipa": "djːr wain",
+    "tengwar": " ",
+    "cirth": "9llR`IFcl@",
+    "english": [
+      "young man"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "compound",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "dîr",
+          "gloss": "man",
+          "type": "noun"
+        },
+        {
+          "form": "gwain",
+          "gloss": "young",
+          "type": "adjective"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vinyanér"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "2.251",
+    "conception": "Key-2016-1310-887",
+    "notes": "Based on French \"jeune homme\", this term doesn't need to be a bespoke word. A compound should suffice.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-25"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
