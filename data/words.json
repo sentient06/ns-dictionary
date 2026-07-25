@@ -25521,7 +25521,9 @@
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "spinid"
+      ],
       "primitive": null,
       "development": [],
       "elements": [],
@@ -25539,7 +25541,147 @@
     "notes": "Expression to describe a hair of the body.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-23"
+    "last_modified": "2026-07-25"
+  },
+  {
+    "uuid": "BECFFDD4-79F5-4BE4-81FA-57910108DB87",
+    "id": "hallophin",
+    "mutation_marker": "",
+    "sindarin": "hallophin",
+    "spellings": [],
+    "ipa": "'ha.lo.fin",
+    "tengwar": "",
+    "cirth": ".caab1.l@",
+    "english": [
+      "pubic hair"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hallophin",
+      "singular": "",
+      "plural": "hellephin"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "skal",
+        "spinid"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "skalnāfini",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "skalnāfine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1062284643"
+        },
+        {
+          "form": "skallāfine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sxallāfine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "sxallǭfine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "xallǭfine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "xallaufine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xallaufin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hallaufin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "hallofin",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "skalnā",
+          "gloss": "hidden",
+          "type": "adjective"
+        },
+        {
+          "form": "phini",
+          "gloss": "hair",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=skalna%3Afini&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "pubic hair, (lit.) \"private hair\"",
+    "ids_code": "4.145",
+    "conception": "Key-2016-1310-717",
+    "notes": "Inspired by Chinese 阴毛 (yīnmáo), Japanese 陰毛 (inmō), and Korean 음모 (eummo), \"hidden hair\" or \"private hair\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-25"
   },
   {
     "uuid": "FFE4A8CE-B35F-4C7B-A2FC-25E48C6AAE3C",
@@ -26413,6 +26555,103 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-23"
+  },
+  {
+    "uuid": "487534FF-858A-4BD3-BFD4-5BC443A04E53",
+    "id": "saur",
+    "mutation_marker": "",
+    "sindarin": "saur",
+    "spellings": [],
+    "ipa": "saur",
+    "tengwar": "",
+    "cirth": "fcSR",
+    "english": [
+      "bad (of food)",
+      "putrid",
+      "rotten"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "saur",
+      "singular": "",
+      "plural": "soer"
+    },
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2606521445",
+    "etymology": {
+      "root_refs": [
+        "saw"
+      ],
+      "primitive": {
+        "form": "saurā",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "saurā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "saura",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "sǭra",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "saura",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "saur",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=saura%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "saura"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "bad (of food), putrid, rotten",
+    "ids_code": "5.125",
+    "conception": "Key-2016-1310-568",
+    "notes": "",
+    "references": [
+      "PE17/183"
+    ],
+    "hidden": "suffix -ra",
+    "last_modified": "2026-07-25"
   },
   {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
