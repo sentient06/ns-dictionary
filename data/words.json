@@ -25110,6 +25110,122 @@
     "last_modified": "2026-07-23"
   },
   {
+    "uuid": "DF2D7C11-D422-4454-A3F4-0F6BE12E9F81",
+    "id": "rochumar",
+    "mutation_marker": "",
+    "sindarin": "rochûmar",
+    "spellings": [],
+    "ipa": "'ro.xuː.mar",
+    "tengwar": "",
+    "cirth": "RbtD6cR",
+    "english": [
+      "stable"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rochûmar",
+      "singular": "",
+      "plural": "rechûmair"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "rok",
+        "mbar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rokkōmbar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "rokkʰōmbar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "roxxōmbar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "roxxūmbar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "roxxūmmar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "roxxūmar",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "roxūmar",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "rokkō",
+          "gloss": "horse",
+          "type": "noun"
+        },
+        {
+          "form": "mbar",
+          "gloss": "dwelling, habitation",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rokko%3Ambar&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1SBMLPP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.190",
+    "conception": "Key-2016-1310-813",
+    "notes": "Inspired by Russian конюшня (konyushnya) and Japanese 馬屋 (umaya) \"horse house\".",
+    "references": [],
+    "hidden": "stable, stall",
+    "last_modified": "2026-07-25"
+  },
+  {
     "uuid": "691E2459-C918-4815-BE0D-830BE00AD0BF",
     "id": "gacht",
     "mutation_marker": "",
