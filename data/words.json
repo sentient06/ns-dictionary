@@ -28862,6 +28862,112 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "DD51CB20-6F5C-44C7-B75E-D1BB6DFC4371",
+    "id": "legia",
+    "mutation_marker": "",
+    "sindarin": "legia-",
+    "spellings": [],
+    "ipa": "'le.gja",
+    "tengwar": "",
+    "cirth": "azrlcI",
+    "english": [
+      "bend"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "lok"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lokjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lokja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "lokia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "lœkia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "lœgia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "legia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "LOK",
+          "gloss": "bend, loop",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lokja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-UENT9R"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "9.140",
+    "conception": "Key-2016-1310-324",
+    "notes": "Neologism meaning \"to make bent, to loop\"",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
     "uuid": "4F851B3F-8FA6-4F65-AA2A-47C2177833CE",
     "id": "loetha",
     "mutation_marker": "",
@@ -29836,6 +29942,120 @@
     "last_modified": "2026-07-23"
   },
   {
+    "uuid": "6DDC863E-7F01-43A1-8235-5239F9FF83C4",
+    "id": "neria",
+    "mutation_marker": "",
+    "sindarin": "neria-",
+    "spellings": [],
+    "ipa": "'ne.rja",
+    "tengwar": "",
+    "cirth": "@zRlcI",
+    "english": [
+      "twist"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "snur"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "snurjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "snurja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "nurja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "norja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "noria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "nœria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "neria",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "SNUR",
+          "gloss": "twist",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=snurja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-UENT9R"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "10.170",
+    "conception": "Key-2016-1310-249",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
     "id": "nor",
     "mutation_marker": "",
@@ -30217,6 +30437,61 @@
     "last_modified": "2026-07-23"
   },
   {
+    "uuid": "6EF11DD3-A87B-4CE9-A0EB-49855DF92C69",
+    "id": "heb",
+    "mutation_marker": "",
+    "sindarin": "heb-",
+    "spellings": [],
+    "ipa": "heb",
+    "tengwar": "",
+    "cirth": ".z2I",
+    "english": [
+      "keep"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1410009759",
+    "etymology": {
+      "root_refs": [
+        "khep"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to keep",
+    "ids_code": "11.170",
+    "conception": "Key-2016-1310-169",
+    "notes": "",
+    "references": [
+      "LotR/1061",
+      "PE17/62, 117",
+      "PE22/160",
+      "VT42/33"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
     "id": "pad",
     "mutation_marker": "",
@@ -30592,6 +30867,202 @@
     ],
     "hidden": "Might be mixed up with \"after place\", \"behind\"",
     "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "FA235EF3-2706-4690-93C0-80A17907A68A",
+    "id": "minif",
+    "mutation_marker": "",
+    "sindarin": "minif",
+    "spellings": [],
+    "ipa": "'mi.niv",
+    "tengwar": "",
+    "cirth": "6l@l3",
+    "english": [
+      "in front"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "neb"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "mi",
+          "gloss": "in",
+          "type": "preposition"
+        },
+        {
+          "form": "nēbe",
+          "gloss": "front",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.41",
+    "conception": "Key-2016-1310-125",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
+    "uuid": "F826F593-EFCC-4B45-85B8-D20ED4475C28",
+    "id": "nif",
+    "mutation_marker": "",
+    "sindarin": "nîf",
+    "spellings": [],
+    "ipa": "niːv",
+    "tengwar": "",
+    "cirth": "@ll3",
+    "english": [
+      "front",
+      "face"
+    ],
+    "grammar": [
+      "noun",
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2778637695",
+    "etymology": {
+      "root_refs": [
+        "neb"
+      ],
+      "primitive": {
+        "form": "nēbe",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "nēbe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "nēb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "nēv",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "nīv",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ne%3Abe&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "front, face",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
+    "uuid": "DF83D645-377B-4677-8D8F-CD98325E56E3",
+    "id": "ivil",
+    "mutation_marker": "",
+    "sindarin": "ivil",
+    "spellings": [],
+    "ipa": "'i.vil",
+    "tengwar": "",
+    "cirth": "l4la",
+    "english": [
+      "inside"
+    ],
+    "grammar": [
+      "preposition",
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "neologism",
+    "source": "Ellanto",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3334963993",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "MI/IMI",
+          "gloss": "in, within, inside",
+          "type": "root"
+        },
+        {
+          "form": "-(a)lē",
+          "gloss": "abstract noun, adverb",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.50",
+    "conception": "Key-2016-1310-124",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
   },
   {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",

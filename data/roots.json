@@ -42,6 +42,13 @@
     "notes": ""
   },
   {
+    "id": "anga",
+    "form": "ANGA",
+    "gloss": "iron",
+    "eldamo_id": "3227461267",
+    "notes": ""
+  },
+  {
     "id": "ap",
     "form": "AP",
     "gloss": "cook",
@@ -459,6 +466,13 @@
     "form": "KHEN",
     "gloss": "base of eye-words",
     "eldamo_id": "1824366963",
+    "notes": ""
+  },
+  {
+    "id": "khep",
+    "form": "KHEP",
+    "gloss": "retain, keep, do not give away or release, keep hold of",
+    "eldamo_id": "1015020399",
     "notes": ""
   },
   {
@@ -1540,6 +1554,13 @@
     "notes": ""
   },
   {
+    "id": "snur",
+    "form": "SNUR",
+    "gloss": "twist",
+    "eldamo_id": "2526049379",
+    "notes": ""
+  },
+  {
     "id": "spanag",
     "form": "SPANAG",
     "gloss": "beard",
@@ -1852,6 +1873,13 @@
     "form": "WEB",
     "gloss": "worm",
     "eldamo_id": "2265555523",
+    "notes": ""
+  },
+  {
+    "id": "wed",
+    "form": "WED",
+    "gloss": "bind",
+    "eldamo_id": "1963614533",
     "notes": ""
   },
   {
