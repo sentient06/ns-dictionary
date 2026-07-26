@@ -28571,6 +28571,141 @@
     "last_modified": "2026-07-23"
   },
   {
+    "uuid": "D583409A-62A7-48F2-9530-38BE1B312057",
+    "id": "perchenia",
+    "mutation_marker": "",
+    "sindarin": "perchenia-",
+    "spellings": [],
+    "ipa": "'per.xe.nja",
+    "tengwar": "",
+    "cirth": "1zRtz@lcI",
+    "english": [
+      "plough (v.)"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "kwer",
+        "kem"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "KWER",
+          "gloss": "revolve",
+          "type": "root"
+        },
+        {
+          "form": "KEM",
+          "gloss": "soil, earth",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to plough",
+    "ids_code": "8.210",
+    "conception": "Key-2016-1310-387",
+    "notes": "Plough is a very conservative word. Plowing is a heavy-duty, deep-soil process designed to break hard crusts and invert the earth, whereas tilling is a shallower, refining process used to pulverize the topsoil, control weeds, and blend in fertiliser or compost. Sindarin already has a word for the verb \"till\", \"barna-\", so it's necessary to create a new verb for \"plough\". I found very few languages with etymologies which can reconstruct a descriptive meaning, the best example I think is Japanese. \"Tagayasu\" 耕す, \"to till, cultivate, plough\", composed by \"ta\" 田 \"cultivated field\" and \"kaesu\" 返す \"turn back, reverse, turn over\", effectively means \"to turn over the field\". Since most languages have a word for \"plough\", I've used roots to create the neologism, to preserve it's antique character. The noun \"plough\" uses the instrumental suffix, and the verb \"plough\" uses the causative.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
+    "uuid": "A8B1FFA0-B487-4CA5-9634-BA04BCFD4206",
+    "id": "perchenu",
+    "mutation_marker": "",
+    "sindarin": "perchenu",
+    "spellings": [],
+    "ipa": "'per.xe.nu",
+    "tengwar": "",
+    "cirth": "1zRtz@S",
+    "english": [
+      "plough (n.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "perchenu",
+      "singular": "",
+      "plural": "percheny"
+    },
+    "gender": "",
+    "category": "object",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "kwer",
+        "kem"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "KWER",
+          "gloss": "revolve",
+          "type": "root"
+        },
+        {
+          "form": "KEM",
+          "gloss": "soil, earth",
+          "type": "root"
+        },
+        {
+          "form": "-mā",
+          "gloss": "instrumental",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "plough (agriculture implement)",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Plough is a very conservative word. Plowing is a heavy-duty, deep-soil process designed to break hard crusts and invert the earth, whereas tilling is a shallower, refining process used to pulverize the topsoil, control weeds, and blend in fertiliser or compost. Sindarin already has a word for the verb \"till\", \"barna-\", so it's necessary to create a new verb for \"plough\". I found very few languages with etymologies which can reconstruct a descriptive meaning, the best example I think is Japanese. \"Tagayasu\" 耕す, \"to till, cultivate, plough\", composed by \"ta\" 田 \"cultivated field\" and \"kaesu\" 返す \"turn back, reverse, turn over\", effectively means \"to turn over the field\". Since most languages have a word for \"plough\", I've used roots to create the neologism, to preserve it's antique character. The noun \"plough\" uses the instrumental suffix, and the verb \"plough\" uses the causative.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-26"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -29037,6 +29172,73 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-23"
+  },
+  {
+    "uuid": "B898168D-60C2-4BA0-86DE-DC8339069FF2",
+    "id": "angwedh",
+    "mutation_marker": "",
+    "sindarin": "angwedh",
+    "spellings": [],
+    "ipa": "'an.gʷeð",
+    "tengwar": "",
+    "cirth": "cWz!",
+    "english": [
+      "chain",
+      "fetter"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "angwedh",
+      "singular": "",
+      "plural": "engwidh"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "204930385",
+    "etymology": {
+      "root_refs": [
+        "wed",
+        "anga"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "ang",
+          "gloss": "iron",
+          "type": "noun"
+        },
+        {
+          "form": "gwedh",
+          "gloss": "bond",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "chain, fetter, (lit.) iron-bond",
+    "ids_code": "9.180",
+    "conception": "Key-2016-1310-320",
+    "notes": "",
+    "references": [
+      "Ety/WED",
+      "PE22/32"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-26"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -35123,7 +35325,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": null,
+    "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": 71,
@@ -35133,7 +35335,7 @@
     "notes": "Ant is a remarkably conservative word. Germanic languages seem to inherit the word from PIE meaning \"the biter-off\". This is the only descriptive word for \"ant\" that I could find, so I've decided to copy the metaphor by using √PI \"small\" and coining a \"biter\" with √NAK \"bite\" and -ro.",
     "references": [],
     "hidden": "\"ant\", not on IDS",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-07-26"
   },
   {
     "uuid": "9A7D9CB9-CC8A-4F61-BEF4-96CDF0AC93E0",
