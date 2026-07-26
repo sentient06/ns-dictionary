@@ -32485,7 +32485,7 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "",
+    "category": "agent",
     "ids_chapter": "emotions and values",
     "type": "attested",
     "source": "Tolkien",
@@ -32573,7 +32573,7 @@
       "MR/165"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-07-26"
   },
   {
     "uuid": "7733C8BB-B0BA-4657-962D-35423F265BA0",
