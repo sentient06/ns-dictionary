@@ -31608,6 +31608,108 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "1B421A8B-85C8-4553-9EFC-72197AD19B4D",
+    "id": "lagor",
+    "mutation_marker": "",
+    "sindarin": "lagor",
+    "spellings": [],
+    "ipa": "'la.gor",
+    "tengwar": "",
+    "cirth": "acrbR",
+    "english": [
+      "swift",
+      "rapid"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2767761975",
+    "etymology": {
+      "root_refs": [
+        "alak"
+      ],
+      "primitive": {
+        "form": "lakra",
+        "eldamo_id": "2293318923"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "(a)larka"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "swift, rapid",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "Ety/LAK²",
+      "EtyAC/LAK²"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-27"
+  },
+  {
+    "uuid": "D1CB3E2F-59D7-4B01-B5CC-8549DCB3679C",
+    "id": "lagor",
+    "mutation_marker": "",
+    "sindarin": "lagor",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "early"
+    ],
+    "grammar": [
+      "adjective",
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "repurposed",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2767761975",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "14.160",
+    "conception": "Key-2016-1310-16",
+    "notes": "Extends lagor \"swift, rapid\" to \"early\", following a common cross-linguistic semantic shift (e.g. French tôt, Portuguese cedo, Italian presto, Japanese hayai) from \"quick\" to \"early\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-27"
+  },
+  {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
     "id": "nuir",
     "mutation_marker": "",
