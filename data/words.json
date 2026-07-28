@@ -31710,6 +31710,55 @@
     "last_modified": "2026-07-27"
   },
   {
+    "uuid": "F366C9C0-ECF6-489B-9823-B28A2A9C9C09",
+    "id": "cadar",
+    "mutation_marker": "",
+    "sindarin": "cadar",
+    "spellings": [],
+    "ipa": "'ca.dar",
+    "tengwar": "",
+    "cirth": "ec9cR",
+    "english": [
+      "late"
+    ],
+    "grammar": [
+      "adjective",
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "repurposed",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "katar",
+        "eldamo_id": "2433050533"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "14.170",
+    "conception": "Key-2016-1310-15",
+    "notes": "The original means \"after (later than) of time\", but since these adverbs have a very peculiar history and I have chosen to use \"cad\" instead, I think it would be best to recycle this word to mean \"late\", based on the same cross-linguistic semantic shift from \"quick\" to \"early\". The semantic extension of \"slow\" to \"late\" is also extant, following the widespread historical development found in English, French, Portuguese, Spanish, Italian, Dutch, and Japanese.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-28"
+  },
+  {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
     "id": "nuir",
     "mutation_marker": "",
