@@ -35321,6 +35321,131 @@
     "last_modified": "2026-07-30"
   },
   {
+    "uuid": "5ADFAFCE-8A8A-4AFA-8867-1B45F0DE2D66",
+    "id": "nur",
+    "mutation_marker": "",
+    "sindarin": "nûr",
+    "spellings": [],
+    "ipa": "nuːr",
+    "tengwar": "",
+    "cirth": "@DR",
+    "english": [
+      "race"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nûr",
+      "singular": "",
+      "plural": "nuir"
+    },
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1360627025",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nóre"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "Ety/NŌ"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "4A7EE4D6-5C9F-408D-867A-995B4BAFD4FC",
+    "id": "nur",
+    "mutation_marker": "",
+    "sindarin": "nûr",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "kind"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nûr",
+      "singular": "",
+      "plural": "nuir"
+    },
+    "gender": "",
+    "category": "classification",
+    "ids_chapter": "classification",
+    "type": "repurposed",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ono"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nōre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "nūre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "nūr",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=no%3Are&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
