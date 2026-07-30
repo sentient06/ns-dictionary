@@ -34142,13 +34142,13 @@
   },
   {
     "uuid": "E387101B-F506-4999-9CB8-F13A22CC731B",
-    "id": "ruchelia",
+    "id": "tochelia",
     "mutation_marker": "",
-    "sindarin": "ruchelia-",
+    "sindarin": "tochelia-",
     "spellings": [],
-    "ipa": "'ru.xe.lja",
-    "tengwar": "",
-    "cirth": "RStzalcI",
+    "ipa": "'to.xe.lja",
+    "tengwar": "",
+    "cirth": "8btzalcI",
     "english": [
       "shriek",
       "screech"
@@ -34167,13 +34167,21 @@
     "eldamo_id": "",
     "etymology": {
       "root_refs": [
-        "ro",
+        "taɣ",
         "khol"
       ],
       "primitive": null,
       "development": [
         {
-          "form": "rokʰoljā",
+          "form": "taɣkʰoljā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2690267141"
+        },
+        {
+          "form": "tākʰoljā",
           "eldamo_id": ""
         },
         {
@@ -34181,7 +34189,7 @@
           "eldamo_id": "2753394075"
         },
         {
-          "form": "rokʰolja",
+          "form": "tākʰolja",
           "eldamo_id": ""
         },
         {
@@ -34189,7 +34197,15 @@
           "eldamo_id": "883570327"
         },
         {
-          "form": "roxolja",
+          "form": "tāxolja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "tǭxolja",
           "eldamo_id": ""
         },
         {
@@ -34197,7 +34213,7 @@
           "eldamo_id": "1679623085"
         },
         {
-          "form": "roxolia",
+          "form": "tǭxolia",
           "eldamo_id": ""
         },
         {
@@ -34205,7 +34221,23 @@
           "eldamo_id": "3958031275"
         },
         {
-          "form": "rœxœlia",
+          "form": "tǭxœlia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "tauxœlia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "toxœlia",
           "eldamo_id": ""
         },
         {
@@ -34213,13 +34245,13 @@
           "eldamo_id": "1838610927"
         },
         {
-          "form": "rexelia",
+          "form": "toxelia",
           "eldamo_id": ""
         }
       ],
       "elements": [
         {
-          "form": "RŌ",
+          "form": "TAƔ",
           "gloss": "high",
           "type": "root"
         },
@@ -34234,7 +34266,7 @@
           "type": "causative suffix"
         }
       ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=ro%EA%9D%81olja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-1SVV5PZ"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=taGH%EA%9D%81olya%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
     },
     "cognates": {},
     "conjugation": {
@@ -34249,6 +34281,243 @@
     "ids_code": "18.180",
     "conception": "Key-2016-1310-1154",
     "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "A63D4387-DFE0-4D79-A5EA-36644A3DB753",
+    "id": "taun",
+    "mutation_marker": "",
+    "sindarin": "taun",
+    "spellings": [],
+    "ipa": "taun",
+    "tengwar": "",
+    "cirth": "8cS@",
+    "english": [
+      "height"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "taun",
+      "singular": "",
+      "plural": "toen"
+    },
+    "gender": "",
+    "category": "space",
+    "ids_chapter": "space",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "taen",
+    "eldamo_id": "4261783837",
+    "etymology": {
+      "root_refs": [
+        "taɣ"
+      ],
+      "primitive": {
+        "form": "taɣna",
+        "eldamo_id": "3548699671"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "D461AEED-8D53-479C-99D4-A7F323F6BF3B",
+    "id": "taen",
+    "mutation_marker": "",
+    "sindarin": "taen",
+    "spellings": [],
+    "ipa": "taen",
+    "tengwar": "",
+    "cirth": "8cz@",
+    "english": [
+      "high (pitch)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "taɣ"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "taɣinā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2690267141"
+        },
+        {
+          "form": "tainā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "taina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "taena",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "TAƔ",
+          "gloss": "high",
+          "type": "root"
+        },
+        {
+          "form": "inā",
+          "gloss": "adjective",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=taGHina%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "D24E263B-A16B-4973-A08F-AEECC720B37B",
+    "id": "haug",
+    "mutation_marker": "",
+    "sindarin": "haug",
+    "spellings": [],
+    "ipa": "haug",
+    "tengwar": "",
+    "cirth": ".cSr",
+    "english": [
+      "low"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "haug",
+      "singular": "",
+      "plural": "hoeg"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "145330397",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "5DFDE661-DE54-48FE-A844-939CA9C63DD2",
+    "id": "haug",
+    "mutation_marker": "",
+    "sindarin": "haug",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "low (pitch)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "repurposed",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "khaw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-30"
