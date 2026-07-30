@@ -31169,6 +31169,288 @@
     "last_modified": "2026-07-21"
   },
   {
+    "uuid": "A63D4387-DFE0-4D79-A5EA-36644A3DB753",
+    "id": "taun",
+    "mutation_marker": "",
+    "sindarin": "taun",
+    "spellings": [],
+    "ipa": "taun",
+    "tengwar": "",
+    "cirth": "8cS@",
+    "english": [
+      "height"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "taun",
+      "singular": "",
+      "plural": "toen"
+    },
+    "gender": "",
+    "category": "space",
+    "ids_chapter": "space",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "taen",
+    "eldamo_id": "4261783837",
+    "etymology": {
+      "root_refs": [
+        "taɣ"
+      ],
+      "primitive": {
+        "form": "taɣna",
+        "eldamo_id": "3548699671"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "91190630-29A4-406C-96D7-87291D02D20F",
+    "id": "taen",
+    "mutation_marker": "",
+    "sindarin": "taen",
+    "spellings": [],
+    "ipa": "taen",
+    "tengwar": "",
+    "cirth": "8cz@",
+    "english": [
+      "high"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "spatial relations",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "taɣ"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "taɣinā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2690267141"
+        },
+        {
+          "form": "tainā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "taina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "taena",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "TAƔ",
+          "gloss": "high",
+          "type": "root"
+        },
+        {
+          "form": "inā",
+          "gloss": "adjective",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=taGHina%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.310",
+    "conception": "Key-2016-1310-103",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "D461AEED-8D53-479C-99D4-A7F323F6BF3B",
+    "id": "taen",
+    "mutation_marker": "",
+    "sindarin": "taen",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "high (pitch)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "D24E263B-A16B-4973-A08F-AEECC720B37B",
+    "id": "haug",
+    "mutation_marker": "",
+    "sindarin": "haug",
+    "spellings": [],
+    "ipa": "haug",
+    "tengwar": "",
+    "cirth": ".cSr",
+    "english": [
+      "low"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "haug",
+      "singular": "",
+      "plural": "hoeg"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "145330397",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.320",
+    "conception": "Key-2016-1310-101",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "5DFDE661-DE54-48FE-A844-939CA9C63DD2",
+    "id": "haug",
+    "mutation_marker": "",
+    "sindarin": "haug",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "low (pitch)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "repurposed",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "khaw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
     "uuid": "E8E51EB2-5236-4405-95DF-94B299A4AE34",
     "id": "lad",
     "mutation_marker": "",
@@ -34286,243 +34568,6 @@
     "last_modified": "2026-07-30"
   },
   {
-    "uuid": "A63D4387-DFE0-4D79-A5EA-36644A3DB753",
-    "id": "taun",
-    "mutation_marker": "",
-    "sindarin": "taun",
-    "spellings": [],
-    "ipa": "taun",
-    "tengwar": "",
-    "cirth": "8cS@",
-    "english": [
-      "height"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": {
-      "base": "taun",
-      "singular": "",
-      "plural": "toen"
-    },
-    "gender": "",
-    "category": "space",
-    "ids_chapter": "space",
-    "type": "reconstructed",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "taen",
-    "eldamo_id": "4261783837",
-    "etymology": {
-      "root_refs": [
-        "taɣ"
-      ],
-      "primitive": {
-        "form": "taɣna",
-        "eldamo_id": "3548699671"
-      },
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "",
-    "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-30"
-  },
-  {
-    "uuid": "D461AEED-8D53-479C-99D4-A7F323F6BF3B",
-    "id": "taen",
-    "mutation_marker": "",
-    "sindarin": "taen",
-    "spellings": [],
-    "ipa": "taen",
-    "tengwar": "",
-    "cirth": "8cz@",
-    "english": [
-      "high (pitch)"
-    ],
-    "grammar": [
-      "adjective"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "traits",
-    "ids_chapter": "traits",
-    "type": "neologism",
-    "source": "Celephinnel",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "",
-    "etymology": {
-      "root_refs": [
-        "taɣ"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "taɣinā",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2690267141"
-        },
-        {
-          "form": "tainā",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2753394075"
-        },
-        {
-          "form": "taina",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "941153689"
-        },
-        {
-          "form": "taena",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [
-        {
-          "form": "TAƔ",
-          "gloss": "high",
-          "type": "root"
-        },
-        {
-          "form": "inā",
-          "gloss": "adjective",
-          "type": "suffix"
-        }
-      ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=taGHina%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": 0,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
-    "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-30"
-  },
-  {
-    "uuid": "D24E263B-A16B-4973-A08F-AEECC720B37B",
-    "id": "haug",
-    "mutation_marker": "",
-    "sindarin": "haug",
-    "spellings": [],
-    "ipa": "haug",
-    "tengwar": "",
-    "cirth": ".cSr",
-    "english": [
-      "low"
-    ],
-    "grammar": [
-      "adjective"
-    ],
-    "inflection": {
-      "base": "haug",
-      "singular": "",
-      "plural": "hoeg"
-    },
-    "gender": "",
-    "category": "traits",
-    "ids_chapter": "traits",
-    "type": "reconstructed",
-    "source": "Gnomish",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "145330397",
-    "etymology": {
-      "root_refs": [],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "",
-    "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-30"
-  },
-  {
-    "uuid": "5DFDE661-DE54-48FE-A844-939CA9C63DD2",
-    "id": "haug",
-    "mutation_marker": "",
-    "sindarin": "haug",
-    "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
-    "english": [
-      "low (pitch)"
-    ],
-    "grammar": [
-      "adjective"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "traits",
-    "ids_chapter": "traits",
-    "type": "repurposed",
-    "source": "Celephinnel",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "",
-    "etymology": {
-      "root_refs": [
-        "khaw"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": 0,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
-    "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-30"
-  },
-  {
     "uuid": "0DDD5933-9061-4C2F-889A-6526BEB0100A",
     "id": "dor",
     "mutation_marker": "nd-",
@@ -34963,6 +35008,317 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-22"
+  },
+  {
+    "uuid": "02B33D23-1B34-48B0-A12F-098F102A679A",
+    "id": "gwaith",
+    "mutation_marker": "",
+    "sindarin": "gwaith",
+    "spellings": [],
+    "ipa": "'gʷajθ",
+    "tengwar": "",
+    "cirth": "ocl0",
+    "english": [
+      "people"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "19.210",
+    "conception": "Key-2016-1310-1194",
+    "notes": "",
+    "references": [
+      "PE17/190",
+      "SA/gwaith"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "66949AFD-F68A-445F-9666-54CE75483619",
+    "id": "gwaith",
+    "mutation_marker": "",
+    "sindarin": "gwaith",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "region"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1926942351",
+    "etymology": {
+      "root_refs": [
+        "ewe"
+      ],
+      "primitive": {
+        "form": "wegtē",
+        "eldamo_id": "3053105641"
+      },
+      "development": [
+        {
+          "form": "wegtē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1944249607"
+        },
+        {
+          "form": "wektē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "wekte",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "wektʰe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "wexθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwexθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "gweiθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gweiθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "gwaiθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "WĒ",
+          "gloss": "person",
+          "type": "root"
+        },
+        {
+          "form": "-tē",
+          "gloss": "",
+          "type": "?"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=wegte%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "vehtë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "Let/224"
+    ],
+    "hidden": "Unkown suffix -tē",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "B9539C46-5C70-4B14-A6FA-2EEC35057807",
+    "id": "li",
+    "mutation_marker": "",
+    "sindarin": "lî",
+    "spellings": [],
+    "ipa": "liː",
+    "tengwar": "",
+    "cirth": "all",
+    "english": [
+      "people"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1209194993",
+    "etymology": {
+      "root_refs": [
+        "li"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lië",
+      "adunaic": "lâi"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "people (of one kind or origin)",
+    "ids_code": "19.210",
+    "conception": "Key-2016-1310-1194",
+    "notes": "",
+    "references": [
+      "PE17/190"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-30"
+  },
+  {
+    "uuid": "66D66EEA-E0F0-4B0C-B7C4-9F8ECA503520",
+    "id": "noss",
+    "mutation_marker": "",
+    "sindarin": "noss",
+    "spellings": [],
+    "ipa": "nos",
+    "tengwar": "",
+    "cirth": "@bh",
+    "english": [
+      "family",
+      "kindred",
+      "clan",
+      "house (dynastic)",
+      "race",
+      "tribe",
+      "people"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "noss",
+      "singular": "",
+      "plural": "nyss"
+    },
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1220983633",
+    "etymology": {
+      "root_refs": [
+        "ono"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nosse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "noss",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=nosse&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "nossë",
+      "edain": "nothlir",
+      "westron": "nas"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "family, kindred, clan, house (dynastic); race, tribe, people",
+    "ids_code": "19.230",
+    "conception": "Key-2016-1310-1195",
+    "notes": "",
+    "references": [
+      "PE17/169",
+      "PM/320, 360"
+    ],
+    "hidden": "Longman has family, tribe, race and kind",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
