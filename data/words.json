@@ -11743,8 +11743,8 @@
     "references": [
       "PE13/136"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "Longman has \"back\" (generic)",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
@@ -13803,8 +13803,8 @@
       "Ety/DRING",
       "EtyAC/DRING"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "Longman has all 3",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
@@ -20998,8 +20998,8 @@
     "references": [
       "Ety/SPAY"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "Longman has bad, mean, poor",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "7F4180C1-22BA-477E-BA9F-D8205BCDA05A",
@@ -22955,8 +22955,8 @@
       "PE17/25",
       "RGEO/63-64"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "Longman: abroad",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "B3FDE174-205D-4785-8FA6-1D6582A52F11",
@@ -30214,8 +30214,8 @@
     "conception": "Key-2016-1310-207",
     "notes": "",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-21"
+    "hidden": "Longman has carry and wear (bear must be animal)",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "BB101042-0815-47EE-B2CA-4E797638CED2",
@@ -35904,6 +35904,64 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-24"
+  },
+  {
+    "uuid": "DEC9C62B-2BB1-493B-B2E9-A09396A2AA0D",
+    "id": "grond",
+    "mutation_marker": "",
+    "sindarin": "grond",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "club"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "grond",
+      "singular": "",
+      "plural": "grynd"
+    },
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4288358417",
+    "etymology": {
+      "root_refs": [
+        "rud"
+      ],
+      "primitive": {
+        "form": "rundā",
+        "eldamo_id": "3388170989"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "runda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "20.220",
+    "conception": "Key-2016-1310-1229",
+    "notes": "This word has no known Sindarin nor Noldorin phonetic progression and must be used as is presented. If we are to evolve it for Sindarin it would yield \"rond\", which is homonym with the word for \"roof\".",
+    "references": [
+      "Ety/RUD"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-30"
   },
   {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
