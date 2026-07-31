@@ -24013,6 +24013,357 @@
     "last_modified": "2026-07-20"
   },
   {
+    "uuid": "6275AEB9-DD76-4860-A735-C0F8750B6B40",
+    "id": "avras",
+    "mutation_marker": "",
+    "sindarin": "avras",
+    "spellings": [],
+    "ipa": "'a.vras",
+    "tengwar": "",
+    "cirth": "c4Rcf",
+    "english": [
+      "precipice"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "avras",
+      "singular": "",
+      "plural": "evrais"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4037907583",
+    "etymology": {
+      "root_refs": [
+        "baras"
+      ],
+      "primitive": {
+        "form": "abrasse",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "abrasse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "abrass",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "avrass",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1742178057"
+        },
+        {
+          "form": "avras",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=abraSSe&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "1.222",
+    "conception": "Key-2016-1310-958",
+    "notes": "",
+    "references": [
+      "PE17/23"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-31"
+  },
+  {
+    "uuid": "D4B7882F-22F9-404F-967A-164455BF4269",
+    "id": "brass",
+    "mutation_marker": "",
+    "sindarin": "brass",
+    "spellings": [],
+    "ipa": "bras",
+    "tengwar": "",
+    "cirth": "2Rch",
+    "english": [
+      "great cliff"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "brass",
+      "singular": "",
+      "plural": "brais"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "175256159",
+    "etymology": {
+      "root_refs": [
+        "baras"
+      ],
+      "primitive": {
+        "form": "barássē",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "barássē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3648128347"
+        },
+        {
+          "form": "brassē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "brasse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "brass",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=bara%27SSe%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/23"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-31"
+  },
+  {
+    "uuid": "3576A067-3728-405A-B078-EF6002CE9B27",
+    "id": "if",
+    "mutation_marker": "",
+    "sindarin": "îf",
+    "spellings": [],
+    "ipa": "iːf",
+    "tengwar": "",
+    "cirth": "ll3",
+    "english": [
+      "cliff",
+      "descent (sheer)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1021953525",
+    "etymology": {
+      "root_refs": [
+        "ibi"
+      ],
+      "primitive": {
+        "form": "īb-",
+        "eldamo_id": "2128411541"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "cliff, sheer descent",
+    "ids_code": "1.222",
+    "conception": "Key-2016-1310-958",
+    "notes": "",
+    "references": [
+      "PE17/92"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-31"
+  },
+  {
+    "uuid": "1AA7E4F9-AE26-4D54-8632-27241C8369A5",
+    "id": "pend",
+    "mutation_marker": "",
+    "sindarin": "pend",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "slope",
+      "steep incline",
+      "hill side"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "pendë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "slope, steep incline, hill side",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/24",
+      "RC/525"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-31"
+  },
+  {
+    "uuid": "D82112FC-3AFA-4592-A0A1-C53FA3AAAD3A",
+    "id": "pend",
+    "mutation_marker": "",
+    "sindarin": "pend",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "sloping (down)",
+      "steeply inclined"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4056471025",
+    "etymology": {
+      "root_refs": [
+        "ped"
+      ],
+      "primitive": {
+        "form": "pendā",
+        "eldamo_id": "2406319961"
+      },
+      "development": [
+        {
+          "form": "pendā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "penda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "pend",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=penda%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "penda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "sloping (down), steeply inclined",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/24, 173"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-31"
+  },
+  {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
     "id": "taw",
     "mutation_marker": "",
@@ -24343,6 +24694,103 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-25"
+  },
+  {
+    "uuid": "983310C5-F0F3-4FC3-8B0C-BDBDFEEBE767",
+    "id": "neth",
+    "mutation_marker": "",
+    "sindarin": "neth",
+    "spellings": [],
+    "ipa": "neθ",
+    "tengwar": "",
+    "cirth": "@z0",
+    "english": [
+      "girl",
+      "sister"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "neth",
+      "singular": "",
+      "plural": "nith"
+    },
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3777901293",
+    "etymology": {
+      "root_refs": [
+        "neth"
+      ],
+      "primitive": {
+        "form": "netthi",
+        "eldamo_id": "2413273407"
+      },
+      "development": [
+        {
+          "form": "nettʰi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "nettʰe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "neθθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "neθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "neθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=net%C5%A7i&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "nettë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "(little) girl; sister (diminutive)",
+    "ids_code": "2.260",
+    "conception": "Key-2016-1310-886",
+    "notes": "",
+    "references": [
+      "VT47/14, 33",
+      "VT48/6"
+    ],
+    "hidden": "",
+    "last_modified": "2026-07-31"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
