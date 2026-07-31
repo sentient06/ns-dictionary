@@ -27675,6 +27675,109 @@
     "last_modified": "2026-07-25"
   },
   {
+    "uuid": "4B0F89EE-B8B0-4B2A-8A9A-54131E4146DC",
+    "id": "pathwir",
+    "mutation_marker": "",
+    "sindarin": "pathwir",
+    "spellings": [],
+    "ipa": "'paθ.wir",
+    "tengwar": "",
+    "cirth": "1c0FlR",
+    "english": [
+      "silk"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "path",
+        "wir"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "patʰwirjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "patʰwirja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "paθwirja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "paθwiria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "peθwiria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "peθwiri",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "peθwir",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=pa%C5%A7wirja%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "samin (?)"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "6.250",
+    "conception": "Key-2016-1310-487",
+    "notes": "Neologism made based on the root for silky \"√PATH\" to keep consistency. The other elements are √WIR \"to weave\" and \"-yā\", to yield the sense of \"silky-woven\". Early Quenya has a word for \"silk\", \"samin\", but it has no defined originnor root, so we can't reuse it without a lot of creativity. If we assume a PE word \"samin(d)\", it might become \"saif\" or \"sevin\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-31"
+  },
+  {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
     "id": "bar-verb",
     "mutation_marker": "mb-",
@@ -28240,6 +28343,63 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-25"
+  },
+  {
+    "uuid": "A0D86D11-2AEC-4FE7-9424-026D2FAED56C",
+    "id": "sam",
+    "mutation_marker": "",
+    "sindarin": "sam",
+    "spellings": [],
+    "ipa": "sam",
+    "tengwar": "",
+    "cirth": "fc6",
+    "english": [
+      "room",
+      "chamber"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sam",
+      "singular": "",
+      "plural": "sem"
+    },
+    "gender": "",
+    "category": "place",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3971000791",
+    "etymology": {
+      "root_refs": [
+        "stab"
+      ],
+      "primitive": {
+        "form": "stambē",
+        "eldamo_id": "1228815683"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sambe"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "chamber, room",
+    "ids_code": "7.210",
+    "conception": "Key-2016-1310-426",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-07-31"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
