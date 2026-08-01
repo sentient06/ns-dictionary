@@ -19835,7 +19835,11 @@
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "aur",
+      "singular": "",
+      "plural": "oer"
+    },
     "gender": "",
     "category": "time",
     "ids_chapter": "time",
@@ -19912,7 +19916,7 @@
       "VT44/28"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "0210D66C-9D4B-459C-9BB1-3C920873ACA6",
@@ -32284,6 +32288,88 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "D3323D1B-667D-4365-A34D-BB7CE23ED19D",
+    "id": "am",
+    "mutation_marker": "",
+    "sindarin": "am",
+    "spellings": [],
+    "ipa": "am",
+    "tengwar": "",
+    "cirth": "c6",
+    "english": [
+      "more"
+    ],
+    "grammar": [
+      "adverb",
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Fayanzār",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3924263969",
+    "etymology": {
+      "root_refs": [
+        "ama"
+      ],
+      "primitive": {
+        "form": "amba",
+        "eldamo_id": "168790185"
+      },
+      "development": [
+        {
+          "form": "amba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "amb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "amm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "am",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=amba&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "ambë"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.160",
+    "conception": "Key-2016-1310-38",
+    "notes": "Based on Quenya \"ambë\", with the same etymology.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "FDA0B361-B902-4777-9E03-FF50E69B1837",
