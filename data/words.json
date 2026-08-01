@@ -11106,13 +11106,13 @@
     "definition": "",
     "ids_code": "",
     "conception": "",
-    "notes": "This word serves as compund element for \"forvo\" and \"harvo\", \"right\" and \"left\" sides. So it's implicit it can be used as a sense of \"side\" as well.",
+    "notes": "This word serves as compound element for \"forvo\" and \"harvo\", \"right\" and \"left\" sides. So it's implicit it can be used as a sense of \"side\" as well.",
     "references": [
       "PE17/162",
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
@@ -13036,13 +13036,13 @@
     "swadesh100": null,
     "swadesh207": 106,
     "leipzig_jakarta": null,
-    "definition": "",
+    "definition": "to fear, to be afraid of",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "BEA83FA3-F0B6-44F3-B859-21D2AE412875",
@@ -16393,13 +16393,13 @@
     "swadesh100": null,
     "swadesh207": 146,
     "leipzig_jakarta": null,
-    "definition": "",
+    "definition": "to swell, to thicken up",
     "ids_code": "",
     "conception": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "0ED9B529-695E-4DBD-AC26-E4325267554E",
@@ -19587,10 +19587,10 @@
     "definition": "indigo, (lit.) \"dark-blue\"",
     "ids_code": "",
     "conception": "",
-    "notes": "",
+    "notes": "I've found two sources for the word \"indigo\" in natural languages. Most of them derive the word from the indigo dye (ultimately from India), but some languages simply don't distinguish indigo from blue or violet, and describe the colour as a kind of dark blue, violet-blue, or another familiar colour. I've opted for a \"dark blue\" term, as I prefer to keep it separate from violet.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "C9389F84-32C5-45F8-8C15-3F069CF733AC",
@@ -26384,7 +26384,9 @@
     "english": [
       "ripe"
     ],
-    "grammar": [],
+    "grammar": [
+      "adjective"
+    ],
     "inflection": {
       "base": "ivelost",
       "singular": "",
@@ -26551,10 +26553,10 @@
     "definition": "ripe, (lit.) \"in good season\"",
     "ids_code": "5.123",
     "conception": "Key-2016-1310-570",
-    "notes": "Based on Greek ώριμος (órimos) \"in its proper season\", formed by √IMI + √MAG + [√LAW + -stā], literally \"in good season\". The season part is based on Neo-Quenya \"löasta\".",
+    "notes": "Based on Greek ώριμος (órimos) \"in its proper season\", formed by √IMI + √MAG + [√LAW + -stā], literally \"in good season\". The season part is based on Neo-Quenya \"löasta\". This is a direct equivalent of its antonym \"uvelaust\", also a neologism.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-23"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "8E3F67FD-EDE9-4CBA-AA70-BE0A3827C27E",
@@ -26569,7 +26571,9 @@
       "unripe",
       "green (unripe)"
     ],
-    "grammar": [],
+    "grammar": [
+      "adjective"
+    ],
     "inflection": {
       "base": "uvelaust",
       "singular": "",
@@ -26584,7 +26588,11 @@
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "umu",
+        "mag",
+        "law"
+      ],
       "primitive": null,
       "development": [
         {
@@ -26703,7 +26711,7 @@
     "notes": "Based on Ancient Greek ἄωρος (áōros) \"not proper season\", formed by √UMU + √MAG + [√LAW + -stā], literally \"not good season\". The season part is based on Neo-Quenya \"löasta\". This is a direct equivalent of its antonym \"ivelost\", also a neologism.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-23"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "487534FF-858A-4BD3-BFD4-5BC443A04E53",
@@ -32012,8 +32020,8 @@
     "gender": "",
     "category": "traits",
     "ids_chapter": "traits",
-    "type": "",
-    "source": "",
+    "type": "neologism",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
@@ -32026,7 +32034,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": null,
+    "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -32036,7 +32044,7 @@
     "notes": "Most languages do not have dedicated, primitive words for pitch. They borrow terms from other sensory domains, the most dominant being height (English, German, Dutch, Swedish, Polish, Russian, Finnish, Japanese, Chinese, &c.) The Latin terms \"acute\" and \"grave\" come from Greek.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-30"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "D24E263B-A16B-4973-A08F-AEECC720B37B",
@@ -34763,13 +34771,13 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "",
+    "definition": "to guess",
     "ids_code": "17.171",
     "conception": "Key-2016-1310-1103",
-    "notes": "",
+    "notes": "Based on Quenya \"intya\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-28"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -35243,13 +35251,13 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "shriek, screech",
+    "definition": "to shriek, to screech",
     "ids_code": "18.180",
     "conception": "Key-2016-1310-1154",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-30"
+    "last_modified": "2026-08-01"
   },
   {
     "uuid": "0DDD5933-9061-4C2F-889A-6526BEB0100A",
