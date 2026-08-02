@@ -91,6 +91,13 @@
     "notes": ""
   },
   {
+    "id": "baras",
+    "form": "BARAS",
+    "gloss": "height combined with strength/majesty",
+    "eldamo_id": "3951837921",
+    "notes": ""
+  },
+  {
     "id": "bat",
     "form": "BAT",
     "gloss": "tread",
@@ -336,6 +343,13 @@
     "notes": ""
   },
   {
+    "id": "ibi",
+    "form": "IBI",
+    "gloss": "cliff, sheer descent",
+    "eldamo_id": "2108562349",
+    "notes": ""
+  },
+  {
     "id": "il",
     "form": "IL",
     "gloss": "all",
@@ -347,6 +361,13 @@
     "form": "NĪ/INI",
     "gloss": "female",
     "eldamo_id": "1865530792",
+    "notes": ""
+  },
+  {
+    "id": "inik",
+    "form": "INIK",
+    "gloss": "idea",
+    "eldamo_id": "3208961103",
     "notes": ""
   },
   {
@@ -1281,6 +1302,13 @@
     "notes": ""
   },
   {
+    "id": "ped",
+    "form": "PED",
+    "gloss": "slope, slant down",
+    "eldamo_id": "3132251551",
+    "notes": ""
+  },
+  {
     "id": "pel",
     "form": "PEL",
     "gloss": "fence, border, edge; bound, limit; go round, encircle",
@@ -1369,6 +1397,13 @@
     "form": "RAT",
     "gloss": "to find a way",
     "eldamo_id": "3957916423",
+    "notes": ""
+  },
+  {
+    "id": "ray",
+    "form": "RAY",
+    "gloss": "smile",
+    "eldamo_id": "4195813041",
     "notes": ""
   },
   {
@@ -1603,6 +1638,13 @@
     "notes": ""
   },
   {
+    "id": "stab",
+    "form": "STAB",
+    "gloss": "wood",
+    "eldamo_id": "2732089993",
+    "notes": ""
+  },
+  {
     "id": "stak",
     "form": "STAK",
     "gloss": "split, insert",
@@ -1642,7 +1684,7 @@
     "form": "SUK",
     "gloss": "drink, drain, gulp, quaff",
     "eldamo_id": "4170866335",
-    "notes": "It seems to share meaning with √SOK"
+    "notes": "It seems to share meaning with √SOK and √SUK (3233859463)"
   },
   {
     "id": "swal",
