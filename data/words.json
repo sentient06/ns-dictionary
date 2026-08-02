@@ -29402,6 +29402,55 @@
     "last_modified": "2026-07-26"
   },
   {
+    "uuid": "4EED9638-2290-439C-B276-F655D50C3AFD",
+    "id": "sab",
+    "mutation_marker": "",
+    "sindarin": "sab-",
+    "spellings": [],
+    "ipa": "sab",
+    "tengwar": "",
+    "cirth": "fc2I",
+    "english": [
+      "dig"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "453218717",
+    "etymology": {
+      "root_refs": [
+        "sapa"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to dig",
+    "ids_code": "8.220",
+    "conception": "Key-2016-1310-386",
+    "notes": "",
+    "references": [
+      "GL/67"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-02"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
