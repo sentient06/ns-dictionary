@@ -30792,13 +30792,68 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "",
+    "definition": "to twist",
     "ids_code": "10.170",
     "conception": "Key-2016-1310-249",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-26"
+    "last_modified": "2026-08-02"
+  },
+  {
+    "uuid": "9F0FADDD-FC28-45E6-983D-D36B4AAA7111",
+    "id": "eria",
+    "mutation_marker": "",
+    "sindarin": "eria-",
+    "spellings": [],
+    "ipa": "'e.rja",
+    "tengwar": "",
+    "cirth": "zRlcI",
+    "english": [
+      "rise"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3562457621",
+    "etymology": {
+      "root_refs": [
+        "oro"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "orta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to rise",
+    "ids_code": "10.210",
+    "conception": "Key-2016-1310-248",
+    "notes": "Unclear etymology. This word is used in its Noldorin form.",
+    "references": [
+      "Ety/ORO",
+      "EtyAC/ORO"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-02"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
@@ -31235,6 +31290,82 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-26"
+  },
+  {
+    "uuid": "CD240E17-0957-4C99-8E83-F73D6E8A74FF",
+    "id": "nad",
+    "mutation_marker": "",
+    "sindarin": "nad",
+    "spellings": [],
+    "ipa": "nad",
+    "tengwar": "",
+    "cirth": "@c9",
+    "english": [
+      "thing"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nad",
+      "singular": "",
+      "plural": "ned"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "possession",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "80350277",
+    "etymology": {
+      "root_refs": [
+        "ana"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "nat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "nad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nata&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "nat"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "11.180",
+    "conception": "Key-2016-1310-168",
+    "notes": "",
+    "references": [
+      "Ety/NĀ"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-02"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -31808,6 +31939,58 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-26"
+  },
+  {
+    "uuid": "E3FDC31F-FFF6-4593-89B7-ACAE0D325032",
+    "id": "eth",
+    "mutation_marker": "",
+    "sindarin": "eth",
+    "spellings": [],
+    "ipa": "eθ",
+    "tengwar": "",
+    "cirth": "z0",
+    "english": [
+      "outside"
+    ],
+    "grammar": [
+      "preposition",
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1418815063",
+    "etymology": {
+      "root_refs": [
+        "et"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ette"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.60",
+    "conception": "Key-2016-1310-123",
+    "notes": "",
+    "references": [
+      "GL/74"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-02"
   },
   {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
