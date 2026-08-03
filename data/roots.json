@@ -140,6 +140,13 @@
     "notes": ""
   },
   {
+    "id": "del",
+    "form": "DEL",
+    "gloss": "walk, go, proceed, travel",
+    "eldamo_id": "4136487061",
+    "notes": ""
+  },
+  {
     "id": "dod",
     "form": "DOT",
     "gloss": "drop",
@@ -931,6 +938,13 @@
     "notes": ""
   },
   {
+    "id": "mel",
+    "form": "MEL",
+    "gloss": "love",
+    "eldamo_id": "2769778925",
+    "notes": ""
+  },
+  {
     "id": "men",
     "form": "MEN",
     "gloss": "go, move, proceed (in any direction); make for, go towards; have as object, (in)tend; direction, object, point moved toward; region",
@@ -1152,6 +1166,13 @@
     "form": "NEY",
     "gloss": "tear",
     "eldamo_id": "1677741011",
+    "notes": ""
+  },
+  {
+    "id": "ngal",
+    "form": "NGAL",
+    "gloss": "howl",
+    "eldamo_id": "110130219",
     "notes": ""
   },
   {
@@ -1505,6 +1526,13 @@
     "notes": ""
   },
   {
+    "id": "sapa",
+    "form": "SAPA",
+    "gloss": "dig, excavate",
+    "eldamo_id": "1162471351",
+    "notes": ""
+  },
+  {
     "id": "sar2",
     "form": "SAR²",
     "gloss": "stone",
@@ -1698,6 +1726,13 @@
     "form": "SŪ",
     "gloss": "blow, move with audible sound (of air)",
     "eldamo_id": "341003397",
+    "notes": ""
+  },
+  {
+    "id": "syad",
+    "form": "SYAD",
+    "gloss": "shear through, cleave (through)",
+    "eldamo_id": "726874591",
     "notes": ""
   },
   {
@@ -1932,6 +1967,13 @@
     "notes": ""
   },
   {
+    "id": "wew",
+    "form": "WĒ/EWE",
+    "gloss": "person, being, individual",
+    "eldamo_id": "2956196449",
+    "notes": ""
+  },
+  {
     "id": "wil",
     "form": "WIL",
     "gloss": "fly, float in air",
@@ -1943,6 +1985,13 @@
     "form": "WIN",
     "gloss": "young",
     "eldamo_id": "2031538985",
+    "notes": ""
+  },
+  {
+    "id": "wir",
+    "form": "WIR",
+    "gloss": "weave, twine, weaving with cross-threads or withes",
+    "eldamo_id": "1286590257",
     "notes": ""
   },
   {
