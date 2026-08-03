@@ -16030,7 +16030,7 @@
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tjalja%3A&off=PE%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tjalja%3A&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=PCIKVX#rule-DGIAQL"
     },
     "cognates": {
       "quenya": "tyal-"
@@ -16044,14 +16044,14 @@
     "swadesh207": 142,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "16.260",
+    "conception": "Key-2016-1310-1056",
     "notes": "",
     "references": [
       "Ety/TYAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-03"
   },
   {
     "uuid": "E994BD33-80EE-46FE-BDEE-5002ED9AB901",
@@ -34609,6 +34609,60 @@
     "last_modified": "2026-07-28"
   },
   {
+    "uuid": "15AB903A-B288-48AE-85B9-2094A4A3077D",
+    "id": "mel",
+    "mutation_marker": "",
+    "sindarin": "mel-",
+    "spellings": [],
+    "ipa": "mel",
+    "tengwar": "",
+    "cirth": "6zaI",
+    "english": [
+      "love"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "120608365",
+    "etymology": {
+      "root_refs": [
+        "mel"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "mel-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to love",
+    "ids_code": "16.270",
+    "conception": "Key-2016-1310-1057",
+    "notes": "",
+    "references": [
+      "PE17/144-145"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-03"
+  },
+  {
     "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
     "id": "ninna",
     "mutation_marker": "",
@@ -35187,6 +35241,125 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-01"
+  },
+  {
+    "uuid": "069F8351-9F23-462D-88F1-64EEF9B966A1",
+    "id": "govida",
+    "mutation_marker": "",
+    "sindarin": "govída-",
+    "spellings": [],
+    "ipa": "go.'viː.da",
+    "tengwar": "",
+    "cirth": "rb4ll9cI",
+    "english": [
+      "imitate"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "wobētā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "wobēta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwobēta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "gwovēta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3889365613"
+        },
+        {
+          "form": "gwovīta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "gwovīda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "586391091"
+        },
+        {
+          "form": "govīda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "wo",
+          "gloss": "together",
+          "type": "adjective"
+        },
+        {
+          "form": "bē",
+          "gloss": "as, like, similar",
+          "type": "adjective"
+        },
+        {
+          "form": "-tā",
+          "gloss": "causative",
+          "type": "verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wo.be%3A.ta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2CW9STRH%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T&mb=19JASGR%3A0%2C1#rule-X4E3YT"
+    },
+    "cognates": {
+      "quenya": "ovëanta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to imitate, copy, mirror",
+    "ids_code": "17.172",
+    "conception": "Key-2016-1310-1104",
+    "notes": "Based on Neo-Quenya \"ovëanta-\", which is based on Early Quenya \"inye-\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-03"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
