@@ -14183,15 +14183,15 @@
     "swadesh100": null,
     "swadesh207": 118,
     "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "definition": "to dig",
+    "ids_code": "8.220",
+    "conception": "Key-2016-1310-386",
     "notes": "",
     "references": [
       "GL/67"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-03"
   },
   {
     "uuid": "BA5D5597-E863-4C6B-A3AC-92DD6EA7A66F",
@@ -29402,55 +29402,6 @@
     "last_modified": "2026-07-26"
   },
   {
-    "uuid": "4EED9638-2290-439C-B276-F655D50C3AFD",
-    "id": "sab",
-    "mutation_marker": "",
-    "sindarin": "sab-",
-    "spellings": [],
-    "ipa": "sab",
-    "tengwar": "",
-    "cirth": "fc2I",
-    "english": [
-      "dig"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "agriculture and vegetation",
-    "type": "reconstructed",
-    "source": "Gnomish",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "453218717",
-    "etymology": {
-      "root_refs": [
-        "sapa"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to dig",
-    "ids_code": "8.220",
-    "conception": "Key-2016-1310-386",
-    "notes": "",
-    "references": [
-      "GL/67"
-    ],
-    "hidden": "",
-    "last_modified": "2026-08-02"
-  },
-  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -33762,6 +33713,67 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "FDF4096E-142D-40E3-95AB-7F06A7E3ADA2",
+    "id": "singren",
+    "mutation_marker": "",
+    "sindarin": "singren",
+    "spellings": [],
+    "ipa": "'sin.gren",
+    "tengwar": "",
+    "cirth": "fldRz@",
+    "english": [
+      "salty",
+      "savoury"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "taste",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1356300739",
+    "etymology": {
+      "root_refs": [
+        "singi"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "sing",
+          "gloss": "salt",
+          "type": "noun"
+        },
+        {
+          "form": "-ren",
+          "gloss": "",
+          "type": "adjective suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "salty, savoury",
+    "ids_code": "15.360",
+    "conception": "Key-2016-1310-1007",
+    "notes": "",
+    "references": [
+      "GL/67"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-03"
   },
   {
     "uuid": "92FDE924-E99E-4D25-91B1-4F398C795ECC",
@@ -38188,5 +38200,215 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "63E4E0FB-4A09-4985-864A-936458DD5316",
+    "id": "edhel",
+    "mutation_marker": "",
+    "sindarin": "Edhel",
+    "spellings": [],
+    "ipa": "'e.ðel",
+    "tengwar": "",
+    "cirth": "z!za",
+    "english": [
+      "Elf"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "Edhel",
+      "singular": "",
+      "plural": "Edhil"
+    },
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "people",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "311394245",
+    "etymology": {
+      "root_refs": [
+        "del"
+      ],
+      "primitive": {
+        "form": "edelō",
+        "eldamo_id": "2997397723"
+      },
+      "development": [
+        {
+          "form": "edelō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "edelo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "eðelo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "eðel",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=edelo%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "Elda",
+      "Telerin": "Ello"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "The etymology might as well be \"edelā\", as the resulting form is identical, and that is the Quenya origin.",
+    "references": [
+      "LRI/Edhil",
+      "PE17/45, 97, 139, 141, 151-152",
+      "PM/346",
+      "RC/780",
+      "RGEO/62",
+      "SA/edhel, êl",
+      "SI/Sindar",
+      "UT/255, 318",
+      "UTI/Edhelrim",
+      "WJ/364, 377-378",
+      "WJI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-03"
+  },
+  {
+    "uuid": "1301538E-BB2A-472C-A86D-F63542E82DD0",
+    "id": "edhellen",
+    "mutation_marker": "",
+    "sindarin": "edhellen",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "z!zaaz@",
+    "english": [],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "edhellen",
+      "singular": "",
+      "plural": "edhellin"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "443709235",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "Edhel",
+          "gloss": "Elf",
+          "type": "noun"
+        },
+        {
+          "form": "-ren",
+          "gloss": "adjective suffix",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "elvish",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "LotR/307",
+      "PE17/45"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-03"
+  },
+  {
+    "uuid": "3DA1EDF4-12BD-4C6F-B384-4749715C1F5C",
+    "id": "edhelvein",
+    "mutation_marker": "",
+    "sindarin": "edhelvein",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "z!za4zl@",
+    "english": [],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "edhelvein",
+      "singular": "",
+      "plural": "edhelvein"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "422345303",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vanimelda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "elven fair",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/56"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-03"
   }
 ]
