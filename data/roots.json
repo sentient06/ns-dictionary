@@ -336,6 +336,13 @@
     "notes": ""
   },
   {
+    "id": "gweth",
+    "form": "GWETH",
+    "gloss": "report, give account of, inform of things unknown or wished to be known",
+    "eldamo_id": "2003818431",
+    "notes": ""
+  },
+  {
     "id": "gyak",
     "form": "GYAK",
     "gloss": "cattle",
@@ -711,6 +718,13 @@
     "form": "LAS",
     "gloss": "listen",
     "eldamo_id": "52259685",
+    "notes": ""
+  },
+  {
+    "id": "lat",
+    "form": "LAT",
+    "gloss": "open, unenclosed, free to entry; low, lowlying, at ground level",
+    "eldamo_id": "1854543943",
     "notes": ""
   },
   {
@@ -1544,6 +1558,13 @@
     "form": "SAT",
     "gloss": "divide, apportion, mark off; space, place",
     "eldamo_id": "643662627",
+    "notes": ""
+  },
+  {
+    "id": "sayak",
+    "form": "SAYAK",
+    "gloss": "hunger",
+    "eldamo_id": "2423587199",
     "notes": ""
   },
   {
