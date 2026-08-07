@@ -10456,8 +10456,8 @@
       "VT39/15",
       "WJ/394"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "longman has \"tongue\"",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
@@ -10578,8 +10578,8 @@
     "conception": "",
     "notes": "Word coined based on √NYELEK, which is used for a Neo-Quenya word meaning \"fingernail\".",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "longman has \"nail\"",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "11EF59CB-32B6-4FE8-B30E-8FE2BE6CE622",
@@ -11268,14 +11268,14 @@
     "swadesh207": 84,
     "leipzig_jakarta": 17,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.392",
+    "conception": "Key-2016-1310-655",
     "notes": "",
     "references": [
       "PE17/63"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "03020EEE-AF45-4AD0-B21B-B4CB9D834E72",
@@ -15091,8 +15091,8 @@
     "swadesh207": 128,
     "leipzig_jakarta": 53,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "11.210",
+    "conception": "Key-2016-1310-167",
     "notes": "",
     "references": [
       "LotR/1061",
@@ -15101,7 +15101,7 @@
       "VT44/27"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "4057850C-9E8B-40B4-84F1-A056BC5645D8",
@@ -15887,7 +15887,8 @@
     "cirth": "1z9I",
     "english": [
       "say",
-      "speak"
+      "speak",
+      "talk"
     ],
     "grammar": [
       "verb"
@@ -15942,9 +15943,9 @@
     "swadesh100": 71,
     "swadesh207": 140,
     "leipzig_jakarta": 29,
-    "definition": "say, speak",
-    "ids_code": "",
-    "conception": "",
+    "definition": "to say, speak, talk",
+    "ids_code": "18.210",
+    "conception": "Key-2016-1310-1156",
     "notes": "",
     "references": [
       "Let/424",
@@ -15956,8 +15957,8 @@
       "VT44/26",
       "VT50/20"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "longman contains both speak and talk",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "F2AB643B-7701-4408-AB99-9CD5418E7A41",
@@ -25319,13 +25320,13 @@
   },
   {
     "uuid": "DF2D7C11-D422-4454-A3F4-0F6BE12E9F81",
-    "id": "rochumar",
+    "id": "rochmar",
     "mutation_marker": "",
-    "sindarin": "rochûmar",
+    "sindarin": "rochmar",
     "spellings": [],
-    "ipa": "'ro.xuː.mar",
-    "tengwar": "",
-    "cirth": "RbtD6cR",
+    "ipa": "'rox.mar",
+    "tengwar": "",
+    "cirth": "Rbt6cR",
     "english": [
       "stable"
     ],
@@ -25333,9 +25334,9 @@
       "noun"
     ],
     "inflection": {
-      "base": "rochûmar",
+      "base": "rochmar",
       "singular": "",
-      "plural": "rechûmair"
+      "plural": "rechmair"
     },
     "gender": "",
     "category": "place",
@@ -25421,7 +25422,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": 0,
+    "confidence": 2,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -25431,7 +25432,7 @@
     "notes": "Inspired by Russian конюшня (konyushnya) and Japanese 馬屋 (umaya) \"horse house\".",
     "references": [],
     "hidden": "VLS stable, stall",
-    "last_modified": "2026-08-03"
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "691E2459-C918-4815-BE0D-830BE00AD0BF",
@@ -28027,6 +28028,115 @@
     "last_modified": "2026-07-31"
   },
   {
+    "uuid": "75A95B73-C720-4493-9C75-2F12C55CE049",
+    "id": "drinad",
+    "mutation_marker": "",
+    "sindarin": "drinad",
+    "spellings": [],
+    "ipa": "'dri.nad",
+    "tengwar": "",
+    "cirth": "9Rl@c9",
+    "english": [
+      "felt"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "dring",
+        "na"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "driŋennata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "876455981"
+        },
+        {
+          "form": "driŋenata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "driŋenat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "driŋenad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "driŋnad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "drinad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "DRING",
+          "gloss": "beat",
+          "type": "root"
+        },
+        {
+          "form": "-en",
+          "gloss": "",
+          "type": "adjectival suffix"
+        },
+        {
+          "form": "nata",
+          "gloss": "thing",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=driNGen.nata&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "6.270",
+    "conception": "Key-2016-1310-486",
+    "notes": "Neologism based on Greek πῖλος (pîlos), ultimately meaning \"beaten [thing]\". Greek is the source of Latin pilus, and all its derivations into Proto-Slavic and Proto-Germanic, which caused most European words for \"felt\". I used the root √DRING with the adjectival suffix -en to yield driŋen, and appended PE \"nata\" meaning \"thing\" to yield \"beaten thing\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
     "id": "bar-verb",
     "mutation_marker": "mb-",
@@ -28649,6 +28759,244 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-07-31"
+  },
+  {
+    "uuid": "E2D696AB-E126-47E4-BCD4-E3A63C165F23",
+    "id": "fend",
+    "mutation_marker": "",
+    "sindarin": "fend",
+    "spellings": [],
+    "ipa": "fend",
+    "tengwar": "",
+    "cirth": "3zk",
+    "english": [
+      "door"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "fend",
+      "singular": "",
+      "plural": "find"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "967027745",
+    "etymology": {
+      "root_refs": [
+        "phen"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pʰenna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ɸenna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "fenna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "fenn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=%C6%A5enna&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "fendë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "7.220",
+    "conception": "Key-2016-1310-427",
+    "notes": "",
+    "references": [
+      "PE17/45, 98, 181",
+      "PE23/136",
+      "RC/550"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "7FCCB704-E8DD-41E5-A2BE-A73CF0DB24B0",
+    "id": "annon",
+    "mutation_marker": "",
+    "sindarin": "annon",
+    "spellings": [],
+    "ipa": "'a.non",
+    "tengwar": "",
+    "cirth": "c@@b@",
+    "english": [
+      "gate (great)",
+      "door"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "annon",
+      "singular": "",
+      "plural": "ennyn"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3606114301",
+    "etymology": {
+      "root_refs": [
+        "ana"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "andondo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "andond",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "annonn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1742178057"
+        },
+        {
+          "form": "annon",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=andondo&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-ECSQYV"
+    },
+    "cognates": {
+      "quenya": "ando"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "gate (great), door",
+    "ids_code": "7.220",
+    "conception": "Key-2016-1310-427",
+    "notes": "The word annon appeared in the final version of the Moria Gate Spell: annon edhellen, edro hi ammen \"Elvish gate open now for us\". The plural is in the doors of Moria: Ennyn Durin \"Doors of Durin\".",
+    "references": [
+      "LotR/305, 307",
+      "PE17/40, 45, 87, 90",
+      "S/238",
+      "SA/annon"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "9582228F-88D9-47E8-9C80-63F5421DF608",
+    "id": "fennas",
+    "mutation_marker": "",
+    "sindarin": "fennas",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "door (great)",
+      "doorway",
+      "gateway"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3912347965",
+    "etymology": {
+      "root_refs": [
+        "phen"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "fend",
+          "gloss": "door",
+          "type": "noun"
+        },
+        {
+          "form": "-as",
+          "gloss": "abstract noun",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "great door, doorway, gateway",
+    "ids_code": "7.220",
+    "conception": "Key-2016-1310-427",
+    "notes": "The word fennas appeared in the Moria Gate Spell: fennas nogothrim, lasto beth lammen \"doorway of the Dwarf-folk listen to the word of my tongue\".",
+    "references": [
+      "LotR/307",
+      "PE17/45",
+      "RGEO/67"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
@@ -29639,6 +29987,115 @@
     "last_modified": "2026-07-26"
   },
   {
+    "uuid": "D34B5196-0CED-4969-B01E-04CA70A2A743",
+    "id": "samp",
+    "mutation_marker": "",
+    "sindarin": "samp",
+    "spellings": [],
+    "ipa": "samp",
+    "tengwar": "",
+    "cirth": "fc61",
+    "english": [
+      "spade",
+      "shovel"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "samp",
+      "singular": "",
+      "plural": "semp"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4055849155",
+    "etymology": {
+      "root_refs": [
+        "sapa"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sampā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "sampa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "sampʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "samɸa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "samfa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "samf",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "samp",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=sampa%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-ECSQYV"
+    },
+    "cognates": {
+      "quenya": "sampa"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "spade, shovel",
+    "ids_code": "8.230;8.240",
+    "conception": "Key-2016-1310-384;Key-2016-1310-383",
+    "notes": "",
+    "references": [
+      "GL/67"
+    ],
+    "hidden": "spade is on longman, not shovel",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -30278,6 +30735,90 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-26"
+  },
+  {
+    "uuid": "0E207740-5639-4E5D-A5E7-5342A22B8CFB",
+    "id": "nardh",
+    "mutation_marker": "",
+    "sindarin": "nardh",
+    "spellings": [],
+    "ipa": "narð",
+    "tengwar": "",
+    "cirth": "@cR!",
+    "english": [
+      "knot"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nardh",
+      "singular": "",
+      "plural": "nerdh"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2180659361",
+    "etymology": {
+      "root_refs": [
+        "snar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "snarda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "narda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "narða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "narð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=snarda&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-ECSQYV"
+    },
+    "cognates": {
+      "quenya": "narda"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "9.192",
+    "conception": "Key-2016-1310-318",
+    "notes": "",
+    "references": [
+      "Ety/SNAR"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -31042,6 +31583,79 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-02"
+  },
+  {
+    "uuid": "F74769C9-F29C-4994-A354-A9C3C56D6EC4",
+    "id": "hal",
+    "mutation_marker": "",
+    "sindarin": "hal-",
+    "spellings": [],
+    "ipa": "hal",
+    "tengwar": "",
+    "cirth": ".ca",
+    "english": [
+      "lift"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3829154669",
+    "etymology": {
+      "root_refs": [
+        "khal"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xal",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hal",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=%EA%9D%81al&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to lift",
+    "ids_code": "10.220",
+    "conception": "Key-2016-1310-247",
+    "notes": "",
+    "references": [
+      "EtyAC/KHAL"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
@@ -32181,6 +32795,56 @@
     "last_modified": "2026-08-02"
   },
   {
+    "uuid": "2A722712-B9D4-4B09-A9E6-C510CBFF2136",
+    "id": "nu",
+    "mutation_marker": "",
+    "sindarin": "nu",
+    "spellings": [],
+    "ipa": "nu",
+    "tengwar": "",
+    "cirth": "@S",
+    "english": [
+      "under"
+    ],
+    "grammar": [
+      "preposition"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3815044181",
+    "etymology": {
+      "root_refs": [
+        "unu"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.70",
+    "conception": "Key-2016-1310-122",
+    "notes": "\"nu\" triggers soft mutation when the modified noun is indefinite. When the noun is definite, the article is appended as a suffix: \"nui\" in the singular, causing soft mutation; \"nuin\" in the plural, causing nasal mutation.",
+    "references": [
+      "S/106",
+      "UTI/Emyn-nu-Fuin"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
     "id": "dolla",
     "mutation_marker": "",
@@ -33318,6 +33982,104 @@
     "last_modified": "2026-08-02"
   },
   {
+    "uuid": "F144FF3F-27DC-42A0-8D54-C2B1D15F2789",
+    "id": "rong",
+    "mutation_marker": "",
+    "sindarin": "rong",
+    "spellings": [],
+    "ipa": "roŋ",
+    "tengwar": "",
+    "cirth": "Rbu",
+    "english": [
+      "soon"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "neologism",
+    "source": "Eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3602656099",
+    "etymology": {
+      "root_refs": [
+        "rong"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ron(go)"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "soon, immediately",
+    "ids_code": "14.190",
+    "conception": "Key-2016-1310-13",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "A8198AFD-8251-42BC-96D2-138C848C149E",
+    "id": "fergar",
+    "mutation_marker": "",
+    "sindarin": "fergar",
+    "spellings": [],
+    "ipa": "'fer.gar",
+    "tengwar": "",
+    "cirth": "3zRrcR",
+    "english": [
+      "soon done"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2031465685",
+    "etymology": {
+      "root_refs": [
+        "pher"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "14.190",
+    "conception": "Key-2016-1310-13",
+    "notes": "",
+    "references": [
+      "PE17/181"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
     "id": "nuir",
     "mutation_marker": "",
@@ -34209,7 +34971,7 @@
     },
     "gender": "",
     "category": "people",
-    "ids_chapter": "people",
+    "ids_chapter": "Middle-earth",
     "type": "",
     "source": "",
     "status": "",
@@ -34236,7 +34998,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "308240B8-F2A5-4C8B-9CA7-6DBFCDC47D62",
@@ -35597,6 +36359,59 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-03"
+  },
+  {
+    "uuid": "186C87E2-C3C3-4AE0-9F27-EDEAE21BE0B3",
+    "id": "nev",
+    "mutation_marker": "",
+    "sindarin": "nev-",
+    "spellings": [],
+    "ipa": "nev",
+    "tengwar": "",
+    "cirth": "@z4I",
+    "english": [
+      "seem",
+      "appear"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "cognition",
+    "type": "reconstructed",
+    "source": "Quenya",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1578683053",
+    "etymology": {
+      "root_refs": [
+        "nem"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nem-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to seem, appear",
+    "ids_code": "17.180",
+    "conception": "Key-2016-1310-1105",
+    "notes": "Based on Quenya \"nem-\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -37147,6 +37962,60 @@
     "last_modified": "2026-08-03"
   },
   {
+    "uuid": "24854CD3-6D6D-40DC-8BC4-7FECDCB8E903",
+    "id": "bang",
+    "mutation_marker": "",
+    "sindarin": "bang",
+    "spellings": [],
+    "ipa": "baŋ",
+    "tengwar": "",
+    "cirth": "2cu",
+    "english": [
+      "staff"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bang",
+      "singular": "",
+      "plural": "beng"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "social and political relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "741781065",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vanga"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "19.250",
+    "conception": "Key-2016-1310-1197",
+    "notes": "This word has no clear etymology",
+    "references": [
+      "PE13/138, 156",
+      "GL/21"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
@@ -37718,6 +38587,116 @@
     "last_modified": "2026-08-03"
   },
   {
+    "uuid": "6AA6CBEC-FF7E-4C66-B00C-682EF1C505CD",
+    "id": "hadlath",
+    "mutation_marker": "",
+    "sindarin": "hadlath",
+    "spellings": [],
+    "ipa": "'had.laθ",
+    "tengwar": "",
+    "cirth": ".c9ac0",
+    "english": [
+      "sling"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hadlath",
+      "singular": "",
+      "plural": "hedleth"
+    },
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "warfare and hunting",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "haglath",
+    "eldamo_id": "1127798455",
+    "etymology": {
+      "root_refs": [
+        "khat",
+        "lath"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰatlattʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xatlaθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xatlaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hatlaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "hadlaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "hadlaθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHAT",
+          "gloss": "hurl",
+          "type": "root"
+        },
+        {
+          "form": "LATH",
+          "gloss": "thong",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=%EA%9D%81at.lat%C5%A7a&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "20.230",
+    "conception": "Key-2016-1310-1231",
+    "notes": "",
+    "references": [
+      "Ety/KHAT, LATH"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
     "id": "theinas",
     "mutation_marker": "",
@@ -38189,6 +39168,92 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-04"
+  },
+  {
+    "uuid": "D314039A-96E5-44FD-A081-8E704F865BC9",
+    "id": "gwesta",
+    "mutation_marker": "",
+    "sindarin": "gwesta-",
+    "spellings": [],
+    "ipa": "'gʷes.ta",
+    "tengwar": "",
+    "cirth": "ozf8cI",
+    "english": [
+      "swear"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "law",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1531955601",
+    "etymology": {
+      "root_refs": [
+        "wed"
+      ],
+      "primitive": {
+        "form": "wedtā",
+        "eldamo_id": "1052626073"
+      },
+      "development": [
+        {
+          "form": "wedtā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "westā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "westa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwesta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=wed.ta%3A&off=1VHEAH%2C40AAAR%2C4YMLLL%2C80P9M7%2C8YQN4L%2CBLBGG9%2CCKKXYT%2CCPU1Y9%2CD4SY8V%2CDGIAQL%2CEL825L%2CFQR1P5%2CHGUW2L%2CLB2XLT%2COEQ9F9%2CPCIKVX%2CPGU1LD%2CT2LWVF%2CT65GEJ%2CTK6XCF%2CW5K0LJ%2CZG5GNN%2CZL5IMD%2C1004V89%2C10SQQBZ%2C10Y1BVP%2C16HSN5B%2C17BZZTB%2C17OGMY1%2C18HPRET%2C1A7WZRV%2C1BAKTTX%2C1DM4ETD%2C1DM4ETE%2C1EOFTQB%2C1FJBO5D%2C1G9LH2B%2C1GNCEKH%2C1HVL2UT%2C1JZCE3D%2C1KAY3LV%2C1RZ3P2T%2C1S7D221%2C1SR552T%2C1W8KO21%2C1X6KAQ7%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-14ZYNUV"
+    },
+    "cognates": {
+      "quenya": "vesta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to swear",
+    "ids_code": "21.240",
+    "conception": "Key-2016-1310-1271",
+    "notes": "",
+    "references": [
+      "Ety/WED"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
@@ -38796,6 +39861,87 @@
     "last_modified": "2026-08-04"
   },
   {
+    "uuid": "E4CB9150-1513-4EA1-A8BF-17B3DC37A125",
+    "id": "aer",
+    "mutation_marker": "",
+    "sindarin": "aer",
+    "spellings": [],
+    "ipa": "aer",
+    "tengwar": "",
+    "cirth": "czR",
+    "english": [
+      "holy",
+      "hallowed"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "religion and belief",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "669292895",
+    "etymology": {
+      "root_refs": [
+        "ayan"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "airin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "876455981"
+        },
+        {
+          "form": "airi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "air",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "aer",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=airin&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-14ZYNUV"
+    },
+    "cognates": {
+      "quenya": "airë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "holy, hallowed",
+    "ids_code": "22.190",
+    "conception": "Key-2016-1310-1297",
+    "notes": "",
+    "references": [
+      "VT44/24"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
     "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
     "id": "pinagor",
     "mutation_marker": "",
@@ -38990,7 +40136,7 @@
     },
     "gender": "",
     "category": "people",
-    "ids_chapter": "people",
+    "ids_chapter": "Middle-earth",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -39064,7 +40210,7 @@
       "WJI"
     ],
     "hidden": "",
-    "last_modified": "2026-08-03"
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "1301538E-BB2A-472C-A86D-F63542E82DD0",
@@ -39072,10 +40218,12 @@
     "mutation_marker": "",
     "sindarin": "edhellen",
     "spellings": [],
-    "ipa": "",
+    "ipa": "'e.ðe.len",
     "tengwar": "",
     "cirth": "z!zaaz@",
-    "english": [],
+    "english": [
+      "elvish"
+    ],
     "grammar": [
       "adjective"
     ],
@@ -39086,7 +40234,7 @@
     },
     "gender": "",
     "category": "traits",
-    "ids_chapter": "traits",
+    "ids_chapter": "Middle-earth",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -39116,7 +40264,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "elvish",
+    "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -39125,7 +40273,7 @@
       "PE17/45"
     ],
     "hidden": "",
-    "last_modified": "2026-08-03"
+    "last_modified": "2026-08-07"
   },
   {
     "uuid": "3DA1EDF4-12BD-4C6F-B384-4749715C1F5C",
@@ -39133,10 +40281,12 @@
     "mutation_marker": "",
     "sindarin": "edhelvein",
     "spellings": [],
-    "ipa": "",
+    "ipa": "'e.ðel.vein",
     "tengwar": "",
     "cirth": "z!za4zl@",
-    "english": [],
+    "english": [
+      "elven fair"
+    ],
     "grammar": [
       "adjective"
     ],
@@ -39147,7 +40297,7 @@
     },
     "gender": "",
     "category": "traits",
-    "ids_chapter": "traits",
+    "ids_chapter": "Middle-earth",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -39168,7 +40318,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "elven fair",
+    "definition": "",
     "ids_code": "",
     "conception": "",
     "notes": "",
@@ -39176,6 +40326,261 @@
       "PE17/56"
     ],
     "hidden": "",
-    "last_modified": "2026-08-03"
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "0D69295B-EF57-43DA-A677-88AF1FA879A9",
+    "id": "mith",
+    "mutation_marker": "",
+    "sindarin": "Mîth",
+    "spellings": [],
+    "ipa": "miːθ",
+    "tengwar": "",
+    "cirth": "6ll0",
+    "english": [
+      "Sinda, Grey-Elf"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "Middle-earth",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1773048041",
+    "etymology": {
+      "root_refs": [
+        "mith"
+      ],
+      "primitive": {
+        "form": "mītha",
+        "eldamo_id": "1444034719"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/140"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "E2742F33-30B9-455C-B7F5-AF3504C44D9C",
+    "id": "mithres",
+    "mutation_marker": "",
+    "sindarin": "Mithres",
+    "spellings": [],
+    "ipa": "'miθ.res",
+    "tengwar": "",
+    "cirth": "6l0Rzf",
+    "english": [
+      "Grey-Elf (f.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "Mithres",
+      "singular": "",
+      "plural": "mithris"
+    },
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "Middle-earth",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3626094263",
+    "etymology": {
+      "root_refs": [
+        "mith"
+      ],
+      "primitive": {
+        "form": "mītha",
+        "eldamo_id": "1444034719"
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "mith",
+          "gloss": "grey",
+          "type": "adjective"
+        },
+        {
+          "form": "-eth",
+          "gloss": "",
+          "type": "feminine suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/140"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "189DCD82-AF69-4987-A9B2-9E6F91EEF915",
+    "id": "mithron",
+    "mutation_marker": "",
+    "sindarin": "Mithron",
+    "spellings": [],
+    "ipa": "'miθ.ron",
+    "tengwar": "",
+    "cirth": "6l0Rb@",
+    "english": [
+      "Grey-Elf (m.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "Mithron",
+      "singular": "",
+      "plural": "mithryn"
+    },
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "Middle-earth",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3712443825",
+    "etymology": {
+      "root_refs": [
+        "mith"
+      ],
+      "primitive": {
+        "form": "mītha",
+        "eldamo_id": "1444034719"
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "mith",
+          "gloss": "grey",
+          "type": "adjective"
+        },
+        {
+          "form": "-(r)on",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "PE17/140"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "7F3246D5-C071-448F-B002-12CD30F93FBF",
+    "id": "mithril",
+    "mutation_marker": "",
+    "sindarin": "mithril",
+    "spellings": [],
+    "ipa": "'miθ.ril",
+    "tengwar": "",
+    "cirth": "6l0Rla",
+    "english": [
+      "Moria-silver, true-silver"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "Middle-earth",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3289956123",
+    "etymology": {
+      "root_refs": [
+        "mith"
+      ],
+      "primitive": {
+        "form": "mītha",
+        "eldamo_id": "1444034719"
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "mith",
+          "gloss": "grey, light grey, pale grey",
+          "type": "adjective"
+        },
+        {
+          "form": "RIL",
+          "gloss": "brilliant (light), brilliance",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "LotR/317",
+      "LotRI/Mithril",
+      "PE17/47",
+      "PMI",
+      "RSI/Mithril",
+      "SA/ril",
+      "UTI"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-07"
   }
 ]

@@ -99,6 +99,7 @@ const CATEGORY_LABELS = {
   music: 'Music & Art',
   grammar: 'Grammar', different: 'Difference & Comparison',
   size: 'Size', 'spatial relations': 'Spatial Relations',
+  middle_earth: 'Middle-earth',
 };
 
 const SOURCE_NAMES = {
@@ -462,13 +463,13 @@ function buildByGrammarList(words) {
 function buildByCategoryList(words) {
   const byCat = {};
   for (const w of words) {
-    const cat = w.ids_chapter || w.category || 'uncategorized';
+    const cat = w.ids_chapter || w.category || 'uncategorised';
     (byCat[cat] ??= []).push(w);
   }
   const cats = Object.keys(byCat).sort();
   return {
     page_title: 'Words by Category',
-    meta_description: 'Neo-Sindarin words organized by semantic category — nature, people, actions, and more.',
+    meta_description: 'Neo-Sindarin words organised by semantic category — nature, people, actions, and more.',
     canonical_url: `${SITE_URL}/by-category.html`,
     page_subtitle: 'Organised by IDS-inspired semantic chapters',
     root: '',
