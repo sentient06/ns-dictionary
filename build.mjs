@@ -382,6 +382,7 @@ function buildSindarinEnglishList(words) {
     canonical_url: `${SITE_URL}/sindarin-english.html`,
     root: '',
     has_letter_nav: true,
+    has_drop_nav: false,
     letters: letters.map(l => ({ letter: l })),
     sections: letters.map(letter => ({
       section_id: letter,
@@ -414,6 +415,7 @@ function buildEnglishSindarinList(words) {
     canonical_url: `${SITE_URL}/english-sindarin.html`,
     root: '',
     has_letter_nav: true,
+    has_drop_nav: false,
     letters: letters.map(l => ({ letter: l })),
     sections: letters.map(letter => ({
       section_id: letter,
@@ -441,6 +443,8 @@ function buildByGrammarList(words) {
     canonical_url: `${SITE_URL}/by-grammar.html`,
     root: '',
     has_letter_nav: false,
+    has_drop_nav: true,
+    categories: grammars.map(g => ({ category: g })),
     sections: grammars.map(g => ({
       section_id: g,
       section_title: g.charAt(0).toUpperCase() + g.slice(1) + (g.charAt(g.length - 1) === 'x' ? 'e' : '') + 's',
@@ -463,9 +467,11 @@ function buildByCategoryList(words) {
     page_title: 'Words by Category',
     meta_description: 'Neo-Sindarin words organized by semantic category — nature, people, actions, and more.',
     canonical_url: `${SITE_URL}/by-category.html`,
-    page_subtitle: 'Organized by IDS semantic chapters',
+    page_subtitle: 'Organised by IDS-inspired semantic chapters',
     root: '',
     has_letter_nav: false,
+    has_drop_nav: true,
+    categories: cats.map(c => ({ category: c })),
     sections: cats.map(c => ({
       section_id: c,
       section_title: CATEGORY_LABELS[c] || c.charAt(0).toUpperCase() + c.slice(1),
@@ -477,16 +483,19 @@ function buildByCategoryList(words) {
   };
 }
 
-function buildSwadeshList(words, field, title, description, filename) {
+function buildSwadeshList(words, field, title, description, filename, comment) {
   const filtered = words.filter(w => w[field] !== null && w[field] !== undefined);
   filtered.sort((a, b) => a[field] - b[field]);
   return {
     page_title: title,
     meta_description: description,
     canonical_url: `${SITE_URL}/${filename}`,
+    page_description: description,
+    page_comment: comment,
     page_subtitle: `${filtered.length} words`,
     root: '',
     has_letter_nav: false,
+    has_drop_nav: false,
     sections: [{
       section_id: 'all',
       section_title: title,
@@ -612,9 +621,9 @@ if (FULL || oldManifest['__lists__'] !== listHash) {
   writeOut('english-sindarin.html', render(listTemplate, buildEnglishSindarinList(words)));
   writeOut('by-grammar.html', render(listTemplate, buildByGrammarList(words)));
   writeOut('by-category.html', render(listTemplate, buildByCategoryList(words)));
-  writeOut('swadesh-100.html', render(listTemplate, buildSwadeshList(words, 'swadesh100', 'Swadesh 100', 'The Swadesh 100 core vocabulary list in Neo-Sindarin.', 'swadesh-100.html')));
-  writeOut('swadesh-207.html', render(listTemplate, buildSwadeshList(words, 'swadesh207', 'Swadesh 207', 'The extended Swadesh 207 vocabulary list in Neo-Sindarin.', 'swadesh-207.html')));
-  writeOut('leipzig-jakarta.html', render(listTemplate, buildSwadeshList(words, 'leipzig_jakarta', 'Leipzig-Jakarta', 'The Leipzig–Jakarta vocabulary list in Neo-Sindarin.', 'leipzig-jakarta.html')));
+  writeOut('swadesh-100.html', render(listTemplate, buildSwadeshList(words, 'swadesh100', 'Swadesh 100', 'The Swadesh 100 core vocabulary list in Neo-Sindarin.', 'swadesh-100.html', 'This list contains a compilation of the 100 tentatively universal forms and concepts which all languages, without exception, have terms for.')));
+  writeOut('swadesh-207.html', render(listTemplate, buildSwadeshList(words, 'swadesh207', 'Swadesh 207', 'The extended Swadesh 207 vocabulary list in Neo-Sindarin.', 'swadesh-207.html', 'This list contains a compilation of the 207 tentatively universal forms and concepts which all languages, without exception, have terms for.')));
+  writeOut('leipzig-jakarta.html', render(listTemplate, buildSwadeshList(words, 'leipzig_jakarta', 'Leipzig-Jakarta', 'The Leipzig–Jakarta vocabulary list in Neo-Sindarin.', 'leipzig-jakarta.html', 'This list contains the 100 words most resistant to borrowing in most languages. (Synonyms may skew the tally.)')));
   console.log('✓ List pages rebuilt');
 } else {
   console.log('✓ List pages unchanged');
