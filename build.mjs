@@ -444,9 +444,12 @@ function buildByGrammarList(words) {
     root: '',
     has_letter_nav: false,
     has_drop_nav: true,
-    categories: grammars.map(g => ({ category: g })),
+    categories: grammars.map(g => ({
+      category: g.charAt(0).toUpperCase() + g.slice(1) + (g.charAt(g.length - 1) === 'x' ? 'e' : '') + 's',
+      encoded: g.split(' ').join('-')
+    })),
     sections: grammars.map(g => ({
-      section_id: g,
+      section_id: g.toLowerCase().split(' ').join('-'),
       section_title: g.charAt(0).toUpperCase() + g.slice(1) + (g.charAt(g.length - 1) === 'x' ? 'e' : '') + 's',
       words: byGrammar[g].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),
@@ -471,9 +474,12 @@ function buildByCategoryList(words) {
     root: '',
     has_letter_nav: false,
     has_drop_nav: true,
-    categories: cats.map(c => ({ category: c })),
+    categories: cats.map(c => ({
+      category: c[0].toUpperCase() + c.slice(1),
+      encoded: c.split(' ').join('-')
+    })),
     sections: cats.map(c => ({
-      section_id: c,
+      section_id: c.toLowerCase().split(' ').join('-'),
       section_title: CATEGORY_LABELS[c] || c.charAt(0).toUpperCase() + c.slice(1),
       words: byCat[c].sort((a, b) => a.sindarin.localeCompare(b.sindarin)).map(w => ({
         id: w.id, primary: w.sindarin, secondary: w.english.join(', '),

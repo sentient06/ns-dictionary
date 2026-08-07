@@ -65,9 +65,12 @@
     {{/has_letter_nav}}
     {{#has_drop_nav}}
     <nav class="drop-nav">
-      <select onchange="window.location.hash = this.value;">
+      <label>
+        Jump to:
+      </label>
+      <select onchange="window.location.hash = this.value">
         {{#categories}}
-        <option value="#category-{{category}}">{{category}}</option>
+        <option value="#category-{{encoded}}">{{category}}</option>
         {{/categories}}
       </select>
     </nav>
@@ -76,7 +79,7 @@
     {{#sections}}
     <section class="letter-section" id="category-{{section_id}}">
       <h2 class="letter-heading">{{section_title}}</h2>
-      <a href="" class="top-link">Top</a>
+      <a href="" class="top-link" onclick="window.location.hash = ''; history.pushState('', document.title, window.location.pathname + window.location.search); return false;">Top</a>
       <ul class="word-list">
         {{#words}}
         <li class="{{confidence_class}}">
