@@ -3489,8 +3489,8 @@
       "PE17/99",
       "PE17/183"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "multi",
+    "last_modified": "2026-08-09"
   },
   {
     "uuid": "270561D8-D3E9-43CC-AC90-F7A2227921AC",
@@ -23854,8 +23854,8 @@
       "UTI/Doriath",
       "WJ/192, 370, 413"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "multi",
+    "last_modified": "2026-08-09"
   },
   {
     "uuid": "0BD66B3F-3A98-4EA3-BC66-70B850BA0DC2",
@@ -24296,6 +24296,371 @@
     "last_modified": "2026-08-04"
   },
   {
+    "uuid": "8AEB8745-76D1-4AE1-9746-8BCE310572CF",
+    "id": "tum",
+    "mutation_marker": "",
+    "sindarin": "tum",
+    "spellings": [],
+    "ipa": "tum",
+    "tengwar": "",
+    "cirth": "8S6",
+    "english": [
+      "valley (deep)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "tum",
+      "singular": "",
+      "plural": "tym"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2660377951",
+    "etymology": {
+      "root_refs": [
+        "tub"
+      ],
+      "primitive": {
+        "form": "tumbu",
+        "eldamo_id": "783790173"
+      },
+      "development": [
+        {
+          "form": "tumbu",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "tumb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "tumm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "tum",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=tumbu&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "tumbo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "a deep valley surrounded on all sides",
+    "ids_code": "1.240",
+    "conception": "Key-2016-1310-956",
+    "notes": "",
+    "references": [
+      "NM/351, 363",
+      "SA/tum"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-09"
+  },
+  {
+    "uuid": "6C085115-36EE-483E-BF09-B526D361095E",
+    "id": "nan-d",
+    "mutation_marker": "",
+    "sindarin": "nan(d)",
+    "spellings": [],
+    "ipa": "nand",
+    "tengwar": "  ",
+    "cirth": "@c@`O`@ck",
+    "english": [
+      "valley (wide)",
+      "vale"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nan(d)",
+      "singular": "",
+      "plural": "nend"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2348013001",
+    "etymology": {
+      "root_refs": [
+        "nad"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nando",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "nand",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=nando&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "nan(do)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "a wide valley or extensive grasslands between or below mountains; a vale (broad valley)",
+    "ids_code": "1.240",
+    "conception": "Key-2016-1310-956",
+    "notes": "",
+    "references": [
+      "NM/351",
+      "PE17/37, 83",
+      "RC/269",
+      "SA/nan(d), sîr",
+      "UT/253"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-09"
+  },
+  {
+    "uuid": "A88198FC-2AFB-4698-9C0D-39DBB476AAC2",
+    "id": "imlad",
+    "mutation_marker": "",
+    "sindarin": "imlad",
+    "spellings": [],
+    "ipa": "'im.lad",
+    "tengwar": "",
+    "cirth": "l6ac9",
+    "english": [
+      "valley (narrow)",
+      "gully"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "imlad",
+      "singular": "",
+      "plural": "imlaid"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4065221315",
+    "etymology": {
+      "root_refs": [
+        "imi",
+        "lat"
+      ],
+      "primitive": {
+        "form": "imbi-lătă",
+        "eldamo_id": "1418149425"
+      },
+      "development": [
+        {
+          "form": "imbilata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "imbilat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "imbilad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "imblad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "immlad",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "imlad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "imbi",
+          "gloss": "between",
+          "type": "preposition"
+        },
+        {
+          "form": "lata",
+          "gloss": "plain, valley",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=imbi.lata&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "imbilat",
+      "telerin": "imbe"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "deep, narrow valley with steep sides, gap, gully",
+    "ids_code": "1.240",
+    "conception": "Key-2016-1310-956",
+    "notes": "",
+    "references": [
+      "LotRI/Morgul Vale",
+      "NM/355",
+      "PE17/87, 89",
+      "RC/234, 482",
+      "SA/lad",
+      "VT47/14"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-09"
+  },
+  {
+    "uuid": "A9EB5752-9EDE-4C26-BBCD-F04E905655B6",
+    "id": "im-noun",
+    "mutation_marker": "",
+    "sindarin": "im",
+    "spellings": [],
+    "ipa": "im",
+    "tengwar": "",
+    "cirth": "l6",
+    "english": [
+      "valley (archaic)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2005550399",
+    "etymology": {
+      "root_refs": [
+        "imi"
+      ],
+      "primitive": {
+        "form": "imbi",
+        "eldamo_id": "4031797865"
+      },
+      "development": [
+        {
+          "form": "imbi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "imb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "imm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "im",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=imbi&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "valley",
+    "ids_code": "1.240",
+    "conception": "Key-2016-1310-956",
+    "notes": "An archaic word meaning \"valley\" that survived only in compounds.",
+    "references": [
+      "VT42/18",
+      "VT47/14"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-09"
+  },
+  {
     "uuid": "1AA7E4F9-AE26-4D54-8632-27241C8369A5",
     "id": "pend",
     "mutation_marker": "",
@@ -24353,9 +24718,9 @@
     "mutation_marker": "",
     "sindarin": "pend",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "pend",
+    "tengwar": "",
+    "cirth": "1zk",
     "english": [
       "sloping (down)",
       "steeply inclined"
@@ -24421,7 +24786,7 @@
       "PE17/24, 173"
     ],
     "hidden": "",
-    "last_modified": "2026-07-31"
+    "last_modified": "2026-08-09"
   },
   {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
@@ -28940,9 +29305,9 @@
     "mutation_marker": "",
     "sindarin": "fennas",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "'fe.nas",
+    "tengwar": "",
+    "cirth": "3z@@cf",
     "english": [
       "door (great)",
       "doorway",
@@ -28951,7 +29316,11 @@
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "fennas",
+      "singular": "",
+      "plural": "fennais"
+    },
     "gender": "",
     "category": "things",
     "ids_chapter": "the house",
@@ -28996,7 +29365,7 @@
       "RGEO/67"
     ],
     "hidden": "",
-    "last_modified": "2026-08-07"
+    "last_modified": "2026-08-09"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
@@ -36987,8 +37356,8 @@
     "conception": "Key-2016-1310-1189",
     "notes": "",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-24"
+    "hidden": "multi",
+    "last_modified": "2026-08-09"
   },
   {
     "uuid": "A5F86927-B620-4A4E-936A-4A2BCC753C8B",
@@ -38530,8 +38899,8 @@
     "references": [
       "Ety/RUD"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-30"
+    "hidden": "multi",
+    "last_modified": "2026-08-09"
   },
   {
     "uuid": "CBBD17DF-E72E-4AA8-8929-5495523F72C7",
