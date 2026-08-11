@@ -25330,13 +25330,13 @@
   },
   {
     "uuid": "31BD3FE7-CD34-4D8A-8CC8-CBDDF0A582D4",
-    "id": "lavost",
+    "id": "lavanath",
     "mutation_marker": "",
-    "sindarin": "lavost",
+    "sindarin": "lavanath",
     "spellings": [],
-    "ipa": "'la.vost",
-    "tengwar": "",
-    "cirth": "ac4bf8",
+    "ipa": "'la.va.naθ",
+    "tengwar": "",
+    "cirth": "ac4c@c0",
     "english": [
       "livestock"
     ],
@@ -25362,39 +25362,31 @@
       },
       "development": [
         {
-          "form": "lamānastā",
+          "form": "lamanaatta",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "2753394075"
+          "eldamo_id": "2794740763"
         },
         {
-          "form": "lamānasta",
+          "form": "lamanaatt",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "2858643115"
+          "eldamo_id": "1683955225"
         },
         {
-          "form": "lamǭnasta",
+          "form": "lamanaattʰ",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "558704171"
+          "eldamo_id": "883570327"
         },
         {
-          "form": "lamaunasta",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "813787869"
-        },
-        {
-          "form": "lamaunast",
+          "form": "lamanaaθθ",
           "eldamo_id": ""
         },
         {
@@ -25402,23 +25394,31 @@
           "eldamo_id": "2749565259"
         },
         {
-          "form": "lamaunst",
+          "form": "lamanaθθ",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "3282356701"
+          "eldamo_id": "3868328117"
         },
         {
-          "form": "lamaust",
+          "form": "lamanaθθ",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "567222053"
+          "eldamo_id": ""
         },
         {
-          "form": "lamost",
+          "form": "laɱanaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "lamanaθθ",
           "eldamo_id": ""
         },
         {
@@ -25426,27 +25426,35 @@
           "eldamo_id": "1951379117"
         },
         {
-          "form": "lavost",
+          "form": "lavanaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "lavanaθ",
           "eldamo_id": ""
         }
       ],
       "elements": [
         {
-          "form": "lamāna",
+          "form": "lamana",
           "gloss": "animal",
           "type": "noun"
         },
         {
-          "form": "-stā",
+          "form": "-atta",
           "gloss": "",
           "type": "collective suffix"
         }
       ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lama%3Ana.sta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-5PZ3TL"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lamana.atta&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-9DPJC5"
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": 0,
+    "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -25456,7 +25464,7 @@
     "notes": "Neologism based on French \"bétail\", from \"bestia\" + collective \"-ail\". Literally \"animals\".",
     "references": [],
     "hidden": "any animals, not sure",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-11"
   },
   {
     "uuid": "FEB46A5C-64D6-44D3-8BD7-6542D12C3D56",
@@ -28157,7 +28165,7 @@
       "quenya": "pásë"
     },
     "conjugation": null,
-    "confidence": 0,
+    "confidence": 1,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -28167,7 +28175,7 @@
     "notes": "Using same logic as Neo-Quenya \"pásë\" with same meaning.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-23"
+    "last_modified": "2026-08-11"
   },
   {
     "uuid": "C524A1E5-A2FB-463D-A6E2-42F92B557590",
