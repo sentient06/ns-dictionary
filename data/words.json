@@ -28393,12 +28393,12 @@
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "6.250",
-    "conception": "Key-2016-1310-487",
+    "ids_code": "",
+    "conception": "",
     "notes": "Neologism made based on the root for silky \"√PATH\" to keep consistency. The other elements are √WIR \"to weave\" and \"-yā\", to yield the sense of \"silky-woven\". Early Quenya has a word for \"silk\", \"samin\", but it has no defined originnor root, so we can't reuse it without a lot of creativity. If we assume a PE word \"samin(d)\", it might become \"saif\" or \"sevin\".",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-31"
+    "hidden": "drop this one",
+    "last_modified": "2026-08-11"
   },
   {
     "uuid": "75A95B73-C720-4493-9C75-2F12C55CE049",
