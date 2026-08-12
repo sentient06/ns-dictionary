@@ -8146,15 +8146,15 @@
     "swadesh207": 64,
     "leipzig_jakarta": 7,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.150",
+    "conception": "Key-2016-1310-715",
     "notes": "",
     "references": [
       "PE17/184",
       "SA/sereg"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "D307CB7A-506D-4BBE-837E-A5E42BEB5C7B",
@@ -8203,14 +8203,14 @@
     "swadesh207": 65,
     "leipzig_jakarta": 8,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.160",
+    "conception": "Key-2016-1310-713",
     "notes": "",
     "references": [
       "PE13/137, 160"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "6A2839C5-0D72-42C3-B1C8-C9EFB12D21E9",
@@ -8679,8 +8679,8 @@
     "swadesh207": 68,
     "leipzig_jakarta": 38,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.170",
+    "conception": "Key-2016-1310-711",
     "notes": "",
     "references": [
       "PE17/36",
@@ -8688,7 +8688,7 @@
       "SA/ras"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "44FFEEE5-4DA4-4AD6-8ACE-04A5B7C82A76",
@@ -8730,14 +8730,14 @@
     "swadesh207": 69,
     "leipzig_jakarta": 85,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.180",
+    "conception": "Key-2016-1310-710",
     "notes": "Neologism coined based on Neo-Quenya word.",
     "references": [
       "QL/74"
     ],
     "hidden": "",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "812EB3A1-BC6C-434E-81DB-2395F41954A5",
@@ -25218,6 +25218,87 @@
     "last_modified": "2026-07-31"
   },
   {
+    "uuid": "4ED733ED-0D69-4F9A-80D6-4908AD5CAC4D",
+    "id": "gwin",
+    "mutation_marker": "",
+    "sindarin": "gwîn",
+    "spellings": [],
+    "ipa": "gʷiːn",
+    "tengwar": "",
+    "cirth": "oll@",
+    "english": [
+      "youth",
+      "child (young person)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "person",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "337261695",
+    "etymology": {
+      "root_refs": [
+        "win"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "wine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "win",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwin",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "gwīn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wine&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-JY12TH"
+    },
+    "cognates": {
+      "quenya": "vínë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "youth, child (young person)",
+    "ids_code": "2.270",
+    "conception": "Key-2016-1310-884",
+    "notes": "",
+    "references": [
+      "PE17/191"
+    ],
+    "hidden": "longman has plural children",
+    "last_modified": "2026-08-12"
+  },
+  {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
     "id": "anu",
     "mutation_marker": "",
@@ -26002,6 +26083,89 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-04"
+  },
+  {
+    "uuid": "94CE4AF9-9081-4584-B976-94118C9516A4",
+    "id": "gagron",
+    "mutation_marker": "",
+    "sindarin": "gagron",
+    "spellings": [],
+    "ipa": "'ga.gron",
+    "tengwar": "",
+    "cirth": "rcrRb@",
+    "english": [
+      "ox"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gagron",
+      "singular": "",
+      "plural": "gegryn"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "gyak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "gjakron",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "345959193"
+        },
+        {
+          "form": "gakron",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "gagron",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "GYAK",
+          "gloss": "cattle",
+          "type": "root"
+        },
+        {
+          "form": "-(r)on",
+          "gloss": "",
+          "type": "agental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gjak.ron&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-JY12TH"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.220",
+    "conception": "Key-2016-1310-810",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
@@ -27502,6 +27666,68 @@
     "last_modified": "2026-08-04"
   },
   {
+    "uuid": "DD7B7EE7-262D-4498-8704-F485517ADEC0",
+    "id": "saegon",
+    "mutation_marker": "",
+    "sindarin": "saegon",
+    "spellings": [],
+    "ipa": "'sae.gon",
+    "tengwar": "",
+    "cirth": "fczrb@",
+    "english": [
+      "famine"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2521215523",
+    "etymology": {
+      "root_refs": [
+        "sayak"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "saeg",
+          "gloss": "hunger",
+          "type": "noun"
+        },
+        {
+          "form": "-on",
+          "gloss": "",
+          "type": "augmentative suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "saicelë"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "famine, (lit.) \"great hunger\"",
+    "ids_code": "5.141",
+    "conception": "Key-2016-1310-565",
+    "notes": "Inspired by Gnomish \"saigri\".",
+    "references": [
+      "GL/66"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-12"
+  },
+  {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
     "id": "brath",
     "mutation_marker": "",
@@ -28179,13 +28405,13 @@
   },
   {
     "uuid": "C524A1E5-A2FB-463D-A6E2-42F92B557590",
-    "id": "galadhso",
+    "id": "galatho",
     "mutation_marker": "",
-    "sindarin": "galadhso",
+    "sindarin": "galatho",
     "spellings": [],
-    "ipa": "'ga.lað.so",
-    "tengwar": "",
-    "cirth": "rcac!fb",
+    "ipa": "'ga.la.θo",
+    "tengwar": "",
+    "cirth": "rcac0b",
     "english": [
       "cotton"
     ],
@@ -28214,10 +28440,18 @@
         },
         {
           "rule": ">",
+          "eldamo_id": "1944249607"
+        },
+        {
+          "form": "galattogō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
           "eldamo_id": "2753394075"
         },
         {
-          "form": "galadtogo",
+          "form": "galattogo",
           "eldamo_id": ""
         },
         {
@@ -28225,7 +28459,7 @@
           "eldamo_id": "1683955225"
         },
         {
-          "form": "galadtʰogo",
+          "form": "galattʰogo",
           "eldamo_id": ""
         },
         {
@@ -28233,7 +28467,7 @@
           "eldamo_id": "883570327"
         },
         {
-          "form": "galadθogo",
+          "form": "galaθθogo",
           "eldamo_id": ""
         },
         {
@@ -28241,7 +28475,7 @@
           "eldamo_id": "1726791627"
         },
         {
-          "form": "galaðθoɣo",
+          "form": "galaθθoɣo",
           "eldamo_id": ""
         },
         {
@@ -28249,7 +28483,7 @@
           "eldamo_id": "813787869"
         },
         {
-          "form": "galaðθoɣ",
+          "form": "galaθθoɣ",
           "eldamo_id": ""
         },
         {
@@ -28257,15 +28491,15 @@
           "eldamo_id": "4164672875"
         },
         {
-          "form": "galaðθo",
+          "form": "galaθθo",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "2090293737"
+          "eldamo_id": "1206014597"
         },
         {
-          "form": "galaðso",
+          "form": "galaθo",
           "eldamo_id": ""
         }
       ],
@@ -28281,7 +28515,7 @@
           "type": "noun"
         }
       ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=galadtogo%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=galad.togo%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&mb=1WVJE5N%3A0#rule-JY12TH"
     },
     "cognates": {},
     "conjugation": null,
@@ -28295,17 +28529,17 @@
     "notes": "Almost all of Europe borrowed the same Arabic word for \"cotton\". Except the German, that uses Baumwolle \"tree wool\". Japanese also has 木綿 (momen) \"tree floss\", which inspired this neologism.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-25"
+    "last_modified": "2026-08-12"
   },
   {
-    "uuid": "4B0F89EE-B8B0-4B2A-8A9A-54131E4146DC",
-    "id": "pathwir",
+    "uuid": "D8D895E9-8922-4B99-A317-44FD229F0546",
+    "id": "sevin",
     "mutation_marker": "",
-    "sindarin": "pathwir",
+    "sindarin": "sevin",
     "spellings": [],
-    "ipa": "'paθ.wir",
-    "tengwar": "",
-    "cirth": "1c0FlR",
+    "ipa": "'se.vin",
+    "tengwar": "",
+    "cirth": "fz4l@",
     "english": [
       "silk"
     ],
@@ -28317,88 +28551,32 @@
     "category": "things",
     "ids_chapter": "clothing and grooming",
     "type": "neologism",
-    "source": "Celephinnel",
+    "source": "Unknown",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "",
     "etymology": {
-      "root_refs": [
-        "path",
-        "wir"
-      ],
+      "root_refs": [],
       "primitive": null,
-      "development": [
-        {
-          "form": "patʰwirjā",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2753394075"
-        },
-        {
-          "form": "patʰwirja",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "883570327"
-        },
-        {
-          "form": "paθwirja",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1679623085"
-        },
-        {
-          "form": "paθwiria",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "3958031275"
-        },
-        {
-          "form": "peθwiria",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "813787869"
-        },
-        {
-          "form": "peθwiri",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2399289739"
-        },
-        {
-          "form": "peθwir",
-          "eldamo_id": ""
-        }
-      ],
+      "development": [],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=pa%C5%A7wirja%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+      "quettamorphosis_url": ""
     },
     "cognates": {
-      "quenya": "samin (?)"
+      "quenya": "samin"
     },
     "conjugation": null,
-    "confidence": 0,
+    "confidence": 2,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "notes": "Neologism made based on the root for silky \"√PATH\" to keep consistency. The other elements are √WIR \"to weave\" and \"-yā\", to yield the sense of \"silky-woven\". Early Quenya has a word for \"silk\", \"samin\", but it has no defined originnor root, so we can't reuse it without a lot of creativity. If we assume a PE word \"samin(d)\", it might become \"saif\" or \"sevin\".",
+    "ids_code": "6.250",
+    "conception": "Key-2016-1310-487",
+    "notes": "Neologism for silk based on Quenya's \"samin\", with unknown etymology.",
     "references": [],
-    "hidden": "drop this one",
-    "last_modified": "2026-08-11"
+    "hidden": "new word for silk",
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "75A95B73-C720-4493-9C75-2F12C55CE049",
@@ -28508,6 +28686,129 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "D95E4D3E-31F9-476F-8EFF-78C3185E111E",
+    "id": "helf",
+    "mutation_marker": "",
+    "sindarin": "helf",
+    "spellings": [],
+    "ipa": "helf",
+    "tengwar": "",
+    "cirth": ".za3",
+    "english": [
+      "fur"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "helf",
+      "singular": "",
+      "plural": "hilf"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "clothing and grooming",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2291548259",
+    "etymology": {
+      "root_refs": [
+        "skel"
+      ],
+      "primitive": {
+        "form": "skelmā",
+        "eldamo_id": "267366925"
+      },
+      "development": [
+        {
+          "form": "skelmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "skelma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sxelma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "xelma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xelm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "helm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "helv",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "SKEL",
+          "gloss": "strip",
+          "type": "root"
+        },
+        {
+          "form": "-mā",
+          "gloss": "",
+          "type": "instrumental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=skelma%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-JY12TH"
+    },
+    "cognates": {
+      "quenya": "helma"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "6.280",
+    "conception": "Key-2016-1310-485",
+    "notes": "",
+    "references": [
+      "Ety/SKEL",
+      "EtyAC/SKEL"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",

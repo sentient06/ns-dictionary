@@ -1617,6 +1617,13 @@
     "notes": ""
   },
   {
+    "id": "skel",
+    "form": "SKEL",
+    "gloss": "strip",
+    "eldamo_id": "166672369",
+    "notes": ""
+  },
+  {
     "id": "slas",
     "form": "SLAS",
     "gloss": "ear",
@@ -1873,6 +1880,13 @@
     "form": "TOW",
     "gloss": "wool",
     "eldamo_id": "422743195",
+    "notes": ""
+  },
+  {
+    "id": "tub",
+    "form": "TUB",
+    "gloss": "to fall low, go down (below normal ground level), (esp.) to go down (sink, dive) into water",
+    "eldamo_id": "211631943",
     "notes": ""
   },
   {
