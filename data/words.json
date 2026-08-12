@@ -29773,7 +29773,18 @@
           "eldamo_id": ""
         }
       ],
-      "elements": [],
+      "elements": [
+        {
+          "form": "fend",
+          "gloss": "door",
+          "type": "noun"
+        },
+        {
+          "form": "thavn",
+          "gloss": "post",
+          "type": "noun"
+        }
+      ],
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5enna.stabne%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-JY12TH"
     },
     "cognates": {},
