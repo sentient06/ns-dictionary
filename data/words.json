@@ -29677,6 +29677,120 @@
     "last_modified": "2026-08-09"
   },
   {
+    "uuid": "9DA64B07-B862-495E-BB36-95DFAC37FEC5",
+    "id": "fenstavn",
+    "mutation_marker": "",
+    "sindarin": "fenstavn",
+    "spellings": [],
+    "ipa": "'fen.stavn",
+    "tengwar": "",
+    "cirth": "3z@f8c4@",
+    "english": [
+      "doorpost",
+      "jamb"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "fenstavn",
+      "singular": "",
+      "plural": "fenstevn"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "the house",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "phen",
+        "stab"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pʰennastabnē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "pʰennastabne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ɸennastabne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "ɸennastavne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "fennastavne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "fennastavn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "fennstavn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "fenstavn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5enna.stabne%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-JY12TH"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "doorpost, jamb",
+    "ids_code": "7.221",
+    "conception": "Key-2016-1310-425",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-12"
+  },
+  {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
     "id": "redhor",
     "mutation_marker": "",
@@ -31499,6 +31613,59 @@
     "last_modified": "2026-08-07"
   },
   {
+    "uuid": "203C4370-ECB8-479C-A30D-C72194FFB57E",
+    "id": "dringa",
+    "mutation_marker": "",
+    "sindarin": "dringa-",
+    "spellings": [],
+    "ipa": "'driŋ.ga",
+    "tengwar": "",
+    "cirth": "9RldcI",
+    "english": [
+      "beat"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3778219153",
+    "etymology": {
+      "root_refs": [
+        "dring"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to beat",
+    "ids_code": "9.210",
+    "conception": "Key-2016-1310-317",
+    "notes": "",
+    "references": [
+      "Ety/DRING",
+      "EtyAC/DRING"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-12"
+  },
+  {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
     "id": "menna",
     "mutation_marker": "",
@@ -32281,8 +32448,8 @@
     "gender": "",
     "category": "actions",
     "ids_chapter": "motion",
-    "type": "",
-    "source": "",
+    "type": "restored",
+    "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "3829154669",
@@ -32333,7 +32500,61 @@
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-08-07"
+    "last_modified": "2026-08-12"
+  },
+  {
+    "uuid": "8DB25228-57E8-4C9E-9035-32BDF453B208",
+    "id": "danna",
+    "mutation_marker": "",
+    "sindarin": "danna-",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "fall"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1145289087",
+    "etymology": {
+      "root_refs": [
+        "dat"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lanta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to fall",
+    "ids_code": "10.230",
+    "conception": "Key-2016-1310-246",
+    "notes": "",
+    "references": [
+      "PE17/62"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
@@ -32846,6 +33067,54 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-02"
+  },
+  {
+    "uuid": "14192574-6E83-4B07-B24C-F7D45A5A8E5D",
+    "id": "redhia",
+    "mutation_marker": "",
+    "sindarin": "redhia-",
+    "spellings": [],
+    "ipa": "'re.ðia",
+    "tengwar": "",
+    "cirth": "Rz!lcI",
+    "english": [
+      "give back",
+      "return"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "neologism",
+    "source": "Eldamo",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "910117727",
+    "etymology": {
+      "root_refs": [
+        "rad"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to give [smt] back; to return [smt]",
+    "ids_code": "11.220",
+    "conception": "Key-2016-1310-166",
+    "notes": "Transitive verb derived from √RAD, as opposed to intransative \"radh-\", meaning \"to return\" (to somewhere).",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-12"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
