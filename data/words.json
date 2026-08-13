@@ -33803,6 +33803,55 @@
     "last_modified": "2026-08-07"
   },
   {
+    "uuid": "12441A2B-65DD-4919-B5B8-068098E1156A",
+    "id": "or",
+    "mutation_marker": "",
+    "sindarin": "or",
+    "spellings": [],
+    "ipa": "or",
+    "tengwar": "",
+    "cirth": "bR",
+    "english": [
+      "above"
+    ],
+    "grammar": [
+      "preposition"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "location",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1304260511",
+    "etymology": {
+      "root_refs": [
+        "oro"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "or"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "12.80",
+    "conception": "Key-2016-1310-121",
+    "notes": "\"or\" triggers liquid mutation when the modified noun is indefinite. When the noun is definite and plural, the article is appended as a suffix: \"erin\", causing nasal mutation. The singular definite article is not appended.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-13"
+  },
+  {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
     "id": "dolla",
     "mutation_marker": "",
@@ -35038,6 +35087,212 @@
     "last_modified": "2026-08-07"
   },
   {
+    "uuid": "9C4237A3-B33D-4E42-B27E-532CA30B6775",
+    "id": "fair",
+    "mutation_marker": "",
+    "sindarin": "fair",
+    "spellings": [],
+    "ipa": "fair",
+    "tengwar": "",
+    "cirth": "3clR",
+    "english": [
+      "quick",
+      "prompt",
+      "ready"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "411335277",
+    "etymology": {
+      "root_refs": [
+        "pher"
+      ],
+      "primitive": {
+        "form": "pheryā",
+        "eldamo_id": "3477456249"
+      },
+      "development": [
+        {
+          "form": "pʰerjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "pʰerja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ɸerja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "ferja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "feria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "feri",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "feir",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "fair",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5erj.a%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "quick, ready, prompt",
+    "ids_code": "14.210",
+    "conception": "Key-2016-1310-12",
+    "notes": "Both \"fair\" and \"lim\" are translated as \"quick\", but I think that \"swift\" causes the meaning of \"lim\" to veer more towards \"fast\" and the meaning of \"fair\" as \"prompt\" to veer more towards \"quick\".",
+    "references": [
+      "PE17/181"
+    ],
+    "hidden": "longman has fast and quick",
+    "last_modified": "2026-08-13"
+  },
+  {
+    "uuid": "B5FAE836-4B50-4AC7-B9E8-B520E2EE1EA3",
+    "id": "lim",
+    "mutation_marker": "",
+    "sindarin": "lim",
+    "spellings": [],
+    "ipa": "lim",
+    "tengwar": "",
+    "cirth": "al6",
+    "english": [
+      "fast",
+      "swift",
+      "quick"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "time",
+    "ids_chapter": "time",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1495590771",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "lĭmbĭ",
+        "eldamo_id": "3547247795"
+      },
+      "development": [
+        {
+          "form": "limbi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "limbe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "limb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "limm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "lim",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=limbi&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "linta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "fast; swift; quick",
+    "ids_code": "14.210",
+    "conception": "Key-2016-1310-12",
+    "notes": "Both \"fair\" and \"lim\" are translated as \"quick\", but I think that \"swift\" causes the meaning of \"lim\" to veer more towards \"fast\" and the meaning of \"fair\" as \"prompt\" to veer more towards \"quick\".",
+    "references": [
+      "RS/196"
+    ],
+    "hidden": "longman has fast and quick",
+    "last_modified": "2026-08-13"
+  },
+  {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
     "id": "nuir",
     "mutation_marker": "",
@@ -35830,6 +36085,99 @@
     ],
     "hidden": "check -rā",
     "last_modified": "2026-07-21"
+  },
+  {
+    "uuid": "A7B57A8A-6E31-4796-8072-150324C47650",
+    "id": "nach",
+    "mutation_marker": "",
+    "sindarin": "nach",
+    "spellings": [],
+    "ipa": "nax",
+    "tengwar": "",
+    "cirth": "@ct",
+    "english": [
+      "sour"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "nach",
+      "singular": "",
+      "plural": "nech"
+    },
+    "gender": "",
+    "category": "taste",
+    "ids_chapter": "sense perception",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nak"
+      ],
+      "primitive": {
+        "form": "naksā",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "naksā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "naksa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "naxxa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "naxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "nax",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=naksa%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "naxa"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "15.380",
+    "conception": "Key-2016-1310-1009",
+    "notes": "From Quenya \"naxa\" from Primitive Eldarin \"naksā\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-13"
   },
   {
     "uuid": "35BEC6D8-2B5C-4DC7-98AE-4E886E1F31EC",
@@ -38716,8 +39064,8 @@
     "sindarin": "nûr",
     "spellings": [],
     "ipa": "",
-    "tengwar": "",
-    "cirth": "@DR",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "kind"
     ],
@@ -38779,7 +39127,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-08-03"
+    "last_modified": "2026-08-13"
   },
   {
     "uuid": "41107625-81ED-44E8-BD4E-49E6AD0C4CBB",
