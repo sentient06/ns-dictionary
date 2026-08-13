@@ -36968,6 +36968,112 @@
     "last_modified": "2026-08-03"
   },
   {
+    "uuid": "324E3192-C17A-45A0-992A-3A3A52FB38B6",
+    "id": "mitha",
+    "mutation_marker": "",
+    "sindarin": "mítha-",
+    "spellings": [],
+    "ipa": "'miː.θa",
+    "tengwar": "",
+    "cirth": "6ll0cI",
+    "english": [
+      "kiss"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1264482921",
+    "etymology": {
+      "root_refs": [
+        "mikw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "miqu-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to kiss",
+    "ids_code": "16.290",
+    "conception": "Key-2016-1310-1058",
+    "notes": "There is a Neologism using the same root, \"mib-\".",
+    "references": [
+      "GL/57"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-13"
+  },
+  {
+    "uuid": "5F35C061-7DDB-458E-95A7-B765FC0A840B",
+    "id": "mib",
+    "mutation_marker": "",
+    "sindarin": "mib-",
+    "spellings": [],
+    "ipa": "mib",
+    "tengwar": "",
+    "cirth": "6l2",
+    "english": [
+      "kiss"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2484111657",
+    "etymology": {
+      "root_refs": [
+        "mikw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "miqu-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to kiss",
+    "ids_code": "16.290",
+    "conception": "Key-2016-1310-1058",
+    "notes": "Neologism using the same root as \"mítha-\", rendering a simpler alternative for \"kiss\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-13"
+  },
+  {
     "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
     "id": "ninna",
     "mutation_marker": "",
@@ -37718,6 +37824,83 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "A2A668DC-1996-4B55-98A6-C9D795ECBB46",
+    "id": "naw",
+    "mutation_marker": "",
+    "sindarin": "naw",
+    "spellings": [],
+    "ipa": "now",
+    "tengwar": "",
+    "cirth": "@bF",
+    "english": [
+      "idea",
+      "notion"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "naw",
+      "singular": "",
+      "plural": "nui"
+    },
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4058027947",
+    "etymology": {
+      "root_refs": [
+        "now"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nowo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "now",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2476983755"
+        },
+        {
+          "form": "naw",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nó"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "idea, notion",
+    "ids_code": "17.190",
+    "conception": "Key-2016-1310-1106",
+    "notes": "",
+    "references": [
+      "Ety/NOWO"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-13"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
