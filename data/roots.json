@@ -91,11 +91,18 @@
     "notes": ""
   },
   {
+    "id": "barad",
+    "form": "BARAD",
+    "gloss": "lofty, high, height combined with strength/size/majesty",
+    "eldamo_id": "998870309",
+    "notes": "Similar to BARAS"
+  },
+  {
     "id": "baras",
     "form": "BARAS",
     "gloss": "height combined with strength/majesty",
     "eldamo_id": "3951837921",
-    "notes": ""
+    "notes": "Similar to BARAD"
   },
   {
     "id": "bat",
@@ -1264,6 +1271,13 @@
     "form": "NUT",
     "gloss": "tie, bind",
     "eldamo_id": "2707610183",
+    "notes": ""
+  },
+  {
+    "id": "nyar",
+    "form": "NYAR",
+    "gloss": "tell, relate",
+    "eldamo_id": "2848411125",
     "notes": ""
   },
   {

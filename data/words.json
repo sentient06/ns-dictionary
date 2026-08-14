@@ -15944,8 +15944,8 @@
     "swadesh207": 140,
     "leipzig_jakarta": 29,
     "definition": "to say, speak, talk",
-    "ids_code": "18.210",
-    "conception": "Key-2016-1310-1156",
+    "ids_code": "18.210;18.220",
+    "conception": "Key-2016-1310-1156;Key-2016-1310-1158",
     "notes": "",
     "references": [
       "Let/424",
@@ -15958,7 +15958,7 @@
       "VT50/20"
     ],
     "hidden": "longman contains both speak and talk",
-    "last_modified": "2026-08-07"
+    "last_modified": "2026-08-14"
   },
   {
     "uuid": "F2AB643B-7701-4408-AB99-9CD5418E7A41",
@@ -31225,7 +31225,7 @@
     "tengwar": "",
     "cirth": "eb4I",
     "english": [
-      "bow"
+      "bow (v.)"
     ],
     "grammar": [
       "verb"
@@ -31259,13 +31259,13 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "",
+    "definition": "to bow",
     "ids_code": "9.140",
     "conception": "Key-2016-1310-324",
     "notes": "Based on Quenya \"kuv-\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-14"
   },
   {
     "uuid": "EE7E669B-D83C-46E4-9069-002010F6B3F1",
@@ -39505,6 +39505,61 @@
     "last_modified": "2026-08-07"
   },
   {
+    "uuid": "1873F705-0072-41B2-8234-D1AFBA44E89A",
+    "id": "bardha",
+    "mutation_marker": "",
+    "sindarin": "bardha-",
+    "spellings": [],
+    "ipa": "'bar.ða",
+    "tengwar": "",
+    "cirth": "2cR!cI",
+    "english": [
+      "rule (v.)",
+      "reign"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "320754423",
+    "etymology": {
+      "root_refs": [
+        "barad"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vard-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to rule, to reign",
+    "ids_code": "19.310",
+    "conception": "Key-2016-1310-1198",
+    "notes": "Probable original sense \"to be high\", \"to be noble\".",
+    "references": [
+      "GL/22"
+    ],
+    "hidden": "Longman has rule and govern",
+    "last_modified": "2026-08-14"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
@@ -40186,6 +40241,106 @@
     "last_modified": "2026-08-07"
   },
   {
+    "uuid": "BEC0AE00-229A-49AB-82D4-820A7AFF82F8",
+    "id": "cu",
+    "mutation_marker": "",
+    "sindarin": "cû",
+    "spellings": [],
+    "ipa": "kuː",
+    "tengwar": "",
+    "cirth": "eD",
+    "english": [
+      "bow (n.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "cû",
+      "singular": "",
+      "plural": "cui"
+    },
+    "gender": "",
+    "category": "instruments",
+    "ids_chapter": "warfare and hunting",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2183766783",
+    "etymology": {
+      "root_refs": [
+        "kuh"
+      ],
+      "primitive": {
+        "form": "kūma",
+        "eldamo_id": "2597469273"
+      },
+      "development": [
+        {
+          "form": "kūma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "kūm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "kūv",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "70600889"
+        },
+        {
+          "form": "kū",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KU(H)",
+          "gloss": "bow",
+          "type": "root"
+        },
+        {
+          "form": "-mā",
+          "gloss": "",
+          "type": "instrumental suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ku%3Ama&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1TGICH7"
+    },
+    "cognates": {
+      "quenya": "cúma"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "bow",
+    "ids_code": "20.240",
+    "conception": "Key-2016-1310-1232",
+    "notes": "",
+    "references": [
+      "PE17/122",
+      "S/209",
+      "SA/cú"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-14"
+  },
+  {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
     "id": "theinas",
     "mutation_marker": "",
@@ -40743,6 +40898,101 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "77D2177B-9A75-4524-9E76-ED68640ADC55",
+    "id": "gwest",
+    "mutation_marker": "",
+    "sindarin": "gwest",
+    "spellings": [],
+    "ipa": "gʷest",
+    "tengwar": "",
+    "cirth": "ozf8",
+    "english": [
+      "oath"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gwest",
+      "singular": "",
+      "plural": "gwist"
+    },
+    "gender": "",
+    "category": "law",
+    "ids_chapter": "law",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1620015377",
+    "etymology": {
+      "root_refs": [
+        "wed"
+      ],
+      "primitive": {
+        "form": "wedtā",
+        "eldamo_id": "1052626073"
+      },
+      "development": [
+        {
+          "form": "wedtā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "westā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "westa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwesta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gwest",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wedta%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV"
+    },
+    "cognates": {
+      "quenya": "vesta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "21.250",
+    "conception": "Key-2016-1310-1272",
+    "notes": "",
+    "references": [
+      "Ety/WED"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-14"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
@@ -41429,6 +41679,98 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-07"
+  },
+  {
+    "uuid": "EA9CF66C-36CD-4A56-9C57-3232625D78C9",
+    "id": "niardha",
+    "mutation_marker": "",
+    "sindarin": "niardha-",
+    "spellings": [],
+    "ipa": "'njar.ða",
+    "tengwar": "",
+    "cirth": "@lcR!cI",
+    "english": [
+      "preach"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nyar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "njardā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "njarda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "njarða",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "niarða",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "NYAR",
+          "gloss": "tell, relate",
+          "type": "root"
+        },
+        {
+          "form": "-dā",
+          "gloss": "product of an action",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=njar.da%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-DGIAQL"
+    },
+    "cognates": {
+      "quanya": "niarda-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "22.220",
+    "conception": "Key-2016-1310-1298",
+    "notes": "Based on Neo-Quenya \"niarda-\" with the same meaning.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-14"
   },
   {
     "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
