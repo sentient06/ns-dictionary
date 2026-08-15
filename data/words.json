@@ -24789,6 +24789,165 @@
     "last_modified": "2026-08-09"
   },
   {
+    "uuid": "87E3E234-BB56-44BB-A33C-5184CD0555EB",
+    "id": "tol",
+    "mutation_marker": "",
+    "sindarin": "tol",
+    "spellings": [],
+    "ipa": "tol",
+    "tengwar": "",
+    "cirth": "8ba",
+    "english": [
+      "island",
+      "sea stack",
+      "skerry"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "tol",
+      "singular": "",
+      "plural": "tyl"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4200880481",
+    "etymology": {
+      "root_refs": [
+        "tol"
+      ],
+      "primitive": {
+        "form": "tollo",
+        "eldamo_id": "3790274527"
+      },
+      "development": [
+        {
+          "form": "tollo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "toll",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=tollo&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T"
+    },
+    "cognates": {
+      "quenya": "tollë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "cliff island, sea stack, skerry, (high steep-sided) isle",
+    "ids_code": "1.250",
+    "conception": "Key-2016-1310-955",
+    "notes": "",
+    "references": [
+      "PE13/142"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-15"
+  },
+  {
+    "uuid": "07C069E8-03B3-4B47-8B00-F1A7C8C2F31C",
+    "id": "caer",
+    "mutation_marker": "",
+    "sindarin": "caer",
+    "spellings": [],
+    "ipa": "kaer",
+    "tengwar": "",
+    "cirth": "eczR",
+    "english": [
+      "ait",
+      "eyot",
+      "isle (river)",
+      "islet"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "147012101",
+    "etymology": {
+      "root_refs": [
+        "kay"
+      ],
+      "primitive": {
+        "form": "kaire",
+        "eldamo_id": "1867297861"
+      },
+      "development": [
+        {
+          "form": "kairē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kaire",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kair",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "kaer",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kaire%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T"
+    },
+    "cognates": {
+      "quenya": "cairë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "flat isle on a river; ait, eyot, islet",
+    "ids_code": "1.250",
+    "conception": "Key-2016-1310-955",
+    "notes": "",
+    "references": [
+      "PE17/101"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-15"
+  },
+  {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
     "id": "taw",
     "mutation_marker": "",
@@ -25297,6 +25456,69 @@
     ],
     "hidden": "longman has plural children",
     "last_modified": "2026-08-14"
+  },
+  {
+    "uuid": "ACFE58D6-C469-4958-9825-FA93B5555F6E",
+    "id": "gwinig",
+    "mutation_marker": "",
+    "sindarin": "gwinig",
+    "spellings": [],
+    "ipa": "'gʷiːnig",
+    "tengwar": "",
+    "cirth": "ol@lr",
+    "english": [
+      "baby",
+      "infant"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4039214635",
+    "etymology": {
+      "root_refs": [
+        "win"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "WIN",
+          "gloss": "young",
+          "type": "root."
+        },
+        {
+          "form": "-eg",
+          "gloss": "diminutive/singular ending",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vinimo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "little-one, baby, infant",
+    "ids_code": "2.280",
+    "conception": "Key-2016-1310-883",
+    "notes": "",
+    "references": [
+      "VT48/6"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
@@ -26166,6 +26388,109 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-12"
+  },
+  {
+    "uuid": "832932C5-6113-45D4-8D79-97691D6350A4",
+    "id": "gach",
+    "mutation_marker": "",
+    "sindarin": "gach",
+    "spellings": [],
+    "ipa": "gax",
+    "tengwar": "",
+    "cirth": "rct",
+    "english": [
+      "cow"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gach",
+      "singular": "",
+      "plural": "gech"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1742306507",
+    "etymology": {
+      "root_refs": [
+        "gyak"
+      ],
+      "primitive": {
+        "form": "gyaksē",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "gjaksē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "345959193"
+        },
+        {
+          "form": "gaksē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "gakse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "gaxxe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gaxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "gax",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gyakse%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T"
+    },
+    "cognates": {
+      "quenya": "yaxë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.230",
+    "conception": "Key-2016-1310-809",
+    "notes": "",
+    "references": [
+      "GL/36"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
@@ -27726,6 +28051,57 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-12"
+  },
+  {
+    "uuid": "FD7D3128-98C2-4863-9745-791528E49A2C",
+    "id": "faust",
+    "mutation_marker": "",
+    "sindarin": "faust",
+    "spellings": [],
+    "ipa": "faust",
+    "tengwar": "",
+    "cirth": "3cSf8",
+    "english": [
+      "thirst"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1043773193",
+    "etymology": {
+      "root_refs": [
+        "phaw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "fauka"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "5.150",
+    "conception": "Key-2016-1310-564",
+    "notes": "",
+    "references": [
+      "PE13/143"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",

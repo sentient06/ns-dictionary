@@ -1379,6 +1379,13 @@
     "notes": ""
   },
   {
+    "id": "phaw",
+    "form": "PHAW",
+    "gloss": "gape",
+    "eldamo_id": "3137038241",
+    "notes": ""
+  },
+  {
     "id": "phay",
     "form": "PHAY",
     "gloss": "spirit",
@@ -1894,6 +1901,13 @@
     "form": "TIW",
     "gloss": "fat, thick",
     "eldamo_id": "2671994255",
+    "notes": ""
+  },
+  {
+    "id": "tol",
+    "form": "TOL",
+    "gloss": "stand up",
+    "eldamo_id": "849889825",
     "notes": ""
   },
   {
