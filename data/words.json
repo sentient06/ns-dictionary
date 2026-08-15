@@ -5269,23 +5269,63 @@
         },
         {
           "rule": ">",
-          "eldamo_id": "3707785609"
+          "eldamo_id": "2233951333"
         },
         {
-          "form": "līwi",
+          "form": "liŋgwi",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "2399289739"
+          "eldamo_id": "3064357955"
         },
         {
-          "form": "liw",
+          "form": "liŋgwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "951924569"
+        },
+        {
+          "form": "liŋgwe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "limbe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "limb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "limm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "lim",
           "eldamo_id": ""
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=liNGwi&off=PE%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-111SIVJ"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=liNG.wi&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
       "quenya": "lingwë"
@@ -5303,11 +5343,11 @@
       "Ety/LIW, LOK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "7736ACC0-8A25-4CCD-8353-6BF3F54558A5",
-    "id": "hal",
+    "id": "hal-noun",
     "mutation_marker": "",
     "sindarin": "hâl",
     "spellings": [],
@@ -5394,7 +5434,7 @@
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "F12735CD-0EF4-4C7B-A61B-2CA484429113",
@@ -12111,15 +12151,15 @@
     "swadesh207": 92,
     "leipzig_jakarta": 42,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "5.130",
+    "conception": "Key-2016-1310-567",
     "notes": "",
     "references": [
       "Ety/SUK",
       "EtyAC/SUK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "D484FCD2-19F6-4C70-A4D6-6F82870CE988",
@@ -12281,7 +12321,7 @@
     "source": "Gnomish",
     "status": "",
     "noldorin_form": "",
-    "eldamo_id": "2713171143",
+    "eldamo_id": "",
     "etymology": {
       "root_refs": [],
       "primitive": null,
@@ -12301,7 +12341,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "849598BA-9AEE-4218-8849-7E2241EA936D",
@@ -12309,9 +12349,9 @@
     "mutation_marker": "",
     "sindarin": "lavra-",
     "spellings": [],
-    "ipa": "'la.vra",
-    "tengwar": "",
-    "cirth": "ac4RcI",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "suck"
     ],
@@ -12353,7 +12393,7 @@
       "GL/53"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
@@ -13795,16 +13835,16 @@
     "swadesh100": null,
     "swadesh207": 113,
     "leipzig_jakarta": 36,
-    "definition": "beat, strike, hit",
-    "ids_code": "",
-    "conception": "",
+    "definition": "to beat, strike, hit",
+    "ids_code": "9.210",
+    "conception": "Key-2016-1310-317",
     "notes": "",
     "references": [
       "Ety/DRING",
       "EtyAC/DRING"
     ],
     "hidden": "Longman has all 3",
-    "last_modified": "2026-07-30"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "1E155D98-D02E-4A79-B117-52B2C2AB3ABB",
@@ -14379,7 +14419,7 @@
   },
   {
     "uuid": "506883F0-1F60-44FA-8C3A-9B6AF5C27822",
-    "id": "tol",
+    "id": "tol-verb",
     "mutation_marker": "",
     "sindarin": "tol-",
     "spellings": [],
@@ -14445,7 +14485,7 @@
       "WJ/254, 301"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "6D74DE9A-BBAD-49F2-B037-FE25BF9FE094",
@@ -14941,7 +14981,7 @@
     "inflection": null,
     "gender": "",
     "category": "physics",
-    "ids_chapter": "passive",
+    "ids_chapter": "motion",
     "type": "attested",
     "source": "Tolkien",
     "status": "",
@@ -14996,15 +15036,15 @@
     "swadesh100": null,
     "swadesh207": 127,
     "leipzig_jakarta": 82,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "definition": "to fall",
+    "ids_code": "10.230",
+    "conception": "Key-2016-1310-246",
     "notes": "",
     "references": [
       "PE17/62"
     ],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "A1FC140D-D3AE-4CA2-AE70-54B89DFF8B3B",
@@ -24790,7 +24830,7 @@
   },
   {
     "uuid": "87E3E234-BB56-44BB-A33C-5184CD0555EB",
-    "id": "tol",
+    "id": "tol-noun",
     "mutation_marker": "",
     "sindarin": "tol",
     "spellings": [],
@@ -27826,82 +27866,6 @@
     "last_modified": "2026-07-25"
   },
   {
-    "uuid": "1D4DA433-FE5A-403B-B819-A168BD3611B7",
-    "id": "sog",
-    "mutation_marker": "",
-    "sindarin": "sog-",
-    "spellings": [],
-    "ipa": "sog",
-    "tengwar": "",
-    "cirth": "fbrI",
-    "english": [
-      "drink"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "food and drink",
-    "type": "restored",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "3233859463",
-    "etymology": {
-      "root_refs": [
-        "suk"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "suk",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2740073851"
-        },
-        {
-          "form": "sok",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2240258959"
-        },
-        {
-          "form": "sog",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=suk&off=4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
-    },
-    "cognates": {
-      "quenya": "suk-"
-    },
-    "conjugation": {
-      "class": "basic",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "5.130",
-    "conception": "Key-2016-1310-567",
-    "notes": "",
-    "references": [
-      "Ety/SUK",
-      "EtyAC/SUK"
-    ],
-    "hidden": "",
-    "last_modified": "2026-07-31"
-  },
-  {
     "uuid": "8416CC0A-DF00-4767-86D7-2FCFE64A67FE",
     "id": "saeg",
     "mutation_marker": "",
@@ -28051,57 +28015,6 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-12"
-  },
-  {
-    "uuid": "FD7D3128-98C2-4863-9745-791528E49A2C",
-    "id": "faust",
-    "mutation_marker": "",
-    "sindarin": "faust",
-    "spellings": [],
-    "ipa": "faust",
-    "tengwar": "",
-    "cirth": "3cSf8",
-    "english": [
-      "thirst"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "state",
-    "ids_chapter": "food and drink",
-    "type": "reconstructed",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "1043773193",
-    "etymology": {
-      "root_refs": [
-        "phaw"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {
-      "quenya": "fauka"
-    },
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "5.150",
-    "conception": "Key-2016-1310-564",
-    "notes": "",
-    "references": [
-      "PE13/143"
-    ],
-    "hidden": "",
-    "last_modified": "2026-08-15"
   },
   {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
@@ -29078,11 +28991,7 @@
     "grammar": [
       "noun"
     ],
-    "inflection": {
-      "base": "helf",
-      "singular": "",
-      "plural": "hilf"
-    },
+    "inflection": null,
     "gender": "",
     "category": "thing",
     "ids_chapter": "clothing and grooming",
@@ -29184,7 +29093,56 @@
       "EtyAC/SKEL"
     ],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-08-15"
+  },
+  {
+    "uuid": "5148EE77-5FFE-4E1A-B341-D30D0ABA7547",
+    "id": "al",
+    "mutation_marker": "",
+    "sindarin": "âl",
+    "spellings": [],
+    "ipa": "aːl",
+    "tengwar": "",
+    "cirth": "va",
+    "english": [
+      "leather"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "alu"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "alu"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "6.290",
+    "conception": "Key-2016-1310-484",
+    "notes": "Neologism based on Early Quenya \"alu\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
@@ -30176,6 +30134,79 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-14"
+  },
+  {
+    "uuid": "BD6FEE70-C265-4A63-8FBD-5A8B6C7C2622",
+    "id": "ledil",
+    "mutation_marker": "",
+    "sindarin": "ledil",
+    "spellings": [],
+    "ipa": "'le.dil",
+    "tengwar": "",
+    "cirth": "az9la",
+    "english": [
+      "key"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "the house",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2885208675",
+    "etymology": {
+      "root_refs": [
+        "lat"
+      ],
+      "primitive": {
+        "form": "latil",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "latil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "letil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "ledil",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=latil&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "latil"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "7.240",
+    "conception": "Key-2016-1310-422",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
@@ -32000,59 +32031,6 @@
     "last_modified": "2026-08-14"
   },
   {
-    "uuid": "203C4370-ECB8-479C-A30D-C72194FFB57E",
-    "id": "dringa",
-    "mutation_marker": "",
-    "sindarin": "dringa-",
-    "spellings": [],
-    "ipa": "'driŋ.ga",
-    "tengwar": "",
-    "cirth": "9RldcI",
-    "english": [
-      "beat"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "basic actions and technology",
-    "type": "restored",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "3778219153",
-    "etymology": {
-      "root_refs": [
-        "dring"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": {
-      "class": "derived",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to beat",
-    "ids_code": "9.210",
-    "conception": "Key-2016-1310-317",
-    "notes": "",
-    "references": [
-      "Ety/DRING",
-      "EtyAC/DRING"
-    ],
-    "hidden": "",
-    "last_modified": "2026-08-12"
-  },
-  {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
     "id": "menna",
     "mutation_marker": "",
@@ -32818,7 +32796,7 @@
   },
   {
     "uuid": "F74769C9-F29C-4994-A354-A9C3C56D6EC4",
-    "id": "hal",
+    "id": "hal-verb",
     "mutation_marker": "",
     "sindarin": "hal-",
     "spellings": [],
@@ -32887,61 +32865,7 @@
       "EtyAC/KHAL"
     ],
     "hidden": "",
-    "last_modified": "2026-08-12"
-  },
-  {
-    "uuid": "8DB25228-57E8-4C9E-9035-32BDF453B208",
-    "id": "danna",
-    "mutation_marker": "",
-    "sindarin": "danna-",
-    "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
-    "english": [
-      "fall"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "motion",
-    "type": "attested",
-    "source": "Tolkien",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "1145289087",
-    "etymology": {
-      "root_refs": [
-        "dat"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {
-      "quenya": "lanta-"
-    },
-    "conjugation": {
-      "class": "derived",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to fall",
-    "ids_code": "10.230",
-    "conception": "Key-2016-1310-246",
-    "notes": "",
-    "references": [
-      "PE17/62"
-    ],
-    "hidden": "",
-    "last_modified": "2026-08-12"
+    "last_modified": "2026-08-15"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
@@ -42967,5 +42891,56 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-14"
+  },
+  {
+    "uuid": "FD7D3128-98C2-4863-9745-791528E49A2C",
+    "id": "faust",
+    "mutation_marker": "",
+    "sindarin": "faust",
+    "spellings": [],
+    "ipa": "faust",
+    "tengwar": "",
+    "cirth": "3cSf8",
+    "english": [
+      "thirst"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1043773193",
+    "etymology": {
+      "root_refs": [
+        "phaw"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "fauka"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "5.150",
+    "conception": "Key-2016-1310-564",
+    "notes": "",
+    "references": [
+      "PE13/143"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-15"
   }
 ]
