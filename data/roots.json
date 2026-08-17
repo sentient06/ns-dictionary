@@ -98,6 +98,13 @@
     "notes": ""
   },
   {
+    "id": "bar",
+    "form": "BAR",
+    "gloss": "raise; uplift, save, rescue",
+    "eldamo_id": "3356957571",
+    "notes": ""
+  },
+  {
     "id": "barad",
     "form": "BARAD",
     "gloss": "lofty, high, height combined with strength/size/majesty",
@@ -123,6 +130,13 @@
     "form": "BES",
     "gloss": "to wed",
     "eldamo_id": "1660372611",
+    "notes": ""
+  },
+  {
+    "id": "boron",
+    "form": "BOR(ON)",
+    "gloss": "endure",
+    "eldamo_id": "2247282307",
     "notes": ""
   },
   {
@@ -781,6 +795,13 @@
     "form": "LI",
     "gloss": "many",
     "eldamo_id": "3034511199",
+    "notes": ""
+  },
+  {
+    "id": "lib",
+    "form": "LIB",
+    "gloss": "drip",
+    "eldamo_id": "3914786375",
     "notes": ""
   },
   {
