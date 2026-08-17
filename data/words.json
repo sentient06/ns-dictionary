@@ -6881,15 +6881,15 @@
     "swadesh207": 55,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "8.311",
+    "conception": "Key-2016-1310-378",
     "notes": "",
     "references": [
       "Ety/ERÉD",
       "EtyAC/ERÉD"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-08-17"
   },
   {
     "uuid": "D821EFA9-3252-474C-B503-0D387A9CC395",
@@ -31304,6 +31304,89 @@
     ],
     "hidden": "spade is on longman, not shovel",
     "last_modified": "2026-08-14"
+  },
+  {
+    "uuid": "F4AF8C1A-1C38-4B35-8FE3-7E9866308CBB",
+    "id": "redh",
+    "mutation_marker": "",
+    "sindarin": "redh-",
+    "spellings": [],
+    "ipa": "reð",
+    "tengwar": "",
+    "cirth": "Rz!I",
+    "english": [
+      "sow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "218472163",
+    "etymology": {
+      "root_refs": [
+        "red"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rheði",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2690267141"
+        },
+        {
+          "form": "reði",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3064357955"
+        },
+        {
+          "form": "reðe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "reð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rheDHi&off=4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {
+      "quenya": "rer-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to sow",
+    "ids_code": "8.310",
+    "conception": "Key-2016-1310-379",
+    "notes": "",
+    "references": [
+      "Ety/RED"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-17"
   },
   {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
