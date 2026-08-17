@@ -38810,173 +38810,6 @@
     "last_modified": "2026-08-07"
   },
   {
-    "uuid": "A2A668DC-1996-4B55-98A6-C9D795ECBB46",
-    "id": "naw",
-    "mutation_marker": "",
-    "sindarin": "naw",
-    "spellings": [],
-    "ipa": "now",
-    "tengwar": "",
-    "cirth": "@bF",
-    "english": [
-      "idea",
-      "notion"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": {
-      "base": "naw",
-      "singular": "",
-      "plural": "nui"
-    },
-    "gender": "",
-    "category": "mind",
-    "ids_chapter": "cognition",
-    "type": "restored",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "4058027947",
-    "etymology": {
-      "root_refs": [
-        "now"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "nowo",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2794740763"
-        },
-        {
-          "form": "now",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2476983755"
-        },
-        {
-          "form": "naw",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {
-      "quenya": "nó"
-    },
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "idea, notion",
-    "ids_code": "17.190",
-    "conception": "Key-2016-1310-1106",
-    "notes": "",
-    "references": [
-      "Ety/NOWO"
-    ],
-    "hidden": "Need rule change",
-    "last_modified": "2026-08-14"
-  },
-  {
-    "uuid": "C7058C84-C244-4979-A2B6-1D9A593D8130",
-    "id": "sael",
-    "mutation_marker": "",
-    "sindarin": "sael",
-    "spellings": [],
-    "ipa": "sael",
-    "tengwar": "",
-    "cirth": "fcza",
-    "english": [
-      "wise"
-    ],
-    "grammar": [
-      "adjective"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "mind",
-    "ids_chapter": "cognition",
-    "type": "attested",
-    "source": "Tolkien",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "3888667647",
-    "etymology": {
-      "root_refs": [
-        "say"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "sajlā",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2753394075"
-        },
-        {
-          "form": "sajla",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1679623085"
-        },
-        {
-          "form": "saila",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "813787869"
-        },
-        {
-          "form": "sail",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "941153689"
-        },
-        {
-          "form": "sael",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sajla%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
-    },
-    "cognates": {
-      "quenya": "saila"
-    },
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "17.210",
-    "conception": "Key-2016-1310-1107",
-    "notes": "",
-    "references": [
-      "MR/305",
-      "PE17/102",
-      "SD/126"
-    ],
-    "hidden": "Unknown suffix -lā",
-    "last_modified": "2026-08-17"
-  },
-  {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
     "id": "glim",
     "mutation_marker": "",
@@ -39507,6 +39340,101 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-03"
+  },
+  {
+    "uuid": "CDBC3AA7-6601-41DF-AF87-92645991A6D6",
+    "id": "adonod",
+    "mutation_marker": "",
+    "sindarin": "adonod-",
+    "spellings": [],
+    "ipa": "'a.do.nod",
+    "tengwar": "",
+    "cirth": "c9b@b9I",
+    "english": [
+      "tell",
+      "recount"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "speech and language",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "at",
+        "wo",
+        "not"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "atwōnot",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "atwonot",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "adwonod",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "586391091"
+        },
+        {
+          "form": "adonod",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "at-",
+          "gloss": "again",
+          "type": "prefix"
+        },
+        {
+          "form": "wō-",
+          "gloss": "together",
+          "type": "prefix"
+        },
+        {
+          "form": "not-",
+          "gloss": "to count",
+          "type": "verb"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=at.wo%3A.not&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CG8C37D%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T&mb=19JASGR%3A0%2C1#rule-19JASGR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to tell (a tale), recount",
+    "ids_code": "18.221",
+    "conception": "Key-2016-1310-1159",
+    "notes": "Based on German erzählen, French raconter, Portuguese contar, English recount, from Latin computare, \"count events\", \"enumerating events\". French would be deconstructed as re- \"again\" + com \"together\" + putare \"to count, reckon\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-17"
   },
   {
     "uuid": "0DDD5933-9061-4C2F-889A-6526BEB0100A",
@@ -43716,5 +43644,172 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-15"
+  },
+  {
+    "uuid": "A2A668DC-1996-4B55-98A6-C9D795ECBB46",
+    "id": "naw",
+    "mutation_marker": "",
+    "sindarin": "naw",
+    "spellings": [],
+    "ipa": "now",
+    "tengwar": "",
+    "cirth": "@bF",
+    "english": [
+      "idea",
+      "notion"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "naw",
+      "singular": "",
+      "plural": "nui"
+    },
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4058027947",
+    "etymology": {
+      "root_refs": [
+        "now"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nowo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "now",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2476983755"
+        },
+        {
+          "form": "naw",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "nó"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "idea, notion",
+    "ids_code": "17.190",
+    "conception": "Key-2016-1310-1106",
+    "notes": "",
+    "references": [
+      "Ety/NOWO"
+    ],
+    "hidden": "Need rule change",
+    "last_modified": "2026-08-14"
+  },
+  {
+    "uuid": "C7058C84-C244-4979-A2B6-1D9A593D8130",
+    "id": "sael",
+    "mutation_marker": "",
+    "sindarin": "sael",
+    "spellings": [],
+    "ipa": "sael",
+    "tengwar": "",
+    "cirth": "fcza",
+    "english": [
+      "wise"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3888667647",
+    "etymology": {
+      "root_refs": [
+        "say"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sajlā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "sajla",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "saila",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "sail",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "sael",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sajla%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "saila"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "17.210",
+    "conception": "Key-2016-1310-1107",
+    "notes": "",
+    "references": [
+      "MR/305",
+      "PE17/102",
+      "SD/126"
+    ],
+    "hidden": "Unknown suffix -lā",
+    "last_modified": "2026-08-17"
   }
 ]
