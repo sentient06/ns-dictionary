@@ -32114,6 +32114,143 @@
     "last_modified": "2026-08-14"
   },
   {
+    "uuid": "AD3401C9-0D63-4DB3-9143-3C595991DF63",
+    "id": "rista",
+    "mutation_marker": "",
+    "sindarin": "rista-",
+    "spellings": [],
+    "ipa": "'ris.ta",
+    "tengwar": "",
+    "cirth": "Rlf8cI",
+    "english": [
+      "cut",
+      "rend",
+      "rip"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "rhista-",
+    "eldamo_id": "4281316195",
+    "etymology": {
+      "root_refs": [
+        "ris"
+      ],
+      "primitive": {
+        "form": "rista-",
+        "eldamo_id": "2927604673"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "rista-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to cut, rend, rip",
+    "ids_code": "9.220",
+    "conception": "Key-2016-1310-315",
+    "notes": "Prefer this word to \"crista-\" to express \"to cut\", because of the Quenya cognate, Noldorin update and PE equivalent.",
+    "references": [
+      "Ety/RIS"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-17"
+  },
+  {
+    "uuid": "2BEFA7CF-E751-46B5-95A8-17AA76E2BAA1",
+    "id": "crista",
+    "mutation_marker": "",
+    "sindarin": "crista-",
+    "spellings": [],
+    "ipa": "'kris.ta",
+    "tengwar": "",
+    "cirth": "eRlf8cI",
+    "english": [
+      "hack",
+      "slash",
+      "chop",
+      "slice",
+      "cut"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2506604563",
+    "etymology": {
+      "root_refs": [
+        "kiris"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kirísta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "kiríst",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3648128347"
+        },
+        {
+          "form": "krist",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kiri%27sta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1A7WZRV"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to hack, slash, chop, slice, cut",
+    "ids_code": "9.220",
+    "conception": "Key-2016-1310-315",
+    "notes": "Prefer \"rista-\" to express \"to cut\". This word should express something more intense or violent.",
+    "references": [
+      "GL/27",
+      "LT2A/Cris Ilbranteloth"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-17"
+  },
+  {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
     "id": "menna",
     "mutation_marker": "",
@@ -32949,6 +33086,61 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-15"
+  },
+  {
+    "uuid": "C0B643E0-061E-4524-BD6A-949F107B9441",
+    "id": "liv",
+    "mutation_marker": "",
+    "sindarin": "liv-",
+    "spellings": [],
+    "ipa": "liv",
+    "tengwar": "",
+    "cirth": "al4I",
+    "english": [
+      "drip"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2726281273",
+    "etymology": {
+      "root_refs": [
+        "lib"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lipta-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to drip",
+    "ids_code": "10.240",
+    "conception": "Key-2016-1310-245",
+    "notes": "",
+    "references": [
+      "GL/54",
+      "LT1A/limpë"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-17"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
