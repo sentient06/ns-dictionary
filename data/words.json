@@ -40562,6 +40562,75 @@
     "last_modified": "2026-08-14"
   },
   {
+    "uuid": "F0BB0801-5C7A-4047-B949-96BF62095B94",
+    "id": "aran",
+    "mutation_marker": "",
+    "sindarin": "aran",
+    "spellings": [],
+    "ipa": "aran",
+    "tengwar": "",
+    "cirth": "cRc@",
+    "english": [
+      "king",
+      "lord",
+      "chief"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "aran",
+      "singular": "",
+      "plural": "erain"
+    },
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "658710813",
+    "etymology": {
+      "root_refs": [
+        "ara"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "RĀ/ARA",
+          "gloss": "noble, high, royal",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "aran"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "king, lord, chief, (lit.) high or noble person",
+    "ids_code": "19.320",
+    "conception": "Key-2016-1310-1199",
+    "notes": "",
+    "references": [
+      "AotM/62",
+      "Let/426",
+      "LotR/305",
+      "PE17/40, 111, 113, 147",
+      "PM/358",
+      "SA/ar(a)",
+      "SD/128-129"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-17"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
