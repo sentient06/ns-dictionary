@@ -483,6 +483,13 @@
     "notes": ""
   },
   {
+    "id": "kew",
+    "form": "KEW",
+    "gloss": "new, fresh; anew, repeated; live of vegetables",
+    "eldamo_id": "3262325803",
+    "notes": ""
+  },
+  {
     "id": "khad",
     "form": "KHAD",
     "gloss": "sit",
@@ -690,6 +697,13 @@
     "form": "KWI",
     "gloss": "suppose",
     "eldamo_id": "733142983",
+    "notes": ""
+  },
+  {
+    "id": "kwir",
+    "form": "KWIR",
+    "gloss": "stir, spin",
+    "eldamo_id": "4198684223",
     "notes": ""
   },
   {
@@ -1050,6 +1064,13 @@
     "notes": ""
   },
   {
+    "id": "min",
+    "form": "MIN",
+    "gloss": "one, first of a series",
+    "eldamo_id": "2926213191",
+    "notes": ""
+  },
+  {
     "id": "mini",
     "form": "MINI",
     "gloss": "small, less",
@@ -1309,6 +1330,13 @@
     "notes": ""
   },
   {
+    "id": "nyad",
+    "form": "NYAD",
+    "gloss": "gnaw",
+    "eldamo_id": "2373615457",
+    "notes": ""
+  },
+  {
     "id": "nyar",
     "form": "NYAR",
     "gloss": "tell, relate",
@@ -1379,6 +1407,13 @@
     "notes": ""
   },
   {
+    "id": "pan",
+    "form": "PAN",
+    "gloss": "place, set, fix in place (especially of wood)",
+    "eldamo_id": "2224817323",
+    "notes": ""
+  },
+  {
     "id": "parak",
     "form": "PARAK",
     "gloss": "dry",
@@ -1404,6 +1439,13 @@
     "form": "PEL",
     "gloss": "fence, border, edge; bound, limit; go round, encircle",
     "eldamo_id": "1642382925",
+    "notes": ""
+  },
+  {
+    "id": "phal",
+    "form": "PHAL",
+    "gloss": "foam, splash",
+    "eldamo_id": "875081585",
     "notes": ""
   },
   {
@@ -1454,7 +1496,14 @@
     "gloss": "darkness",
     "eldamo_id": "274140471",
     "notes": ""
-  }, 
+  },
+  {
+    "id": "pilin",
+    "form": "PILIN",
+    "gloss": "arrow",
+    "eldamo_id": "1866647771",
+    "notes": ""
+  },
   {
     "id": "pin",
     "form": "PI(N)",
@@ -1519,6 +1568,13 @@
     "notes": ""
   },
   {
+    "id": "rek",
+    "form": "REK",
+    "gloss": "recover, get out/away, save from ruin/peril/loss",
+    "eldamo_id": "1434936715",
+    "notes": ""
+  },
+  {
     "id": "rin",
     "form": "RIN",
     "gloss": "circle",
@@ -1544,6 +1600,13 @@
     "form": "RON",
     "gloss": "solid, tangible, firm",
     "eldamo_id": "4158663553",
+    "notes": ""
+  },
+  {
+    "id": "rong",
+    "form": "ROÑ",
+    "gloss": "soon",
+    "eldamo_id": "349885511",
     "notes": ""
   },
   {

@@ -28246,6 +28246,58 @@
     "last_modified": "2026-08-15"
   },
   {
+    "uuid": "C7DDEFC1-E174-4EE6-8352-78A8A294D600",
+    "id": "nadh",
+    "mutation_marker": "",
+    "sindarin": "nadh-",
+    "spellings": [],
+    "ipa": "nað",
+    "tengwar": "",
+    "cirth": "@c!I",
+    "english": [
+      "chew"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "food and drink",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3327507593",
+    "etymology": {
+      "root_refs": [
+        "nyad"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to chew",
+    "ids_code": "5.180",
+    "conception": "Key-2016-1310-562",
+    "notes": "",
+    "references": [
+      "GL/56"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-19"
+  },
+  {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
     "id": "brath",
     "mutation_marker": "",
@@ -29374,6 +29426,61 @@
     "last_modified": "2026-08-15"
   },
   {
+    "uuid": "73D87505-D00A-4DCF-AE79-546CF48FCB94",
+    "id": "pir",
+    "mutation_marker": "",
+    "sindarin": "pir-",
+    "spellings": [],
+    "ipa": "pir",
+    "tengwar": "",
+    "cirth": "1lRI",
+    "english": [
+      "stir",
+      "spin"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "clothing and grooming",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4028727639",
+    "etymology": {
+      "root_refs": [
+        "kwir"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "qiri-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to stir, to make spin",
+    "ids_code": "6.310",
+    "conception": "Key-2016-1310-483",
+    "notes": "",
+    "references": [
+      "GL/29"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-19"
+  },
+  {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
     "id": "bar-verb",
     "mutation_marker": "mb-",
@@ -30436,6 +30543,71 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-15"
+  },
+  {
+    "uuid": "BE56B891-F0FA-4B6A-B9D1-9D9BB576A5AB",
+    "id": "henneth",
+    "mutation_marker": "",
+    "sindarin": "henneth",
+    "spellings": [],
+    "ipa": "'he.neθ",
+    "tengwar": "",
+    "cirth": ".z@@z0",
+    "english": [
+      "window"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "henneth",
+      "singular": "",
+      "plural": "hennith"
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2982995049",
+    "etymology": {
+      "root_refs": [
+        "khen"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "hen(d)",
+          "gloss": "eye",
+          "type": "noun"
+        },
+        {
+          "form": "-th",
+          "gloss": "abstract noun",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "7.250",
+    "conception": "Key-2016-1310-421",
+    "notes": "",
+    "references": [
+      "LotR/674",
+      "RC/473"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-19"
   },
   {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
@@ -32480,6 +32652,107 @@
     "last_modified": "2026-08-17"
   },
   {
+    "uuid": "427B6E42-546D-4672-A6CA-6F4BA6672AB8",
+    "id": "teledia",
+    "mutation_marker": "",
+    "sindarin": "teledia-",
+    "spellings": [],
+    "ipa": "'te.le.dja",
+    "tengwar": "",
+    "cirth": "8zaz9lcI",
+    "english": [
+      "cut down",
+      "bring down",
+      "knock",
+      "shut down",
+      "fell",
+      "tumble"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "talatjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "talatja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "talatia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "teletia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "teledia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "TALAT",
+          "gloss": "collapse",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=talat.ya%3A&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to cut down, to bring down; to knock; to shut down; to fell; to tumble",
+    "ids_code": "9.221",
+    "conception": "Key-2016-1310-314",
+    "notes": "Neologism meaning \"cause to collapse\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-08-19"
+  },
+  {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
     "id": "menna",
     "mutation_marker": "",
@@ -33372,6 +33645,59 @@
     "last_modified": "2026-08-17"
   },
   {
+    "uuid": "A6DE99D2-7D5E-4094-9006-B31491DE78B3",
+    "id": "had",
+    "mutation_marker": "",
+    "sindarin": "had-",
+    "spellings": [],
+    "ipa": "had",
+    "tengwar": "",
+    "cirth": ".c9I",
+    "english": [
+      "throw",
+      "hurl"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1108917221",
+    "etymology": {
+      "root_refs": [
+        "khat"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to throw, to hurl",
+    "ids_code": "10.250",
+    "conception": "Key-2016-1310-244",
+    "notes": "",
+    "references": [
+      "Ety/KHAT"
+    ],
+    "hidden": "Longman has throw",
+    "last_modified": "2026-08-19"
+  },
+  {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
     "id": "nor",
     "mutation_marker": "",
@@ -34067,6 +34393,61 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-17"
+  },
+  {
+    "uuid": "2A37AD4C-A0F5-420C-9F66-6C780C074FBD",
+    "id": "reitha",
+    "mutation_marker": "",
+    "sindarin": "reitha-",
+    "spellings": [],
+    "ipa": "'rej.θa",
+    "tengwar": "",
+    "cirth": "Rzl0cI",
+    "english": [
+      "save",
+      "rescue"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "possession",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "748225477",
+    "etymology": {
+      "root_refs": [
+        "rek"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "rehta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to save, rescue",
+    "ids_code": "11.250",
+    "conception": "Key-2016-1310-164",
+    "notes": "",
+    "references": [
+      "GL/42"
+    ],
+    "hidden": "Longman has save",
+    "last_modified": "2026-08-19"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -34848,6 +35229,62 @@
     "last_modified": "2026-08-17"
   },
   {
+    "uuid": "86E44F9C-1825-42E6-AA59-4D1142D40528",
+    "id": "penia",
+    "mutation_marker": "",
+    "sindarin": "penia-",
+    "spellings": [],
+    "ipa": "'pe.nja",
+    "tengwar": "",
+    "cirth": "1z@lcI",
+    "english": [
+      "put",
+      "fix",
+      "set"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "82631021",
+    "etymology": {
+      "root_refs": [
+        "pan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "panya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to put, fix, set",
+    "ids_code": "12.120",
+    "conception": "Key-2016-1310-119",
+    "notes": "",
+    "references": [
+      "Ety/PAN"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-19"
+  },
+  {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
     "id": "dolla",
     "mutation_marker": "",
@@ -35375,6 +35812,105 @@
     ],
     "hidden": "",
     "last_modified": "2026-07-20"
+  },
+  {
+    "uuid": "C8AE5D75-0F64-4DAF-A43B-932C671F6FA8",
+    "id": "minib",
+    "mutation_marker": "",
+    "sindarin": "minib",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "eleven"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "857424327",
+    "etymology": {
+      "root_refs": [
+        "min",
+        "kew"
+      ],
+      "primitive": {
+        "form": "min(i)kewē",
+        "eldamo_id": "2995198795"
+      },
+      "development": [
+        {
+          "form": "minikwē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "minipē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "minipe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "minip",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "minib",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "MIN",
+          "gloss": "one",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=minikwe%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "minquë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.101",
+    "conception": "Key-2016-1310-47",
+    "notes": "",
+    "references": [
+      "PE17/95",
+      "VT48/6-8"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-19"
   },
   {
     "uuid": "D3323D1B-667D-4365-A34D-BB7CE23ED19D",
@@ -36398,6 +36934,58 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-17"
+  },
+  {
+    "uuid": "0900EC7A-2D95-4311-9BB5-4D8843870E27",
+    "id": "ronga",
+    "mutation_marker": "",
+    "sindarin": "ronga-",
+    "spellings": [],
+    "ipa": "'ron.ga",
+    "tengwar": "",
+    "cirth": "RbdcI",
+    "english": [
+      "hasten",
+      "hurry"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "time",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2431408739",
+    "etymology": {
+      "root_refs": [
+        "rong"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "telerin": "runga-"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to hasten, hurry",
+    "ids_code": "14.230",
+    "conception": "Key-2016-1310-10",
+    "notes": "Based on Telerin \"runga-\".",
+    "references": [
+      "PE22/132"
+    ],
+    "hidden": "longman has hurry",
+    "last_modified": "2026-08-19"
   },
   {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
