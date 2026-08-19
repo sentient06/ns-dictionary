@@ -11777,14 +11777,14 @@
     "swadesh207": 88,
     "leipzig_jakarta": 47,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.190",
+    "conception": "Key-2016-1310-709",
     "notes": "",
     "references": [
       "PE13/136"
     ],
     "hidden": "Longman has \"back\" (generic)",
-    "last_modified": "2026-07-30"
+    "last_modified": "2026-08-19"
   },
   {
     "uuid": "F108F0EE-4B25-493D-9AAB-38771D087703",
@@ -26647,6 +26647,68 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-15"
+  },
+  {
+    "uuid": "529B7457-597F-4383-81E0-A10348D2DEFF",
+    "id": "munneg",
+    "mutation_marker": "",
+    "sindarin": "munneg",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "6S@@zr",
+    "english": [
+      "calf"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "munneg",
+      "singular": "",
+      "plural": "mynnig"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3331555571",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "mund",
+          "gloss": "bull",
+          "type": "noun"
+        },
+        {
+          "form": "-eg",
+          "gloss": "diminutive",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.240",
+    "conception": "Key-2016-1310-808",
+    "notes": "",
+    "references": [
+      "GL/58"
+    ],
+    "hidden": "",
+    "last_modified": "2026-08-19"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
