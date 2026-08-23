@@ -43077,13 +43077,13 @@
   },
   {
     "uuid": "9A53D0C0-F3AA-40B5-B045-29702B152AEB",
-    "id": "dafed",
-    "mutation_marker": "nd-",
-    "sindarin": "dafed-",
+    "id": "anaphed",
+    "mutation_marker": "",
+    "sindarin": "anaphed-",
     "spellings": [],
-    "ipa": "'da.fed",
-    "tengwar": "",
-    "cirth": "9c3z9I",
+    "ipa": "'a.na.fed",
+    "tengwar": "",
+    "cirth": "c@c3z9I",
     "english": [
       "accuse"
     ],
@@ -43101,16 +43101,76 @@
     "eldamo_id": "",
     "etymology": {
       "root_refs": [
-        "ndan",
         "kwet"
       ],
       "primitive": null,
-      "development": [],
+      "development": [
+        {
+          "form": "anakkwet",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "anakpet",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "anakpʰet",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "anakɸet",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "anaxfet",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "anaxfed",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "anafed",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "anaphed",
+          "eldamo_id": ""
+        }
+      ],
       "elements": [
         {
-          "form": "ndan-",
+          "form": "anak",
           "gloss": "against",
-          "type": "prefix"
+          "type": "adverb"
         },
         {
           "form": "KWET",
@@ -43125,7 +43185,7 @@
       "class": "basic",
       "irregular": false
     },
-    "confidence": 1,
+    "confidence": 0,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -43135,7 +43195,7 @@
     "notes": "Based on Ancient Greek κατηγορέω (katēgoréō), meaning \"accuse, speak against, bring a charge\", made up by κατά (katá) \"against\" + ἀγορεύω (agoreúō) \"speak in the agora\". So the meaning is basically to speak against someone. The Latin accūsāre breaks down into ad \"towards, with regard to\" + causa \"cause, legal case\". Russian обвинять suggests assigning blame, and Finnish syyttää is a causative for something that has been done. I thought that Elves would be more likely to assign guilt by debating the facts rather than simply attributing guilt, so I prefer the Greek interpretation.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-08-18"
+    "last_modified": "2026-08-23"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
