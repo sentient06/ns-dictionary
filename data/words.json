@@ -9439,8 +9439,8 @@
     "swadesh207": 72,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.200",
+    "conception": "Key-2016-1310-707",
     "notes": "",
     "references": [
       "PE17/32, 36, 173",
@@ -9449,7 +9449,7 @@
       "SA/dol"
     ],
     "hidden": "ndollo",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-09-30"
   },
   {
     "uuid": "F159A58E-2AD1-46B1-A17C-52A1BDC095D2",
@@ -25104,6 +25104,100 @@
     "last_modified": "2026-08-18"
   },
   {
+    "uuid": "418DD849-2F00-4793-86ED-E94673C562AF",
+    "id": "feleg",
+    "mutation_marker": "",
+    "sindarin": "feleg",
+    "spellings": [],
+    "ipa": "'fe.lig",
+    "tengwar": "",
+    "cirth": "3zazr",
+    "english": [
+      "cave",
+      "mine",
+      "underground dwelling"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "feleg",
+      "singular": "",
+      "plural": "felig"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2114664387",
+    "etymology": {
+      "root_refs": [
+        "pheleg"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pʰeleke",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ɸeleke",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "890563133"
+        },
+        {
+          "form": "feleke",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "felek",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "feleg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5eleke&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "felco"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "cave, mine, underground dwelling",
+    "ids_code": "1.280",
+    "conception": "Key-2016-1310-952",
+    "notes": "",
+    "references": [
+      "PE17/118"
+    ],
+    "hidden": "",
+    "last_modified": "2026-09-30"
+  },
+  {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
     "id": "taw",
     "mutation_marker": "",
@@ -26711,6 +26805,86 @@
     "last_modified": "2026-08-19"
   },
   {
+    "uuid": "342914C0-F32E-48E0-9719-A8875D954D7A",
+    "id": "maf",
+    "mutation_marker": "",
+    "sindarin": "maf",
+    "spellings": [],
+    "ipa": "maf",
+    "tengwar": "",
+    "cirth": "6c3",
+    "english": [
+      "sheep"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "maf",
+      "singular": "",
+      "plural": "mef"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "634195295",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "mamā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "mama",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "mam",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "mav",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mama%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "máma"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.250",
+    "conception": "Key-2016-1310-807",
+    "notes": "Based on a possible variant ✶mămā of primitive ✶māmā \"sheep\", which is the basis of quenya máma. There is no root, the word seems possibly imitative.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-09-30"
+  },
+  {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
     "id": "rhond",
     "mutation_marker": "",
@@ -28262,7 +28436,7 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "state",
+    "category": "actions",
     "ids_chapter": "food and drink",
     "type": "reconstructed",
     "source": "Gnomish",
@@ -28295,7 +28469,88 @@
       "GL/56"
     ],
     "hidden": "",
-    "last_modified": "2026-08-19"
+    "last_modified": "2026-09-30"
+  },
+  {
+    "uuid": "68847CD0-2646-4C46-AD66-AE784F6B02CC",
+    "id": "lhog",
+    "mutation_marker": "",
+    "sindarin": "lhog-",
+    "spellings": [],
+    "ipa": "l̥og",
+    "tengwar": "",
+    "cirth": "sbrI",
+    "english": [
+      "swallow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Echuidor & Vyacheslav Stepanov",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1382285951",
+    "etymology": {
+      "root_refs": [
+        "sluk"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sluk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "l̥uk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "l̥ok",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "l̥og",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sluk&off=4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to swallow",
+    "ids_code": "5.181",
+    "conception": "Key-2016-1310-561",
+    "notes": "Derived from √SLUK of the same meaning.",
+    "references": [
+      "Ety/SLUK"
+    ],
+    "hidden": "",
+    "last_modified": "2026-09-30"
   },
   {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
@@ -28341,13 +28596,13 @@
     "leipzig_jakarta": null,
     "definition": "to cook",
     "ids_code": "5.210",
-    "conception": "",
+    "conception": "Key-2016-1310-559",
     "notes": "",
     "references": [
       "GL/24"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-09-30"
   },
   {
     "uuid": "519283EA-EBD1-49B1-AA5F-95BBFE3FC8B3",
@@ -29479,6 +29734,57 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-19"
+  },
+  {
+    "uuid": "7FD7AF87-D9B3-4EF2-9AF1-7DE38849FEE2",
+    "id": "gwiril",
+    "mutation_marker": "",
+    "sindarin": "gwiril",
+    "spellings": [],
+    "ipa": "'gʷi.ril",
+    "tengwar": "",
+    "cirth": "olRla",
+    "english": [
+      "spindle"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "clothing and grooming",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3144920365",
+    "etymology": {
+      "root_refs": [
+        "wir"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "quiril"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "6.320",
+    "conception": "Key-2016-1310-482",
+    "notes": "",
+    "references": [
+      "GL/29, 46"
+    ],
+    "hidden": "",
+    "last_modified": "2026-09-30"
   },
   {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
