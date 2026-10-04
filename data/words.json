@@ -12740,15 +12740,15 @@
     "swadesh207": 102,
     "leipzig_jakarta": 62,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "15.410",
+    "conception": "Key-2016-1310-1011",
     "notes": "",
     "references": [
       "GL/38",
       "LT2A/Gimli"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-04"
   },
   {
     "uuid": "DCE7359A-9542-41FC-AE35-009EC633CD5A",
@@ -38971,6 +38971,63 @@
     "last_modified": "2026-08-17"
   },
   {
+    "uuid": "AAD81333-B8F3-432E-9CCE-ED5094222E35",
+    "id": "lasta",
+    "mutation_marker": "",
+    "sindarin": "lasta-",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "acf8cI",
+    "english": [
+      "listen"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3923493535",
+    "etymology": {
+      "root_refs": [
+        "las"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lasta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to listen, give ear",
+    "ids_code": "15.420",
+    "conception": "Key-2016-1310-1012",
+    "notes": "",
+    "references": [
+      "LB/354",
+      "LotR/307",
+      "PE17/46",
+      "SA/quen"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-04"
+  },
+  {
     "uuid": "35BEC6D8-2B5C-4DC7-98AE-4E886E1F31EC",
     "id": "dorn",
     "mutation_marker": "",
@@ -39863,6 +39920,94 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-08-17"
+  },
+  {
+    "uuid": "3219045D-3F55-4ABA-BC30-0A21829EA6BD",
+    "id": "naeg",
+    "mutation_marker": "",
+    "sindarin": "naeg",
+    "spellings": [],
+    "ipa": "naeg",
+    "tengwar": "",
+    "cirth": "@czr",
+    "english": [
+      "pain"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2392193631",
+    "etymology": {
+      "root_refs": [
+        "nayak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "najke",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "naike",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "naik",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "naig",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "naeg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=najke&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "naike"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "16.310",
+    "conception": "Key-2016-1310-1060",
+    "notes": "",
+    "references": [
+      "Ety/NÁYAK"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-04"
   },
   {
     "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
