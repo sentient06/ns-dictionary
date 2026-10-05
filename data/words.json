@@ -39936,7 +39936,11 @@
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "naeg",
+      "singular": "",
+      "plural": "naeg"
+    },
     "gender": "",
     "category": "emotion",
     "ids_chapter": "emotions and values",
@@ -40007,7 +40011,7 @@
       "Ety/NÁYAK"
     ],
     "hidden": "",
-    "last_modified": "2026-10-04"
+    "last_modified": "2026-10-05"
   },
   {
     "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
@@ -40927,6 +40931,157 @@
     ],
     "hidden": "Unknown suffix -lā",
     "last_modified": "2026-08-17"
+  },
+  {
+    "uuid": "D4997049-E781-4553-9618-C34EB0F9E296",
+    "id": "fovren",
+    "mutation_marker": "",
+    "sindarin": "fovren",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "foolish",
+      "stupid"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "cognition",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3114427603",
+    "etymology": {
+      "root_refs": [
+        "phob"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "foolish, stupid",
+    "ids_code": "17.220",
+    "conception": "Key-2016-1310-1108",
+    "notes": "Gnomish \"fofrin\".",
+    "references": [
+      "GG/9",
+      "GL/35"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-05"
+  },
+  {
+    "uuid": "FBF777EC-2958-4A9C-9CEF-4AAC4F2A62ED",
+    "id": "fof",
+    "mutation_marker": "",
+    "sindarin": "fôf",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "fool"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1342650671",
+    "etymology": {
+      "root_refs": [
+        "phob"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "fool, stupid person",
+    "ids_code": "17.220",
+    "conception": "Key-2016-1310-1108",
+    "notes": "Same as its Gnomish counterpart.",
+    "references": [
+      "GG/9",
+      "GL/35"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-05"
+  },
+  {
+    "uuid": "ED306991-7329-4BA6-9EB3-0077EBD1F64B",
+    "id": "fovas",
+    "mutation_marker": "",
+    "sindarin": "fovas",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "folly",
+      "stupidity"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2887416867",
+    "etymology": {
+      "root_refs": [
+        "phob"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "folly, stupidity",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Gnomish \"fofri\".",
+    "references": [
+      "GL/35"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-05"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
