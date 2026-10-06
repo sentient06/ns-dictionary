@@ -40938,9 +40938,9 @@
     "mutation_marker": "",
     "sindarin": "fovren",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "'fo.vren",
+    "tengwar": "",
+    "cirth": "3b4Rz@",
     "english": [
       "foolish",
       "stupid"
@@ -40981,7 +40981,7 @@
       "GL/35"
     ],
     "hidden": "",
-    "last_modified": "2026-10-05"
+    "last_modified": "2026-10-06"
   },
   {
     "uuid": "FBF777EC-2958-4A9C-9CEF-4AAC4F2A62ED",
@@ -40989,9 +40989,9 @@
     "mutation_marker": "",
     "sindarin": "fôf",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "foːf",
+    "tengwar": "",
+    "cirth": "3n3",
     "english": [
       "fool"
     ],
@@ -41031,7 +41031,7 @@
       "GL/35"
     ],
     "hidden": "",
-    "last_modified": "2026-10-05"
+    "last_modified": "2026-10-06"
   },
   {
     "uuid": "ED306991-7329-4BA6-9EB3-0077EBD1F64B",
@@ -41039,9 +41039,9 @@
     "mutation_marker": "",
     "sindarin": "fovas",
     "spellings": [],
-    "ipa": "",
-    "tengwar": "",
-    "cirth": "",
+    "ipa": "'fo.vas",
+    "tengwar": "",
+    "cirth": "3b4cf",
     "english": [
       "folly",
       "stupidity"
@@ -41081,7 +41081,64 @@
       "GL/35"
     ],
     "hidden": "",
-    "last_modified": "2026-10-05"
+    "last_modified": "2026-10-06"
+  },
+  {
+    "uuid": "2BCE1DA7-F998-43D0-9225-6C571BBDE520",
+    "id": "alalu",
+    "mutation_marker": "",
+    "sindarin": "alalu",
+    "spellings": [],
+    "ipa": "'a.la.lu",
+    "tengwar": "",
+    "cirth": "cacaS",
+    "english": [
+      "mad",
+      "insane"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "al-",
+          "gloss": "not, opposite",
+          "type": "negative prefix"
+        },
+        {
+          "form": "alu",
+          "gloss": "healthy",
+          "type": "adjective"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "mad, insane",
+    "ids_code": "17.230",
+    "conception": "Key-2016-1310-1109",
+    "notes": "Literally meaning \"not healthy\", based on Latin \"insanus\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-06"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -41711,6 +41768,197 @@
     "last_modified": "2026-08-17"
   },
   {
+    "uuid": "DEA49A7B-A1DF-4E99-ADD3-1C73EC52DFD3",
+    "id": "paeth",
+    "mutation_marker": "",
+    "sindarin": "paeth",
+    "spellings": [],
+    "ipa": "paeθ",
+    "tengwar": "",
+    "cirth": "1cz0",
+    "english": [
+      "speech"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "speech and language",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2078390465",
+    "etymology": {
+      "root_refs": [
+        "pakat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "paktā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "pakta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "paktʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "paxθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "paiθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "paiθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "paeθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pakta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "pahta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "18.222",
+    "conception": "Key-2016-1310-1160",
+    "notes": "",
+    "references": [
+      "PE17/126"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-06"
+  },
+  {
+    "uuid": "43C389E2-164A-49F1-9B5E-E8A62371EE09",
+    "id": "dint",
+    "mutation_marker": "",
+    "sindarin": "dint-",
+    "spellings": [],
+    "ipa": "dint",
+    "tengwar": "",
+    "cirth": "9l@8I",
+    "english": [
+      "silence"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "speech and language",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "din"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "dinta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "dintʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "dinθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "dinθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "dint",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=din.ta&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to silence [oneself] (intransitive)",
+    "ids_code": "18.230",
+    "conception": "Key-2016-1310-1161",
+    "notes": "Intransitive verb based on Russian молчать, Latin tacēre and Ancient Greek σιγάω; meaning to \"be silent\", similarly to \"to sleep\" in relation to \"be dormant\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-06"
+  },
+  {
     "uuid": "0DDD5933-9061-4C2F-889A-6526BEB0100A",
     "id": "dor",
     "mutation_marker": "nd-",
@@ -41727,7 +41975,7 @@
     ],
     "inflection": null,
     "gender": "",
-    "category": "",
+    "category": "geography",
     "ids_chapter": "social and political relations",
     "type": "",
     "source": "",
@@ -41753,7 +42001,7 @@
     "notes": "",
     "references": [],
     "hidden": "multi",
-    "last_modified": "2026-08-09"
+    "last_modified": "2026-10-06"
   },
   {
     "uuid": "A5F86927-B620-4A4E-936A-4A2BCC753C8B",
@@ -42903,6 +43151,299 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-17"
+  },
+  {
+    "uuid": "BB6159C4-44A2-44BF-A779-EAEB7E69524D",
+    "id": "rian",
+    "mutation_marker": "",
+    "sindarin": "rían",
+    "spellings": [],
+    "ipa": "riːan",
+    "tengwar": "",
+    "cirth": "Rllc@",
+    "english": [
+      "queen"
+    ],
+    "grammar": [],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1774342723",
+    "etymology": {
+      "root_refs": [],
+      "primitive": {
+        "form": "rīɣende",
+        "eldamo_id": "883610509"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "19.330",
+    "conception": "Key-2016-1310-1200",
+    "notes": "I'd use this for a reigning queen, as opposed to \"bereth\". This word has no clear phonetic development. The primitive form should yield \"rien\". The alternative construction meaning \"crown-gift\" is more sound, but the sense would change.",
+    "references": [
+      "Let/423"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-06"
+  },
+  {
+    "uuid": "02272867-92FD-4AAF-AA7C-997298CE639C",
+    "id": "bereth",
+    "mutation_marker": "",
+    "sindarin": "bereth",
+    "spellings": [],
+    "ipa": "'be.reθ",
+    "tengwar": "",
+    "cirth": "2zRz0",
+    "english": [
+      "queen",
+      "spouse (f.)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3202359171",
+    "etymology": {
+      "root_refs": [
+        "ber"
+      ],
+      "primitive": {
+        "form": "mbelek-",
+        "eldamo_id": "2802925611"
+      },
+      "development": [
+        {
+          "form": "baratʰī",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "baratʰi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "baraθi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "bereθi",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1815401039"
+        },
+        {
+          "form": "bereθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=bara%C5%A7i%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C13OH3T7%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-13OH3T7"
+    },
+    "cognates": {
+      "quenya": "velca"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "queen, spouse",
+    "ids_code": "19.330",
+    "conception": "Key-2016-1310-1200",
+    "notes": "I'd use this for a queen consort, as opposed to \"rían\". The phonetic evolution of this word is not well polished as it should result in \"beraith\". It has been attested as Sindarin, but it seems to be essentially Noldorin. It could be a corrupted word.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-06"
+  },
+  {
+    "uuid": "6F25CC0A-4AC9-41EE-937D-72BBAE944471",
+    "id": "bereth",
+    "mutation_marker": "",
+    "sindarin": "bereth",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "supreme (f.)",
+      "sublime (f.)"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "supreme, sublime",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-06"
+  },
+  {
+    "uuid": "4FAFCC95-2358-4A55-BB0D-DCC2FD1D4B24",
+    "id": "arod",
+    "mutation_marker": "",
+    "sindarin": "arod",
+    "spellings": [],
+    "ipa": "'a.rod",
+    "tengwar": "",
+    "cirth": "cRb9",
+    "english": [
+      "noble"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "876008275",
+    "etymology": {
+      "root_refs": [
+        "ara"
+      ],
+      "primitive": {
+        "form": "arātā",
+        "eldamo_id": "3106778397"
+      },
+      "development": [
+        {
+          "form": "arātā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "arāta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "arǭta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "arauta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "araut",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "araud",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "arod",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ara%3Ata%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "arata"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "19.360",
+    "conception": "Key-2016-1310-1201",
+    "notes": "",
+    "references": [
+      "PE17/39, 49, 147, 182, 186",
+      "PM/363",
+      "VT41/9"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-06"
   },
   {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
