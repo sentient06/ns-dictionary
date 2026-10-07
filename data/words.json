@@ -34805,7 +34805,10 @@
       "quettamorphosis_url": ""
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": 4,
     "swadesh100": null,
     "swadesh207": null,
@@ -34816,7 +34819,7 @@
     "notes": "Transitive verb derived from √RAD, as opposed to intransative \"radh-\", meaning \"to return\" (to somewhere).",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-08-12"
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "03586CBE-0477-4816-9994-36F86451A16D",
@@ -37913,7 +37916,10 @@
     "cognates": {
       "telerin": "runga-"
     },
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
@@ -37926,7 +37932,7 @@
       "PE22/132"
     ],
     "hidden": "longman has hurry",
-    "last_modified": "2026-08-19"
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "9D159EF8-D1B4-49DB-8163-4BB2C17F2AB4",
@@ -40048,7 +40054,10 @@
       "quettamorphosis_url": ""
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
@@ -40062,7 +40071,7 @@
       "LT2A/Níniel"
     ],
     "hidden": "",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "4CE0D3E0-EB35-4B21-B55A-63D39B072CBB",
@@ -40111,7 +40120,10 @@
       "quettamorphosis_url": ""
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
@@ -40122,7 +40134,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-08-17"
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
@@ -43164,8 +43176,14 @@
     "english": [
       "queen"
     ],
-    "grammar": [],
-    "inflection": null,
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rían",
+      "singular": "",
+      "plural": "ríain"
+    },
     "gender": "",
     "category": "social",
     "ids_chapter": "social and political relations",
@@ -43198,7 +43216,7 @@
       "Let/423"
     ],
     "hidden": "",
-    "last_modified": "2026-10-06"
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "02272867-92FD-4AAF-AA7C-997298CE639C",
@@ -44301,6 +44319,313 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-18"
+  },
+  {
+    "uuid": "C497589E-99DF-47F4-AFC1-6278F597774F",
+    "id": "aith",
+    "mutation_marker": "",
+    "sindarin": "aith",
+    "spellings": [],
+    "ipa": "ajθ",
+    "tengwar": "",
+    "cirth": "cl0",
+    "english": [
+      "spear",
+      "spear-point"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "tool",
+    "ids_chapter": "warfare and hunting",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "eith",
+    "eldamo_id": "436022029",
+    "etymology": {
+      "root_refs": [
+        "ek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ektē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ekte",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "ektʰe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "exθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "eiθe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "eiθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "aiθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ekte%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "ehte"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "spear, spear-point",
+    "ids_code": "20.260",
+    "conception": "Key-2016-1310-1234",
+    "notes": "",
+    "references": [
+      "Ety/EK",
+      "EtyAC/EK"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-07"
+  },
+  {
+    "uuid": "D6B47164-5994-4B0F-8365-417354CD943E",
+    "id": "hadang",
+    "mutation_marker": "",
+    "sindarin": "hadang",
+    "spellings": [],
+    "ipa": "'ha.daŋ",
+    "tengwar": "",
+    "cirth": ".c9cu",
+    "english": [
+      "javelin"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hadang",
+      "singular": "",
+      "plural": "hedeng"
+    },
+    "gender": "",
+    "category": "tool",
+    "ids_chapter": "warfare and hunting",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3268961825",
+    "etymology": {
+      "root_refs": [
+        "khat",
+        "anga"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰatangā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰatanga",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xatanga",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "xataŋa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xataŋ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hataŋ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "hadaŋ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHAT",
+          "gloss": "hurl",
+          "type": "root"
+        },
+        {
+          "form": "ANGA",
+          "gloss": "iron",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81at.anga%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "hatal"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "javelin, (lit.) hurling iron",
+    "ids_code": "20.260",
+    "conception": "Key-2016-1310-1234",
+    "notes": "",
+    "references": [
+      "GL/48"
+    ],
+    "hidden": "Not sure about the quenya \"cognate\" because it might not be a cognate as the suffix differs. Longman has \"spear\" and not \"javelin\", so \"hadang\" is set to false.",
+    "last_modified": "2026-10-07"
+  },
+  {
+    "uuid": "695DD7D3-E583-474F-925B-ED95EBE4C55F",
+    "id": "megil",
+    "mutation_marker": "",
+    "sindarin": "megil",
+    "spellings": [],
+    "ipa": "'me.gil",
+    "tengwar": "",
+    "cirth": "6zrla",
+    "english": [
+      "sword",
+      "longsword"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "tool",
+    "ids_chapter": "warfare and hunting",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3519182345",
+    "etymology": {
+      "root_refs": [
+        "mak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "makili",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "mekili",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "mekil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "megil",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=makili&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "macil"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "sword, longsword",
+    "ids_code": "20.270",
+    "conception": "Key-2016-1310-1235",
+    "notes": "",
+    "references": [
+      "PE17/147"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
@@ -46012,7 +46337,10 @@
     "cognates": {
       "quenya": "alya-"
     },
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
@@ -46025,7 +46353,7 @@
       "PE17/146"
     ],
     "hidden": "",
-    "last_modified": "2026-08-18"
+    "last_modified": "2026-10-07"
   },
   {
     "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
