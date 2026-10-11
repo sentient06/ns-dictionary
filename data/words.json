@@ -46497,6 +46497,274 @@
     "last_modified": "2026-10-07"
   },
   {
+    "uuid": "2D98E545-6DA4-4C03-A994-C9883CB507A6",
+    "id": "huda",
+    "mutation_marker": "",
+    "sindarin": "húda-",
+    "spellings": [],
+    "ipa": "'huː.da",
+    "tengwar": "",
+    "cirth": ".D9cI",
+    "english": [
+      "curse"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "activities",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4113630147",
+    "etymology": {
+      "root_refs": [
+        "sku"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "skūtā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "skūta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sxūta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "xūta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hūta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "hūda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "SKŪ",
+          "gloss": "curse",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "causative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sku%3Ata%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1HWA3IR%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV"
+    },
+    "cognates": {
+      "quenya": "húta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to curse",
+    "ids_code": "22.240",
+    "conception": "Key-2016-1310-1300",
+    "notes": "Based on attested root and Quenya cognate.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-11"
+  },
+  {
+    "uuid": "01C665A7-B7D7-4A52-BE2E-7C4F6B8B50B6",
+    "id": "arvaded",
+    "mutation_marker": "",
+    "sindarin": "arvaded",
+    "spellings": [],
+    "ipa": "'ar.va.ded",
+    "tengwar": "",
+    "cirth": "cR4c9z9",
+    "english": [
+      "fast"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "state",
+    "ids_chapter": "state",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ar",
+        "mat"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "armatitā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "armatita",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "armateta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "armatet",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "armaded",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "arvaded",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ar-",
+          "gloss": "without",
+          "type": "prefix"
+        },
+        {
+          "form": "mad-",
+          "gloss": "to eat",
+          "type": "verb"
+        },
+        {
+          "form": "-ed",
+          "gloss": "",
+          "type": "verbal noun suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ar.mat.ita%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1HWA3IR%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-19JASGR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Based on Ancient Greek νηστεύω (nēsteúō), which contains the negative νη- plus the Indo-European root *h₁ed- \"eat\", which yields the sense of \"not-eating\", or \"without eating\". This word uses the negative \"ar-\" and the verbal noun of \"mad-\", based on \"arnoediad\", which is made of \"ar-\" and the verbal noun \"nödiad\" \"without counting\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-11"
+  },
+  {
+    "uuid": "330BD395-AB0E-4CA3-A6C8-9742BFC313D0",
+    "id": "arvasta",
+    "mutation_marker": "",
+    "sindarin": "arvasta-",
+    "spellings": [],
+    "ipa": "'ar.vas.ta",
+    "tengwar": "",
+    "cirth": "cR4cf8cI",
+    "english": [
+      "fast"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "religion and belief",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ar",
+        "mat"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to fast",
+    "ids_code": "22.260",
+    "conception": "Key-2016-1310-1301",
+    "notes": "Based on neologism noun \"arvaded\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-11"
+  },
+  {
     "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
     "id": "pinagor",
     "mutation_marker": "",
