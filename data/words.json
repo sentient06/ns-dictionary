@@ -14572,12 +14572,12 @@
     "swadesh207": 123,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "12.140",
+    "conception": "Key-2016-1310-117",
     "notes": "",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-08-17"
+    "hidden": "Longman has \"lie\", which is ambiguous",
+    "last_modified": "2026-10-14"
   },
   {
     "uuid": "119F4981-907C-49DD-B622-9DD816E068C4",
@@ -34591,6 +34591,81 @@
     "last_modified": "2026-08-19"
   },
   {
+    "uuid": "937DE206-CBA5-42E5-AE21-779E0314D0BD",
+    "id": "pasta",
+    "mutation_marker": "",
+    "sindarin": "pasta-",
+    "spellings": [],
+    "ipa": "'pas.ta",
+    "tengwar": "",
+    "cirth": "1cf8cI",
+    "english": [
+      "shake"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1020567685",
+    "etymology": {
+      "root_refs": [
+        "kwath"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kwatʰta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "kwasta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "pasta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kwa%C5%A7.ta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-2TVPSN"
+    },
+    "cognates": {
+      "quenya": "quas-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to shake",
+    "ids_code": "10.260",
+    "conception": "Key-2016-1310-242",
+    "notes": "",
+    "references": [
+      "GL/28, 53"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-14"
+  },
+  {
     "uuid": "BA4A1018-5D1F-4C30-9D06-E73D78B83242",
     "id": "gad",
     "mutation_marker": "",
@@ -35580,6 +35655,92 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-03"
+  },
+  {
+    "uuid": "9B7E705B-A124-4CF8-9C75-9644C2F8FF34",
+    "id": "harna",
+    "mutation_marker": "",
+    "sindarin": "harna-",
+    "spellings": [],
+    "ipa": "'har.na",
+    "tengwar": "",
+    "cirth": ".cR@cI",
+    "english": [
+      "harm",
+      "injury",
+      "damage",
+      "wound"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2397430631",
+    "etymology": {
+      "root_refs": [
+        "skar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "skarna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sxarna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "xarna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "harna",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=skarna&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-2TVPSN"
+    },
+    "cognates": {
+      "quenya": "harna-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to harm, to injury, to damage, to wound",
+    "ids_code": "11.280",
+    "conception": "Key-2016-1310-162",
+    "notes": "",
+    "references": [
+      "Ety/SKAR"
+    ],
+    "hidden": "Longman has harm and damage, but not injury",
+    "last_modified": "2026-10-14"
   },
   {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
@@ -37232,7 +37393,10 @@
       "root_refs": [
         "rasat"
       ],
-      "primitive": null,
+      "primitive": {
+        "form": "rasat",
+        "eldamo_id": ""
+      },
       "development": [],
       "elements": [],
       "quettamorphosis_url": ""
@@ -37248,10 +37412,278 @@
     "definition": "",
     "ids_code": "13.102",
     "conception": "Key-2016-1310-46",
-    "notes": "This is a neologism based on a suffix used in Quenya that has the same function as the suffix used in decimal numbers. By reverse-engineering, we can assume this word for the duodecimal name of a dozen.",
+    "notes": "Duodecimal 10 means 12 in decimal. This is a neologism based on a suffix used in Quenya that has the same function as the suffix used in decimal numbers. By reverse-engineering, we can assume this word for the duodecimal name of a dozen.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-04"
+    "last_modified": "2026-10-14"
+  },
+  {
+    "uuid": "C1860325-10EE-40BE-BB67-4275D5223310",
+    "id": "paeleben",
+    "mutation_marker": "",
+    "sindarin": "paeleben",
+    "spellings": [],
+    "ipa": "'pae.le.ben",
+    "tengwar": "",
+    "cirth": "1czaz2z@",
+    "english": [
+      "fifteen (decimal)"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2719340173",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "pae",
+          "gloss": "ten",
+          "type": "numeral"
+        },
+        {
+          "form": "leben",
+          "gloss": "five",
+          "type": "numeral"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "quailepen"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.103",
+    "conception": "Key-2016-1310-45",
+    "notes": "Duodecimal 15 is \"rasneledh\" and it's written \"13\". The duodecimal 15 means 17 in decimal.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-14"
+  },
+  {
+    "uuid": "025D1C62-B31B-4A99-9A37-91EA4EAB0024",
+    "id": "rasneledh",
+    "mutation_marker": "",
+    "sindarin": "rasneledh",
+    "spellings": [],
+    "ipa": "'ras.ne.leð",
+    "tengwar": "",
+    "cirth": "Rcf@zaz!",
+    "english": [
+      "a dozen and three (duodecimal 13)"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rastanelede",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "rastaneleðe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "rastaneleð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "rastneleð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "rasneleð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "rasneleð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RASAT",
+          "gloss": "dozen",
+          "type": "root"
+        },
+        {
+          "form": "NELED",
+          "gloss": "three",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rasta.nelede&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-19H0Q4R"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Duodecimal 13 means 15 in decimal.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-14"
+  },
+  {
+    "uuid": "3FBF0638-26CD-4821-BEB3-AE4CE5CE2052",
+    "id": "rathleben",
+    "mutation_marker": "",
+    "sindarin": "rathleben",
+    "spellings": [],
+    "ipa": "'raθ.le.ben",
+    "tengwar": "",
+    "cirth": "Rc0az2z@",
+    "english": [
+      "a dozen and five (duodecimal 15)"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rastalepene",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "rastalepen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "rastaleben",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "rastleben",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "raθleben",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "rasleben",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "raθleben",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RASAT",
+          "gloss": "dozen",
+          "type": "root"
+        },
+        {
+          "form": "LEPEN",
+          "gloss": "five",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rasta.lepene&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-19H0Q4R"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.103",
+    "conception": "Key-2016-1310-45",
+    "notes": "Duodecimal 15 means 17 in decimal.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-14"
   },
   {
     "uuid": "D3323D1B-667D-4365-A34D-BB7CE23ED19D",
@@ -41537,7 +41969,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": 0,
+    "confidence": 1,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -41547,7 +41979,7 @@
     "notes": "Literally meaning \"not healthy\", based on Latin \"insanus\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-06"
+    "last_modified": "2026-10-14"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -44264,10 +44696,10 @@
     "definition": "",
     "ids_code": "20.170",
     "conception": "Key-2016-1310-1227",
-    "notes": "",
+    "notes": "There is a word for warrior, \"maethor\", which can be used as well, which, strictly, means a \"fighter\" or \"swordman\". I wanted an alternative word to discern from maethor. This word is unlikely to be accepted.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-23"
+    "last_modified": "2026-10-14"
   },
   {
     "uuid": "401E4338-C2DC-4222-9BBB-129C4BDEDC3F",
