@@ -10486,8 +10486,8 @@
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "18.240",
+    "conception": "Key-2016-1310-1162",
     "notes": "",
     "references": [
       "LotR/307",
@@ -10496,8 +10496,8 @@
       "VT39/15",
       "WJ/394"
     ],
-    "hidden": "longman has \"tongue\"",
-    "last_modified": "2026-08-14"
+    "hidden": "",
+    "last_modified": "2026-10-16"
   },
   {
     "uuid": "1387B526-7356-4060-BD93-6336F7F828DD",
@@ -39969,6 +39969,274 @@
     "last_modified": "2026-10-04"
   },
   {
+    "uuid": "FA62A39C-35CC-433C-ADF7-E6FFBC35717B",
+    "id": "law",
+    "mutation_marker": "",
+    "sindarin": "law",
+    "spellings": [],
+    "ipa": "law",
+    "tengwar": "",
+    "cirth": "acF",
+    "english": [
+      "sound"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "law",
+      "singular": "",
+      "plural": "laiw"
+    },
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "sense perception",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2153304351",
+    "etymology": {
+      "root_refs": [
+        "lam"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lāma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "lām",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "lǭm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "laum",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "lauv",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "70600889"
+        },
+        {
+          "form": "lau",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=la%3Ama&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "láma"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "15.440",
+    "conception": "Key-2016-1310-1013",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "01B5873C-837A-4294-85C4-B04706B12257",
+    "id": "lenia",
+    "mutation_marker": "",
+    "sindarin": "lenia-",
+    "spellings": [],
+    "ipa": "'le.nja",
+    "tengwar": "",
+    "cirth": "az@lcI",
+    "english": [
+      "sound"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "sense perception",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2905753465",
+    "etymology": {
+      "root_refs": [
+        "lam"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lamja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1484184939"
+        },
+        {
+          "form": "lanja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "lania",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "lenia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "LAM",
+          "gloss": "sound",
+          "type": "root"
+        },
+        {
+          "form": "-ya",
+          "gloss": "",
+          "type": "causative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=lam.ja&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "lamya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to sound, to make a noise",
+    "ids_code": "15.440",
+    "conception": "Key-2016-1310-1013",
+    "notes": "",
+    "references": [
+      "GL/39, 54"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "D7B574BB-0AAC-413D-A62E-90B3784F3F82",
+    "id": "lhon",
+    "mutation_marker": "",
+    "sindarin": "lhôn",
+    "spellings": [],
+    "ipa": "l̥oːn",
+    "tengwar": "",
+    "cirth": "sn@",
+    "english": [
+      "noise"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lhôn",
+      "singular": "",
+      "plural": "lhuin"
+    },
+    "gender": "",
+    "category": "physics",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "636208897",
+    "etymology": {
+      "root_refs": [
+        "slon"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "slon",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3923357111"
+        },
+        {
+          "form": "l̥on",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1053424933"
+        },
+        {
+          "form": "l̥ōn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=slon&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "hlón(a)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "15.440",
+    "conception": "Key-2016-1310-1013",
+    "notes": "",
+    "references": [
+      "PE17/138"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-16"
+  },
+  {
     "uuid": "35BEC6D8-2B5C-4DC7-98AE-4E886E1F31EC",
     "id": "dorn",
     "mutation_marker": "",
@@ -40953,6 +41221,371 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-05"
+  },
+  {
+    "uuid": "7209DA69-60EF-477D-B392-5F334AF5978D",
+    "id": "faegol",
+    "mutation_marker": "",
+    "sindarin": "faegol",
+    "spellings": [],
+    "ipa": "'fae.gol",
+    "tengwar": "",
+    "cirth": "3czrba",
+    "english": [
+      "grief",
+      "depression"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "faegol",
+      "singular": "",
+      "plural": "faegyl"
+    },
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2966036211",
+    "etymology": {
+      "root_refs": [
+        "phay",
+        "kol"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "fae",
+          "gloss": "incarnate spirit",
+          "type": "noun"
+        },
+        {
+          "form": "caul",
+          "gloss": "great burden, affliction",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "depression, grief, (lit.) spirit-burden",
+    "ids_code": "16.320",
+    "conception": "Key-2016-1310-1061",
+    "notes": "(Grief is a natural emotional response to loss.)",
+    "references": [
+      "GL/43",
+      "LT1A/Cûm a Gumlaith"
+    ],
+    "hidden": "grief",
+    "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "FA1AA0C0-19C8-48E2-9BB6-E97DEFC678AB",
+    "id": "dim",
+    "mutation_marker": "",
+    "sindarin": "dim",
+    "spellings": [],
+    "ipa": "dim",
+    "tengwar": "",
+    "cirth": "9l6",
+    "english": [
+      "sadness",
+      "gloom"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "Ilkorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "145713417",
+    "etymology": {
+      "root_refs": [
+        "dem"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "dimbē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "dimbe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "dimb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "dimm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "dim",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=dimbe%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "sadness, gloom",
+    "ids_code": "16.320",
+    "conception": "Key-2016-1310-1061",
+    "notes": "",
+    "references": [
+      "Ety/DEM",
+      "EtyAC/DEM"
+    ],
+    "hidden": "sadness",
+    "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "CFF4C514-1D0B-47F5-8F73-2D8F2DF6BC83",
+    "id": "naeras",
+    "mutation_marker": "",
+    "sindarin": "naeras",
+    "spellings": [],
+    "ipa": "'nae.ras",
+    "tengwar": "",
+    "cirth": "@czRcf",
+    "english": [
+      "sorrow",
+      "woe"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "naeras",
+      "singular": "",
+      "plural": "naerais"
+    },
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1570902979",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "naer",
+          "gloss": "dreadful, horrible, unendurable",
+          "type": "adjective"
+        },
+        {
+          "form": "-as",
+          "gloss": "",
+          "type": "abstract noun suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "sorrow, woe",
+    "ids_code": "16.320",
+    "conception": "Key-2016-1310-1061",
+    "notes": "Prefer to use this word for sorrow, and \"naeth\" for woe. (Woe refers to great suffering or deep grief, often associated with serious misfortune, often more intense than sorrow. And sorrow is a deeper and more enduring emotion than sadness.)",
+    "references": [],
+    "hidden": "sorrow",
+    "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "58D3BC02-C6DE-42F1-96D6-D178D201AC58",
+    "id": "naeth",
+    "mutation_marker": "",
+    "sindarin": "naeth",
+    "spellings": [],
+    "ipa": "naeθ",
+    "tengwar": "",
+    "cirth": "@cz0",
+    "english": [
+      "woe"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2665194557",
+    "etymology": {
+      "root_refs": [
+        "nay"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "16.320",
+    "conception": "Key-2016-1310-1061",
+    "notes": "Prefer to use \"naeras\" for sorrow and \"naeth\" for woe. (Woe refers to great suffering or deep grief, often associated with serious misfortune, often more intense than sorrow.)",
+    "references": [
+      "WJ/258"
+    ],
+    "hidden": "woe",
+    "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "6311B9E4-B29B-4473-B9E0-29CF24CCEA79",
+    "id": "dem",
+    "mutation_marker": "",
+    "sindarin": "dem",
+    "spellings": [],
+    "ipa": "dem",
+    "tengwar": "",
+    "cirth": "9z6",
+    "english": [
+      "sad",
+      "gloomy"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "dem",
+      "singular": "",
+      "plural": "dim"
+    },
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotions and values",
+    "type": "reconstructed",
+    "source": "Ilkorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3080444809",
+    "etymology": {
+      "root_refs": [
+        "dem"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "dimbā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "dimba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "demba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "demb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "demm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "dem",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=dimba%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "sad, gloomy",
+    "ids_code": "",
+    "conception": "",
+    "notes": "",
+    "references": [
+      "Ety/DEM",
+      "EtyAC/DEM"
+    ],
+    "hidden": "sad",
+    "last_modified": "2026-10-16"
   },
   {
     "uuid": "AD46702A-00A2-458F-BDB0-0835DD791FD8",
@@ -42086,6 +42719,109 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-14"
+  },
+  {
+    "uuid": "E934810F-A62D-49FD-94FA-952D137834BE",
+    "id": "gelia",
+    "mutation_marker": "ng-",
+    "sindarin": "gelia-",
+    "spellings": [],
+    "ipa": "'ge.lja",
+    "tengwar": "",
+    "cirth": "rzalcI",
+    "english": [
+      "learn"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1922137513",
+    "etymology": {
+      "root_refs": [
+        "ngol"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ŋgoljā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1989991061"
+        },
+        {
+          "form": "goljā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "golja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "golia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "gœlia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "gelia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ÑGOL",
+          "gloss": "knowledge, wisdom, lore",
+          "type": "root"
+        },
+        {
+          "form": "-yă",
+          "gloss": "",
+          "type": "formative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=NGgolja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to learn",
+    "ids_code": "17.240",
+    "conception": "Key-2016-1310-1110",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-16"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -44399,6 +45135,68 @@
     "last_modified": "2026-10-06"
   },
   {
+    "uuid": "DFAE1BC5-3BCC-472F-B85A-1B99DF104092",
+    "id": "herdir",
+    "mutation_marker": "",
+    "sindarin": "herdir",
+    "spellings": [],
+    "ipa": "'her.dir",
+    "tengwar": "",
+    "cirth": ".zR9lR",
+    "english": [
+      "master"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1538062533",
+    "etymology": {
+      "root_refs": [
+        "kher",
+        "nder"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "hîr",
+          "gloss": "lord, master",
+          "type": "noun"
+        },
+        {
+          "form": "dîr",
+          "gloss": "man",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "19.410",
+    "conception": "Key-2016-1310-1203",
+    "notes": "",
+    "references": [
+      "AotM/62",
+      "SD/129"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-16"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
@@ -45563,6 +46361,73 @@
     "last_modified": "2026-10-07"
   },
   {
+    "uuid": "FD33D6F2-5CD0-4C2E-845E-286F077DBBA6",
+    "id": "barf",
+    "mutation_marker": "",
+    "sindarin": "barf",
+    "spellings": [],
+    "ipa": "barf",
+    "tengwar": "",
+    "cirth": "2cR3",
+    "english": [
+      "armour"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "barf",
+      "singular": "",
+      "plural": "berf"
+    },
+    "gender": "",
+    "category": "tool",
+    "ids_chapter": "warfare and hunting",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1763151841",
+    "etymology": {
+      "root_refs": [
+        "bar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "BAR",
+          "gloss": "raise",
+          "type": ""
+        },
+        {
+          "form": "uplift, save, make secure",
+          "gloss": "root",
+          "type": ""
+        },
+        {
+          "form": "-mā",
+          "gloss": "",
+          "type": "instrumental suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "20.310",
+    "conception": "Key-2016-1310-1237",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-16"
+  },
+  {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
     "id": "theinas",
     "mutation_marker": "",
@@ -46576,6 +47441,117 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-07"
+  },
+  {
+    "uuid": "B3E1E29E-6CC5-453B-9AFE-95287DDC9ECE",
+    "id": "egleithia",
+    "mutation_marker": "",
+    "sindarin": "egleithia-",
+    "spellings": [],
+    "ipa": "'e.glej.θja",
+    "tengwar": "",
+    "cirth": "zrazl0lcI",
+    "english": [
+      "acquit"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "law",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "hek"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "heklektjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1117448055"
+        },
+        {
+          "form": "eklektjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "eklektja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "eklektʰja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "eklexθja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "eklexθia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "ekleiθia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "egleiθia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=hek.lek.tja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C18HPRET%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-JY12TH"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 1,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to acquit",
+    "ids_code": "21.340",
+    "conception": "Key-2016-1310-1276",
+    "notes": "Based on Ancient Greek ἀπολύω (apolýō), meaning release, acquit. Composed of ἀπο- (apo-) \"away, off, from\", and - λύω (lýō) \"loosen, untie, release.\" That yields something akin to \"release, loosen from\". There's a sort of pleonasm in the construction, but ἀπο- adds the idea of separation from something.",
+    "references": [],
+    "hidden": "acquit",
+    "last_modified": "2026-10-16"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
