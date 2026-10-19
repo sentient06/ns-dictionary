@@ -25975,6 +25975,130 @@
     "last_modified": "2026-10-14"
   },
   {
+    "uuid": "D0294125-6DC3-4F81-8543-D2C114877BB1",
+    "id": "best",
+    "mutation_marker": "",
+    "sindarin": "best",
+    "spellings": [],
+    "ipa": "best",
+    "tengwar": "",
+    "cirth": "2zf8",
+    "english": [
+      "marriage",
+      "matrimony",
+      "wedlock"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "relationship",
+    "ids_chapter": "kinship",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3465851665",
+    "etymology": {
+      "root_refs": [
+        "bes"
+      ],
+      "primitive": {
+        "form": "bestā",
+        "eldamo_id": "3240654975"
+      },
+      "development": [
+        {
+          "form": "bestā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "besta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "best",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=besta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "vesta"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "marriage, matrimony, wedlock",
+    "ids_code": "2.340",
+    "conception": "Key-2016-1310-879",
+    "notes": "This is probably reverse-engineered from Quenya.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-19"
+  },
+  {
+    "uuid": "F056C41A-FC43-4627-B7C8-24BE9207D3B8",
+    "id": "bestad",
+    "mutation_marker": "",
+    "sindarin": "bestad",
+    "spellings": [],
+    "ipa": "'bes.tad",
+    "tengwar": "",
+    "cirth": "2zf8c9",
+    "english": [
+      "wedding"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "relationship",
+    "ids_chapter": "kinship",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3802956691",
+    "etymology": {
+      "root_refs": [
+        "bes"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vestale"
+    },
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "wedding, (lit.) a marrying",
+    "ids_code": "2.340",
+    "conception": "Key-2016-1310-879",
+    "notes": "This is the gerund of the neologism \"besta-\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-19"
+  },
+  {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
     "id": "anu",
     "mutation_marker": "",
@@ -27162,6 +27286,51 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-14"
+  },
+  {
+    "uuid": "2BDA9B3C-1D13-49CF-AE16-A04132E9D807",
+    "id": "maf",
+    "mutation_marker": "",
+    "sindarin": "maf",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "ewe"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "",
+    "ids_chapter": "",
+    "type": "",
+    "source": "",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "ewe (female sheep)",
+    "ids_code": "3.280",
+    "conception": "Key-2016-1310-805",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-19"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
