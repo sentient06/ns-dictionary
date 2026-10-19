@@ -52,7 +52,7 @@
     "id": "anga",
     "form": "ANGA",
     "gloss": "iron",
-    "eldamo_id": "3227461267",
+    "eldamo_id": "929384369",
     "notes": ""
   },
   {
@@ -133,6 +133,13 @@
     "notes": ""
   },
   {
+    "id": "ber",
+    "form": "BER",
+    "gloss": "to mate, be mated, joined in marriage",
+    "eldamo_id": "2206900383",
+    "notes": ""
+  },
+  {
     "id": "bes",
     "form": "BES",
     "gloss": "to wed",
@@ -175,10 +182,24 @@
     "notes": ""
   },
   {
+    "id": "dem",
+    "form": "DEM",
+    "gloss": "sad, gloomy",
+    "eldamo_id": "4202785349",
+    "notes": ""
+  },
+  {
     "id": "del",
     "form": "DEL",
     "gloss": "walk, go, proceed, travel",
     "eldamo_id": "4136487061",
+    "notes": ""
+  },
+  {
+    "id": "din",
+    "form": "DIN",
+    "gloss": "silence",
+    "eldamo_id": "2505306659",
     "notes": ""
   },
   {
@@ -212,8 +233,8 @@
   {
     "id": "ek",
     "form": "EK",
-    "gloss": "(sharp) point",
-    "eldamo_id": "1174207155",
+    "gloss": "spear, (sharp) point, thorn",
+    "eldamo_id": "3225797969",
     "notes": ""
   },
   {
@@ -291,6 +312,13 @@
     "form": "GAR",
     "gloss": "keep, hold, possess; maintain, defend",
     "eldamo_id": "2374539001",
+    "notes": ""
+  },
+  {
+    "id": "gat",
+    "form": "GAT",
+    "gloss": "catch",
+    "eldamo_id": "1565194297",
     "notes": ""
   },
   {
@@ -595,6 +623,13 @@
     "notes": ""
   },
   {
+    "id": "kirik",
+    "form": "KIRIK",
+    "gloss": "reap",
+    "eldamo_id": "1462499457",
+    "notes": ""
+  },
+  {
     "id": "kiris",
     "form": "KIRIS",
     "gloss": "cleave",
@@ -655,6 +690,13 @@
     "form": "KWAT",
     "gloss": "fill; full",
     "eldamo_id": "3674846579",
+    "notes": ""
+  },
+  {
+    "id": "kwath",
+    "form": "KWATH",
+    "gloss": "shake",
+    "eldamo_id": "946918897",
     "notes": ""
   },
   {
@@ -1141,6 +1183,20 @@
     "notes": ""
   },
   {
+    "id": "nay",
+    "form": "NAY¹",
+    "gloss": "cause bitter grief or pain",
+    "eldamo_id": "2108335185",
+    "notes": ""
+  },
+  {
+    "id": "nayak",
+    "form": "NAYAK",
+    "gloss": "pain",
+    "eldamo_id": "1653336395",
+    "notes": ""
+  },
+  {
     "id": "ndak",
     "form": "NDAK",
     "gloss": "hew, slay",
@@ -1265,6 +1321,13 @@
     "gloss": "catch, get",
     "eldamo_id": "1074799041",
     "notes": "Originally ŊETE"
+  },
+  {
+    "id": "ngol",
+    "form": "ÑGOL¹",
+    "gloss": "knowledge, wisdom, lore",
+    "eldamo_id": "864239635",
+    "notes": ""
   },
   {
     "id": "nid",
@@ -1400,6 +1463,13 @@
     "notes": ""
   },
   {
+    "id": "pakat",
+    "form": "PAKAT",
+    "gloss": "talk, speech",
+    "eldamo_id": "2025732509",
+    "notes": ""
+  },
+  {
     "id": "pal",
     "form": "PAL",
     "gloss": "wide, broad, extended; wide (open); flatness",
@@ -1470,6 +1540,13 @@
     "notes": ""
   },
   {
+    "id": "phek",
+    "form": "PHEK",
+    "gloss": "destroy, ruin",
+    "eldamo_id": "2169428073",
+    "notes": ""
+  },
+  {
     "id": "phim",
     "form": "PHIM",
     "gloss": "slender, slim",
@@ -1481,6 +1558,13 @@
     "form": "PHIR",
     "gloss": "exhale, expire, breathe out; die of natural causes",
     "eldamo_id": "1173773531",
+    "notes": ""
+  },
+  {
+    "id": "phob",
+    "form": "PHOB",
+    "gloss": "fool",
+    "eldamo_id": "2122247331",
     "notes": ""
   },
   {
@@ -1519,6 +1603,13 @@
     "notes": ""
   },
   {
+    "id": "pol",
+    "form": "POL",
+    "gloss": "can, have physical power and ability; large, big (strong); pound up, break up small, reduce to powder",
+    "eldamo_id": "1890828511",
+    "notes": ""
+  },
+  {
     "id": "rad",
     "form": "RAD",
     "gloss": "back, return",
@@ -1544,6 +1635,13 @@
     "form": "RAS",
     "gloss": "horn; stick up",
     "eldamo_id": "1563612417",
+    "notes": ""
+  },
+  {
+    "id": "rasat",
+    "form": "RASAT",
+    "gloss": "twelve",
+    "eldamo_id": "1389560129",
     "notes": ""
   },
   {
@@ -1757,10 +1855,24 @@
     "notes": ""
   },
   {
+    "id": "sku",
+    "form": "SKŪ",
+    "gloss": "curse",
+    "eldamo_id": "2986622485",
+    "notes": ""
+  },
+  {
     "id": "slas",
     "form": "SLAS",
     "gloss": "ear",
     "eldamo_id": "2603004521",
+    "notes": ""
+  },
+  {
+    "id": "slon",
+    "form": "SLON",
+    "gloss": "sound, (general word for) noise",
+    "eldamo_id": "2954543201",
     "notes": ""
   },
   {
@@ -1943,6 +2055,13 @@
     "form": "TEÑ",
     "gloss": "indicate, signify, show, represent, betoken, mark, to point at",
     "eldamo_id": "781413727",
+    "notes": ""
+  },
+  {
+    "id": "ter",
+    "form": "TER",
+    "gloss": "pierce",
+    "eldamo_id": "4032560345",
     "notes": ""
   },
   {
@@ -2191,10 +2310,24 @@
     "notes": ""
   },
   {
+    "id": "yeset",
+    "form": "YESET",
+    "gloss": "beginning",
+    "eldamo_id": "747584005",
+    "notes": ""
+  },
+  {
     "id": "yon",
     "form": "YON",
     "gloss": "son",
     "eldamo_id": "3779683119",
+    "notes": ""
+  },
+  {
+    "id": "yu",
+    "form": "YU",
+    "gloss": "both",
+    "eldamo_id": "2030718911",
     "notes": ""
   },
   {

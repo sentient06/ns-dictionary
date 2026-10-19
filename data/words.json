@@ -25035,6 +25035,103 @@
     "last_modified": "2026-08-15"
   },
   {
+    "uuid": "69CA0BB8-AF99-4021-ACFC-642AD04A6213",
+    "id": "iandor",
+    "mutation_marker": "",
+    "sindarin": "iandor",
+    "spellings": [],
+    "ipa": "'jan.dor",
+    "tengwar": "",
+    "cirth": "$ckbR",
+    "english": [
+      "mainland (nautical)",
+      "continent"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "yan",
+        "ndor"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "jānndorē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "542079381"
+        },
+        {
+          "form": "janndorē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "janndore",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "janndor",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3282356701"
+        },
+        {
+          "form": "jandor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "YAN",
+          "gloss": "wide, extensive, large, vast, huge",
+          "type": "root"
+        },
+        {
+          "form": "ndorē",
+          "gloss": "land",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ja%3An.ndore%3A&off=4YMLLL%2CD4SY8V%2CECSQYV%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1W8KO21%2C1X9M9DD%2C1XN4L2D#rule-ECSQYV"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "mainland (nautical), continent, (lit.) vast land",
+    "ids_code": "1.260",
+    "conception": "Key-2016-1310-954",
+    "notes": "",
+    "references": [],
+    "hidden": "Lanto said: \"This would probably be iandor if conceived as a very ancient compound, or iondor if slightly less old.\"",
+    "last_modified": "2026-10-19"
+  },
+  {
     "uuid": "59B7C0CB-9082-4266-8255-946D3F6652DD",
     "id": "falas",
     "mutation_marker": "",
@@ -25109,23 +25206,7 @@
           "eldamo_id": ""
         }
       ],
-      "elements": [
-        {
-          "form": "FALA²",
-          "gloss": "✧ GL/33 ( fal-¹ )",
-          "type": ""
-        },
-        {
-          "form": "LT1A/Falman",
-          "gloss": "root.",
-          "type": ""
-        },
-        {
-          "form": "-os¹",
-          "gloss": "✧ GL/33 (# -os )",
-          "type": "suffix"
-        }
-      ],
+      "elements": [],
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C6%A5alaSSe&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
@@ -25148,7 +25229,7 @@
       "VT42/15"
     ],
     "hidden": "",
-    "last_modified": "2026-08-18"
+    "last_modified": "2026-10-19"
   },
   {
     "uuid": "418DD849-2F00-4793-86ED-E94673C562AF",
@@ -47444,13 +47525,13 @@
   },
   {
     "uuid": "B3E1E29E-6CC5-453B-9AFE-95287DDC9ECE",
-    "id": "egleithia",
+    "id": "egleitha",
     "mutation_marker": "",
-    "sindarin": "egleithia-",
+    "sindarin": "egleitha-",
     "spellings": [],
-    "ipa": "'e.glej.θja",
-    "tengwar": "",
-    "cirth": "zrazl0lcI",
+    "ipa": "'e.glej.θa",
+    "tengwar": "",
+    "cirth": "zrazl0cI",
     "english": [
       "acquit"
     ],
@@ -47541,7 +47622,7 @@
       "class": "derived",
       "irregular": false
     },
-    "confidence": 1,
+    "confidence": 3,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -47551,7 +47632,7 @@
     "notes": "Based on Ancient Greek ἀπολύω (apolýō), meaning release, acquit. Composed of ἀπο- (apo-) \"away, off, from\", and - λύω (lýō) \"loosen, untie, release.\" That yields something akin to \"release, loosen from\". There's a sort of pleonasm in the construction, but ἀπο- adds the idea of separation from something.",
     "references": [],
     "hidden": "acquit",
-    "last_modified": "2026-10-16"
+    "last_modified": "2026-10-19"
   },
   {
     "uuid": "4A796A40-E799-4223-98B3-D1D6104638C2",
