@@ -27741,6 +27741,97 @@
     "last_modified": "2026-10-14"
   },
   {
+    "uuid": "F47B69C6-999A-4637-8539-AB8609C78013",
+    "id": "thir",
+    "mutation_marker": "",
+    "sindarin": "thîr",
+    "spellings": [],
+    "ipa": "θiːr",
+    "tengwar": "",
+    "cirth": "0llR",
+    "english": [
+      "face"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4076749719",
+    "etymology": {
+      "root_refs": [
+        "stir"
+      ],
+      "primitive": {
+        "form": "stīrē",
+        "eldamo_id": "2571043701"
+      },
+      "development": [
+        {
+          "form": "stīrē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "stīre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sθīre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "θīre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "θīr",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sti%3Are%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "-stir"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.204",
+    "conception": "Key-2016-1310-703",
+    "notes": "",
+    "references": [
+      "VT41/10"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-20"
+  },
+  {
     "uuid": "FFE4A8CE-B35F-4C7B-A2FC-25E48C6AAE3C",
     "id": "tyg",
     "mutation_marker": "",
@@ -29104,6 +29195,60 @@
     ],
     "hidden": "",
     "last_modified": "2026-09-30"
+  },
+  {
+    "uuid": "5BCBBB64-7853-401A-872F-E81CACF3D376",
+    "id": "gwel",
+    "mutation_marker": "",
+    "sindarin": "gwel-",
+    "spellings": [],
+    "ipa": "gʷel",
+    "tengwar": "",
+    "cirth": "ozaI",
+    "english": [
+      "boil"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2060170179",
+    "etymology": {
+      "root_refs": [
+        "wel"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vel-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to boil",
+    "ids_code": "5.220",
+    "conception": "Key-2016-1310-558",
+    "notes": "",
+    "references": [
+      "GL/44"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-20"
   },
   {
     "uuid": "519283EA-EBD1-49B1-AA5F-95BBFE3FC8B3",
