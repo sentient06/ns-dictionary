@@ -31678,6 +31678,224 @@
     "last_modified": "2026-10-01"
   },
   {
+    "uuid": "AA2133D6-A5CE-4FC3-9563-123D4121674D",
+    "id": "ram",
+    "mutation_marker": "",
+    "sindarin": "ram",
+    "spellings": [],
+    "ipa": "ram",
+    "tengwar": "",
+    "cirth": "Rc6",
+    "english": [
+      "wall (enclosing or defensive)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ram",
+      "singular": "",
+      "plural": "rem"
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1483487927",
+    "etymology": {
+      "root_refs": [
+        "rab"
+      ],
+      "primitive": {
+        "form": "rambā",
+        "eldamo_id": "1152669923"
+      },
+      "development": [
+        {
+          "form": "rambā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ramba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ramb",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "ramm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "ram",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ram.ba%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-JY12TH"
+    },
+    "cognates": {
+      "quenya": "ramba"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "wall, a constructed barrier marking, defending or enclosing a territory",
+    "ids_code": "7.270",
+    "conception": "Key-2016-1310-419",
+    "notes": "",
+    "references": [
+      "SA/ram"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-21"
+  },
+  {
+    "uuid": "876BAE30-346C-4EB4-814C-EC35E2253C3B",
+    "id": "sathos",
+    "mutation_marker": "",
+    "sindarin": "sathos",
+    "spellings": [],
+    "ipa": "'sa.θos",
+    "tengwar": "",
+    "cirth": "fc0bf",
+    "english": [
+      "wall (structural)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sathos",
+      "singular": "",
+      "plural": "sethys"
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "the house",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "satsotssē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "satsotsse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1516403107"
+        },
+        {
+          "form": "saθθoθθse",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "saθθoθθs",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2090293737"
+        },
+        {
+          "form": "saθθoss",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1742178057"
+        },
+        {
+          "form": "saθθos",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "saθos",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "SAT",
+          "gloss": "divide, apportion, mark off",
+          "type": ""
+        },
+        {
+          "form": "space, place",
+          "gloss": "root",
+          "type": ""
+        },
+        {
+          "form": "SOT",
+          "gloss": "shelter",
+          "type": "root"
+        },
+        {
+          "form": "-ssē",
+          "gloss": "",
+          "type": "abstract noun suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sat.sot.sse%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-JY12TH"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "wall, belonging to a building, whether external or internal",
+    "ids_code": "7.270",
+    "conception": "Key-2016-1310-419",
+    "notes": "English uses \"wall\" broadly, but many languages distinguish between a constructed barrier that encloses or defends territory, a structural wall belonging to a building, and sometimes a partition wall that divides interior space (English has the rare word \"pariet\" for this, and Tolkien's Gnomish seems to make the same split with ost-/oss words for external walls and bant for a pariet, though Sindarin and Quenya never developed an equivalent). Words for \"wall\" often preserve the building techniques of early speakers: German Wand comes from interwoven branches covered with clay, Mauer was borrowed from Latin with masonry, Greek toîkhos relates to kneading or moulding clay, and Sanskrit bhitti originally meant a mat of split reeds. Japanese kabe has been analysed as \"place\" + \"division.\" In Middle-earth, the nomadic Sindar built little until Círdan's coastal harbour-works, later defensive inland fortifications and Dwarf-assisted halls like Menegroth, and finally the High-Elven masonry of the Noldor, which culminated in Gondolin. Drawing on the Japanese idea of division, the construction-based naming of other languages, and this Sindarin building history, I created the neologism sathos for a structural wall from √SAT \"divide, apportion, mark off; space, place\" and √SOT \"shelter\" (sat + sot + ssē), reflecting the idea that the Sindar first partitioned caves and other spaces before building vertical structures. Conservative speakers may prefer to use the word \"ram\" for any walls.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-21"
+  },
+  {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
     "id": "redhor",
     "mutation_marker": "",
@@ -33003,6 +33221,60 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-14"
+  },
+  {
+    "uuid": "EC533AF3-A12E-4599-8192-4484761423D0",
+    "id": "iaust",
+    "mutation_marker": "",
+    "sindarin": "iaust",
+    "spellings": [],
+    "ipa": "jawst",
+    "tengwar": "",
+    "cirth": "$cSf8",
+    "english": [
+      "crop",
+      "yield",
+      "produce",
+      "harvest"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2864988973",
+    "etymology": {
+      "root_refs": [
+        "yab"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "yausta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "crop, yield, produce, harvest",
+    "ids_code": "8.410",
+    "conception": "Key-2016-1310-373",
+    "notes": "",
+    "references": [
+      "GL/38"
+    ],
+    "hidden": "Longman has crop as a noun, but not as verb, nor \"harvest\"",
+    "last_modified": "2026-10-21"
   },
   {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
