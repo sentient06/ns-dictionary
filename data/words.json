@@ -34313,6 +34313,94 @@
     "last_modified": "2026-10-01"
   },
   {
+    "uuid": "587F38F0-4DB4-4370-B374-B240FC22661C",
+    "id": "cerf",
+    "mutation_marker": "",
+    "sindarin": "cerf",
+    "spellings": [],
+    "ipa": "kerf",
+    "tengwar": "",
+    "cirth": "ezR3",
+    "english": [
+      "knife"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "cerf",
+      "singular": "",
+      "plural": "cirf"
+    },
+    "gender": "",
+    "category": "tool",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Vyacheslav Stepanov",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3354392581",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kirmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kirma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "kerma",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kerm",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "kerv",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kir.ma%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "cirma"
+    },
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "9.230",
+    "conception": "Key-2016-1310-311",
+    "notes": "Cognate of the 1969 Quenya word \"cirma\" to prevent collision between Noldoring \"sigil\" and Sindarin \"sigil\" meaning \"necklace\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-21"
+  },
+  {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
     "id": "menna",
     "mutation_marker": "",
@@ -35398,6 +35486,73 @@
     "last_modified": "2026-10-03"
   },
   {
+    "uuid": "6F97E4C5-B70C-4D06-8232-863C8758C253",
+    "id": "siria",
+    "mutation_marker": "",
+    "sindarin": "siria-",
+    "spellings": [],
+    "ipa": "'si.rja",
+    "tengwar": "",
+    "cirth": "flRlcI",
+    "english": [
+      "flow"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1413134131",
+    "etymology": {
+      "root_refs": [
+        "sir"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "sirja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "siria",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sirja&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RS05GT"
+    },
+    "cognates": {
+      "quenya": "sir-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to flow",
+    "ids_code": "10.320",
+    "conception": "Key-2016-1310-241",
+    "notes": "",
+    "references": [
+      "Ety/SIR"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-21"
+  },
+  {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
     "id": "nor",
     "mutation_marker": "",
@@ -36410,6 +36565,91 @@
     "last_modified": "2026-10-14"
   },
   {
+    "uuid": "51E64027-997D-4135-B617-191A01289A0B",
+    "id": "cesta",
+    "mutation_marker": "",
+    "sindarin": "cesta-",
+    "spellings": [],
+    "ipa": "'kes.ta",
+    "tengwar": "",
+    "cirth": "ezf8cI",
+    "english": [
+      "seek",
+      "search"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1433948559",
+    "etymology": {
+      "root_refs": [
+        "keth"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ketʰtā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "kestā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kesta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KETH",
+          "gloss": "enquire of, question, examine something",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "causative verb suffix (transitive)"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ke%C5%A7.ta%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-RS05GT"
+    },
+    "cognates": {
+      "quenya": "cesta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to seek, search for, look for",
+    "ids_code": "11.310",
+    "conception": "Key-2016-1310-161",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-21"
+  },
+  {
     "uuid": "57CB91B0-D845-4C96-A9E6-04A07367DAEB",
     "id": "pad",
     "mutation_marker": "",
@@ -37299,6 +37539,60 @@
     "last_modified": "2026-10-03"
   },
   {
+    "uuid": "1802A448-DBB0-44F2-9437-A494B0A4CCEE",
+    "id": "tar",
+    "mutation_marker": "",
+    "sindarin": "tar-",
+    "spellings": [],
+    "ipa": "tar",
+    "tengwar": "",
+    "cirth": "8cRI",
+    "english": [
+      "stand"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1733413989",
+    "etymology": {
+      "root_refs": [
+        "tar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "tar-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to stand",
+    "ids_code": "12.150",
+    "conception": "Key-2016-1310-116",
+    "notes": "",
+    "references": [
+      "AotH/56"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-21"
+  },
+  {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
     "id": "dolla",
     "mutation_marker": "",
@@ -38130,7 +38424,7 @@
       "quenya": "quailepen"
     },
     "conjugation": null,
-    "confidence": null,
+    "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -38140,7 +38434,7 @@
     "notes": "Duodecimal 15 is \"rasneledh\" and it's written \"13\". The duodecimal 15 means 17 in decimal.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-14"
+    "last_modified": "2026-10-21"
   },
   {
     "uuid": "025D1C62-B31B-4A99-9A37-91EA4EAB0024",
