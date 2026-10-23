@@ -38525,7 +38525,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": 3,
+    "confidence": 2,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -38535,7 +38535,7 @@
     "notes": "Duodecimal 13 means 15 in decimal.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-14"
+    "last_modified": "2026-10-23"
   },
   {
     "uuid": "3FBF0638-26CD-4821-BEB3-AE4CE5CE2052",
@@ -38634,7 +38634,7 @@
     },
     "cognates": {},
     "conjugation": null,
-    "confidence": 3,
+    "confidence": 2,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
@@ -38644,7 +38644,217 @@
     "notes": "Duodecimal 15 means 17 in decimal.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-14"
+    "last_modified": "2026-10-23"
+  },
+  {
+    "uuid": "9B7D8A35-4D8B-4B2D-A743-32D2D1828CB8",
+    "id": "taphaen",
+    "mutation_marker": "",
+    "sindarin": "taphaen",
+    "spellings": [],
+    "ipa": "'ta.faen",
+    "tengwar": "",
+    "cirth": "8c1.cz@",
+    "english": [
+      "twenty (decimal)"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Elaran",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "254829773",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "tâd",
+          "gloss": "twonumeral",
+          "type": ""
+        },
+        {
+          "form": "pae",
+          "gloss": "ten",
+          "type": "numeral"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.104",
+    "conception": "",
+    "notes": "Duodecimal 20 is \"rastsol\" and it's written \"18\". The duodecimal 20 means 24 in decimal.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-23"
+  },
+  {
+    "uuid": "AB9835EA-71B5-4A44-8B7D-C4B49C98D5AC",
+    "id": "rasdol",
+    "mutation_marker": "",
+    "sindarin": "rasdol",
+    "spellings": [],
+    "ipa": "'ras.dol",
+    "tengwar": "",
+    "cirth": "Rcf9ba",
+    "english": [
+      "a dozen and eight (duodecimal 18)"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rastatolot",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "981459769"
+        },
+        {
+          "form": "rastatolo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "rastatol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "rastadol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "rastdol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "rasdol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "rasdol",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RASAT",
+          "gloss": "dozen",
+          "type": "root"
+        },
+        {
+          "form": "TOLOTH",
+          "gloss": "eight",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rasta.tolot&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-1HEULU5"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 2,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "notes": "Duodecimal 18 means 20 in decimal.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-23"
+  },
+  {
+    "uuid": "48CFC857-E6CB-4D36-AC04-EDD8A955E7BA",
+    "id": "tadrast",
+    "mutation_marker": "",
+    "sindarin": "tadrast",
+    "spellings": [],
+    "ipa": "'ta.drast",
+    "tengwar": "",
+    "cirth": "8c9Rcf8",
+    "english": [
+      "two dozen (duodecimal 20)"
+    ],
+    "grammar": [
+      "numeral"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "13.104",
+    "conception": "",
+    "notes": "Duodecimal 20 means 24 in decimal.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-23"
   },
   {
     "uuid": "D3323D1B-667D-4365-A34D-BB7CE23ED19D",
