@@ -40140,6 +40140,61 @@
     "last_modified": "2026-10-15"
   },
   {
+    "uuid": "A5B2DB9E-5799-4ADE-8B05-865806D7EFB3",
+    "id": "brona",
+    "mutation_marker": "",
+    "sindarin": "brona-",
+    "spellings": [],
+    "ipa": "'bro.na",
+    "tengwar": "",
+    "cirth": "2Rb@cI",
+    "english": [
+      "last",
+      "endure"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "time",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2818803655",
+    "etymology": {
+      "root_refs": [
+        "boron"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vor-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to last, endure, continue to exist",
+    "ids_code": "14.252",
+    "conception": "Key-2016-1310-7",
+    "notes": "",
+    "references": [
+      "Ety/BORÓN"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-23"
+  },
+  {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
     "id": "nuir",
     "mutation_marker": "",
@@ -41406,6 +41461,53 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "53ECC7EC-D31C-4B98-B988-6E3EC0069CA2",
+    "id": "brui",
+    "mutation_marker": "",
+    "sindarin": "brui",
+    "spellings": [],
+    "ipa": "bruj",
+    "tengwar": "",
+    "cirth": "2RSl",
+    "english": [
+      "loud"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "sense perception",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1244424501",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "15.450",
+    "conception": "Key-2016-1310-1014",
+    "notes": "From \"Bruinen\", the river in the Lord of the Rings. The primitive form is uncertain, maybe it's \"(bo)romyā\" and √ROM. But that's speculation.",
+    "references": [
+      "LotR/200"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-23"
   },
   {
     "uuid": "35BEC6D8-2B5C-4DC7-98AE-4E886E1F31EC",
@@ -42876,6 +42978,89 @@
     "last_modified": "2026-10-07"
   },
   {
+    "uuid": "6ECC4C3B-FB74-4400-8391-D4757AF13D45",
+    "id": "nin",
+    "mutation_marker": "",
+    "sindarin": "nîn",
+    "spellings": [],
+    "ipa": "niːn",
+    "tengwar": "",
+    "cirth": "@ll@",
+    "english": [
+      "tear"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "emotions and values",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "712622999",
+    "etymology": {
+      "root_refs": [
+        "ney"
+      ],
+      "primitive": {
+        "form": "neinē",
+        "eldamo_id": "1609585207"
+      },
+      "development": [
+        {
+          "form": "neinē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "neine",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942848653"
+        },
+        {
+          "form": "nīne",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "nīn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=neine%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-1HEULU5"
+    },
+    "cognates": {
+      "quenya": "nië"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "16.380",
+    "conception": "Key-2016-1310-1066",
+    "notes": "",
+    "references": [
+      "S/219"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-23"
+  },
+  {
     "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
     "id": "sadhor",
     "mutation_marker": "",
@@ -43981,7 +44166,10 @@
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=NGgolja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
     },
     "cognates": {},
-    "conjugation": null,
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
     "confidence": 5,
     "swadesh100": null,
     "swadesh207": null,
@@ -43992,7 +44180,109 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-16"
+    "last_modified": "2026-10-23"
+  },
+  {
+    "uuid": "1193D74F-9E44-4CF0-BBBB-C0CE534CA613",
+    "id": "goltha",
+    "mutation_marker": "ng-",
+    "sindarin": "goltha-",
+    "spellings": [],
+    "ipa": "'gol.θa",
+    "tengwar": "",
+    "cirth": "rba0cI",
+    "english": [
+      "teach",
+      "educate",
+      "tutor"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "mind",
+    "ids_chapter": "cognition",
+    "type": "neologism",
+    "source": "Unknown",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4020454361",
+    "etymology": {
+      "root_refs": [
+        "ngol"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ŋgoltā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1989991061"
+        },
+        {
+          "form": "goltā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "golta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "goltʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "golθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ÑGOL",
+          "gloss": "knowledge, wisdom, lore",
+          "type": "root"
+        },
+        {
+          "form": "-tă",
+          "gloss": "",
+          "type": "causative verb suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=NGgol.ta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "nolya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to teach, educate, tutor, (lit.) make knowledgable",
+    "ids_code": "17.250",
+    "conception": "Key-2016-1310-1112",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-23"
   },
   {
     "uuid": "4CB216E4-E748-43EA-8110-D0F0BA12CC75",
@@ -44811,6 +45101,130 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-06"
+  },
+  {
+    "uuid": "9603CB88-A4FE-4A46-824A-0077BF38E950",
+    "id": "peth",
+    "mutation_marker": "",
+    "sindarin": "peth",
+    "spellings": [],
+    "ipa": "peθ",
+    "tengwar": "",
+    "cirth": "1z0",
+    "english": [
+      "word"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "peth",
+      "singular": "",
+      "plural": "pith"
+    },
+    "gender": "",
+    "category": "things",
+    "ids_chapter": "speech and language",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "184000497",
+    "etymology": {
+      "root_refs": [
+        "kwet"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kwettā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "pettā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "petta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "pettʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "peθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "peθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "peθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KWET",
+          "gloss": "say, speak, utter words",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "noun suffix, single product of an action"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kwetta%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "quetta"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "18.260",
+    "conception": "Key-2016-1310-1163",
+    "notes": "",
+    "references": [
+      "LotR/307",
+      "PE17/46, 126, 146, 151",
+      "PE23/143",
+      "PM/395",
+      "SA/quen",
+      "VT44/26"
+    ],
+    "hidden": "Suffix -tā has vowel lengthened owing to influence of dā “the passive result of an action”",
+    "last_modified": "2026-10-23"
   },
   {
     "uuid": "0DDD5933-9061-4C2F-889A-6526BEB0100A",
@@ -46368,6 +46782,72 @@
     "last_modified": "2026-10-16"
   },
   {
+    "uuid": "F1703030-9EF3-4727-BBDC-E51190FAF2B4",
+    "id": "mul",
+    "mutation_marker": "",
+    "sindarin": "mûl",
+    "spellings": [],
+    "ipa": "muːl",
+    "tengwar": "",
+    "cirth": "6Da",
+    "english": [
+      "slave"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "mûl",
+      "singular": "",
+      "plural": "muil"
+    },
+    "gender": "",
+    "category": "social",
+    "ids_chapter": "social and political relations",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3148469075",
+    "etymology": {
+      "root_refs": [
+        "mo"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "guin",
+          "gloss": "own, held, possessed",
+          "type": "adjective"
+        },
+        {
+          "form": "-(n)ir",
+          "gloss": "(feminine) agent",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "mól"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "19.420",
+    "conception": "Key-2016-1310-1204",
+    "notes": "",
+    "references": [
+      "PE23/139"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-23"
+  },
+  {
     "uuid": "FBC786C1-BE60-4EE8-84DD-2D3513B87869",
     "id": "dagor",
     "mutation_marker": "nd-",
@@ -47597,6 +48077,81 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-16"
+  },
+  {
+    "uuid": "4612570D-7694-4EFB-9F34-D5B08201090F",
+    "id": "castol",
+    "mutation_marker": "",
+    "sindarin": "castol",
+    "spellings": [],
+    "ipa": "'kas.tol",
+    "tengwar": "",
+    "cirth": "ecf8ba",
+    "english": [
+      "helmet"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "castol",
+      "singular": "",
+      "plural": "cestyl"
+    },
+    "gender": "",
+    "category": "equipment",
+    "ids_chapter": "warfare and hunting",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2655805023",
+    "etymology": {
+      "root_refs": [
+        "kas",
+        "stol"
+      ],
+      "primitive": {
+        "form": "kasla",
+        "eldamo_id": "1109417921"
+      },
+      "development": [],
+      "elements": [
+        {
+          "form": "kas",
+          "gloss": "head",
+          "type": "noun"
+        },
+        {
+          "form": "thôl",
+          "gloss": "helmet, helm",
+          "type": "noun"
+        },
+        {
+          "form": "STOL",
+          "gloss": "helmet",
+          "type": "root."
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "castol(o)"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "20.330",
+    "conception": "Key-2016-1310-1238",
+    "notes": "",
+    "references": [
+      "PE13/140"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-23"
   },
   {
     "uuid": "29EE348C-C4F5-4BDB-90ED-2223A38A4634",
