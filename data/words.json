@@ -957,7 +957,7 @@
   },
   {
     "uuid": "01D800DF-BA79-4318-9D75-120BE3CF98C5",
-    "id": "sa",
+    "id": "sa-pronoun",
     "mutation_marker": "",
     "sindarin": "sa",
     "spellings": [],
@@ -1003,7 +1003,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "800A9780-05B6-40E1-9611-0CF9125D4850",
@@ -1289,9 +1289,9 @@
     "mutation_marker": "",
     "sindarin": "man",
     "spellings": [],
-    "ipa": "man",
-    "tengwar": "",
-    "cirth": "6c@",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "what"
     ],
@@ -1334,7 +1334,7 @@
       "VT50/5, 21"
     ],
     "hidden": "",
-    "last_modified": "2026-07-22"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "011FEDED-79D1-40D5-9720-CA49ADE9E461",
@@ -1881,7 +1881,7 @@
   },
   {
     "uuid": "8D9C9D89-3CD6-44AD-BEF5-E448D0EE67BE",
-    "id": "sath",
+    "id": "sath-noun",
     "mutation_marker": "",
     "sindarin": "sath",
     "spellings": [],
@@ -1928,11 +1928,11 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "13A9867F-6C6A-42E7-BEDD-DC338D064257",
-    "id": "sath",
+    "id": "sath-determiner",
     "mutation_marker": "",
     "sindarin": "sath",
     "spellings": [],
@@ -2015,7 +2015,7 @@
     "notes": "Based on Greek μέρος (méros), which originally means \"part\". The idea that \"some\" represents a part of a larger thing seems logical enough to treat this word as a determiner.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "77869132-6C34-4F0C-BA8A-461411E32552",
@@ -3258,7 +3258,7 @@
     "mutation_marker": "",
     "sindarin": "tŷg",
     "spellings": [],
-    "ipa": "tiːg",
+    "ipa": "tjːg",
     "tengwar": "",
     "cirth": "8LLr",
     "english": [
@@ -3351,7 +3351,7 @@
       "Ety/TIW"
     ],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -10405,10 +10405,24 @@
     "noldorin_form": "",
     "eldamo_id": "3140308267",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "wo",
+        "peng"
+      ],
       "primitive": null,
       "development": [],
-      "elements": [],
+      "elements": [
+        {
+          "form": "go-",
+          "gloss": "together, co-, com-",
+          "type": "prefix"
+        },
+        {
+          "form": "pemp",
+          "gloss": "lip",
+          "type": "noun"
+        }
+      ],
       "quettamorphosis_url": ""
     },
     "cognates": {},
@@ -10418,14 +10432,17 @@
     "swadesh207": 76,
     "leipzig_jakarta": 5,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.240",
+    "conception": "Key-2016-1310-687",
     "longman": "true",
     "ref": "",
     "notes": "Based on Gnomish \"gogail\", and using the same compound elements from Sindarin.",
-    "references": [],
+    "references": [
+      "GG/8",
+      "GL/24, 40"
+    ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "DDFA093D-7ED2-4F86-853A-69498C9D947D",
@@ -10569,15 +10586,17 @@
       "elements": [],
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nelek&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D#rule-13OH3T7"
     },
-    "cognates": {},
+    "cognates": {
+      "quenya": "nelet"
+    },
     "conjugation": null,
     "confidence": null,
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "4.270",
+    "conception": "Key-2016-1310-682",
     "longman": "true",
     "ref": "",
     "notes": "This word has no direct attestations. Paul Strack suggests using it as part of compounds. For \"tooth\" noun, use \"neleg\" instead.",
@@ -10585,7 +10604,7 @@
       "Ety/NÉL-EK"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "976842F0-361F-4FF3-819E-2317297A746F",
@@ -11397,9 +11416,9 @@
     "mutation_marker": "",
     "sindarin": "maw",
     "spellings": [],
-    "ipa": "maw",
-    "tengwar": "",
-    "cirth": "6cF",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "side"
     ],
@@ -11450,7 +11469,7 @@
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-08-01"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
@@ -15257,17 +15276,17 @@
     "swadesh100": 69,
     "swadesh207": 125,
     "leipzig_jakarta": 45,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "definition": "to stand",
+    "ids_code": "12.150",
+    "conception": "Key-2016-1310-116",
+    "longman": "true",
     "ref": "",
     "notes": "",
     "references": [
       "AotH/56"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "42402FA9-442C-4CBD-8D3B-696320863E2F",
@@ -16628,9 +16647,22 @@
         "sir"
       ],
       "primitive": null,
-      "development": [],
+      "development": [
+        {
+          "form": "sirja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "siria",
+          "eldamo_id": ""
+        }
+      ],
       "elements": [],
-      "quettamorphosis_url": ""
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sirja&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RS05GT"
     },
     "cognates": {
       "quenya": "sir-"
@@ -16643,17 +16675,17 @@
     "swadesh100": null,
     "swadesh207": 144,
     "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "definition": "to flow",
+    "ids_code": "10.320",
+    "conception": "Key-2016-1310-241",
+    "longman": "true",
     "ref": "",
     "notes": "This is a Noldorin verb. It's Sindarin equivalent would be \"seria-\". But because this word is heavily associated with Sirion, I think it's easily recognisable. One could pretend it to be an defective case.",
     "references": [
       "Ety/SIR"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "D7FD44AB-FAC8-4791-A8CC-3C9138558A2F",
@@ -17908,9 +17940,9 @@
     "mutation_marker": "",
     "sindarin": "sarn",
     "spellings": [],
-    "ipa": "sarn",
-    "tengwar": "",
-    "cirth": "fcR@",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "stony"
     ],
@@ -17981,7 +18013,7 @@
       "RC/163"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
@@ -19224,7 +19256,7 @@
   },
   {
     "uuid": "D397B400-EFB1-4812-B48E-46592AB7FD69",
-    "id": "men",
+    "id": "men-noun",
     "mutation_marker": "",
     "sindarin": "men",
     "spellings": [],
@@ -19280,7 +19312,7 @@
       "UTI/Men-i-Naugrim"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "46F49D00-38A1-4106-9A5E-995D802DFB43",
@@ -28945,74 +28977,6 @@
     "last_modified": "2026-10-24"
   },
   {
-    "uuid": "258F5EAE-A5F9-4B90-AD02-D9519ED8301E",
-    "id": "gobem",
-    "mutation_marker": "",
-    "sindarin": "gobem",
-    "spellings": [],
-    "ipa": "'go.bem",
-    "tengwar": "",
-    "cirth": "rb2z6",
-    "english": [
-      "mouth"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": {
-      "base": "gobem",
-      "singular": "",
-      "plural": "gebim"
-    },
-    "gender": "",
-    "category": "body",
-    "ids_chapter": "the body",
-    "type": "reconstructed",
-    "source": "Gnomish",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "3140308267",
-    "etymology": {
-      "root_refs": [
-        "wo",
-        "peng"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [
-        {
-          "form": "go-",
-          "gloss": "together, co-, com-",
-          "type": "prefix"
-        },
-        {
-          "form": "pemp",
-          "gloss": "lip",
-          "type": "noun"
-        }
-      ],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "4.240",
-    "conception": "Key-2016-1310-687",
-    "longman": "false",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "GG/8",
-      "GL/24, 40"
-    ],
-    "hidden": "",
-    "last_modified": "2026-10-24"
-  },
-  {
     "uuid": "3C139228-043D-40FF-9114-F7F34FBC6670",
     "id": "irth",
     "mutation_marker": "",
@@ -29115,92 +29079,6 @@
     "ref": "",
     "notes": "Based on Quenya.",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-10-24"
-  },
-  {
-    "uuid": "4205F189-D993-4C0E-A64F-1D9770EB96FC",
-    "id": "nel",
-    "mutation_marker": "",
-    "sindarin": "nêl",
-    "spellings": [],
-    "ipa": "neːl",
-    "tengwar": "",
-    "cirth": "@xa",
-    "english": [
-      "tooth"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": {
-      "base": "nêl",
-      "singular": "",
-      "plural": "nîl"
-    },
-    "gender": "",
-    "category": "body",
-    "ids_chapter": "the body",
-    "type": "restored",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "1132597183",
-    "etymology": {
-      "root_refs": [
-        "nelek"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "nelek",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "981459769"
-        },
-        {
-          "form": "nele",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "813787869"
-        },
-        {
-          "form": "nel",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1053424933"
-        },
-        {
-          "form": "nēl",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nelek&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RS05GT"
-    },
-    "cognates": {
-      "quenya": "nelet"
-    },
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "4.270",
-    "conception": "Key-2016-1310-682",
-    "longman": "false",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "Ety/NÉL-EK"
-    ],
     "hidden": "",
     "last_modified": "2026-10-24"
   },
@@ -37215,75 +37093,6 @@
     "last_modified": "2026-10-03"
   },
   {
-    "uuid": "6F97E4C5-B70C-4D06-8232-863C8758C253",
-    "id": "siria",
-    "mutation_marker": "",
-    "sindarin": "siria-",
-    "spellings": [],
-    "ipa": "'si.rja",
-    "tengwar": "",
-    "cirth": "flRlcI",
-    "english": [
-      "flow"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "motion",
-    "type": "restored",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "1413134131",
-    "etymology": {
-      "root_refs": [
-        "sir"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "sirja",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1679623085"
-        },
-        {
-          "form": "siria",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=sirja&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RS05GT"
-    },
-    "cognates": {
-      "quenya": "sir-"
-    },
-    "conjugation": {
-      "class": "derived",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to flow",
-    "ids_code": "10.320",
-    "conception": "Key-2016-1310-241",
-    "longman": "true",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "Ety/SIR"
-    ],
-    "hidden": "",
-    "last_modified": "2026-10-21"
-  },
-  {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
     "id": "nor",
     "mutation_marker": "",
@@ -37342,7 +37151,7 @@
   },
   {
     "uuid": "0A82999B-FA3E-4C42-A84F-F4E3D4D413E4",
-    "id": "men",
+    "id": "men-verb",
     "mutation_marker": "",
     "sindarin": "men-",
     "spellings": [],
@@ -37393,7 +37202,7 @@
       "PE22/165"
     ],
     "hidden": "",
-    "last_modified": "2026-07-21"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "7CB09CD6-C7AB-439C-84B5-805E54DE1409",
@@ -38549,7 +38358,7 @@
   },
   {
     "uuid": "711B85A7-1BAB-461A-9467-1AB61DC946DD",
-    "id": "sa",
+    "id": "sa-preposition",
     "mutation_marker": "",
     "sindarin": "sa",
     "spellings": [],
@@ -38601,7 +38410,7 @@
       "GL/20"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "8679A3C5-CD75-4030-9C41-921ACB0828DE",
@@ -39338,62 +39147,6 @@
     "last_modified": "2026-10-03"
   },
   {
-    "uuid": "1802A448-DBB0-44F2-9437-A494B0A4CCEE",
-    "id": "tar",
-    "mutation_marker": "",
-    "sindarin": "tar-",
-    "spellings": [],
-    "ipa": "tar",
-    "tengwar": "",
-    "cirth": "8cRI",
-    "english": [
-      "stand"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "spatial relations",
-    "type": "reconstructed",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "1733413989",
-    "etymology": {
-      "root_refs": [
-        "tar"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {
-      "quenya": "tar-"
-    },
-    "conjugation": {
-      "class": "basic",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to stand",
-    "ids_code": "12.150",
-    "conception": "Key-2016-1310-116",
-    "longman": "true",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "AotH/56"
-    ],
-    "hidden": "",
-    "last_modified": "2026-10-21"
-  },
-  {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
     "id": "dolla",
     "mutation_marker": "",
@@ -39799,9 +39552,9 @@
     "mutation_marker": "",
     "sindarin": "lad",
     "spellings": [],
-    "ipa": "lad",
-    "tengwar": "",
-    "cirth": "ac9",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "zero"
     ],
@@ -39840,7 +39593,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-22"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "B55FF718-630F-447E-87A4-9E7F5215464C",
@@ -39848,9 +39601,9 @@
     "mutation_marker": "",
     "sindarin": "lad",
     "spellings": [],
-    "ipa": "lad",
-    "tengwar": "",
-    "cirth": "ac9",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "nothing"
     ],
@@ -39887,7 +39640,7 @@
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-22"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "677A07CA-9F00-4D0A-9625-A9627C0F8FD3",
@@ -44936,9 +44689,9 @@
     "mutation_marker": "",
     "sindarin": "nîn",
     "spellings": [],
-    "ipa": "niːn",
-    "tengwar": "",
-    "cirth": "@ll@",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "tear"
     ],
@@ -45013,7 +44766,7 @@
       "S/219"
     ],
     "hidden": "",
-    "last_modified": "2026-10-23"
+    "last_modified": "2026-10-24"
   },
   {
     "uuid": "AAF8E9E2-89BA-4261-983F-D0371F1E887C",
