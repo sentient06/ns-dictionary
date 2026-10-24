@@ -75,6 +75,8 @@ ns-dictionary/
 │   │   ├── style.css           # Parchment-style theme
 │   │   ├── tengwar.css         # Tengwar @font-face
 │   │   └── cirth.css           # Cirth @font-face
+│   ├── js/
+│   │   └── dictionary.js       # Lookup, search, and entry previews
 │   ├── tengwar/                # Tengwar font files
 │   └── cirth/                  # Cirth font files
 ├── build.mjs                   # Static site generator
@@ -116,7 +118,8 @@ Google Sheets → (sync-data cron) → commits words.json → (deploy on push) �
 | `english-sindarin.html` | All words sorted by English gloss |
 | `by-grammar.html` | Words grouped by part of speech |
 | `by-category.html` | Words grouped by IDS semantic chapter |
-| `search.html` | Client-side regex search across Sindarin and English fields |
+| `search.html` | Search page. Reads `lexicon.json` in the browser |
+| `lexicon.json` | Generated search index: one record per word page, including senses, glosses, definitions, roots, notes, and catalogue ids |
 | `words/{slug}.html` | Individual word page (slug derived from headword) |
 
 ## Incremental Builds
@@ -126,6 +129,7 @@ The build script maintains `.build-manifest.json` with SHA-256 hashes of each pa
 - `npm run build` — only rebuilds pages whose content hash changed
 - `npm run build:full` — ignores the manifest and rebuilds everything
 - List pages, index, and search are rebuilt whenever any word data changes
+- Search, the header lookup, and list-page previews all read the generated `lexicon.json` rather than a copy of the entries pasted into the HTML
 - The `docs/words/` directory is cleaned on every build to remove stale pages
 
 ## Data Schema
@@ -158,6 +162,11 @@ An array of word objects:
 | `etymology` | object | Etymology: `{ root_refs, primitive, development, elements, quettamorphosis_url }` |
 | `cognates` | object | Language-keyed cognates: `{ "quenya": "form" }` |
 | `conjugation` | object\|null | Verb conjugation: `{ class, irregular, overrides }` |
+| `definition` | string | Longer English explanation, shown under the short gloss when it adds something |
+| `ids_code` | string | IDS code, e.g. `"13.10"`. Linked to `https://ids.clld.org/parameters/13-10` |
+| `conception` | string | Concepticon value id, e.g. `"Key-2016-1310-57"`. Linked to `https://concepticon.clld.org/values/Key-2016-1310-57` |
+| `longman` | string | `""`, `"true"`, `"false"`, or `"maybe"` — membership in the Longman Defining Vocabulary |
+| `ref` | string | Source of a neologism, usually a URL |
 | `notes` | string | Free-text notes |
 | `references` | string[] | Source abbreviations |
 | `hidden` | string | If non-empty, word is flagged as hidden |
@@ -306,6 +315,11 @@ node scripts/import-csv.mjs path/to/words.csv --dry-run  # preview
 | `cognates` | Colon pairs: `quenya:Atan; telerin:Adân` |
 | `conjugation_class` | `basic`, `derived`, `half-strong` |
 | `conjugation_irregular` | `true` or `false` |
+| `definition` | Longer English explanation |
+| `ids_code` | IDS code, e.g. `13.10` |
+| `conception` | Concepticon value id, e.g. `Key-2016-1310-57` |
+| `longman` | `TRUE`, `FALSE`, `maybe`, or empty |
+| `ref` | Neologism source, usually a URL |
 | `hidden` | Any non-empty value flags the word as hidden |
 
 Column order does not matter — the import matches by header name.
@@ -317,3 +331,5 @@ All external links use `target="_blank" rel="noopener"`.
 - **Eldamo**: `https://eldamo.org/content/words/word-{eldamo_id}.html`
 - **Quettamorphosis**: linked via `quettamorphosis_url` for phonetic development visualization
 - **Roots**: roots in `data/roots.json` with an `eldamo_id` link to their Eldamo pages
+- **IDS**: `https://ids.clld.org/parameters/{ids_code}` with `.` written as `-`
+- **Concepticon**: `https://concepticon.clld.org/values/{conception}`

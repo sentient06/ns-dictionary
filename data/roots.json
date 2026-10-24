@@ -133,6 +133,13 @@
     "notes": ""
   },
   {
+    "id": "benet",
+    "form": "BENET",
+    "gloss": "chin",
+    "eldamo_id": "464460305",
+    "notes": ""
+  },
+  {
     "id": "ber",
     "form": "BER",
     "gloss": "to mate, be mated, joined in marriage",
@@ -158,6 +165,13 @@
     "form": "BRATH",
     "gloss": "cook",
     "eldamo_id": "3765274503",
+    "notes": ""
+  },
+  {
+    "id": "daram",
+    "form": "DARAM",
+    "gloss": "beat, hew",
+    "eldamo_id": "1110848141",
     "notes": ""
   },
   {
@@ -448,6 +462,13 @@
     "notes": ""
   },
   {
+    "id": "irit",
+    "form": "IRIT",
+    "gloss": "peck, prick",
+    "eldamo_id": "718582137",
+    "notes": ""
+  },
+  {
     "id": "is",
     "form": "IS",
     "gloss": "know",
@@ -483,6 +504,20 @@
     "notes": ""
   },
   {
+    "id": "karak",
+    "form": "KARAK",
+    "gloss": "sharp fang, spike, tooth",
+    "eldamo_id": "2886206035",
+    "notes": ""
+  },
+  {
+    "id": "karan",
+    "form": "KARAN",
+    "gloss": "red",
+    "eldamo_id": "1676885995",
+    "notes": ""
+  },
+  {
     "id": "kay",
     "form": "KAY",
     "gloss": "lie (down)",
@@ -508,6 +543,13 @@
     "form": "KEN",
     "gloss": "see, perceive, note",
     "eldamo_id": "3864726987",
+    "notes": ""
+  },
+  {
+    "id": "keth",
+    "form": "KETH",
+    "gloss": "enquire of, question, examine something",
+    "eldamo_id": "3499934373",
     "notes": ""
   },
   {
@@ -620,6 +662,13 @@
     "form": "KHYAR",
     "gloss": "left hand",
     "eldamo_id": "4236087203",
+    "notes": ""
+  },
+  {
+    "id": "kir",
+    "form": "KIR",
+    "gloss": "cut, cleave, pass swiftly through; shave; skim (surface), slip along, glide quickly",
+    "eldamo_id": "1501200451",
     "notes": ""
   },
   {
@@ -1512,6 +1561,13 @@
     "notes": ""
   },
   {
+    "id": "peng",
+    "form": "PEÑ",
+    "gloss": "lip, mouth",
+    "eldamo_id": "3716260439",
+    "notes": ""
+  },
+  {
     "id": "phal",
     "form": "PHAL",
     "gloss": "foam, splash",
@@ -1544,6 +1600,13 @@
     "form": "PHEK",
     "gloss": "destroy, ruin",
     "eldamo_id": "2169428073",
+    "notes": ""
+  },
+  {
+    "id": "pheleg",
+    "form": "PHELEG",
+    "gloss": "excavation",
+    "eldamo_id": "3434733817",
     "notes": ""
   },
   {
@@ -1607,6 +1670,13 @@
     "form": "POL",
     "gloss": "can, have physical power and ability; large, big (strong); pound up, break up small, reduce to powder",
     "eldamo_id": "1890828511",
+    "notes": ""
+  },
+  {
+    "id": "rab",
+    "form": "RAB²",
+    "gloss": "wall",
+    "eldamo_id": "1617388671",
     "notes": ""
   },
   {
@@ -1750,6 +1820,13 @@
     "notes": "This root should not be used. Use √LUK or √TUK instead."
   },
   {
+    "id": "salak",
+    "form": "SALAK",
+    "gloss": "grass",
+    "eldamo_id": "1742369871",
+    "notes": ""
+  },
+  {
     "id": "sam",
     "form": "SAM",
     "gloss": "have; unite, join",
@@ -1876,6 +1953,13 @@
     "notes": ""
   },
   {
+    "id": "sluk",
+    "form": "SLUK",
+    "gloss": "swallow",
+    "eldamo_id": "1500835575",
+    "notes": ""
+  },
+  {
     "id": "slus",
     "form": "SLUS",
     "gloss": "whisper",
@@ -1993,7 +2077,7 @@
     "gloss": "wash",
     "eldamo_id": "1126585633",
     "notes": ""
-  },  
+  },
   {
     "id": "suu",
     "form": "SŪ",
@@ -2048,6 +2132,13 @@
     "form": "TELES",
     "gloss": "hindmost, tarrier",
     "eldamo_id": "3558884681",
+    "notes": ""
+  },
+  {
+    "id": "telu",
+    "form": "TEL(U)",
+    "gloss": "roof",
+    "eldamo_id": "3365687279",
     "notes": ""
   },
   {
@@ -2286,6 +2377,20 @@
     "form": "WIR",
     "gloss": "weave, twine, weaving with cross-threads or withes",
     "eldamo_id": "1286590257",
+    "notes": ""
+  },
+  {
+    "id": "wir2",
+    "form": "WIR",
+    "gloss": "new, fresh, young",
+    "eldamo_id": "1958277075",
+    "notes": ""
+  },
+  {
+    "id": "wo",
+    "form": "WO",
+    "gloss": "together",
+    "eldamo_id": "83930815",
     "notes": ""
   },
   {

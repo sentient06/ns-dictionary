@@ -30,6 +30,10 @@
       </a>
       <span>NS Dictionary</span>
     </span>
+    <form class="head-search" action="search.html" method="get" role="search">
+      <input type="search" name="q" placeholder="Look up" autocomplete="off" spellcheck="false" aria-label="Look up a word" enterkeyhint="search">
+      <div class="lookup-panel" hidden></div>
+    </form>
     <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true">
     <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle navigation">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" width="1.4rem" height="1.4rem">
@@ -48,6 +52,11 @@
   </header>
   <main class="main-content">
     <h1 class="page-title">The Sindarin Supply Wordbook</h1>
+    <form class="lookup home-lookup" action="search.html" method="get" role="search">
+      <label for="home-q">Look up a word</label>
+      <input id="home-q" type="search" name="q" placeholder="Sindarin or English" autocomplete="off" spellcheck="false">
+      <div class="lookup-panel" hidden></div>
+    </form>
     <p>A Neo-Sindarin lexicon containing <strong>{{word_count}}</strong> entries.</p>
     <p style="margin-top:1rem">
       This site is intended to serve as a comprehensive dictionary of words that can be used for Neo-Sindarin compositions.
@@ -71,7 +80,7 @@
       You can find more information about how the dictionary is populated in the <a href="why.html">why</a> page.
     </p>
     <p>
-      Celephinel
+      Celephinnel
     </p>
     <div class="drop-nav">
       <a href="sindarin-english.html">Sindarin → English</a>
@@ -91,5 +100,6 @@
     NS Dictionary — A Neo-Sindarin Lexicon · Not affiliated with the Tolkien Estate
     <div class="footer-updated">Last updated {{build_date}}</div>
   </footer>
+  <script src="js/dictionary.js" data-lexicon="/lexicon.json?v={{lexicon_v}}"></script>
 </body>
 </html>

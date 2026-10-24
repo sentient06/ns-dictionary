@@ -22,6 +22,7 @@ const MANIFEST_PATH = join(ROOT, '.build-manifest.json');
 const FULL = process.argv.includes('--full');
 const SITE_URL = 'https://sindarin.dictionary.elvish.nz';
 const BUILD_DATE = new Date().toISOString().slice(0, 10);
+let LEXICON_V = '';
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -35,7 +36,7 @@ function readTemplate(name) {
 
 /** Minimal Mustache-like renderer (handles {{var}}, {{#block}}...{{/block}}) */
 function render(template, data) {
-  data = { build_date: BUILD_DATE, ...data };
+  data = { build_date: BUILD_DATE, lexicon_v: LEXICON_V, ...data };
   // Handle {{#block}}...{{/block}} (truthy/array sections)
   let result = template.replace(
     /\{\{#([^}]+)\}\}([\s\S]*?)\{\{\/\1\}\}/g,
@@ -299,6 +300,19 @@ function prepareWordData(word, rootsMap) {
   const grammarArr = Array.isArray(word.grammar) ? word.grammar : [word.grammar].filter(Boolean);
   const grammarJoined = grammarArr.join(', ');
 
+  const gloss = (word.english || []).join(', ');
+  const definition = (word.definition || '').trim();
+  const norm = (s) => s.toLowerCase().replace(/\s+/g, ' ').trim();
+  const show_definition = !!(definition && norm(definition) !== norm(gloss));
+
+  const idsCode = word.ids_code || '';
+  const conception = word.conception || '';
+  const ref = (word.ref || '').trim();
+  const ref_href = /^https?:\/\//i.test(ref) ? ref : '';
+  const ref_text = ref && !ref_href ? ref : '';
+  const longman = word.longman || '';
+  const categoryKey = word.category || word.ids_chapter || '';
+
   // Format IPA: single-char → [x], multi-char → /xxx/
   const rawIpa = word.ipa || '';
   const ipa_display = rawIpa
@@ -312,8 +326,22 @@ function prepareWordData(word, rootsMap) {
     ipa: ipa_display,
     grammar: grammarJoined,
     root: '../',
-    english_joined: word.definition || word.english.join(', '),
-    category_label: CATEGORY_LABELS[word.category] || word.category,
+    english_joined: gloss || definition,
+    show_definition,
+    definition,
+    category: categoryKey,
+    category_label: CATEGORY_LABELS[categoryKey] || categoryKey,
+    ids_code: idsCode,
+    ids_href: idsCode ? `https://ids.clld.org/parameters/${idsCode.replace(/\./g, '-')}` : '',
+    conception,
+    conception_href: conception ? `https://concepticon.clld.org/values/${encodeURIComponent(conception)}` : '',
+    longman,
+    longman_true: longman === 'true',
+    longman_maybe: longman === 'maybe',
+    ref,
+    ref_href,
+    ref_text,
+    has_catalogue: !!(idsCode || conception || ref),
     type_source_text: buildTypeSourceText(word.type, word.source),
     has_confidence: word.confidence !== null && word.confidence !== undefined,
     confidence_stars: word.confidence !== null && word.confidence !== undefined
@@ -351,6 +379,7 @@ function prepareWordData(word, rootsMap) {
     alt_spellings: altSpellings,
     in_swadesh100: word.swadesh100 !== null && word.swadesh100 !== undefined,
     in_swadesh207: word.swadesh207 !== null && word.swadesh207 !== undefined,
+    in_leipzig: word.leipzig_jakarta !== null && word.leipzig_jakarta !== undefined,
     meta_description: `${word.sindarin} — ${grammarJoined}. Meaning: ${word.english.join(', ')}. Neo-Sindarin dictionary entry with etymology and references.`,
     canonical_url: `${SITE_URL}/words/${word.id}.html`,
   };
@@ -490,6 +519,54 @@ function buildByCategoryList(words) {
   };
 }
 
+function inflectionPreview(word) {
+  const inf = word.inflection;
+  if (!inf) return '';
+  const parts = [];
+  if (inf.plural) parts.push(`pl. ${inf.plural}`);
+  if (inf.singular) parts.push(`sg. ${inf.singular}`);
+  return parts.join(', ');
+}
+
+/** Compact lexicon used by search, typeahead, and entry previews. */
+function buildLexicon(words) {
+  const groups = new Map();
+  for (const word of words) {
+    if (!groups.has(word.id)) groups.set(word.id, []);
+    groups.get(word.id).push(word);
+  }
+  const entries = [];
+  for (const [id, group] of groups) {
+    const first = group[0];
+    entries.push({
+      id,
+      sindarin: first.sindarin,
+      mutation: first.mutation_marker || '',
+      ipa: first.ipa || '',
+      tengwar: first.tengwar || '',
+      cirth: first.cirth || '',
+      senses: group.map(word => ({
+        english: word.english || [],
+        definition: word.definition || '',
+        grammar: Array.isArray(word.grammar) ? word.grammar : [],
+        inflection: inflectionPreview(word),
+        type: word.type || '',
+        source: word.source || '',
+        status: word.status || '',
+        confidence: word.confidence ?? null,
+        category: word.category || word.ids_chapter || '',
+        ids_code: word.ids_code || '',
+        conception: word.conception || '',
+        longman: word.longman || '',
+        ref: word.ref || '',
+        roots: (word.etymology?.root_refs || []).join(' '),
+        notes: word.notes || '',
+      })),
+    });
+  }
+  return entries;
+}
+
 function buildSwadeshList(words, field, title, description, filename, comment) {
   const filtered = words.filter(w => w[field] !== null && w[field] !== undefined);
   filtered.sort((a, b) => a[field] - b[field]);
@@ -540,6 +617,13 @@ if (existsSync(wordsDir)) rmSync(wordsDir, { recursive: true });
 cpSync(join(ROOT, 'static'), OUT, { recursive: true });
 console.log('✓ Copied static assets');
 
+// ── Lexicon ──────────────────────────────────────────────────────────────────
+// Built before pages so every template can cache-bust /lexicon.json.
+
+const lexicon = buildLexicon(words);
+const lexiconJson = JSON.stringify(lexicon);
+LEXICON_V = hash(lexiconJson);
+
 // ── Group Words by Slug (merge homonyms) ─────────────────────────────────────
 
 const wordsBySlug = {};
@@ -554,7 +638,7 @@ let built = 0, skipped = 0;
 
 for (const [slug, group] of Object.entries(wordsBySlug)) {
   const groupJson = JSON.stringify(group);
-  const h = hash(groupJson);
+  const h = hash(groupJson + hash(wordTemplate));
 
   // Determine last-modified date: carry forward old date if content unchanged, otherwise today
   const oldEntry = oldManifest[`page:${slug}`];
@@ -573,7 +657,7 @@ for (const [slug, group] of Object.entries(wordsBySlug)) {
   const first = group[0];
   const senses = group.map((word, i) => {
     const senseData = prepareWordData(word, rootsMap);
-    senseData.sense_heading = group.length > 1 ? `Sense ${i + 1}` : '';
+    senseData.sense_number = group.length > 1 ? String(i + 1) : '';
     return senseData;
   });
 
@@ -620,7 +704,7 @@ console.log(`✓ Word pages: ${built} built, ${skipped} unchanged`);
 
 // ── Build List Pages (always rebuilt — they depend on all words) ─────────────
 
-const listHash = hash(JSON.stringify(words));
+const listHash = hash(JSON.stringify(words) + listTemplate);
 newManifest['__lists__'] = listHash;
 
 if (FULL || oldManifest['__lists__'] !== listHash) {
@@ -642,20 +726,12 @@ writeOut('why.html', render(whyTemplate));
 writeOut('index.html', render(indexTemplate, { word_count: words.length }));
 console.log('✓ Index page built');
 
-// ── Build Search Page ───────────────────────────────────────────────────────
+// ── Lexicon + Search ─────────────────────────────────────────────────────────
+// lexicon.json is what search, the header lookup, and entry previews read.
 
-const searchData = words.map(w => ({
-  id: w.id,
-  s: w.sindarin,
-  e: w.english.join(', '),
-  g: grammarLabel(w),
-  t: w.type || '',
-  c: w.confidence ?? -1,
-  r: (w.etymology?.root_refs || []).join(' '),
-}));
-
-writeOut('search.html', render(searchTemplate, { search_data: JSON.stringify(searchData) }));
-console.log('✓ Search page built');
+writeOut('lexicon.json', lexiconJson);
+writeOut('search.html', render(searchTemplate, { root: '' }));
+console.log(`✓ Lexicon (${lexicon.length} entries) and search page built`);
 
 // ── Build Sitemap ────────────────────────────────────────────────────────────
 
