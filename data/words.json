@@ -12741,8 +12741,8 @@
     "swadesh207": 95,
     "leipzig_jakarta": 69,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "5.160",
+    "conception": "Key-2016-1310-563",
     "longman": "false",
     "ref": "",
     "notes": "",
@@ -12750,7 +12750,7 @@
       "GL/53"
     ],
     "hidden": "",
-    "last_modified": "2026-08-15"
+    "last_modified": "2026-10-28"
   },
   {
     "uuid": "5C8A841B-3FB1-412E-A1C7-F8BC45884555",
@@ -28111,6 +28111,556 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-19"
+  },
+  {
+    "uuid": "B88610C3-E3D2-42E4-9586-96DA4445BB93",
+    "id": "yl",
+    "mutation_marker": "",
+    "sindarin": "ŷl",
+    "spellings": [],
+    "ipa": "jːl",
+    "tengwar": "",
+    "cirth": "LLa",
+    "english": [
+      "lamb"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2207058047",
+    "etymology": {
+      "root_refs": [
+        "ewe"
+      ],
+      "primitive": {
+        "form": "ewlē",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "ewlē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "113345945"
+        },
+        {
+          "form": "eulē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "eule",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2662025405"
+        },
+        {
+          "form": "iule",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "659168127"
+        },
+        {
+          "form": "ȳle",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ȳl",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ewle%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "eule"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.290",
+    "conception": "Key-2016-1310-804",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/51"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "2367A206-F2FE-4F94-A893-D75159FD5280",
+    "id": "hunc",
+    "mutation_marker": "",
+    "sindarin": "hunc",
+    "spellings": [],
+    "ipa": "hunk",
+    "tengwar": "",
+    "cirth": ".Sue",
+    "english": [
+      "pig"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hunc",
+      "singular": "",
+      "plural": "hync"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2934847245",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.350",
+    "conception": "Key-2016-1310-801",
+    "longman": "true",
+    "ref": "",
+    "notes": "This is a Gnomish word with unknown origin and no cognates.",
+    "references": [
+      "GL/49"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "1AB5992C-D075-48A4-9740-C12176D79C96",
+    "id": "naeag",
+    "mutation_marker": "",
+    "sindarin": "naeag",
+    "spellings": [],
+    "ipa": "'nae.ag",
+    "tengwar": "",
+    "cirth": "@czcr",
+    "english": [
+      "goat"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "naeag",
+      "singular": "",
+      "plural": "naeaig"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Gábor Lőrinczi",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2869193917",
+    "etymology": {
+      "root_refs": [
+        "nay"
+      ],
+      "primitive": {
+        "form": "nayakō",
+        "eldamo_id": "2511054189"
+      },
+      "development": [
+        {
+          "form": "najakō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "najako",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "naiako",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "naiak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "naiag",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "naeag",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=najako%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.360",
+    "conception": "Key-2016-1310-800",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "PE21/82"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "4CE0255C-6D8C-4818-9D93-46F0327B6754",
+    "id": "naeg-goat",
+    "mutation_marker": "",
+    "sindarin": "naeg",
+    "spellings": [],
+    "ipa": "naeg",
+    "tengwar": "",
+    "cirth": "@czr",
+    "english": [
+      "doe (female goat)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "naeg",
+      "singular": "",
+      "plural": "naeg"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nay"
+      ],
+      "primitive": {
+        "form": "naikē",
+        "eldamo_id": "3239296155"
+      },
+      "development": [
+        {
+          "form": "naikē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "naike",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "naik",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "naig",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "naeg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=naike%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "doe, nanny, female goat",
+    "ids_code": "3.360",
+    "conception": "Key-2016-1310-800",
+    "longman": "false",
+    "ref": "",
+    "notes": "I simply derived the word from PE \"naikē\". It's homonym with \"pain\".",
+    "references": [
+      "PE21/82"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "E936E4F1-3327-42B5-AE87-69FA2F815152",
+    "id": "roch",
+    "mutation_marker": "",
+    "sindarin": "roch",
+    "spellings": [],
+    "ipa": "rox",
+    "tengwar": "",
+    "cirth": "Rbt",
+    "english": [
+      "horse"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "roch",
+      "singular": "",
+      "plural": "rych"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3875004085",
+    "etymology": {
+      "root_refs": [
+        "rok"
+      ],
+      "primitive": {
+        "form": "rokkō",
+        "eldamo_id": "3109022779"
+      },
+      "development": [
+        {
+          "form": "rokkō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "rokko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "rokkʰo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "roxxo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "roxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "rox",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rokko%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "rocco"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.410",
+    "conception": "Key-2016-1310-797",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "Let/178, 282, 382",
+      "PE17/97",
+      "RC/241",
+      "SA/roch",
+      "UT/318"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "219EB68A-D3F5-44ED-8FFD-D8249C54D68B",
+    "id": "regil",
+    "mutation_marker": "",
+    "sindarin": "regil",
+    "spellings": [],
+    "ipa": "'re.gil",
+    "tengwar": "",
+    "cirth": "Rzrla",
+    "english": [
+      "mare"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1183869111",
+    "etymology": {
+      "root_refs": [
+        "rok"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "rokil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "rœkil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "rœgil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1838610927"
+        },
+        {
+          "form": "regil",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ROK",
+          "gloss": "run on foot",
+          "type": "root"
+        },
+        {
+          "form": "-il",
+          "gloss": "",
+          "type": "feminine suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rokil&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C17RR0JB%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-17RR0JB"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.440",
+    "conception": "Key-2016-1310-795",
+    "longman": "false",
+    "ref": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-28"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
@@ -44095,7 +44645,7 @@
   },
   {
     "uuid": "3219045D-3F55-4ABA-BC30-0A21829EA6BD",
-    "id": "naeg",
+    "id": "naeg-pain",
     "mutation_marker": "",
     "sindarin": "naeg",
     "spellings": [],
@@ -44185,7 +44735,7 @@
       "Ety/NÁYAK"
     ],
     "hidden": "",
-    "last_modified": "2026-10-05"
+    "last_modified": "2026-10-28"
   },
   {
     "uuid": "7209DA69-60EF-477D-B392-5F334AF5978D",
