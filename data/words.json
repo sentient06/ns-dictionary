@@ -31138,6 +31138,91 @@
     "last_modified": "2026-09-30"
   },
   {
+    "uuid": "E2B6C4B1-950C-44F4-8C1F-47727E89BEBB",
+    "id": "podha",
+    "mutation_marker": "",
+    "sindarin": "podha-",
+    "spellings": [],
+    "ipa": "'po.ða",
+    "tengwar": "",
+    "cirth": "1b!cI",
+    "english": [
+      "choke",
+      "suffocate",
+      "drown"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "kwot"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kwodā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "podā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "poda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "poða",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=kwoda%3A&off=4YMLLL%2CDGIAQL%2CHF6JVP%2CLB2XLT%2COEQ9F9%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=D4SY8V%2C14ZYNUV#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "qoro-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to choke, suffocate; drown",
+    "ids_code": "5.190",
+    "conception": "Key-2016-1310-560",
+    "longman": "false",
+    "ref": "",
+    "notes": "Used an old Quenya root, √KWOT.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
     "uuid": "64A3B650-6DE8-4555-BEC4-3E1E8F38B1E3",
     "id": "brath",
     "mutation_marker": "",
@@ -31246,6 +31331,261 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-20"
+  },
+  {
+    "uuid": "E7E4C130-3668-4E56-AC37-9A204F24C27E",
+    "id": "narvrath",
+    "mutation_marker": "",
+    "sindarin": "narvrath-",
+    "spellings": [],
+    "ipa": "'nar.vraθ",
+    "tengwar": "",
+    "cirth": "@cR4Rc0I",
+    "english": [
+      "roast"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nar",
+        "brath"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "narbratʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "narbraθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1590520649"
+        },
+        {
+          "form": "narvraθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nar.bra%C5%A7&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to roast",
+    "ids_code": "5.230",
+    "conception": "Key-2016-1310-557",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism roughly translating to \"[to] fire-cook\", based on the fact that traditional roasting is made by food being directly exposed to the fire.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
+    "uuid": "5E6AD46D-5BD3-4793-9782-B8CB0C89C534",
+    "id": "thesia",
+    "mutation_marker": "",
+    "sindarin": "thesia-",
+    "spellings": [],
+    "ipa": "'θe.sja",
+    "tengwar": "",
+    "cirth": "0zflcI",
+    "english": [
+      "fry"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "thith"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰitʰjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "tʰitʰja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θiθja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "θeθja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "θeθia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2090293737"
+        },
+        {
+          "form": "θesia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "THITH",
+          "gloss": "to singe",
+          "type": "root"
+        },
+        {
+          "form": "-yā",
+          "gloss": "causative",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7i%C5%A7.ja%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to fry",
+    "ids_code": "5.230",
+    "conception": "Key-2016-1310-557",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism straight from an early Qenya root meaning \"to singe\" and a causative",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
+    "uuid": "9F36AE71-993E-4006-9AD7-99250BB6CACE",
+    "id": "this",
+    "mutation_marker": "",
+    "sindarin": "this-",
+    "spellings": [],
+    "ipa": "θis",
+    "tengwar": "",
+    "cirth": "0lfI",
+    "english": [
+      "singe"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "thith"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰitʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θiθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2090293737"
+        },
+        {
+          "form": "θis",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%C5%A7i%C5%A7&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to singe",
+    "ids_code": "",
+    "conception": "",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism straight from an early Qenya root.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
   },
   {
     "uuid": "519283EA-EBD1-49B1-AA5F-95BBFE3FC8B3",
@@ -37641,6 +37981,164 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-03"
+  },
+  {
+    "uuid": "381AA297-9397-4F9E-8C63-FCAE8C3D9606",
+    "id": "duia",
+    "mutation_marker": "nd-",
+    "sindarin": "duia-",
+    "spellings": [],
+    "ipa": "duja",
+    "tengwar": "",
+    "cirth": "9SlcI",
+    "english": [
+      "sink"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2900548937",
+    "etymology": {
+      "root_refs": [
+        "ndu"
+      ],
+      "primitive": {
+        "form": "ndūya-",
+        "eldamo_id": "721943331"
+      },
+      "development": [
+        {
+          "form": "ndūja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "161840619"
+        },
+        {
+          "form": "nduia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "duia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ndu%3Aja&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-DGIAQL"
+    },
+    "cognates": {
+      "quenya": "núya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to sink",
+    "ids_code": "10.330",
+    "conception": "Key-2016-1310-240",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "PE13/151, 161"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
+    "uuid": "552D0ACE-A3D1-416D-AA90-A2ED03699EA0",
+    "id": "loda",
+    "mutation_marker": "",
+    "sindarin": "loda-",
+    "spellings": [],
+    "ipa": "'lo.da",
+    "tengwar": "",
+    "cirth": "ab9cI",
+    "english": [
+      "float"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "4219826861",
+    "etymology": {
+      "root_refs": [
+        "lut"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "luta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "lota",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "loda",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=luta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "lutu-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to float",
+    "ids_code": "10.340",
+    "conception": "Key-2016-1310-239",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "Ety/LUT",
+      "EtyAC/LUT"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-29"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
