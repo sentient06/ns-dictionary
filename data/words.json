@@ -14715,19 +14715,19 @@
       "class": "basic",
       "irregular": false
     },
-    "confidence": 0,
+    "confidence": 2,
     "swadesh100": 63,
     "swadesh207": 119,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "ids_code": "10.350",
+    "conception": "Key-2016-1310-238",
+    "longman": "true",
     "ref": "",
     "notes": "More conservative users prefer \"loda-\", meaning \"to float\". I disagree because \"to swim\" is one of the 100 words in the Swadesh list and should have its own meaning. Inspired by Latin \"nō\" and Ancient Greek \"νάω\", which mean \"to swim\". The best metaphor I can think of is \"to move in water\" or \"to water-move\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-10-29"
   },
   {
     "uuid": "557C1A13-4E91-4C5C-A6FB-41F656A8F520",
@@ -29238,6 +29238,272 @@
     "last_modified": "2026-07-25"
   },
   {
+    "uuid": "DF248E84-E816-4051-9E69-2034589D3530",
+    "id": "rant",
+    "mutation_marker": "",
+    "sindarin": "rant",
+    "spellings": [],
+    "ipa": "rant",
+    "tengwar": "",
+    "cirth": "Rc@8",
+    "english": [
+      "course",
+      "water-channel",
+      "lode"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "rant",
+      "singular": "",
+      "plural": "rent"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "geography",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3361285405",
+    "etymology": {
+      "root_refs": [
+        "rat"
+      ],
+      "primitive": {
+        "form": "rantā",
+        "eldamo_id": "2376420151"
+      },
+      "development": [
+        {
+          "form": "rantā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ranta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "rantʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ranθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ranθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "rant",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ranta%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "course, water-channel; lode",
+    "ids_code": "",
+    "conception": "",
+    "longman": "",
+    "ref": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
+    "uuid": "42E84DD4-4D28-477E-A49C-02C864B5AED6",
+    "id": "rant",
+    "mutation_marker": "",
+    "sindarin": "rant",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "vein",
+      "blood vessel"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "vein, blood vessel",
+    "ids_code": "4.151",
+    "conception": "Key-2016-1310-714",
+    "longman": "false",
+    "ref": "",
+    "notes": "The sense of \"vein\" was attested in Noldorin. Because it is very close to the meaning of Latin \"vēna\", both sharing a sense of \"lode\" and \"vein\", I think its meaning as \"vein\" should be restored in Sindarin. I also think that it should be the general word for \"blood vessel\", in which case it would initially mean a blood vessel in general, then develop the specialised meaning \"vein\" once a separate term for arteries emerges. See \"davrant\" for a neologism for that term.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
+    "uuid": "5E2E9E57-8E1B-4255-AC20-D93AB5B35C15",
+    "id": "davrant",
+    "mutation_marker": "nd-",
+    "sindarin": "davrant",
+    "spellings": [],
+    "ipa": "'da.vrant",
+    "tengwar": "",
+    "cirth": "9c4Rc@8",
+    "english": [
+      "artery"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "davrant",
+      "singular": "",
+      "plural": "devrent"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "rat",
+        "ndam"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ndamrantā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ndamranta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "ndamrantʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "ndamranθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3057844573"
+        },
+        {
+          "form": "damranθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "damranθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "damrant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "davrant",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ndam.ranta%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&mb=19JASGR%3A0"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.151",
+    "conception": "Key-2016-1310-714",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism inspired by 動脈: Mandarin dòngmài, and Japanese dōmyaku meaning \"beating vessel\"; Arabic عِرْق ضَارِب  ʿirq ḍārib also meaning \"beating vessel\"; and Sanskrit धमनी (dhamanī) meaning \"blowing/swelling/pulsating vessel\". I used the Sindarin word for \"lode\", rant, restoring the old meaning for \"vein\", interpreted as \"blood vessel\", and chose the root √(N)DAM to mean \"beat\" as a prefix, yielding something like \"beating [blood] vessel\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-10-29"
+  },
+  {
     "uuid": "D72CAB5C-3D53-49D8-97F4-151A08462F6C",
     "id": "corob",
     "mutation_marker": "",
@@ -40437,6 +40703,86 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-03"
+  },
+  {
+    "uuid": "0C732AC9-7F03-4F90-9C36-9DEC37FA51F1",
+    "id": "dartha",
+    "mutation_marker": "",
+    "sindarin": "dartha-",
+    "spellings": [],
+    "ipa": "'dar.θa",
+    "tengwar": "",
+    "cirth": "9cR0cI",
+    "english": [
+      "wait",
+      "stay",
+      "remain",
+      "last",
+      "endure"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1134987525",
+    "etymology": {
+      "root_refs": [
+        "dar"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "darta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "dartʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "darθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=darta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to wait, stay, remain, last, endure",
+    "ids_code": "12.160",
+    "conception": "Key-2016-1310-115",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "Ety/DAR",
+      "EtyAC/DAR"
+    ],
+    "hidden": "",
+    "last_modified": "2026-10-29"
   },
   {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
