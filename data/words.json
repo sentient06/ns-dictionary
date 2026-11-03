@@ -3350,8 +3350,8 @@
     "references": [
       "Ety/TIW"
     ],
-    "hidden": "",
-    "last_modified": "2026-10-24"
+    "hidden": "multi",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "26F867FE-7FDB-4AC7-89CD-9598D292ACC8",
@@ -5158,16 +5158,16 @@
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "spouse (male), married man",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "2.380",
+    "conception": "Key-2016-1310-874",
     "longman": "false",
     "ref": "",
     "notes": "",
     "references": [
       "GL/22"
     ],
-    "hidden": "",
-    "last_modified": "2026-08-14"
+    "hidden": "IDS has \"married man\"",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "9CEC6D69-37AD-425E-9F11-2F7A7286D352",
@@ -16134,7 +16134,8 @@
     "tengwar": "",
     "cirth": ".c9I",
     "english": [
-      "hurl, throw"
+      "throw",
+      "hurl"
     ],
     "grammar": [
       "verb"
@@ -16195,17 +16196,17 @@
     "swadesh100": null,
     "swadesh207": 136,
     "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "definition": "to throw, to hurl",
+    "ids_code": "10.250",
+    "conception": "Key-2016-1310-244",
+    "longman": "true",
     "ref": "",
     "notes": "",
     "references": [
       "Ety/KHAT"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "Longman has throw",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "81795E78-0F1C-46D1-BE26-E2EDA0945B3B",
@@ -16582,7 +16583,7 @@
     "gender": "",
     "category": "actions",
     "ids_chapter": "motion",
-    "type": "restored",
+    "type": "reconstructed",
     "source": "Noldorin",
     "status": "",
     "noldorin_form": "",
@@ -16592,11 +16593,34 @@
         "lut"
       ],
       "primitive": null,
-      "development": [],
+      "development": [
+        {
+          "form": "luta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "lota",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "loda",
+          "eldamo_id": ""
+        }
+      ],
       "elements": [],
-      "quettamorphosis_url": ""
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=luta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1A7WZRV"
     },
-    "cognates": {},
+    "cognates": {
+      "quenya": "lutu-"
+    },
     "conjugation": {
       "class": "derived",
       "irregular": false
@@ -16605,10 +16629,10 @@
     "swadesh100": null,
     "swadesh207": 143,
     "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "definition": "to float",
+    "ids_code": "10.340",
+    "conception": "Key-2016-1310-239",
+    "longman": "true",
     "ref": "",
     "notes": "This word is used by more conservative Sindarin users as a word for \"to swim\". But I don't think that swimming and floating should be synonyms, so I propose a neologism for \"to swim\".",
     "references": [
@@ -16616,7 +16640,7 @@
       "EtyAC/LUT"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "FFB873C6-1503-4216-84F4-B1919DFBB9E4",
@@ -17629,7 +17653,7 @@
     "mutation_marker": "",
     "sindarin": "gaear",
     "spellings": [],
-    "ipa": "gaear",
+    "ipa": "'gae.ar",
     "tengwar": "",
     "cirth": "rczcR",
     "english": [
@@ -17644,7 +17668,7 @@
       "plural": "geiair"
     },
     "gender": "",
-    "category": "nature",
+    "category": "geography",
     "ids_chapter": "the physical world",
     "type": "attested",
     "source": "Tolkien",
@@ -17653,7 +17677,7 @@
     "eldamo_id": "3259339243",
     "etymology": {
       "root_refs": [
-        "gay(ar)"
+        "gayar"
       ],
       "primitive": {
         "form": "gayār",
@@ -17685,7 +17709,8 @@
       "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gaiara&off=D4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
     },
     "cognates": {
-      "quenya": "ëar"
+      "quenya": "ëar",
+      "telerin": "gaiar"
     },
     "conjugation": null,
     "confidence": null,
@@ -17693,9 +17718,9 @@
     "swadesh207": 154,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "ids_code": "1.320",
+    "conception": "Key-2016-1310-949",
+    "longman": "true",
     "ref": "",
     "notes": "",
     "references": [
@@ -17708,7 +17733,284 @@
       "WJ/400"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-11-03"
+  },
+  {
+    "uuid": "3930A413-2376-4894-BCAA-E137E3740D53",
+    "id": "haun",
+    "mutation_marker": "",
+    "sindarin": "haun",
+    "spellings": [],
+    "ipa": "hawn",
+    "tengwar": "",
+    "cirth": ".cS@",
+    "english": [
+      "calm (of sea)"
+    ],
+    "grammar": [
+      "noun",
+      "adjective"
+    ],
+    "inflection": {
+      "base": "haun",
+      "singular": "",
+      "plural": "hoen"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "khaw"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰawnā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰawna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xawna",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xawn",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hawn",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHAW",
+          "gloss": "rest, lie at ease",
+          "type": "root"
+        },
+        {
+          "form": "-nā",
+          "gloss": "",
+          "type": "adjective suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81aw.na%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1HWA3IR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 1,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "calm (of sea); (lit.) \"at rest\"",
+    "ids_code": "1.322",
+    "conception": "Key-2016-1310-950",
+    "longman": "maybe",
+    "ref": "",
+    "notes": "Neologism for describing a sea with little wind or movement based on Russian спокойный and German ruhig, and modern interpretations of Latin languages of something at rest, calm, unmoving.",
+    "references": [],
+    "hidden": "Longman has \"calm\"",
+    "last_modified": "2026-11-03"
+  },
+  {
+    "uuid": "00A1496D-2491-4715-B1E3-78BA0192092B",
+    "id": "gwaemant",
+    "mutation_marker": "",
+    "sindarin": "gwaemant",
+    "spellings": [],
+    "ipa": "'gʷaeː.mant",
+    "tengwar": "",
+    "cirth": "ocz6c@8",
+    "english": [
+      "rough (of sea)",
+      "stormy"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "gwaemant",
+      "singular": "",
+      "plural": "gwaement"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "wa",
+        "kwa"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "wagmēkwant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "wagmēpant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "wagmepant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "wagmepantʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "wagmepanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwagmepanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "gwaɣmepanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "539122737"
+        },
+        {
+          "form": "gwaimepanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "gwaimebanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "gwaimbanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "gwaembanθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1531741019"
+        },
+        {
+          "form": "gwaembant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "gwaemmant",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3689144303"
+        },
+        {
+          "form": "gwaemant",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "wagmē",
+          "gloss": "storm",
+          "type": "noun"
+        },
+        {
+          "form": "-kwā",
+          "gloss": "full",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wag.me%3A.kwant&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV&mb=2TVPSN%3A0"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "rough (of sea); stormy",
+    "ids_code": "1.323",
+    "conception": "Key-2016-1310-948",
+    "longman": "maybe",
+    "ref": "",
+    "notes": "Neologism for describing a rough sea, based on Russian бурный, German stürmisch and Portuguese tempestuoso. Literally \"stormy\", or \"storm-full\".",
+    "references": [],
+    "hidden": "Longman has \"rough\"",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "26827AC3-50B0-4629-941D-B87F3C4FD225",
@@ -23235,8 +23537,8 @@
     "ref": "",
     "notes": "",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "multi",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "267917C4-142A-45E5-8B07-3AA9699D6F80",
@@ -23283,8 +23585,8 @@
     "ref": "",
     "notes": "",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-20"
+    "hidden": "multi",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "D2D30E4C-0A7E-47C8-AA06-163B7A598A49",
@@ -23362,8 +23664,8 @@
     "references": [
       "Ety/TEƷ"
     ],
-    "hidden": "",
-    "last_modified": "2026-07-22"
+    "hidden": "multi",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "A1A0AFC5-BA35-44DA-9DCD-B4F5DEA5B7CB",
@@ -26054,371 +26356,6 @@
     "last_modified": "2026-09-30"
   },
   {
-    "uuid": "C99FC3BF-BADB-4123-8161-B0BBF3E1EC8B",
-    "id": "gaear",
-    "mutation_marker": "",
-    "sindarin": "gaear",
-    "spellings": [],
-    "ipa": "'gae.ar",
-    "tengwar": "",
-    "cirth": "rczcR",
-    "english": [
-      "sea"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": {
-      "base": "gaear",
-      "singular": "",
-      "plural": "geiair"
-    },
-    "gender": "",
-    "category": "geography",
-    "ids_chapter": "the physical world",
-    "type": "attested",
-    "source": "Tolkien",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "3259339243",
-    "etymology": {
-      "root_refs": [
-        "gayar"
-      ],
-      "primitive": {
-        "form": "gayār",
-        "eldamo_id": "1840142991"
-      },
-      "development": [
-        {
-          "form": "gaiara",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2794740763"
-        },
-        {
-          "form": "gaiar",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "941153689"
-        },
-        {
-          "form": "gaear",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=gaiara&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2CTL6YZ9%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV&ri=19JASGR%3AapplyToMorphemes%3D0#rule-HF6JVP"
-    },
-    "cognates": {
-      "quenya": "ëar",
-      "telerin": "gaiar"
-    },
-    "conjugation": null,
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "",
-    "ids_code": "1.320",
-    "conception": "Key-2016-1310-949",
-    "longman": "true",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "Let/386",
-      "LotR/238",
-      "PE17/27, 149",
-      "PM/363",
-      "RGEO/63-65",
-      "SA/ëar, gaer",
-      "WJ/400"
-    ],
-    "hidden": "",
-    "last_modified": "2026-10-29"
-  },
-  {
-    "uuid": "3930A413-2376-4894-BCAA-E137E3740D53",
-    "id": "haun",
-    "mutation_marker": "",
-    "sindarin": "haun",
-    "spellings": [],
-    "ipa": "hawn",
-    "tengwar": "",
-    "cirth": ".cS@",
-    "english": [
-      "calm (of sea)"
-    ],
-    "grammar": [
-      "noun",
-      "adjective"
-    ],
-    "inflection": {
-      "base": "haun",
-      "singular": "",
-      "plural": "hoen"
-    },
-    "gender": "",
-    "category": "geography",
-    "ids_chapter": "the physical world",
-    "type": "neologism",
-    "source": "Celephinnel",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "",
-    "etymology": {
-      "root_refs": [
-        "khaw"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "kʰawnā",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2753394075"
-        },
-        {
-          "form": "kʰawna",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "883570327"
-        },
-        {
-          "form": "xawna",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "813787869"
-        },
-        {
-          "form": "xawn",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "4287595571"
-        },
-        {
-          "form": "hawn",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [
-        {
-          "form": "KHAW",
-          "gloss": "rest, lie at ease",
-          "type": "root"
-        },
-        {
-          "form": "-nā",
-          "gloss": "",
-          "type": "adjective suffix"
-        }
-      ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=%EA%9D%81aw.na%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1HWA3IR"
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": 1,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "calm (of sea); (lit.) \"at rest\"",
-    "ids_code": "1.322",
-    "conception": "Key-2016-1310-950",
-    "longman": "maybe",
-    "ref": "",
-    "notes": "Neologism for describing a sea with little wind or movement based on Russian спокойный and German ruhig, and modern interpretations of Latin languages of something at rest, calm, unmoving.",
-    "references": [],
-    "hidden": "Longman has \"calm\"",
-    "last_modified": "2026-11-03"
-  },
-  {
-    "uuid": "00A1496D-2491-4715-B1E3-78BA0192092B",
-    "id": "gwaemant",
-    "mutation_marker": "",
-    "sindarin": "gwaemant",
-    "spellings": [],
-    "ipa": "'gʷaeː.mant",
-    "tengwar": "",
-    "cirth": "ocz6c@8",
-    "english": [
-      "rough (of sea)",
-      "stormy"
-    ],
-    "grammar": [
-      "adjective"
-    ],
-    "inflection": {
-      "base": "gwaemant",
-      "singular": "",
-      "plural": "gwaement"
-    },
-    "gender": "",
-    "category": "geography",
-    "ids_chapter": "the physical world",
-    "type": "neologism",
-    "source": "Celephinnel",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "",
-    "etymology": {
-      "root_refs": [
-        "wa",
-        "kwa"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "wagmēkwant",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "171120983"
-        },
-        {
-          "form": "wagmēpant",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2753394075"
-        },
-        {
-          "form": "wagmepant",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1683955225"
-        },
-        {
-          "form": "wagmepantʰ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "883570327"
-        },
-        {
-          "form": "wagmepanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2002760597"
-        },
-        {
-          "form": "gwagmepanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1726791627"
-        },
-        {
-          "form": "gwaɣmepanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "539122737"
-        },
-        {
-          "form": "gwaimepanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2240258959"
-        },
-        {
-          "form": "gwaimebanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2749565259"
-        },
-        {
-          "form": "gwaimbanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "941153689"
-        },
-        {
-          "form": "gwaembanθ",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1531741019"
-        },
-        {
-          "form": "gwaembant",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "868023175"
-        },
-        {
-          "form": "gwaemmant",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "3689144303"
-        },
-        {
-          "form": "gwaemant",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [
-        {
-          "form": "wagmē",
-          "gloss": "storm",
-          "type": "noun"
-        },
-        {
-          "form": "-kwā",
-          "gloss": "full",
-          "type": "suffix"
-        }
-      ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=wag.me%3A.kwant&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV&mb=2TVPSN%3A0"
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": 0,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "rough (of sea); stormy",
-    "ids_code": "1.323",
-    "conception": "Key-2016-1310-948",
-    "longman": "maybe",
-    "ref": "",
-    "notes": "Neologism for describing a rough sea, based on Russian бурный, German stürmisch and Portuguese tempestuoso. Literally \"stormy\", or \"storm-full\".",
-    "references": [],
-    "hidden": "Longman has \"rough\"",
-    "last_modified": "2026-11-03"
-  },
-  {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
     "id": "taw",
     "mutation_marker": "",
@@ -27212,6 +27149,99 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-19"
+  },
+  {
+    "uuid": "F3B5D974-7133-45A2-9BFD-39A5525F1E50",
+    "id": "edhyr",
+    "mutation_marker": "",
+    "sindarin": "edhyr",
+    "spellings": [],
+    "ipa": "'e.ðir",
+    "tengwar": "",
+    "cirth": "z!LR",
+    "english": [
+      "parents"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "edhyr",
+      "singular": "odhor",
+      "plural": ""
+    },
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "kinship",
+    "type": "neologism",
+    "source": "Luinyelle",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3917974635",
+    "etymology": {
+      "root_refs": [
+        "ono"
+      ],
+      "primitive": {
+        "form": "onrō",
+        "eldamo_id": "1283291129"
+      },
+      "development": [
+        {
+          "form": "onrō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "onro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "onr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1105959911"
+        },
+        {
+          "form": "oðr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "oðor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=onro%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "2.370",
+    "conception": "Key-2016-1310-875",
+    "longman": "true",
+    "ref": "",
+    "notes": "Reconstructed as a gender-neutral derivation of PE onrō. The base form and typical use would probably be in the plural, yet it can be used in singular when applicable.",
+    "references": [],
+    "hidden": "Longman has \"parent\" in the singular, IDS has \"parents\" in the plural.",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
@@ -28765,7 +28795,7 @@
     "tengwar": "",
     "cirth": "@czcr",
     "english": [
-      "goat"
+      "goat (male)"
     ],
     "grammar": [
       "noun"
@@ -28856,7 +28886,7 @@
       "PE21/82"
     ],
     "hidden": "",
-    "last_modified": "2026-10-28"
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "4CE0255C-6D8C-4818-9D93-46F0327B6754",
@@ -28868,6 +28898,7 @@
     "tengwar": "",
     "cirth": "@czr",
     "english": [
+      "goat (general)",
       "doe (female goat)"
     ],
     "grammar": [
@@ -28941,17 +28972,106 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "doe, nanny, female goat",
+    "definition": "goat (general); doe, nanny, female goat",
     "ids_code": "3.360",
     "conception": "Key-2016-1310-800",
     "longman": "false",
     "ref": "",
-    "notes": "I simply derived the word from PE \"naikē\". It's homonym with \"pain\".",
+    "notes": "I simply derived the word from PE \"naikē\". It's homonym with \"pain\". There is a noticeable tendency in several European language families for the historically feminine or female-specific word for a goat to serve as the general species name, while the male has a separate, marked designation. E.g. Latin capra, Portuguese cabra, French chèvre, Russian коза, German Ziege, etc. I've decided to lean on the same trend here.",
     "references": [
       "PE21/82"
     ],
     "hidden": "",
-    "last_modified": "2026-10-28"
+    "last_modified": "2026-11-03"
+  },
+  {
+    "uuid": "EDC37C9D-4BED-45A7-A82A-B17B4CC90F61",
+    "id": "gwinaeg",
+    "mutation_marker": "",
+    "sindarin": "gwinaeg",
+    "spellings": [],
+    "ipa": "gʷi.naeg",
+    "tengwar": "",
+    "cirth": "ol@czr",
+    "english": [
+      "kid (young goat)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "win",
+        "nay"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "naikē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "naike",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "naik",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "naig",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "naeg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=naike%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "kid, young goat",
+    "ids_code": "3.380",
+    "conception": "Key-2016-1310-798",
+    "longman": "false",
+    "ref": "",
+    "notes": "I simply prefixed the word for \"goat\" (female) with the word for \"child\", or \"baby\": (lit.) baby goat or baby doe.",
+    "references": [
+      "PE21/82"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "E936E4F1-3327-42B5-AE87-69FA2F815152",
@@ -29061,6 +29181,145 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "AF3EC7E1-A65A-4072-A1F1-E4DA03D5A748",
+    "id": "onnaroch",
+    "mutation_marker": "",
+    "sindarin": "onnaroch",
+    "spellings": [],
+    "ipa": "'o.na.rox",
+    "tengwar": "",
+    "cirth": "b@@cRbt",
+    "english": [
+      "stallion"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "onnaroch",
+      "singular": "",
+      "plural": "ennerych"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ontarōrokkō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ontarorokko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "ontʰarorokkʰo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "onθaroroxxo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "onθaroroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "onθarroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2996915415"
+        },
+        {
+          "form": "onnarroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "onnaroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "onnaroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "onnarox",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ontarō",
+          "gloss": "begetter",
+          "type": "noun"
+        },
+        {
+          "form": "roch",
+          "gloss": "horse",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ontaro%3A.rokko%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV%2C1RZ3P2T#rule-19JASGR"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "3.420",
+    "conception": "Key-2016-1310-796",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism based on languages like Sanskrit जननाश्व (jananāśva), Japanese 種馬 (taneuma), and Catalan semental, this word means literally \"begetter horse\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "219EB68A-D3F5-44ED-8FFD-D8249C54D68B",
@@ -29779,6 +30038,152 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-29"
+  },
+  {
+    "uuid": "9C8254AD-9008-4E33-9C21-1D4B680A5901",
+    "id": "mausg",
+    "mutation_marker": "",
+    "sindarin": "mausg",
+    "spellings": [],
+    "ipa": "mausg",
+    "tengwar": "",
+    "cirth": "6cSfr",
+    "english": [
+      "rib"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "mah"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "māskō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "māsko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "mǭsko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "mausko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "mausk",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1759587217"
+        },
+        {
+          "form": "mausg",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=ma%3Asko%CC%84&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T&ri=19JASGR%3AapplyToMorphemes%3D0%3B1RZ3P2T%3AcompoundsOnly%3D0#rule-T3M26P"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.162",
+    "conception": "Key-2016-1310-712",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism inspired by Finnish kylkiluu, \"side-bone\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-03"
+  },
+  {
+    "uuid": "C8FDDD08-6FD2-49B7-B7D4-0726D5EE315A",
+    "id": "tulu-bern",
+    "mutation_marker": "",
+    "sindarin": "tulu bern",
+    "spellings": [],
+    "ipa": "'tu.lu bern",
+    "tengwar": " ",
+    "cirth": "8SaS`2zR@",
+    "english": [
+      "spine",
+      "spinal column"
+    ],
+    "grammar": [
+      "expression"
+    ],
+    "inflection": {
+      "base": "tulu bern",
+      "singular": "",
+      "plural": "tyly birn"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "spine, spinal column",
+    "ids_code": "4.191",
+    "conception": "Key-2016-1310-708",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism based on Latin columna vertebrālis. \"Columna\" is a column, a supporting structure; \"vertebrālis\" is an adjectival form meaning \"pertaining to vertebrae\" formed by \"vertebra\" and adjectival suffix \"-ālis\"; and \"vertebra\" is a turning joint, made of the word \"vertere\" that means \"to turn\", \"rotate\", and the instrumental suffix \"-bra\". Following the same standard, Neo-Sindarin \"tulu\" means \"support\", and \"perf\" is derived from P.E. \"kwer\" and suffixes \"-mā\" and \"-nā\". It means something akin to \"turnable support\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "D72CAB5C-3D53-49D8-97F4-151A08462F6C",
@@ -30635,8 +31040,8 @@
     "ref": "",
     "notes": "Neologism based on Middle Quenya \"tiuko\".",
     "references": [],
-    "hidden": "",
-    "last_modified": "2026-07-21"
+    "hidden": "multi",
+    "last_modified": "2026-11-03"
   },
   {
     "uuid": "541FE08F-BC91-4845-A112-767C91660C9C",
@@ -38571,61 +38976,6 @@
     "last_modified": "2026-08-17"
   },
   {
-    "uuid": "A6DE99D2-7D5E-4094-9006-B31491DE78B3",
-    "id": "had",
-    "mutation_marker": "",
-    "sindarin": "had-",
-    "spellings": [],
-    "ipa": "had",
-    "tengwar": "",
-    "cirth": ".c9I",
-    "english": [
-      "throw",
-      "hurl"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "motion",
-    "type": "restored",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "1108917221",
-    "etymology": {
-      "root_refs": [
-        "khat"
-      ],
-      "primitive": null,
-      "development": [],
-      "elements": [],
-      "quettamorphosis_url": ""
-    },
-    "cognates": {},
-    "conjugation": {
-      "class": "basic",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to throw, to hurl",
-    "ids_code": "10.250",
-    "conception": "Key-2016-1310-244",
-    "longman": "true",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "Ety/KHAT"
-    ],
-    "hidden": "Longman has throw",
-    "last_modified": "2026-08-19"
-  },
-  {
     "uuid": "937DE206-CBA5-42E5-AE21-779E0314D0BD",
     "id": "pasta",
     "mutation_marker": "",
@@ -38845,84 +39195,6 @@
     "notes": "",
     "references": [
       "PE13/151, 161"
-    ],
-    "hidden": "",
-    "last_modified": "2026-10-29"
-  },
-  {
-    "uuid": "552D0ACE-A3D1-416D-AA90-A2ED03699EA0",
-    "id": "loda",
-    "mutation_marker": "",
-    "sindarin": "loda-",
-    "spellings": [],
-    "ipa": "'lo.da",
-    "tengwar": "",
-    "cirth": "ab9cI",
-    "english": [
-      "float"
-    ],
-    "grammar": [
-      "verb"
-    ],
-    "inflection": null,
-    "gender": "",
-    "category": "actions",
-    "ids_chapter": "motion",
-    "type": "reconstructed",
-    "source": "Noldorin",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "4219826861",
-    "etymology": {
-      "root_refs": [
-        "lut"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "luta",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1593810649"
-        },
-        {
-          "form": "lota",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2240258959"
-        },
-        {
-          "form": "loda",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=luta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1A7WZRV"
-    },
-    "cognates": {
-      "quenya": "lutu-"
-    },
-    "conjugation": {
-      "class": "derived",
-      "irregular": false
-    },
-    "confidence": null,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": null,
-    "definition": "to float",
-    "ids_code": "10.340",
-    "conception": "Key-2016-1310-239",
-    "longman": "true",
-    "ref": "",
-    "notes": "",
-    "references": [
-      "Ety/LUT",
-      "EtyAC/LUT"
     ],
     "hidden": "",
     "last_modified": "2026-10-29"
