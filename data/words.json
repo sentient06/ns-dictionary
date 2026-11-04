@@ -30186,6 +30186,89 @@
     "last_modified": "2026-11-03"
   },
   {
+    "uuid": "71C52E75-3BD4-47E6-BC5E-B56EEDFC97AC",
+    "id": "achin",
+    "mutation_marker": "",
+    "sindarin": "áchin",
+    "spellings": [],
+    "ipa": "'aː.xin",
+    "tengwar": "",
+    "cirth": "vtl@",
+    "english": [
+      "temples (side of head)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "áchin",
+      "singular": "áchen",
+      "plural": ""
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "as",
+        "khen"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "asakʰen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "asaxen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3388236413"
+        },
+        {
+          "form": "ahaxen",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "875184187"
+        },
+        {
+          "form": "āxen",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=asa.%EA%9D%81en&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-EH28FV"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.201",
+    "conception": "Key-2016-1310-705",
+    "longman": "maybe",
+    "ref": "",
+    "notes": "Neologism based on Icelandic gagnauga \"counter-eye\" or \"opposing eye\", which seems to denote the position of the temple as physically against the eye. I used P.E. asa- \"beside\" and √KHEN, to obtain something akin to \"next to the eye\". I then pluralised it, but it may be used in the singular when necessary.",
+    "references": [],
+    "hidden": "longman has \"temple\"",
+    "last_modified": "2026-11-04"
+  },
+  {
     "uuid": "D72CAB5C-3D53-49D8-97F4-151A08462F6C",
     "id": "corob",
     "mutation_marker": "",
