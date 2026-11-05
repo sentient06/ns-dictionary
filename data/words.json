@@ -34471,6 +34471,63 @@
     "last_modified": "2026-10-14"
   },
   {
+    "uuid": "532C2C1E-45BA-4946-B4FA-F3A0C10E3F29",
+    "id": "lanu",
+    "mutation_marker": "",
+    "sindarin": "lanu",
+    "spellings": [],
+    "ipa": "'la.nu",
+    "tengwar": "",
+    "cirth": "ac@S",
+    "english": [
+      "loom"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lanu",
+      "singular": "",
+      "plural": "leny"
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "clothing and grooming",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2507493453",
+    "etymology": {
+      "root_refs": [
+        "lan"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "lanwa"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "6.340",
+    "conception": "Key-2016-1310-480",
+    "longman": "false",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/46"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-05"
+  },
+  {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
     "id": "bar-verb",
     "mutation_marker": "mb-",
@@ -46183,7 +46240,11 @@
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "alvar",
+      "singular": "",
+      "plural": "elvair"
+    },
     "gender": "",
     "category": "notion",
     "ids_chapter": "emotions and values",
@@ -46241,17 +46302,17 @@
       "LT1A/Valar"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-11-05"
   },
   {
     "uuid": "C9E02D31-817E-445D-B290-1D5C26533431",
-    "id": "ogvar",
+    "id": "ogmaur",
     "mutation_marker": "",
-    "sindarin": "ogvar",
+    "sindarin": "ogmaur",
     "spellings": [],
-    "ipa": "'og.var",
-    "tengwar": "",
-    "cirth": "br4cR",
+    "ipa": "'og.maur",
+    "tengwar": "",
+    "cirth": "br6cSR",
     "english": [
       "misfortune",
       "bad luck"
@@ -46259,7 +46320,11 @@
     "grammar": [
       "noun"
     ],
-    "inflection": null,
+    "inflection": {
+      "base": "ogmaur",
+      "singular": "",
+      "plural": "egmoer"
+    },
     "gender": "",
     "category": "notion",
     "ids_chapter": "emotions and values",
@@ -46270,21 +46335,36 @@
     "eldamo_id": "",
     "etymology": {
       "root_refs": [
-        "oko",
-        "mbar"
+        "oko"
       ],
       "primitive": null,
       "development": [
         {
-          "form": "okobar",
+          "form": "okomāre",
           "eldamo_id": ""
         },
         {
           "rule": ">",
-          "eldamo_id": "1726791627"
+          "eldamo_id": "2858643115"
         },
         {
-          "form": "okovar",
+          "form": "okomǭre",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "okomaure",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "okomaur",
           "eldamo_id": ""
         },
         {
@@ -46292,7 +46372,7 @@
           "eldamo_id": "2240258959"
         },
         {
-          "form": "ogovar",
+          "form": "ogomaur",
           "eldamo_id": ""
         },
         {
@@ -46300,12 +46380,12 @@
           "eldamo_id": "2749565259"
         },
         {
-          "form": "ogvar",
+          "form": "ogmaur",
           "eldamo_id": ""
         }
       ],
       "elements": [],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=oko.bar&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=oko.ma%3A.re&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&ri=19JASGR%3AapplyToMorphemes%3D0%3B1RZ3P2T%3AcompoundsOnly%3D0#rule-QCWW61"
     },
     "cognates": {},
     "conjugation": null,
@@ -46321,7 +46401,7 @@
     "notes": "Neologism based on it opposite \"alvar\", but changing the prefixed root √AL(A) meaning \"good\" for √OKO meaning \"wicked\", \"bad\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-11-05"
   },
   {
     "uuid": "68E892BF-980D-44DF-8E97-17AC29FA3705",
