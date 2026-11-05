@@ -11425,16 +11425,12 @@
     "grammar": [
       "noun"
     ],
-    "inflection": {
-      "base": "maw",
-      "singular": "",
-      "plural": "maiw"
-    },
+    "inflection": null,
     "gender": "",
     "category": "side",
     "ids_chapter": "spatial relations",
-    "type": "attested",
-    "source": "Tolkien",
+    "type": "proposed",
+    "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
     "eldamo_id": "2215927903",
@@ -11469,7 +11465,7 @@
       "VT47/6, 18"
     ],
     "hidden": "",
-    "last_modified": "2026-10-24"
+    "last_modified": "2026-11-05"
   },
   {
     "uuid": "8432F682-9978-4FAA-BFA3-40797299FBE4",
@@ -11921,20 +11917,16 @@
     "mutation_marker": "",
     "sindarin": "lang",
     "spellings": [],
-    "ipa": "lang",
-    "tengwar": "",
-    "cirth": "acu",
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
     "english": [
       "neck"
     ],
     "grammar": [
       "noun"
     ],
-    "inflection": {
-      "base": "lang",
-      "singular": "",
-      "plural": "leng"
-    },
+    "inflection": null,
     "gender": "",
     "category": "body",
     "ids_chapter": "the body",
@@ -12003,7 +11995,7 @@
       "RC/536"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-11-05"
   },
   {
     "uuid": "5977FB38-E166-4517-B3D9-369D5356B5C1",
@@ -18251,11 +18243,7 @@
     "grammar": [
       "adjective"
     ],
-    "inflection": {
-      "base": "sarn",
-      "singular": "",
-      "plural": "sern"
-    },
+    "inflection": null,
     "gender": "",
     "category": "mineral",
     "ids_chapter": "the physical world",
@@ -18315,7 +18303,7 @@
       "RC/163"
     ],
     "hidden": "",
-    "last_modified": "2026-10-24"
+    "last_modified": "2026-11-05"
   },
   {
     "uuid": "576A0549-FE3C-4DC4-B41B-3CF33CB23E7F",
@@ -29896,7 +29884,7 @@
     "gender": "",
     "category": "body",
     "ids_chapter": "the body",
-    "type": "neologism",
+    "type": "proposed",
     "source": "Celephinnel",
     "status": "",
     "noldorin_form": "",
@@ -29922,7 +29910,7 @@
     "notes": "The sense of \"vein\" was attested in Noldorin. Because it is very close to the meaning of Latin \"vēna\", both sharing a sense of \"lode\" and \"vein\", I think its meaning as \"vein\" should be restored in Sindarin. I also think that it should be the general word for \"blood vessel\", in which case it would initially mean a blood vessel in general, then develop the specialised meaning \"vein\" once a separate term for arteries emerges. See \"davrant\" for a neologism for that term.",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-29"
+    "last_modified": "2026-11-05"
   },
   {
     "uuid": "5E2E9E57-8E1B-4255-AC20-D93AB5B35C15",
@@ -30442,6 +30430,105 @@
     "longman": "true",
     "ref": "",
     "notes": "Neologism based on the Ancient Greek ἐγκέφαλος (enképhalos), made up of ἐν (en) \"in, inside\", κεφαλή (kephalḗ) \"head\", and -ος (-os) nominative singular masculine. The result is roughly equivalent to \"that which is inside the head\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-05"
+  },
+  {
+    "uuid": "35BAAD87-DAFC-451E-B35A-8C8F367B0FC1",
+    "id": "nif",
+    "mutation_marker": "",
+    "sindarin": "nîf",
+    "spellings": [],
+    "ipa": "niːf",
+    "tengwar": "",
+    "cirth": "@ll3",
+    "english": [
+      "front"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2778637695",
+    "etymology": {
+      "root_refs": [
+        "nib"
+      ],
+      "primitive": {
+        "form": "nībe",
+        "eldamo_id": "2076380481"
+      },
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "front, face",
+    "ids_code": "",
+    "conception": "",
+    "longman": "",
+    "ref": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-05"
+  },
+  {
+    "uuid": "22E51F84-727C-4910-9909-9EF0AD885B93",
+    "id": "nif",
+    "mutation_marker": "",
+    "sindarin": "nîf",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "",
+    "cirth": "",
+    "english": [
+      "forehead"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "proposed",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.205",
+    "conception": "Key-2016-1310-701",
+    "longman": "true",
+    "ref": "",
+    "notes": "Based on Latin frōns and even Old English forhēafod, I think this Noldorin word for \"front\" can be interpreted as forehead instead. The semantic link is realistic, and a more specific meaning of \"face\" can be expressed by using thîr, which is already a Sindarin term. More conservative writers might need analytic paraphrasing.",
     "references": [],
     "hidden": "",
     "last_modified": "2026-11-05"

@@ -124,6 +124,7 @@ function buildTypeSourceText(type, source) {
     case 'restored':      return `Restored from ${sourceName}`;
     case 'reconstructed': return `Reconstructed from ${sourceName}`;
     case 'neologism':     return `Neologism. Source: ${sourceName}`;
+    case 'proposed':      return `Proposed new sense. Source: ${sourceName}`;
     default:              return '';
   }
 }
