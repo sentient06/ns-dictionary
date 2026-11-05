@@ -30324,6 +30324,129 @@
     "last_modified": "2026-10-14"
   },
   {
+    "uuid": "7A6B8F80-946C-44E8-A800-C3CBA54DE5DB",
+    "id": "migodh",
+    "mutation_marker": "",
+    "sindarin": "mígodh",
+    "spellings": [],
+    "ipa": "'miː.gjð",
+    "tengwar": "",
+    "cirth": "6llrb!",
+    "english": [
+      "brain"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "mígodh",
+      "singular": "",
+      "plural": "mígydh"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "imi",
+        "kas"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "mīkasda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "882174441"
+        },
+        {
+          "form": "mīkazda",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "mīkazd",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1249932447"
+        },
+        {
+          "form": "mīkād",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "mīkǭd",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "mīkǭð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "mīkauð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "mīgauð",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "567222053"
+        },
+        {
+          "form": "mīgoð",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=mi%3A.kas.da&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV%2C1RZ3P2T&ri=19JASGR%3AapplyToMorphemes%3D0%3B1RZ3P2T%3AcompoundsOnly%3D0#rule-9DPJC5"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.203",
+    "conception": "Key-2016-1310-704",
+    "longman": "true",
+    "ref": "",
+    "notes": "Neologism based on the Ancient Greek ἐγκέφαλος (enképhalos), made up of ἐν (en) \"in, inside\", κεφαλή (kephalḗ) \"head\", and -ος (-os) nominative singular masculine. The result is roughly equivalent to \"that which is inside the head\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-05"
+  },
+  {
     "uuid": "6B5DF07B-DB8E-4B94-9214-8070A303E33A",
     "id": "carach",
     "mutation_marker": "",
