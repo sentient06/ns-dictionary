@@ -46235,7 +46235,8 @@
     "english": [
       "luck",
       "fortune",
-      "good luck"
+      "good luck",
+      "blessing"
     ],
     "grammar": [
       "noun"
@@ -46291,7 +46292,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "(good) luck, fortune",
+    "definition": "(good) luck, fortune, blessing",
     "ids_code": "16.180",
     "conception": "Key-2016-1310-1051",
     "longman": "true",
@@ -46302,7 +46303,7 @@
       "LT1A/Valar"
     ],
     "hidden": "",
-    "last_modified": "2026-11-05"
+    "last_modified": "2026-11-12"
   },
   {
     "uuid": "C9E02D31-817E-445D-B290-1D5C26533431",
