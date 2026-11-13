@@ -43201,6 +43201,288 @@
     "last_modified": "2026-08-01"
   },
   {
+    "uuid": "FC566CE9-2912-4CF6-BE54-E465C3046BD8",
+    "id": "ero",
+    "mutation_marker": "",
+    "sindarin": "ero",
+    "spellings": [],
+    "ipa": "'e.ro",
+    "tengwar": "",
+    "cirth": "zRb",
+    "english": [
+      "only",
+      "alone (adv)"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "548725241",
+    "etymology": {
+      "root_refs": [
+        "er"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "er",
+          "gloss": "one",
+          "type": "adjective"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "only, alone",
+    "ids_code": "13.330",
+    "conception": "Key-2016-1310-29",
+    "longman": "true",
+    "ref": "",
+    "notes": "All words from root √ER refer to a single, isolated thing, whereas the root MIN refers to the first member of a series. So \"ero\" can have a connotation of \"uniquely\".",
+    "references": [
+      "VT50/18"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "4A1FF1B7-B28A-4EDA-9F39-A5F8B92218AD",
+    "id": "ereb",
+    "mutation_marker": "",
+    "sindarin": "ereb",
+    "spellings": [],
+    "ipa": "'e.reb",
+    "tengwar": "",
+    "cirth": "zRz2",
+    "english": [
+      "single",
+      "alone (adj)",
+      "lonely"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "ereb",
+      "singular": "",
+      "plural": "erib"
+    },
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3983103205",
+    "etymology": {
+      "root_refs": [
+        "er",
+        "kwa"
+      ],
+      "primitive": {
+        "form": "erikwa",
+        "eldamo_id": "559392425"
+      },
+      "development": [
+        {
+          "form": "erikwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "171120983"
+        },
+        {
+          "form": "eripā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "eripa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "erepa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "erep",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "ereb",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "er",
+          "gloss": "one, alone",
+          "type": "adjective"
+        },
+        {
+          "form": "-eb",
+          "gloss": "adjective suffix",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=erikwa%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "erinqua"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "single, alone, lonely",
+    "ids_code": "13.330",
+    "conception": "Key-2016-1310-29",
+    "longman": "true",
+    "ref": "",
+    "notes": "All words from root √ER refer to a single, isolated thing, whereas the root MIN refers to the first member of a series. So \"ereb\" can have a connotation of \"unique\".",
+    "references": [
+      "SA/er",
+      "UT/153",
+      "VT42/10"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "2981615B-373A-4DC5-896F-AF88E7E88358",
+    "id": "air",
+    "mutation_marker": "",
+    "sindarin": "air",
+    "spellings": [],
+    "ipa": "air",
+    "tengwar": "",
+    "cirth": "clR",
+    "english": [
+      "lonely"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "air",
+      "singular": "",
+      "plural": "îr"
+    },
+    "gender": "",
+    "category": "quantity",
+    "ids_chapter": "quantity",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3345570783",
+    "etymology": {
+      "root_refs": [
+        "er"
+      ],
+      "primitive": {
+        "form": "eryā",
+        "eldamo_id": "1647508329"
+      },
+      "development": [
+        {
+          "form": "erjā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "erja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "eria",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "eri",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "eir",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "air",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=erja%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "All words from root √ER refer to a single, isolated thing, whereas the root MIN refers to the first member of a series. So \"air\" can have a connotation of uniqueness.",
+    "references": [
+      "PE17/28"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
     "uuid": "FDA0B361-B902-4777-9E03-FF50E69B1837",
     "id": "lu",
     "mutation_marker": "",
@@ -44489,6 +44771,104 @@
     ],
     "hidden": "",
     "last_modified": "2026-10-23"
+  },
+  {
+    "uuid": "67674670-DF11-4C90-A5A2-DD2B65FE6CCE",
+    "id": "lael",
+    "mutation_marker": "",
+    "sindarin": "lael",
+    "spellings": [],
+    "ipa": "lael",
+    "tengwar": "",
+    "cirth": "acza",
+    "english": [
+      "many times",
+      "oft"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "coordination",
+    "ids_chapter": "coordination",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "li",
+        "lu"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lajlū",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lajlu",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "lailu",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "lailo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lail",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "lael",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=laj.lu%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&ri=19JASGR%3AapplyToMorphemes%3D0&mb=19JASGR%3A0#rule-FKC6U1"
+    },
+    "cognates": {
+      "quenya": "linnallumë"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "many times, oft",
+    "ids_code": "14.320",
+    "conception": "Key-2016-1310-1",
+    "longman": "true",
+    "ref": "",
+    "notes": "Based on Quenya linnallumë.",
+    "references": [],
+    "hidden": "longman has often",
+    "last_modified": "2026-11-13"
   },
   {
     "uuid": "52EE37A5-B2CB-4F12-A25C-5958DC9199CA",
@@ -55828,5 +56208,776 @@
     ],
     "hidden": "",
     "last_modified": "2026-08-14"
+  },
+  {
+    "uuid": "4D51884E-3DD4-4E29-9F86-A427939D74B1",
+    "id": "ennista",
+    "mutation_marker": "",
+    "sindarin": "ennista-",
+    "spellings": [],
+    "ipa": "'e.nis.ta",
+    "tengwar": "",
+    "cirth": "z@@lf8cI",
+    "english": [
+      "expel"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "conflict",
+    "ids_chapter": "conflict",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "et",
+        "nid"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "etnidtā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "etnistā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3463937975"
+        },
+        {
+          "form": "ednistā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "ednista",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2615312913"
+        },
+        {
+          "form": "ennista",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "ET",
+          "gloss": "out",
+          "type": "root"
+        },
+        {
+          "form": "nista",
+          "gloss": "to press, thrust, force",
+          "type": "verb"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=et.nid.ta%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV&ri=19JASGR%3AapplyToMorphemes%3D0&mb=17938CX%3A0%2C1#rule-1IA8AN1"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to expel",
+    "ids_code": "",
+    "conception": "",
+    "longman": "false",
+    "ref": "",
+    "notes": "Based on Latin expellere \"drive out, drive away,\" from ex \"out\" (see ex-) + pellere \"to drive\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "B63045DA-A3D6-4DE1-B83A-6C954AA6379E",
+    "id": "minegel",
+    "mutation_marker": "",
+    "sindarin": "minegel",
+    "spellings": [],
+    "ipa": "'mi.ne.gel",
+    "tengwar": "",
+    "cirth": "6l@zrza",
+    "english": [
+      "together (with other)"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "condition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "min",
+        "ana",
+        "hek"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "min",
+          "gloss": "one",
+          "type": "noun"
+        },
+        {
+          "form": "n(a)",
+          "gloss": "with",
+          "type": "preposition"
+        },
+        {
+          "form": "egel",
+          "gloss": "other",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "together, (lit.) one with another",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Languages do not necessarily conceptualise togetherness in the same way. Some express it through joining, others through unity, shared location, companionship or mutual association. Some have words for more than one concept. This word is based on Ancient Greek μετ' ἀλλήλων (met’ allḗlōn) \"with one another\".",
+    "references": [],
+    "hidden": "longman has \"together\"",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "3FA53902-D544-44D7-B918-6919A2DF89B4",
+    "id": "mihad",
+    "mutation_marker": "",
+    "sindarin": "mihad",
+    "spellings": [],
+    "ipa": "'mi.had",
+    "tengwar": "",
+    "cirth": "6l.c9",
+    "english": [
+      "together (in place)"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "condition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "together (lit.) in place",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Languages do not necessarily conceptualise togetherness in the same way. Some express it through joining, others through unity, shared location, companionship or mutual association. Some have words for more than one concept. This word is based on Ancient Greek ὁμοῦ (homoû) \"in the same place\" and Russian вместе \"in place\".",
+    "references": [],
+    "hidden": "longman has \"together\"",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "029111AD-FF27-4902-83DD-68A2F2D4AC34",
+    "id": "nimol",
+    "mutation_marker": "",
+    "sindarin": "nimol",
+    "spellings": [],
+    "ipa": "'ni.mol",
+    "tengwar": "",
+    "cirth": "@l6ba",
+    "english": [
+      "together (at same time)"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "condition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "together (lit.) at same time",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Languages do not necessarily conceptualise togetherness in the same way. Some express it through joining, others through unity, shared location, companionship or mutual association. Some have words for more than one concept. This word is based on Ancient Greek ἅμα (háma) \"at the same time\", Latin simul \"simultaneously\", and French ensemble \"at the same time\".",
+    "references": [],
+    "hidden": "longman has \"together\"",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "4D6312E1-FBFC-450D-A70C-D1EC396656FB",
+    "id": "milif",
+    "mutation_marker": "",
+    "sindarin": "milíf",
+    "spellings": [],
+    "ipa": "'mi.liːf",
+    "tengwar": "",
+    "cirth": "6lall3",
+    "english": [
+      "together (in common)"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "condition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "together (lit.) in common",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Languages do not necessarily conceptualise togetherness in the same way. Some express it through joining, others through unity, shared location, companionship or mutual association. Some have words for more than one concept. This word is based on Ancient Greek κοινῇ (koinē̂i) \"in common, jointly\".",
+    "references": [],
+    "hidden": "longman has \"together\"",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "C6EB393E-9EC6-4047-98E6-2F25986F9330",
+    "id": "suivin",
+    "mutation_marker": "",
+    "sindarin": "suivin",
+    "spellings": [],
+    "ipa": "'sui.vin",
+    "tengwar": "",
+    "cirth": "fSl4l@",
+    "english": [
+      "together (as one)"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "condition",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "together (lit.) as one",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Languages do not necessarily conceptualise togetherness in the same way. Some express it through joining, others through unity, shared location, companionship or mutual association. Some have words for more than one concept. This word is based on Latin Ūnā \"as one\" and Finnish yhdessä \"in one\".",
+    "references": [],
+    "hidden": "longman has \"together\"",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "B160C420-0F77-4083-A2CF-A38B9C4EB2AA",
+    "id": "ail",
+    "mutation_marker": "",
+    "sindarin": "ail",
+    "spellings": [],
+    "ipa": "ail",
+    "tengwar": "",
+    "cirth": "cla",
+    "english": [
+      "each"
+    ],
+    "grammar": [
+      "pronoun",
+      "determiner"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "coordination",
+    "ids_chapter": "coordination",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "il"
+      ],
+      "primitive": {
+        "form": "ilya",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "ilja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "elja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "elia",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "eli",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2399289739"
+        },
+        {
+          "form": "eil",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1660291111"
+        },
+        {
+          "form": "ail",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=il.ja&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-RS05GT"
+    },
+    "cognates": {
+      "quenya": "ilya"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "longman": "false",
+    "ref": "",
+    "notes": "Reconstructed from Quenya ilya.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "F4DB56EB-5A52-4ACD-90ED-9B7FF8FE867F",
+    "id": "min-ail-lu",
+    "mutation_marker": "",
+    "sindarin": "min ail lû",
+    "spellings": [],
+    "ipa": "",
+    "tengwar": "  ",
+    "cirth": "6l@`cla`aD",
+    "english": [
+      "one by one"
+    ],
+    "grammar": [
+      "expression"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "coordination",
+    "ids_chapter": "coordination",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "one by one, (lit.) one each time",
+    "ids_code": "",
+    "conception": "",
+    "longman": "false",
+    "ref": "",
+    "notes": "There are semantic distinctions involved into the expression \"one by one\". It can mean successive events, \"one after another\", with the emphasis in the order; \"one at a time\", when only one participant is involved at any given moment; and \"each one individually\", in which every member is considered separately. This expression attempts to address the second meaning, drawing not only from English, but also Romance languages (uno alla volta, un à la fois), Finnish (yksi kerrallaan), Japanese (ずつ (zutsu) particle), and others.",
+    "references": [],
+    "hidden": "one each time",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "E57159CB-1520-4B5D-A5A8-02C5F1D69C5F",
+    "id": "nogol",
+    "mutation_marker": "",
+    "sindarin": "nogol-",
+    "spellings": [],
+    "ipa": "'no.gol",
+    "tengwar": "",
+    "cirth": "@brbaI",
+    "english": [
+      "suffer"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "emotion",
+    "ids_chapter": "emotion",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "nu",
+        "kol"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "nūkol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "nukol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "nokol",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "nogol",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "NŪ",
+          "gloss": "down, under",
+          "type": "root"
+        },
+        {
+          "form": "KOL",
+          "gloss": "bear, carry, wear",
+          "type": "root"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=nu%3A.kol&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&mb=19JASGR%3A0"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to suffer",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Neologism based on Latin \"sufferre\", \"under-bear\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "3C45D7AA-0908-428F-A885-657D3E5A2AE1",
+    "id": "erlu",
+    "mutation_marker": "",
+    "sindarin": "erlu",
+    "spellings": [],
+    "ipa": "'er.lu",
+    "tengwar": "",
+    "cirth": "zRaS",
+    "english": [
+      "once"
+    ],
+    "grammar": [
+      "adverb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "condition",
+    "ids_chapter": "condition",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1628059847",
+    "etymology": {
+      "root_refs": [
+        "er",
+        "lu"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "er",
+          "gloss": "one, alone",
+          "type": "adjective"
+        },
+        {
+          "form": "lû",
+          "gloss": "time",
+          "type": "noun"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/33"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "116E9C52-257B-4FF2-8C5D-B71F0C51053C",
+    "id": "raetha",
+    "mutation_marker": "",
+    "sindarin": "raetha-",
+    "spellings": [],
+    "ipa": "'rae.θa",
+    "tengwar": "",
+    "cirth": "Rcz0cI",
+    "english": [
+      "reach"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "direction",
+    "ids_chapter": "direction",
+    "type": "reconstructed",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "2330232291",
+    "etymology": {
+      "root_refs": [
+        "rak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "raktā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "rakta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "raktʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "raxθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "raiθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "941153689"
+        },
+        {
+          "form": "raeθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RAK",
+          "gloss": "stretch out, reach",
+          "type": "root"
+        },
+        {
+          "form": "-tā",
+          "gloss": "",
+          "type": "causative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=rak.ta%3A&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-19JASGR"
+    },
+    "cognates": {
+      "quenya": "rahta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to reach",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/65"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-13"
   }
 ]
