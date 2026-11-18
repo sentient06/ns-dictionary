@@ -37388,6 +37388,186 @@
     "last_modified": "2026-10-21"
   },
   {
+    "uuid": "3EA0102A-25F1-42DD-810A-682684E153F8",
+    "id": "iau",
+    "mutation_marker": "",
+    "sindarin": "iau",
+    "spellings": [],
+    "ipa": "jaw",
+    "tengwar": "",
+    "cirth": "$cS",
+    "english": [
+      "corn (grain)",
+      "grain"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "iau",
+      "singular": "",
+      "plural": "ioew"
+    },
+    "gender": "",
+    "category": "food",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "814201087",
+    "etymology": {
+      "root_refs": [
+        "yab"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "jābe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2858643115"
+        },
+        {
+          "form": "jǭbe",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1726791627"
+        },
+        {
+          "form": "jǭve",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "558704171"
+        },
+        {
+          "form": "jauve",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "jauv",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "70600889"
+        },
+        {
+          "form": "jau",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=ja%3Abe&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {
+      "quenya": "yáve"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "grain (barley, oats, etc); corn (any of various cereal plants, esp the predominant crop of a region)",
+    "ids_code": "8.420",
+    "conception": "Key-2016-1310-372",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "Ety/YAB",
+      "EtyAC/YAB"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-18"
+  },
+  {
+    "uuid": "8F58E068-8C0C-4113-B42C-C01815638B4F",
+    "id": "bloss",
+    "mutation_marker": "mb-",
+    "sindarin": "bloss",
+    "spellings": [],
+    "ipa": "blos",
+    "tengwar": "",
+    "cirth": "2abh",
+    "english": [
+      "wheat"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "bloss",
+      "singular": "",
+      "plural": "blyss"
+    },
+    "gender": "",
+    "category": "food",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3571755399",
+    "etymology": {
+      "root_refs": [
+        "mul"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "mluss",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1955360003"
+        },
+        {
+          "form": "bluss",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2740073851"
+        },
+        {
+          "form": "bloss",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=mluSS&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "8.430",
+    "conception": "Key-2016-1310-370",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/23"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-18"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -38540,6 +38720,144 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-21"
+  },
+  {
+    "uuid": "6AD1AAE0-2499-4459-B5E6-94C1B0F59F92",
+    "id": "rag",
+    "mutation_marker": "",
+    "sindarin": "rag-",
+    "spellings": [],
+    "ipa": "rag",
+    "tengwar": "",
+    "cirth": "RcrI",
+    "english": [
+      "break",
+      "burst"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3636684693",
+    "etymology": {
+      "root_refs": [
+        "rak"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "rac-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to break; to burst",
+    "ids_code": "9.260",
+    "conception": "Key-2016-1310-307",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/64"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-18"
+  },
+  {
+    "uuid": "B4C3207E-85A3-4B56-A7E6-201BA82C49D7",
+    "id": "thag",
+    "mutation_marker": "",
+    "sindarin": "thag-",
+    "spellings": [],
+    "ipa": "θag",
+    "tengwar": "",
+    "cirth": "0crI",
+    "english": [
+      "split"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Gilruin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "825473723",
+    "etymology": {
+      "root_refs": [
+        "stak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "stak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798037075"
+        },
+        {
+          "form": "sθak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3841187313"
+        },
+        {
+          "form": "θak",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "θag",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=stak&off=PE%2C4YMLLL%2CD4SY8V%2CHF6JVP%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-HF6JVP"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to split",
+    "ids_code": "9.270",
+    "conception": "Key-2016-1310-305",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-18"
   },
   {
     "uuid": "AA561654-F52C-4965-B58A-AF29172C4B62",
@@ -52305,8 +52623,8 @@
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "",
-    "ids_code": "20.222",
-    "conception": "Key-2016-1310-1230",
+    "ids_code": "9.250;20.222",
+    "conception": "Key-2016-1310-308;Key-2016-1310-1230",
     "longman": "false",
     "ref": "",
     "notes": "The etymology for this word is not clear. (But it's attested, so we go with it!)",
@@ -52314,7 +52632,7 @@
       "WJ/234"
     ],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-11-18"
   },
   {
     "uuid": "6AA6CBEC-FF7E-4C66-B00C-682EF1C505CD",
