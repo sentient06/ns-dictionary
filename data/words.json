@@ -39929,6 +39929,7 @@
     "tengwar": "",
     "cirth": "9SlcI",
     "english": [
+      "descend",
       "sink"
     ],
     "grammar": [
@@ -39987,7 +39988,7 @@
     "swadesh100": null,
     "swadesh207": null,
     "leipzig_jakarta": null,
-    "definition": "to sink",
+    "definition": "to descend, to sink",
     "ids_code": "10.330",
     "conception": "Key-2016-1310-240",
     "longman": "true",
@@ -39997,7 +39998,217 @@
       "PE13/151, 161"
     ],
     "hidden": "",
-    "last_modified": "2026-10-29"
+    "last_modified": "2026-11-18"
+  },
+  {
+    "uuid": "282A94A9-00C1-4476-B0F3-708C78547C66",
+    "id": "summa",
+    "mutation_marker": "",
+    "sindarin": "summa-",
+    "spellings": [],
+    "ipa": "'su.ma",
+    "tengwar": "",
+    "cirth": "fS66cI",
+    "english": [
+      "sink"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Hialmr",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "836866561",
+    "etymology": {
+      "root_refs": [
+        "sub"
+      ],
+      "primitive": {
+        "form": "sumbā-",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "sumbā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "sumba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "summa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=sumba%3A&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1P0F5YN%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-QCWW61"
+    },
+    "cognates": {
+      "quenya": "sumba-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 2,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to sink (into a liquid)",
+    "ids_code": "10.330",
+    "conception": "Key-2016-1310-240",
+    "longman": "true",
+    "ref": "",
+    "notes": "This is an existing neologism \"somma-\" initially suggested for the sense of \"to dive, to duck\". It was based on the root √SUB, meaning \"to sink (especially in water)\", and that root yielded some Quenya words like \"sumba-\", meaning \"to submerge\". I however, disagree on the meaning assigned to it, as Quenya clearly makes use of another root, √TUB, for the verb \"tumba-\", meaning \"to dive\". English has a similar ancestral word for \"dive\", \"dūfan\", which can mean both \"dive\" and \"sink\", but a different word \"sincan\", have developed into \"sink\". Not differently from English, Sindarin can emulate Quenya and make use of both roots, so I propose reassigning \"somma-\" to a verb meaning \"to sink\", and correct it to \"summa-\", since, as noted by Parmandil, a-affection doesn't occur in verbs and [u] is preserved before nasals. As for overlapping, summa- would be a more literal sense of sinking in a liquid, and duia- [nd-] would be a more general sense of descending, although both can be roughly synonymous. Yet the Sun can can \"duia-\", but not \"summa-\", and a rock can \"summa-\"\" or \"duia-\" into the water, or \"duia-\" into a pile of hay.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-18"
+  },
+  {
+    "uuid": "ED7C8717-25FB-4098-838B-3EBACD9D0A58",
+    "id": "tumma",
+    "mutation_marker": "",
+    "sindarin": "tumma-",
+    "spellings": [],
+    "ipa": "'tu.ma",
+    "tengwar": "",
+    "cirth": "8S66cI",
+    "english": [
+      "dive"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "tub"
+      ],
+      "primitive": {
+        "form": "tumbā-",
+        "eldamo_id": ""
+      },
+      "development": [
+        {
+          "form": "tumbā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "tumba",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "tumma",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=tumba%3A&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1P0F5YN%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-QCWW61"
+    },
+    "cognates": {
+      "quenya": "tumba-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 2,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to dive (into a liquid)",
+    "ids_code": "10.351",
+    "conception": "Key-2016-1310-237",
+    "longman": "true",
+    "ref": "",
+    "notes": "This is a neologism made to address the concept of \"to dive\" as opposed to \"to sink.\" \"Dive\" comes from \"dūfan\", which can mean both \"dive\" and \"sink\", but a different word \"sincan\", have developed into \"sink\". Another verb \"summa-\" has been proposed for \"to dive\" based on Middle PE root √SUB (to sink, especially in water), but I think it describes \"to sink\" better, and should be replaced with another root, √TUB, which explicitly includes the sense \"to dive\". In PE22/127, Tolkien gives √SUB, the past form sumbë, and the separate verb sumba \"to submerge\". These belong to a rejected page of the Quenya Verbal System from 1948, with sumba added in the margin. Eldamo accordingly labels the verb Middle Quenya. The Quenya sumba- probably developed from PE ✶sumbā-, which has a nassal infixion. Nasal infixion is a documented method of forming Elvish stems. What I have not found is an explicit explanation by Tolkien of its particular function in this verb. It seems logical, however, based on Quenya verb \"tumba-\", that nasal infixion occurred for that root as well. As for when that infixion happened, there is a particularly close precedent in Noldorin banga- \"trade\" and Quenya manca- \"trade\", both from √MBAKH \"exchange\", which suggests that the nasal infixion existed in the common ancestor of both languages. I therefore propose the verb tumma- to mean \"to dive\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-18"
+  },
+  {
+    "uuid": "D2962091-BC12-4271-B8E6-6A449A59FADD",
+    "id": "falaecha",
+    "mutation_marker": "",
+    "sindarin": "falaecha-",
+    "spellings": [],
+    "ipa": "'fa.lae.xa",
+    "tengwar": "",
+    "cirth": "3cacztcI",
+    "english": [
+      "splash"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "neologism",
+    "source": "Paul Strack",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3979618693",
+    "etymology": {
+      "root_refs": [
+        "phal"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "palasya-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to splash",
+    "ids_code": "10.352",
+    "conception": "Key-2016-1310-236",
+    "longman": "false",
+    "ref": "",
+    "notes": "Inspired by Q. palasya- \"splash, foam\"",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-18"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
