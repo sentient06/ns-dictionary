@@ -4938,14 +4938,14 @@
     "swadesh207": null,
     "leipzig_jakarta": null,
     "definition": "spouse (female), married woman",
-    "ids_code": "",
-    "conception": "",
+    "ids_code": "2.390",
+    "conception": "Key-2016-1310-873",
     "longman": "false",
     "ref": "",
     "notes": "",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-11-23"
   },
   {
     "uuid": "0D04C1A7-DF18-48D8-A309-94B2E7381FD2",
@@ -26344,6 +26344,61 @@
     "last_modified": "2026-09-30"
   },
   {
+    "uuid": "4840ED98-D64A-4D7D-BF1D-1B4338FCC23C",
+    "id": "gwing",
+    "mutation_marker": "",
+    "sindarin": "gwing",
+    "spellings": [],
+    "ipa": "gʷiŋg",
+    "tengwar": "",
+    "cirth": "olu",
+    "english": [
+      "foam",
+      "spindrift"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3531217223",
+    "etymology": {
+      "root_refs": [
+        "wig"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "vingë"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "foam, spindrift",
+    "ids_code": "1.324",
+    "conception": "Key-2016-1310-947",
+    "longman": "false",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "PM/376, 392",
+      "SA/wing"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-23"
+  },
+  {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
     "id": "taw",
     "mutation_marker": "",
@@ -30978,6 +31033,161 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-24"
+  },
+  {
+    "uuid": "D92585F8-A1F0-4CE4-B3B4-4E3BD9D5489D",
+    "id": "hesbinath",
+    "mutation_marker": "",
+    "sindarin": "hesbinath",
+    "spellings": [],
+    "ipa": "'hes.bi.naθ",
+    "tengwar": "",
+    "cirth": ".zf2l@c0",
+    "english": [
+      "eyelashes"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "hesbinath",
+      "singular": "hesbineg",
+      "plural": ""
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "khen",
+        "spinid"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰenspinattā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "kʰesspinattā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "kʰesspinatta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "kʰesspinattʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xesspinaθθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "xesspinaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hesspinaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "hespinaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "hespinaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "hespinaθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1759587217"
+        },
+        {
+          "form": "hesbinaθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "KHEN",
+          "gloss": "eye",
+          "type": "root"
+        },
+        {
+          "form": "SPIN",
+          "gloss": "filament",
+          "type": "root"
+        },
+        {
+          "form": "-ath",
+          "gloss": "",
+          "type": "class plural suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=%EA%9D%81en.spin.atta%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-JY12TH"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.214",
+    "conception": "Key-2016-1310-695",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism inspired by the slavic way of conceptualising eyelashes: Russian ресница, Polish rzęsa, and Czech řasa seem to combine the concept of \"fringe\" with \"eye\". Vasmer connects the words for eyelashes with cognates meaning fringe, stiff hair and the awn of an ear of grain. An \"eye-fringe\" is a reasonable semantic model. I then distinguished √SPIN from its extension √SPIN-ID. Tolkien glossed the shorter root with individual hairs and filaments, whereas the extended form specifically received \"lock, tress of human/elvish hair\" in PE17/119. For an eyelash, the shorter formation is sufficient, yielding a primitive noun ✶spini- \"thin thread\". With the root √KHEN attested as the basis of eye-words, and a class plural suffix, we end up with primitive kʰenspinattā, meaning \"eye-filaments\", which has a base form in the plural. A single eyelash can be \"hesbineg\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-23"
   },
   {
     "uuid": "3C139228-043D-40FF-9114-F7F34FBC6670",
@@ -42344,6 +42554,282 @@
     "last_modified": "2026-10-29"
   },
   {
+    "uuid": "86C3408D-58B6-482A-ADFE-A729E6E37E42",
+    "id": "lemmath",
+    "mutation_marker": "",
+    "sindarin": "lemmath",
+    "spellings": [],
+    "ipa": "'le.maθ",
+    "tengwar": "",
+    "cirth": "az66c0",
+    "english": [
+      "remains",
+      "left overs"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lemmath",
+      "singular": "lemmeg",
+      "plural": ""
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "spatial relations",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "lem"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lemmattʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "lemmattʰ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "lemmaθθ",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "lemmaθ",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "LEM",
+          "gloss": "stay, stick, adhere, remain, tarry",
+          "type": "root"
+        },
+        {
+          "form": "-ath",
+          "gloss": "",
+          "type": "class plural suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=lemmat%C5%A7a&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1P0F5YN%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-1P0F5YN"
+    },
+    "cognates": {
+      "quenya": "lemmë"
+    },
+    "conjugation": null,
+    "confidence": 2,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "remains, left overs",
+    "ids_code": "12.170",
+    "conception": "Key-2016-1310-114",
+    "longman": "false",
+    "ref": "",
+    "notes": "Old French remanoir from Latin remanere; French reste from Latin restare; Russian остатки; and Neo-Quenya lemmë, which in turn derives from √LEM. As a direct derivation *levn* would result in a collision with \"sheaf, bundle\", and as the word is used in its plural form in many languages, I've decided to use the class plural lemmath. The [mm] is preserved based on the word \"sammath\". As the base form is plural, the derived singular uses -eg, the diminutive/singular ending: lemmeg. It could in theory be pluralised to \"lemmig\", meaning several individual remnants, but I don't think that warrants a separate entry.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-23"
+  },
+  {
+    "uuid": "D02AB188-8EE1-476D-94B4-B8D870E9D2A6",
+    "id": "lemmen",
+    "mutation_marker": "",
+    "sindarin": "lemmen",
+    "spellings": [],
+    "ipa": "'le.men",
+    "tengwar": "",
+    "cirth": "az66z@",
+    "english": [
+      "residual",
+      "remainder"
+    ],
+    "grammar": [
+      "adjective"
+    ],
+    "inflection": {
+      "base": "lemmen",
+      "singular": "",
+      "plural": "lemmin"
+    },
+    "gender": "",
+    "category": "traits",
+    "ids_chapter": "traits",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "lem"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "lemminā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "lemmina",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "lemmena",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "lemmen",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "LEM",
+          "gloss": "stay, stick, adhere, remain, tarry",
+          "type": "root"
+        },
+        {
+          "form": "-inā",
+          "gloss": "",
+          "type": "adjectival suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=lemmina%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1P0F5YN%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-1P0F5YN"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 2,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "residual; remainder",
+    "ids_code": "",
+    "conception": "",
+    "longman": "false",
+    "ref": "",
+    "notes": "Compare to French \"restant\". Based on another neologism \"lemmath\" meaning \"remains, left overs\", this word uses the same base lemm- and the primitive adjectival suffix -inā.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-23"
+  },
+  {
+    "uuid": "10F29113-7B9D-4E74-8C2C-1D09173B03F2",
+    "id": "hosta",
+    "mutation_marker": "",
+    "sindarin": "hosta-",
+    "spellings": [],
+    "ipa": "'hos.ta",
+    "tengwar": "",
+    "cirth": ".bf8cI",
+    "english": [
+      "gather",
+      "collect"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1223381111",
+    "etymology": {
+      "root_refs": [
+        "khot"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kʰotta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2479050823"
+        },
+        {
+          "form": "kʰosta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "xosta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4287595571"
+        },
+        {
+          "form": "hosta",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=%EA%9D%81otta&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&on=14ZYNUV#rule-DGIAQL"
+    },
+    "cognates": {
+      "qunya": "hosta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to gather, collect",
+    "ids_code": "12.210",
+    "conception": "Key-2016-1310-113",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "GL/49"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-23"
+  },
+  {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
     "id": "dolla",
     "mutation_marker": "",
@@ -51354,7 +51840,7 @@
     "definition": "family, kindred, clan, house (dynastic); race, tribe, people",
     "ids_code": "19.230",
     "conception": "Key-2016-1310-1195",
-    "longman": "",
+    "longman": "maybe",
     "ref": "",
     "notes": "",
     "references": [
@@ -51362,7 +51848,7 @@
       "PM/320, 360"
     ],
     "hidden": "Longman has family, tribe, race and kind",
-    "last_modified": "2026-07-30"
+    "last_modified": "2026-11-23"
   },
   {
     "uuid": "5ADFAFCE-8A8A-4AFA-8867-1B45F0DE2D66",
@@ -57508,5 +57994,107 @@
     ],
     "hidden": "",
     "last_modified": "2026-11-13"
+  },
+  {
+    "uuid": "B9FD9032-9423-4195-BF33-E3BC0904FD3E",
+    "id": "nober",
+    "mutation_marker": "",
+    "sindarin": "nober",
+    "spellings": [],
+    "ipa": "'no.ber",
+    "tengwar": "",
+    "cirth": "@b2zR",
+    "english": [
+      "gender",
+      "sex (fact of life)"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "nober",
+      "singular": "",
+      "plural": "nebir"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "ono",
+        "per"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "noperē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "nopere",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "noper",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "nober",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "no-",
+          "gloss": "begetting, generation",
+          "type": "short form NO of √NŌ/ONO"
+        },
+        {
+          "form": "per-",
+          "gloss": "half, earlier \"divide in middle, halve\"",
+          "type": "prefix"
+        },
+        {
+          "form": "-ē",
+          "gloss": "",
+          "type": "primitive noun ending found in abstract and other nouns"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "noperë"
+    },
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "",
+    "conception": "",
+    "longman": "true",
+    "ref": "",
+    "notes": "Neologism based on Russian пол (pol) \"sex\", which provides a documented model: \"half → sex\". Shansky explains \"male sex\" and \"female sex\" as the male and female halves of humanity. This also supports the [disputed] division metaphor used in Latin sexus, \"commonly taken with seco as division or 'half' of the race\" [Tucker], which would connect it to secare \"to divide or cut\". Also derived Quenya word noperë.",
+    "references": [],
+    "hidden": "longman has \"sex\"",
+    "last_modified": "2026-11-23"
   }
 ]
