@@ -14764,9 +14764,9 @@
     "swadesh207": 120,
     "leipzig_jakarta": 20,
     "definition": "",
-    "ids_code": "",
-    "conception": "",
-    "longman": "",
+    "ids_code": "10.370",
+    "conception": "Key-2016-1310-234",
+    "longman": "true",
     "ref": "",
     "notes": "",
     "references": [
@@ -14774,7 +14774,7 @@
       "LT1A/Vilna"
     ],
     "hidden": "",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-11-25"
   },
   {
     "uuid": "8E7515CD-414B-4C42-8691-D11FF039BCFF",
@@ -31190,6 +31190,88 @@
     "last_modified": "2026-11-23"
   },
   {
+    "uuid": "BD1A30AE-787B-492E-B43D-08CC02DDA115",
+    "id": "titha",
+    "mutation_marker": "",
+    "sindarin": "títha-",
+    "spellings": [],
+    "ipa": "'tiːθa",
+    "tengwar": "",
+    "cirth": "8ll0cI",
+    "english": [
+      "blink",
+      "peer"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tikta",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "tiktʰa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "tixθa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "4002924749"
+        },
+        {
+          "form": "tīθa",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=tik.ta&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1U78KI5"
+    },
+    "cognates": {
+      "quenya": "tihta-"
+    },
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": 1,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to blink, to peer",
+    "ids_code": "4.215",
+    "conception": "Key-2016-1310-694",
+    "longman": "false",
+    "ref": "",
+    "notes": "Reverse-engineered from Quenya tihta-. The primitive could have been ✶tiktă-, using the regular Quenya development kt > [xt] (written ht). A documented parallel is ✶nuktā- → Q. nuhta- \"to stunt\". The final vowel can be long. I prefer short -tă only because Tolkien distinguished an intransitive verbal formative -tă from transitive/causative -tā, but ✶tiktā- should be perfectly possible.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-25"
+  },
+  {
     "uuid": "3C139228-043D-40FF-9114-F7F34FBC6670",
     "id": "irth",
     "mutation_marker": "",
@@ -33413,6 +33495,104 @@
     ],
     "hidden": "",
     "last_modified": "2026-11-05"
+  },
+  {
+    "uuid": "A3876176-CA59-4405-BBF0-6AD7DE8EA8E7",
+    "id": "brathu",
+    "mutation_marker": "",
+    "sindarin": "brathu",
+    "spellings": [],
+    "ipa": "'bra.θu",
+    "tengwar": "",
+    "cirth": "2Rc0S",
+    "english": [
+      "cooking pot"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "brathu",
+      "singular": "",
+      "plural": "brethy"
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "brath"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "bratʰmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3883770909"
+        },
+        {
+          "form": "bratʰwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "bratʰwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "braθwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "braθw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798091205"
+        },
+        {
+          "form": "braθu",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=bra%C5%A7.ma%3A&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D&mb=EM1Z87%3A0#rule-1S8AOT9"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "5.260",
+    "conception": "Key-2016-1310-553",
+    "longman": "maybe",
+    "ref": "",
+    "notes": "Neologism meaning \"cooking thing\", inspired by S. \"ylf\", meaning drinking vessel (drinking thing), from primitive yulmā.",
+    "references": [],
+    "hidden": "longman has pot and pan",
+    "last_modified": "2026-11-25"
   },
   {
     "uuid": "519283EA-EBD1-49B1-AA5F-95BBFE3FC8B3",
@@ -36185,6 +36365,73 @@
     "last_modified": "2026-10-21"
   },
   {
+    "uuid": "C33E9356-3820-4B73-A2B3-7A45BB410EB8",
+    "id": "ruist",
+    "mutation_marker": "",
+    "sindarin": "ruist",
+    "spellings": [],
+    "ipa": "rujst",
+    "tengwar": "",
+    "cirth": "RSlf8",
+    "english": [
+      "fireplace",
+      "hearth"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "the house",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1403666717",
+    "etymology": {
+      "root_refs": [
+        "ruy"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ruiste",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "ruist",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=ruiste&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1S8AOT9"
+    },
+    "cognates": {
+      "quenya": "ruimen"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "fireplace, hearth",
+    "ids_code": "7.310",
+    "conception": "Key-2016-1310-418",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "PE17/183"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-25"
+  },
+  {
     "uuid": "EA4B2469-3314-485C-8CCB-241B7AAC608F",
     "id": "redhor",
     "mutation_marker": "",
@@ -37778,6 +38025,59 @@
     "last_modified": "2026-11-18"
   },
   {
+    "uuid": "73FF34CB-4048-45C7-BCF4-29C37196D7DE",
+    "id": "losc",
+    "mutation_marker": "",
+    "sindarin": "losc",
+    "spellings": [],
+    "ipa": "losk",
+    "tengwar": "",
+    "cirth": "abfe",
+    "english": [
+      "rye"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "losc",
+      "singular": "",
+      "plural": "lysc"
+    },
+    "gender": "",
+    "category": "food",
+    "ids_chapter": "agriculture and vegetation",
+    "type": "restored",
+    "source": "Gnomish",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "369111905",
+    "etymology": {
+      "root_refs": [],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "8.450",
+    "conception": "Key-2016-1310-369",
+    "longman": "false",
+    "ref": "",
+    "notes": "Unknown root",
+    "references": [
+      "GL/54"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-25"
+  },
+  {
     "uuid": "38F10636-EF83-4CDF-97F7-3B743C9A0ED9",
     "id": "car",
     "mutation_marker": "",
@@ -38870,7 +39170,9 @@
     "noldorin_form": "",
     "eldamo_id": "3354392581",
     "etymology": {
-      "root_refs": [],
+      "root_refs": [
+        "kir"
+      ],
       "primitive": null,
       "development": [
         {
@@ -38929,7 +39231,82 @@
     "notes": "Cognate of the 1969 Quenya word \"cirma\" to prevent collision between Noldoring \"sigil\" and Sindarin \"sigil\" meaning \"necklace\".",
     "references": [],
     "hidden": "",
-    "last_modified": "2026-10-21"
+    "last_modified": "2026-11-25"
+  },
+  {
+    "uuid": "E55E649D-BB0D-48A9-B08F-C69514A6EB1E",
+    "id": "cirad",
+    "mutation_marker": "",
+    "sindarin": "cirad",
+    "spellings": [],
+    "ipa": "'ki.raid",
+    "tengwar": "",
+    "cirth": "elRc9",
+    "english": [
+      "scissors",
+      "shears"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "cirad",
+      "singular": "",
+      "plural": "ciraid"
+    },
+    "gender": "",
+    "category": "tool",
+    "ids_chapter": "basic actions and technology",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "kir"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "kirata",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "kirat",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "kirad",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=kir.ata&off=PE%2C4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CQCWW61%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-W9STRH"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "scissors, shears",
+    "ids_code": "9.240",
+    "conception": "Key-2016-1310-310",
+    "longman": "true",
+    "ref": "",
+    "notes": "Neologism meaning a pair of knives, using an old dual formation, inspired by Old Czech nožě/nóžě, originally the dual of nóž, \"knife\"; and Old Russian ножици (nožici) (dual form suggested by O. N. Trubachev). The \"knife\" reference can be found in other Slavic languages like Polish (nóż - nożyce), Slovak (nôž - nožnice), Ukrainian (ніж - ножиці), and also Finnish sakset, plural of borrowed Swedish sax, from Germanic sahsą meaning \"knife\", and even Mandarin Chinese 剪刀 (jiǎndāo). The dual construction can be found in Hebrew מִסְפָּרַיִם (misparáyim) and Vedic Sanskrit भुरिज् (bhuríj), though without the sense of \"knives\".",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-25"
   },
   {
     "uuid": "6AD1AAE0-2499-4459-B5E6-94C1B0F59F92",
@@ -40419,6 +40796,103 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-11-18"
+  },
+  {
+    "uuid": "216D1324-7F2F-493D-BA50-F436FC1A8F18",
+    "id": "renia",
+    "mutation_marker": "",
+    "sindarin": "renia-",
+    "spellings": [],
+    "ipa": "'re.nja",
+    "tengwar": "",
+    "cirth": "Rz@lcI",
+    "english": [
+      "sail"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "motion",
+    "type": "reconstructed",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "429730693",
+    "etymology": {
+      "root_refs": [
+        "ram"
+      ],
+      "primitive": {
+        "form": "ramya-",
+        "eldamo_id": "794336979"
+      },
+      "development": [
+        {
+          "form": "ramja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1484184939"
+        },
+        {
+          "form": "ranja",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1679623085"
+        },
+        {
+          "form": "rania",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3958031275"
+        },
+        {
+          "form": "renia",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "RAM",
+          "gloss": "wing, fly",
+          "type": "root"
+        },
+        {
+          "form": "-ya",
+          "gloss": "",
+          "type": "formative suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=ramja&off=4YMLLL%2CD4SY8V%2CDGIAQL%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-OJN8FF"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "derived",
+      "irregular": false
+    },
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to sail",
+    "ids_code": "10.360",
+    "conception": "Key-2016-1310-235",
+    "longman": "maybe",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "Ety/RAM"
+    ],
+    "hidden": "Longman has \"sail\", not clear whether v or n",
+    "last_modified": "2026-11-25"
   },
   {
     "uuid": "378711CE-9344-44D7-879F-46682CDF82AA",
