@@ -26399,6 +26399,77 @@
     "last_modified": "2026-11-23"
   },
   {
+    "uuid": "604A5EAE-6E55-4B60-AFC2-997CB7D72B2C",
+    "id": "gaearon",
+    "mutation_marker": "",
+    "sindarin": "gaearon",
+    "spellings": [],
+    "ipa": "'gaja.ron",
+    "tengwar": "",
+    "cirth": "rczcRb@",
+    "english": [
+      "ocean"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gaearon",
+      "singular": "",
+      "plural": "gaeryn"
+    },
+    "gender": "",
+    "category": "geography",
+    "ids_chapter": "the physical world",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "891462027",
+    "etymology": {
+      "root_refs": [
+        "gayar"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "gaear",
+          "gloss": "sea",
+          "type": "noun"
+        },
+        {
+          "form": "-on",
+          "gloss": "augmentative suffix",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ëaren"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "ocean, (lit.) great sea",
+    "ids_code": "1.329",
+    "conception": "Key-2016-1310-946",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "LotR/238",
+      "PE17/27, 149",
+      "PM/348, 363",
+      "RGEO/63-65"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
     "uuid": "BF24F2EC-4AA0-4569-8D7F-1C74A67E28FB",
     "id": "taw",
     "mutation_marker": "",
@@ -27285,6 +27356,66 @@
     "references": [],
     "hidden": "Longman has \"parent\" in the singular, IDS has \"parents\" in the plural.",
     "last_modified": "2026-11-03"
+  },
+  {
+    "uuid": "CB8B3F26-15A1-476D-9098-4DFE34C39C35",
+    "id": "ion",
+    "mutation_marker": "",
+    "sindarin": "ion",
+    "spellings": [],
+    "ipa": "jon",
+    "tengwar": "",
+    "cirth": "$b@",
+    "english": [
+      "son"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "ion",
+      "singular": "",
+      "plural": "ionnath"
+    },
+    "gender": "",
+    "category": "people",
+    "ids_chapter": "kinship",
+    "type": "attested",
+    "source": "Tolkien",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "87992701",
+    "etymology": {
+      "root_refs": [
+        "yon"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "yondo"
+    },
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "son, male child",
+    "ids_code": "2.410",
+    "conception": "Key-2016-1310-872",
+    "longman": "true",
+    "ref": "",
+    "notes": "The dropping of final -d in this word is hard to explain. (Compare the word \"grond.\") Use class plural for this word.",
+    "references": [
+      "AotM/62",
+      "MR/373",
+      "SD/129",
+      "VT50/18"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-27"
   },
   {
     "uuid": "91850CD0-31CB-4BFF-B7A5-56D79165044B",
@@ -29033,7 +29164,7 @@
     "mutation_marker": "",
     "sindarin": "gwinaeg",
     "spellings": [],
-    "ipa": "gʷi.naeg",
+    "ipa": "'gʷi.naeg",
     "tengwar": "",
     "cirth": "ol@czr",
     "english": [
@@ -29114,7 +29245,7 @@
       "PE21/82"
     ],
     "hidden": "",
-    "last_modified": "2026-11-03"
+    "last_modified": "2026-11-27"
   },
   {
     "uuid": "E936E4F1-3327-42B5-AE87-69FA2F815152",
@@ -29452,6 +29583,315 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-28"
+  },
+  {
+    "uuid": "1869605B-51BB-4899-98E0-26D862C04806",
+    "id": "gwinroch",
+    "mutation_marker": "",
+    "sindarin": "gwinroch",
+    "spellings": [],
+    "ipa": "'gʷin.rox",
+    "tengwar": "",
+    "cirth": "ol@Rbt",
+    "english": [
+      "foal",
+      "colt"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "gwinroch",
+      "singular": "",
+      "plural": "gwinrych"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "win",
+        "rok"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "winirokkō",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "winirokko",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1683955225"
+        },
+        {
+          "form": "winirokkʰo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "winiroxxo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2002760597"
+        },
+        {
+          "form": "gwiniroxxo",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "gwiniroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2749565259"
+        },
+        {
+          "form": "gwinroxx",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1206014597"
+        },
+        {
+          "form": "gwinrox",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=wini.rokko%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1A7WZRV"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "foal, colt, (lit.) young horse",
+    "ids_code": "3.450",
+    "conception": "Key-2016-1310-794",
+    "longman": "false",
+    "ref": "",
+    "notes": "Most European words for foal and colt seem to be based on a sense of \"young animal\" from Proto-Germanic fulô or Latin pullus, and its Ancient Greek counterpart πῶλος (pôlos) or similar constructions. These are very conservative words and near-impossible to replicate in Eldarin. So I've used a simpler combination based on Japanese: 子馬 (kouma), consisting of: 子 (ko) \"child, young\" and 馬 (uma) \"horse.\" Other languages with a similar construction are Korean 망아지 (mangaji) \"young horse\"; Vietnamese ngựa con \"horse child\"; and Thai ลูกม้า (lûuk máa) also \"horse child.\"",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
+    "uuid": "0BD711E5-12B6-4B7D-96A1-CABB6A5D9247",
+    "id": "perlob",
+    "mutation_marker": "",
+    "sindarin": "perlob",
+    "spellings": [],
+    "ipa": "'per.lob",
+    "tengwar": "",
+    "cirth": "1zRab2",
+    "english": [
+      "ass",
+      "donkey"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "perlob",
+      "singular": "",
+      "plural": "perlyb"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "per",
+        "lop"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "perlopē",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "perlope",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "perlop",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "perlob",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=per.lope%3A&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-1A7WZRV"
+    },
+    "cognates": {
+      "quenya": "pellopë"
+    },
+    "conjugation": null,
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "ass, donkey, (lit.) half horse",
+    "ids_code": "3.460",
+    "conception": "Key-2016-1310-793",
+    "longman": "false",
+    "ref": "",
+    "notes": "Neologism based on Neo-Quenya pellopë, with the same construction. The words for ass/donkey in most languages have very obscure etymologies, sometimes relating to colour, size of ears or other untraceable, very conservative, ancient words. The Neo Quenya proposal is as good as any, and I think that this should be a very ancient word, so I just adapted it. Based on the assumption that √LOP might be specialised for heavier loping equines and √ROK is more specifically referred to a swift animals, √LOP seems more appropriate for describing a donkey. There is also an unusual historic Japanese word 兎馬 (usagiuma) meaning rabbit-horse (because of the ears); and because √LOP is used for rabbit words, I think that's an interesting coincidence that might be worth preserving.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
+    "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
+    "id": "pinagor",
+    "mutation_marker": "",
+    "sindarin": "pinagor",
+    "spellings": [],
+    "ipa": "'pi.na.gor",
+    "tengwar": "",
+    "cirth": "1l@crbR",
+    "english": [
+      "ant"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "pinagor",
+      "singular": "",
+      "plural": "pinegyr"
+    },
+    "gender": "",
+    "category": "animals",
+    "ids_chapter": "animals",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "pin",
+        "nak"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "pinakro",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2794740763"
+        },
+        {
+          "form": "pinakr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "penakr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "penagr",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1942165347"
+        },
+        {
+          "form": "penagor",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [
+        {
+          "form": "PI",
+          "gloss": "small",
+          "type": "root"
+        },
+        {
+          "form": "NAK",
+          "gloss": "bite",
+          "type": "root"
+        },
+        {
+          "form": "-ro",
+          "gloss": "old agental formation",
+          "type": "suffix"
+        }
+      ],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pinakro&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 2,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": 71,
+    "definition": "ant, (lit.) \"small biter\"",
+    "ids_code": "3.817",
+    "conception": "Key-2016-1310-743",
+    "longman": "true",
+    "ref": "",
+    "notes": "Ant is a remarkably conservative word. Germanic languages seem to inherit the word from PIE meaning \"the biter-off\". This is the only descriptive word for \"ant\" that I could find, so I've decided to copy the metaphor by using √PI \"small\" and coining a \"biter\" with √NAK \"bite\" and -ro.",
+    "references": [],
+    "hidden": "\"ant\" - 2 votes",
+    "last_modified": "2026-11-27"
   },
   {
     "uuid": "D30CB7AA-25C3-4B31-9578-4708A9938A17",
@@ -31538,6 +31978,127 @@
     "last_modified": "2026-10-20"
   },
   {
+    "uuid": "92FA57BF-78AD-4A86-9272-6A163918D789",
+    "id": "lhunc",
+    "mutation_marker": "",
+    "sindarin": "lhunc",
+    "spellings": [],
+    "ipa": "l̥unk",
+    "tengwar": "",
+    "cirth": "sSue",
+    "english": [
+      "throat",
+      "pharynx",
+      "gullet"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "lhunc",
+      "singular": "",
+      "plural": "lhync"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "neologism",
+    "source": "Paul Strack & Ygrain",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3243414623",
+    "etymology": {
+      "root_refs": [
+        "sluk"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": 4,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "throat, pharynx, gullet",
+    "ids_code": "4.290",
+    "conception": "Key-2016-1310-678",
+    "longman": "true",
+    "ref": "",
+    "notes": "The phonology is not clear.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
+    "uuid": "1FC41FBF-E84D-468E-9CCA-312C909FBB14",
+    "id": "amoth",
+    "mutation_marker": "",
+    "sindarin": "amoth",
+    "spellings": [],
+    "ipa": "'a.moθ",
+    "tengwar": "",
+    "cirth": "c6b0",
+    "english": [
+      "shoulder"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "amoth",
+      "singular": "",
+      "plural": "emyth"
+    },
+    "gender": "",
+    "category": "body",
+    "ids_chapter": "the body",
+    "type": "restored",
+    "source": "Noldorin",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "3145630773",
+    "etymology": {
+      "root_refs": [
+        "am"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [
+        {
+          "form": "AM",
+          "gloss": "go up",
+          "type": "root"
+        },
+        {
+          "form": "-oth",
+          "gloss": "",
+          "type": "augmentative"
+        }
+      ],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {},
+    "conjugation": null,
+    "confidence": null,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "4.300",
+    "conception": "Key-2016-1310-677",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [
+      "PE13/137, 139, 159"
+    ],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
     "uuid": "FFE4A8CE-B35F-4C7B-A2FC-25E48C6AAE3C",
     "id": "tyg",
     "mutation_marker": "",
@@ -33595,6 +34156,122 @@
     "last_modified": "2026-11-25"
   },
   {
+    "uuid": "CE5D50E2-B46D-451F-8E1A-04275DC4C6C0",
+    "id": "sethu",
+    "mutation_marker": "",
+    "sindarin": "sethu",
+    "spellings": [],
+    "ipa": "'se.θu",
+    "tengwar": "",
+    "cirth": "fz0S",
+    "english": [
+      "pan"
+    ],
+    "grammar": [
+      "noun"
+    ],
+    "inflection": {
+      "base": "sethu",
+      "singular": "",
+      "plural": "sethy"
+    },
+    "gender": "",
+    "category": "thing",
+    "ids_chapter": "food and drink",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "thith"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "tʰitʰmā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3883770909"
+        },
+        {
+          "form": "tʰitʰwā",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2753394075"
+        },
+        {
+          "form": "tʰitʰwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "883570327"
+        },
+        {
+          "form": "θiθwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1593810649"
+        },
+        {
+          "form": "θeθwa",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "813787869"
+        },
+        {
+          "form": "θeθw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2090293737"
+        },
+        {
+          "form": "seθw",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "798091205"
+        },
+        {
+          "form": "seθu",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "sitwa"
+    },
+    "conjugation": null,
+    "confidence": 3,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "",
+    "ids_code": "5.280",
+    "conception": "Key-2016-1310-552",
+    "longman": "true",
+    "ref": "",
+    "notes": "Neologism meaning \"singe thing\", based on similar word for \"cooking pot\" and its Neo-Quenya cognate \"sitwa\". The phonetics include a dissimilation of the first θ, while ignoring the second one, as suggested by Ellanto.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
     "uuid": "519283EA-EBD1-49B1-AA5F-95BBFE3FC8B3",
     "id": "mol",
     "mutation_marker": "",
@@ -34918,6 +35595,60 @@
     "last_modified": "2026-11-05"
   },
   {
+    "uuid": "661CFC1D-8193-4108-97AF-1DFB9C9AE873",
+    "id": "ther",
+    "mutation_marker": "",
+    "sindarin": "ther-",
+    "spellings": [],
+    "ipa": "θer",
+    "tengwar": "",
+    "cirth": "0zRI",
+    "english": [
+      "sew"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "activities",
+    "ids_chapter": "clothing and grooming",
+    "type": "neologism",
+    "source": "Fiona Jallings",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "1993133837",
+    "etymology": {
+      "root_refs": [
+        "ther"
+      ],
+      "primitive": null,
+      "development": [],
+      "elements": [],
+      "quettamorphosis_url": ""
+    },
+    "cognates": {
+      "quenya": "ser-"
+    },
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 5,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to sew",
+    "ids_code": "6.350",
+    "conception": "Key-2016-1310-479",
+    "longman": "true",
+    "ref": "",
+    "notes": "",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-27"
+  },
+  {
     "uuid": "CFB3339E-CFCF-4384-9BB6-7E3E72102FF6",
     "id": "bar-verb",
     "mutation_marker": "mb-",
@@ -35174,14 +35905,14 @@
     "definition": "",
     "ids_code": "",
     "conception": "",
-    "longman": "",
+    "longman": "false",
     "ref": "",
     "notes": "",
     "references": [
       "GL/71"
     ],
     "hidden": "",
-    "last_modified": "2026-07-20"
+    "last_modified": "2026-11-27"
   },
   {
     "uuid": "270E5FAB-A3EF-4A2D-B7BB-5DBB25E4FDEE",
@@ -43302,6 +44033,105 @@
     ],
     "hidden": "",
     "last_modified": "2026-11-23"
+  },
+  {
+    "uuid": "3FB1587D-9002-4C39-8EEC-7AFCC3DE27AA",
+    "id": "avnab",
+    "mutation_marker": "",
+    "sindarin": "avnab-",
+    "spellings": [],
+    "ipa": "'av.nab",
+    "tengwar": "",
+    "cirth": "c4@c2I",
+    "english": [
+      "pick up",
+      "lift"
+    ],
+    "grammar": [
+      "verb"
+    ],
+    "inflection": null,
+    "gender": "",
+    "category": "actions",
+    "ids_chapter": "spatial relations",
+    "type": "neologism",
+    "source": "Celephinnel",
+    "status": "",
+    "noldorin_form": "",
+    "eldamo_id": "",
+    "etymology": {
+      "root_refs": [
+        "am",
+        "nap"
+      ],
+      "primitive": null,
+      "development": [
+        {
+          "form": "ambnap",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "2240258959"
+        },
+        {
+          "form": "ambnab",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "868023175"
+        },
+        {
+          "form": "ammnab",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "3868328117"
+        },
+        {
+          "form": "amnab",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": ""
+        },
+        {
+          "form": "amnab",
+          "eldamo_id": ""
+        },
+        {
+          "rule": ">",
+          "eldamo_id": "1951379117"
+        },
+        {
+          "form": "avnab",
+          "eldamo_id": ""
+        }
+      ],
+      "elements": [],
+      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/index.html?s=&i=amb.nap&off=PE%2C4YMLLL%2CD4SY8V%2CDGIAQL%2CG8C37D%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1A7WZRV%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1X9M9DD%2C1XN4L2D&on=1RZ3P2T#rule-ECSQYV"
+    },
+    "cognates": {},
+    "conjugation": {
+      "class": "basic",
+      "irregular": false
+    },
+    "confidence": 0,
+    "swadesh100": null,
+    "swadesh207": null,
+    "leipzig_jakarta": null,
+    "definition": "to pick something up, to lift something",
+    "ids_code": "12.212",
+    "conception": "Key-2016-1310-112",
+    "longman": "false",
+    "ref": "",
+    "notes": "This neologism is a rather complicated one to explain. The verb \"to pick up\" is in the Intercontinental Dictionary Series, but there are about 6 different concepts that can be connected to it. These are: to take possession of something, to lift an object physically, to bring scattered things together, to accumulate things over time, to select objects individually, and to assemble people. To pick up, in English, involves Old English pician and Old Norse pikka, both associated with pricking or pecking, which translates roughly to take something with the fingers and lift it. But the words in Neo-Sindarin for lifting something typically mean to put big things in a vertical position, rather than carrying them. So I based this verb on Russian подбирать (podbirátʹ) roughly meaning up + take and German aufsammeln, meaning up + gather. In Eldarin there is a root that closely resembles the English sense: √NAP means \"to take, take hold, pick up, grasp, and seize quickly, with fingers.\" But the Sindarin verb nab- already means \"take, lay hold\", so I've added the prefix \"am-\" to mean \"take up, pick up\". To make this older formation, I think that the [m] would become a [v] before [n]. There are not many occurrences of this consonantal encounter in Sindarin, but there are a couple in Noldorin that might justify it. Because of the assumptions made and the complex construction, I don't expect this neologism to be too popular among reviewers, but I stand by its logic regardless.",
+    "references": [],
+    "hidden": "",
+    "last_modified": "2026-11-27"
   },
   {
     "uuid": "EE8AD4D0-44CD-401F-90E7-98E7B28CDA17",
@@ -56855,113 +57685,6 @@
     "references": [],
     "hidden": "",
     "last_modified": "2026-10-11"
-  },
-  {
-    "uuid": "254FD266-7C83-4945-BA24-8DA721466AC1",
-    "id": "pinagor",
-    "mutation_marker": "",
-    "sindarin": "pinagor",
-    "spellings": [],
-    "ipa": "'pi.na.gor",
-    "tengwar": "",
-    "cirth": "1l@crbR",
-    "english": [
-      "ant"
-    ],
-    "grammar": [
-      "noun"
-    ],
-    "inflection": {
-      "base": "pinagor",
-      "singular": "",
-      "plural": "pinegyr"
-    },
-    "gender": "",
-    "category": "animals",
-    "ids_chapter": "animals",
-    "type": "neologism",
-    "source": "Celephinnel",
-    "status": "",
-    "noldorin_form": "",
-    "eldamo_id": "",
-    "etymology": {
-      "root_refs": [
-        "pin",
-        "nak"
-      ],
-      "primitive": null,
-      "development": [
-        {
-          "form": "pinakro",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2794740763"
-        },
-        {
-          "form": "pinakr",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1593810649"
-        },
-        {
-          "form": "penakr",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "2240258959"
-        },
-        {
-          "form": "penagr",
-          "eldamo_id": ""
-        },
-        {
-          "rule": ">",
-          "eldamo_id": "1942165347"
-        },
-        {
-          "form": "penagor",
-          "eldamo_id": ""
-        }
-      ],
-      "elements": [
-        {
-          "form": "PI",
-          "gloss": "small",
-          "type": "root"
-        },
-        {
-          "form": "NAK",
-          "gloss": "bite",
-          "type": "root"
-        },
-        {
-          "form": "-ro",
-          "gloss": "old agental formation",
-          "type": "suffix"
-        }
-      ],
-      "quettamorphosis_url": "https://quettamorphosis.elvish.nz/?s=&i=pinakro&off=4YMLLL%2CD4SY8V%2CLB2XLT%2CPCIKVX%2CT2LWVF%2CT65GEJ%2CTK6XCF%2C14ZYNUV%2C16HSN5B%2C1DM4ETD%2C1DM4ETE%2C1HVL2UT%2C1RZ3P2T%2C1X9M9DD%2C1XN4L2D#rule-QCWW61"
-    },
-    "cognates": {},
-    "conjugation": null,
-    "confidence": 2,
-    "swadesh100": null,
-    "swadesh207": null,
-    "leipzig_jakarta": 71,
-    "definition": "ant, (lit.) \"small biter\"",
-    "ids_code": "",
-    "conception": "",
-    "longman": "true",
-    "ref": "",
-    "notes": "Ant is a remarkably conservative word. Germanic languages seem to inherit the word from PIE meaning \"the biter-off\". This is the only descriptive word for \"ant\" that I could find, so I've decided to copy the metaphor by using √PI \"small\" and coining a \"biter\" with √NAK \"bite\" and -ro.",
-    "references": [],
-    "hidden": "\"ant\", not on IDS - 2 votes",
-    "last_modified": "2026-10-14"
   },
   {
     "uuid": "9A7D9CB9-CC8A-4F61-BEF4-96CDF0AC93E0",
