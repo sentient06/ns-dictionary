@@ -6936,7 +6936,7 @@
     "eldamo_id": "2207058047",
     "etymology": {
       "root_refs": [
-        "ewe"
+        "ewel"
       ],
       "primitive": {
         "form": "ewlē",
@@ -7009,7 +7009,7 @@
       "GL/51"
     ],
     "hidden": "",
-    "last_modified": "2026-10-28"
+    "last_modified": "2026-11-28"
   },
   {
     "uuid": "66949AFD-F68A-445F-9666-54CE75483619",
@@ -7037,7 +7037,7 @@
     "eldamo_id": "1926942351",
     "etymology": {
       "root_refs": [
-        "ewe"
+        "wewe"
       ],
       "primitive": {
         "form": "wegtē",
@@ -7145,7 +7145,7 @@
       "Let/224"
     ],
     "hidden": "Unkown suffix -tē",
-    "last_modified": "2026-08-14"
+    "last_modified": "2026-11-28"
   },
   {
     "uuid": "D3E32838-5E83-40A1-834C-D000191DAB82",
